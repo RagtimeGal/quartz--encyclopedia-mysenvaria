@@ -9,17 +9,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-
-> [!warning]
-> This page is a Template. This block, and others like it in the page, should be removed. Tags, page name, TOC, and others should be modified as necessary.
-
-
-# Etymology
-
-> [!note]
-> Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
-
-
+Stars can be seen from every corner of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], massive heaven-bound objects which float above the world. Stars are the most pure form of written [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]], sent to the heavens by [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]] for many reasons. Because they are God Tongue anything written across them either be true or become true. 
 # History
 
 # Stuff Here

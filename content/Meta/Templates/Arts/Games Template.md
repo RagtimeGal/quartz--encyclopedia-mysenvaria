@@ -1,8 +1,8 @@
 ---
-title: Sports Template
+title: Games Template
 enableToc: true
 tags:
-- art/sports
+- art/games
 - stub/template
 ---
 

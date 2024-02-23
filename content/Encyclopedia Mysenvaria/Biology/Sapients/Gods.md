@@ -2,7 +2,7 @@
 title: Gods
 enableToc: true
 tags:
-- biology/sapients
+- biology/sapient
 - god
 ---
 

@@ -114,7 +114,7 @@
     <event>
       <start>69</start>
       <end>69</end>
-      <text>Birdfolk are Created</text>
+      <text>Harpies are Created</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>True</fuzzy_start>
@@ -122,7 +122,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Science &amp; Magic</category>
-      <description>Birdfolk are created at a time around this. It is unknown how they were created but it is theorized to either have been Elven or Human Wizards.</description>
+      <description>Harpies are created at a time around this. It is unknown how they were created but it is theorized to either have been Elven or Human Wizards.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -660,8 +660,8 @@
   </events>
   <view>
     <displayed_period>
-      <start>207</start>
-      <end>540</end>
+      <start>-8</start>
+      <end>107</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>

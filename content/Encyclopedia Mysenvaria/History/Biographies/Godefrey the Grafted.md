@@ -1,5 +1,5 @@
 ---
-title: Godwfrey the Grafted
+title: Godefrey the Grafted
 enableToc: true
 tags:
 - history/biography
