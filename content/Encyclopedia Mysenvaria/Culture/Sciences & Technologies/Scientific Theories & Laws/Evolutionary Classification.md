@@ -26,7 +26,7 @@ Taxa1-->Taxa12[Seed Producing]
 Taxa12-->Taxa121[Flowering]
 Taxa12-->Taxa122[Sporebearing]
 ```
-Classification of animals however is widely considered to be much more complex. As opposed to plants, in animal groups any form of locomotion may not be intrinsically tied to form of reproduction. Body plans may give rise to any form of reproduction or locomotion, and vice versa. Because of the muddled conceptual links between these ideas there is a great debate amongst scientists as to how exactly animal groups should be organized. Two primary taxonomic organizations have arisen for animals within evolutionary classification.
+Classification of animals however is widely considered to be much more complex. As opposed to plants, in animal groups any form of locomotion may not be intrinsically tied to form of reproduction. Body plans may give rise to any form of reproduction or locomotion, and vice versa. Because of the muddled conceptual links between these ideas there is a great debate amongst scientists as to how exactly animal groups should be organized. Three primary taxonomic organizations have arisen for animals within evolutionary classification.
 
 The first, originally proposed by [[Encyclopedia Mysenvaria/History/Biographies/Jack Horner|Jack Horner]], is based upon the original idea of tri-criterial classification. Horner proposed that the number of limbs used by an organism to move itself is more important than the general body plan of the organism. Using the locomotive groups set forward by tri-criterial classification Horner divided animals into 4 groups based off of how many limbs they use to propel themselves and then further divided those groups into body plan. Because of the way the system works body plans repeat themselves across different locomotive groups.
 
@@ -78,6 +78,31 @@ Taxa2-->Taxa26[Insect]
 Taxa26-->Taxa261[Winged]
 Taxa26-->Taxa262[Wingless]
 ```
+The third is the most widely recognized, proposed by [[Encyclopedia Mysenvaria/History/Biographies/Jane Goodall|Jane Goodall]], it is based on method of transportation rather than number of limbs. Goodall says that Gods would not care for either Darwin's or Horner's proposals, and that instead the overall version of mobility would be a Gods main focus. Goodall proposed that avian flight is not a product of their bipedalism, but that their bipedalism is instead a byproduct of their powered flight.
+```mermaid
+graph LR
+Taxa[Autonomous Work]
+Taxa-->Taxa1[Mobility]
+Taxa1-->Taxa11[Slithering]
+Taxa11-->Taxa111[Ribstriders]
+Taxa11-->Taxa112[Worms]
+Taxa11-->Taxa113[Slug]
+Taxa1-->Taxa12[Walking]
+Taxa12-->Taxa121[Quadruped]
+Taxa12-->Taxa122[Biped]
+Taxa12-->Taxa123[Scuttling]
+Taxa1-->Taxa13[Avian]
+Taxa13-->Taxa131[Feathered]
+Taxa13-->Taxa132[Leathered]
+Taxa13-->Taxa133[Chitinous]
+Taxa1-->Taxa15[Burrowing]
+Taxa15-->Taxa151[Terrestrial]
+Taxa15-->Taxa152[Aquatic]
+Taxa1-->Taxa16[Swimming]
+Taxa16-->Taxa161[Eel]
+Taxa16-->Taxa162[Fish]
+```
+Goodall's recent proposal has not yet reached the same widespread approval and acknowledgement as Darwin's classification. Despite this, however, many well-known and academically acclaimed taxonomists and biologists have been moving to Goodall's system.
 # Significance
 
 # See Also
