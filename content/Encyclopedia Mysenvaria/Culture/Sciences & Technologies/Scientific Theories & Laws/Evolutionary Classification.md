@@ -26,83 +26,34 @@ Taxa1-->Taxa12[Seed Producing]
 Taxa12-->Taxa121[Flowering]
 Taxa12-->Taxa122[Sporebearing]
 ```
-Classification of animals however is widely considered to be much more complex. As opposed to plants, in animal groups any form of locomotion may not be intrinsically tied to form of reproduction. Body plans may give rise to any form of reproduction or locomotion, and vice versa. Because of the muddled conceptual links between these ideas there is a great debate amongst scientists as to how exactly animal groups should be organized. Three primary taxonomic organizations have arisen for animals within evolutionary classification.
+## Hornerian Classification
+Classification of animals however is widely considered to be much more complex. As opposed to plants, in animal groups any form of locomotion may not be intrinsically tied to form of reproduction. Body plans may give rise to any form of reproduction or locomotion, and vice versa. Because of the muddled conceptual links between these ideas there is a great debate amongst scientists as to how exactly animal groups should be organized. Two primary taxonomic organizations have arisen for animals within evolutionary classification.
 
-The first, originally proposed by [[Encyclopedia Mysenvaria/History/Biographies/Jack Horner|Jack Horner]], is based upon the original idea of tri-criterial classification. Horner proposed that the number of limbs used by an organism to move itself is more important than the general body plan of the organism. Using the locomotive groups set forward by tri-criterial classification Horner divided animals into 4 groups based off of how many limbs they use to propel themselves and then further divided those groups into body plan. Because of the way the system works body plans repeat themselves across different locomotive groups.
+The first, originally proposed by [[Encyclopedia Mysenvaria/History/Biographies/Jack Horner|Jack Horner]], is based upon the original idea of tri-criterial classification. [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Hornerian Classification|Hornerian classification]] proposes that the number of limbs used by an organism to move itself is more important than the general body plan of the organism. Horner believed that the Gods created animals with the greater concept of autonomous work by means of powered and sustained locomotion. Horner believed this idea of locomotion would give way to thought on number of limbs before it would give way to thought of body plan. Hornerian thinking poses that despite similarities in general characteristics any animal which has a certain number limbs must not be significantly conceptually related to any other animal which does not have the same number of limbs.
 
-Horner believed that the Gods created animals with the greater concept of autonomous work by means of powered and sustained locomotion. This idea would end up giving way to the thought of number of limbs before it would give way to the thought of body plan.
+Horner, using the [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Body Plan|body plan]] criteria of tri-criterial classification would divide animals into 4 groups. The quadrupeds, which use four limbs for locomotion, bipeds which use two, serpents which use none, and scuttlers which use five or more.
 ```mermaid
 graph LR
 Taxa[Autonomous Work]
 Taxa-->Taxa2[Mobility]
 Taxa2-->Taxa21[Quadruped]
-Taxa21-->Taxa211[Mammal]
-Taxa21-->Taxa212[Reptile]
-Taxa21-->Taxa213[Slug]
 Taxa2-->Taxa22[Biped]
-Taxa22-->Taxa221[Ave]
-Taxa22-->Taxa222[Mammal]
-Taxa22-->Taxa223[Reptile]
-Taxa22-->Taxa224[Fish]
 Taxa2-->Taxa23[Serpentine]
-Taxa23-->Taxa231[Worm]
-Taxa23-->Taxa232[Slug]
-Taxa23-->Taxa233[Mollusk]
-Taxa23-->Taxa234[Fish]
 Taxa2-->Taxa24[Scuttler]
-Taxa24-->Taxa241[Insect]
-Taxa24-->Taxa243[Cephalopod]
 ```
-The second form of organizing animals, proposed by [[Encyclopedia Mysenvaria/History/Biographies/Charles Darwin|Charles Darwin]], is instead based around the idea that the general body plan of an animal is of more significance than the actual number of limbs used for locomotion. Instead of grouping animals by number of limbs Darwin's classification system groups them by the style of locomotion. Darwin criticized Horner's view of the Gods, claiming that such rigid classifications based on number of limbs are not Godly and instead it is the greater picture that must be considered.
+## Darwinian Classification
+Hornerian classification never gained widespread appeal, instead it would become the fundamental foundation of a theory later proposed by [[Encyclopedia Mysenvaria/History/Biographies/Charles Darwin|Charles Darwin]]. [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Darwinian Classification|Darwinian classification]] believes that the Gods would not care for such external features as number of limbs and that conceptually animals are linked by their internals and general functioning. Darwin classified animals by similarity in internal composition and function, splitting animals into 6 groups; Mammals which consists of animals with mammary glands, reptiles whom cannot control their own body temperature, fish which always inhabit the water, aves which consist of feather-covered beaked animals, vermin consisting of , and insects consisting of animals with external skeletal shells.
 ```mermaid
 graph LR
 Taxa[Autonomous Work]
 Taxa-->Taxa2[Mobility]
 Taxa2-->Taxa21[Mammal]
-Taxa21-->Taxa211[Horizontal]
-Taxa21-->Taxa212[Upright]
 Taxa2-->Taxa22[Reptile]
-Taxa22-->Taxa221[Quadrupedal]
-Taxa22-->Taxa222[Bipedal]
-Taxa2-->Taxa23[Newt]
-Taxa23-->Taxa231[Slug]
-Taxa23-->Taxa233[Salamander]
-Taxa2-->Taxa24[Ave]
-Taxa24-->Taxa241[Flight Capable]
-Taxa24-->Taxa242[Flightless]
-Taxa2-->Taxa25[Serpent]
-Taxa25-->Taxa251[Worm]
-Taxa25-->Taxa252[Fish]
-Taxa25-->Taxa253[Mollusk]
+Taxa2-->Taxa23[Fish]
+Taxa2-->Taxa24[Avian]
+Taxa2-->Taxa25[Vermen]
 Taxa2-->Taxa26[Insect]
-Taxa26-->Taxa261[Winged]
-Taxa26-->Taxa262[Wingless]
 ```
-The third is the most widely recognized, proposed by [[Encyclopedia Mysenvaria/History/Biographies/Jane Goodall|Jane Goodall]], it is based on method of transportation rather than number of limbs. Goodall says that Gods would not care for either Darwin's or Horner's proposals, and that instead the overall version of mobility would be a Gods main focus. Goodall proposed that avian flight is not a product of their bipedalism, but that their bipedalism is instead a byproduct of their powered flight.
-```mermaid
-graph LR
-Taxa[Autonomous Work]
-Taxa-->Taxa1[Mobility]
-Taxa1-->Taxa11[Slithering]
-Taxa11-->Taxa111[Ribstriders]
-Taxa11-->Taxa112[Worms]
-Taxa11-->Taxa113[Slug]
-Taxa1-->Taxa12[Walking]
-Taxa12-->Taxa121[Quadruped]
-Taxa12-->Taxa122[Biped]
-Taxa12-->Taxa123[Scuttling]
-Taxa1-->Taxa13[Avian]
-Taxa13-->Taxa131[Feathered]
-Taxa13-->Taxa132[Leathered]
-Taxa13-->Taxa133[Chitinous]
-Taxa1-->Taxa15[Burrowing]
-Taxa15-->Taxa151[Terrestrial]
-Taxa15-->Taxa152[Aquatic]
-Taxa1-->Taxa16[Swimming]
-Taxa16-->Taxa161[Eel]
-Taxa16-->Taxa162[Fish]
-```
-Goodall's recent proposal has not yet reached the same widespread approval and acknowledgement as Darwin's classification. Despite this, however, many well-known and academically acclaimed taxonomists and biologists have been moving to Goodall's system.
 # Significance
 
 # See Also
