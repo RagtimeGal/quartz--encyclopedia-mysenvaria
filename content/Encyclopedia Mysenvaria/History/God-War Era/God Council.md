@@ -9,7 +9,6 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-
 # First Council
 
 # Second Council

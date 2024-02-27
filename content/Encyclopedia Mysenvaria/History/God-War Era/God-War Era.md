@@ -2,7 +2,7 @@
 title: God-War Era
 enableToc: true
 tags:
-- history/god-war_era
+  - history/god-war_era
 ---
 
 The [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|God]]-War Era is the earliest era of history recorded by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]], often defined as being the time between the [[Encyclopedia Mysenvaria/History/God-War Era/First Death of a God|first death of a God]] and the signing of the [[Encyclopedia Mysenvaria/Geography/Astrography/Harmonic Treaty|Harmonic Treaty]]. It is often considered to be one of the most well-documented eras of history because of the [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|stars]] which document much of its events. More stars can be dated to the God-War than all the other eras combined. Most historians and scholars attribute the God-War with having been one of the most brutal and bloody periods of history, with estimates for deaths at the beginning of the God-War ranging in the billions.

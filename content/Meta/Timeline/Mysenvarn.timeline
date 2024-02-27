@@ -18,6 +18,14 @@
       <font_color>0,0,0</font_color>
     </category>
     <category>
+      <name>Southern Tearciv</name>
+      <color>64,0,128</color>
+      <progress_color>64,0,128</progress_color>
+      <done_color>64,0,128</done_color>
+      <font_color>0,0,0</font_color>
+      <parent>Culture &amp; Society</parent>
+    </category>
+    <category>
       <name>Science &amp; Magic</name>
       <color>0,255,255</color>
       <progress_color>128,255,255</progress_color>
@@ -50,7 +58,7 @@
     <event>
       <start>0</start>
       <end>0</end>
-      <text>[7]Test</text>
+      <text>[9]Test</text>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
       <fuzzy_end>False</fuzzy_end>
@@ -61,7 +69,7 @@
     <event>
       <start>0</start>
       <end>0</end>
-      <text>[8]The God War</text>
+      <text>[10]The God War</text>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
       <fuzzy_end>False</fuzzy_end>
@@ -109,20 +117,6 @@
       <ends_today>False</ends_today>
       <category>Culture &amp; Society</category>
       <description>Created as an alternative to Human units as a way to quickly traverse subterranean areas. They are gifted with a vast knowledge of geography and geoloy and are created with a respiratory system capable of combating the negative effects of Mages Lung.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>69</start>
-      <end>69</end>
-      <text>Harpies are Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>True</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Science &amp; Magic</category>
-      <description>Harpies are created at a time around this. It is unknown how they were created but it is theorized to either have been Elven or Human Wizards.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -660,8 +654,8 @@
   </events>
   <view>
     <displayed_period>
-      <start>-8</start>
-      <end>107</end>
+      <start>-83</start>
+      <end>137</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
