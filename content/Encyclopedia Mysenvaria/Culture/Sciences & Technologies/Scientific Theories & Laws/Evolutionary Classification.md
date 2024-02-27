@@ -13,7 +13,7 @@ Evolutionary classification is a system of [[Encyclopedia Mysenvaria/Culture/Sci
 # History
 
 # Taxa
-Evolutionary classification divides organisms into conceptual groups known as taxa. A taxon includes one or more populations of conceptually related organisms. There is a hierarchy of taxonomic ranks which taxa may be organized into based on conceptual importance. For instance, [[Encyclopedia Mysenvaria/Biology/Classifications/Plant|plants]] and [[Encyclopedia Mysenvaria/Biology/Classifications/Animal|animals]] are of highest conceptual importance since they are defined by an idea which permeates all other ranks; those ideas being sessile organisms for primarily defense, and mobile organisms for primarily offense.
+Evolutionary classification divides organisms into conceptual groups known as taxa. A taxon includes one or more populations of conceptually related organisms. There is a hierarchy of taxonomic ranks which taxa may be organized into based on conceptual importance. For instance, [[Encyclopedia Mysenvaria/Biology/Plant|plants]] and [[Encyclopedia Mysenvaria/Biology/Animal|animals]] are of highest conceptual importance since they are defined by an idea which permeates all other ranks; those ideas being sessile organisms for primarily defense, and mobile organisms for primarily offense.
 # Classification
 Classification of organisms into evolutionary taxa is an ongoing and widely debated topic amongst biologists and taxonomists across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Plants are generally agreed upon, their classification made simply by the fact that their methods of reproduction and locomotion are intrinsically tied, as opposed to in animals. Plants were originally created with the overarching concept of autonomous work, which gave rise to sessility, which would give rise to sessile organisms which could reproduce sexually and organisms which could reproduce asexually.
 ```mermaid
@@ -51,7 +51,7 @@ Taxa2-->Taxa21[Mammal]
 Taxa2-->Taxa22[Reptile]
 Taxa2-->Taxa23[Fish]
 Taxa2-->Taxa24[Avian]
-Taxa2-->Taxa25[Vermen]
+Taxa2-->Taxa25[Vermin]
 Taxa2-->Taxa26[Insect]
 ```
 # Significance

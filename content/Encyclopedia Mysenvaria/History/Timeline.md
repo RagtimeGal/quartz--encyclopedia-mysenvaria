@@ -12,7 +12,7 @@ tags:
 - 651bt: [[Encyclopedia Mysenvaria/History/God-War Era/First Death of a God|First God Dies]]
 - 587bt: [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater|Great Oceanic Crater Created]]
 - 527bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Council#First Council|First God Council Held]]
-- 523bt: [[Encyclopedia Mysenvaria/Biology/Classifications/Plant|Plants Created]]
+- 523bt: [[Encyclopedia Mysenvaria/Biology/Plant|Plants Created]]
 - 476bt: [[Encyclopedia Mysenvaria/Biology/Animals/Organisms of Mass Destruction|Organisms of Mass Destruction Invented]]
 - 442bt: [[Encyclopedia Mysenvaria/Biology/Sapients/Human|Humanity Created]]
 - 440bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Council#Second Council|Second God Council Held]]
