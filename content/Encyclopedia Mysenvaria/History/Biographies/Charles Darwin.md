@@ -1,5 +1,5 @@
 ---
-title: Godefrey The Grafted
+title: Biography Template
 enableToc: true
 tags:
   - history/biography

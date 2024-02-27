@@ -2,8 +2,8 @@
 title: Author of Encounters With The Quadrinity
 enableToc: true
 tags:
-- history/biography
-- stub
+  - history/biography
+  - stub/template
 ---
 
 > [!note]
@@ -27,3 +27,4 @@ tags:
 > [!note]
 > More titles may be added regarding works of art or other notable things regarding the character.
 
+# See Also

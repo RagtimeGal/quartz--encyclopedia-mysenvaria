@@ -39,5 +39,5 @@ Recently [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Th
 - Symbionts, organisms which function by pairing closely with other organisms.
 - Devastator, organisms specializing in heavy artillery, originally functioned to cause mass destruction.
 # Significance
-
+Tri-criterial classification is the first widely accepted taxonomic classification of organisms and changed many widely held beliefs and perceptions regarding flora and fauna.
 # See Also

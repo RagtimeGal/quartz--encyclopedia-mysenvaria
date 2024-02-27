@@ -1,5 +1,5 @@
 ---
-title: Plants
+title: Plant
 enableToc: true
 tags:
 - biology/plants

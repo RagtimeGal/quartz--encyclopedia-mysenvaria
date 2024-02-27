@@ -6,7 +6,7 @@ tags:
 - biology/plants
 ---
 
-This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Plants|plants]], organisms defined as being incapable of locomotion.
+This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Classifications/Plant|plants]], organisms defined as being incapable of locomotion.
 
 # By Name
 

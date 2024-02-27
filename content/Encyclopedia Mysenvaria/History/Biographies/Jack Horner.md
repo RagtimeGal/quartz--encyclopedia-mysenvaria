@@ -1,5 +1,5 @@
 ---
-title: Godefrey The Grafted
+title: Jack Horner
 enableToc: true
 tags:
   - history/biography

@@ -6,7 +6,7 @@ tags:
 - biology/animals
 ---
 
-This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Animals|animals]], organisms defined as being capable of locomotion.
+This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Classifications/Animal|animals]], organisms defined as being capable of locomotion.
 
 # By Name
 
