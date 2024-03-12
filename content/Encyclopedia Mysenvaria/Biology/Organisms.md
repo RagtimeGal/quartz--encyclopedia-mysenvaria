@@ -3,15 +3,13 @@ title: Organisms
 enableToc: true
 tags:
 - biology
-- stub
 ---
-
-> [!note]
-> This page is a stub and has more information that can be added.
 
 Organisms are living things, created by the [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] as a means of autonomous work. The first organism, an unknown algae-like asexual plant, was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]], documented in the [[Encyclopedia Mysenvaria/Geography/Astrography/Star Systems/Plant Star System|Plant Star System]]. This creation would lead to what is known as the [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]], birthing all the organisms known across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] today.
 
 [[Encyclopedia Mysenvaria/Biology/Biology|Biology]] is the study of living things, an umbrella science which covers a host of other sciences like [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Anatomy|anatomy]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Taxonomy|taxonomy]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Ecology|ecology]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Paleontology|paleontology]], and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Genetics|genetics]].
+# Definition
+The exact anatomy of organisms has a diverse and wide range, but there are structures that appear to unite all organisms. The Plant Star System has been greatly translated by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]] and the [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|host star]] of the system, created by Hydrogen Cyanide, gives a generalized schematic overview of the exact micro-operations which define organisms. Generally, according to the Plant Star system host, an organism is most importantly defined by its autonomy; they operate, move, think, and feel without input from outside systems. Importantly organisms are also defined by their structure; made of, or being, a cell, containing genetic information which can be passed down to relatives.
 # History
 Shortly after the [[Encyclopedia Mysenvaria/History/God-War Era/God Council|First God Council]], in the year 523bt, the first organism would be created by the God of Hydrogen Cyanide. Inspired by discussions which had occurred during the council Hydrogen Cyanide would delve deep into research and study, creating autonomous units and thus inventing the first organisms. These organisms would be the first plants, simple asexual fragmentary [[Encyclopedia Mysenvaria/Biology/Plants/Fragmantative/Algae|algae]]-like organisms. Hydrogen Cyanide would document this in the Plant Star System, which would quickly explode with questions and outrage.
 
