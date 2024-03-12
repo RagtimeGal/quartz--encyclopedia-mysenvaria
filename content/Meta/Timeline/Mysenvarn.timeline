@@ -794,6 +794,19 @@
       <category>History</category>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-523</start>
+      <end>-440</end>
+      <text>Iteration Period</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>

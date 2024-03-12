@@ -9,18 +9,29 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-# History
+Organisms are living things, created by the [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] as a means of autonomous work. The first organism, an unknown algae-like asexual plant, was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]], documented in the [[Encyclopedia Mysenvaria/Geography/Astrography/Star Systems/Plant Star System|Plant Star System]]. This creation would lead to what is known as the [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]], birthing all the organisms known across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] today.
 
-# Classification
+[[Encyclopedia Mysenvaria/Biology/Biology|Biology]] is the study of living things, an umbrella science which covers a host of other sciences like [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Anatomy|anatomy]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Taxonomy|taxonomy]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Ecology|ecology]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Paleontology|paleontology]], and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Genetics|genetics]].
+# History
+Shortly after the [[Encyclopedia Mysenvaria/History/God-War Era/God Council|First God Council]], in the year 523bt, the first organism would be created by the God of Hydrogen Cyanide. Inspired by discussions which had occurred during the council Hydrogen Cyanide would delve deep into research and study, creating autonomous units and thus inventing the first organisms. These organisms would be the first plants, simple asexual fragmentary [[Encyclopedia Mysenvaria/Biology/Plants/Fragmantative/Algae|algae]]-like organisms. Hydrogen Cyanide would document this in the Plant Star System, which would quickly explode with questions and outrage.
+
+Hydrogen Cyanide would start what is known by historians as the Iteration Period. The iteration periods ending is marked by the passing of the [[Encyclopedia Mysenvaria/Geography/Astrography/Creations Act|Creations Act]] in the year 440bt. This would not end the creation of new organisms, but would greatly reduce the rate at which they were appearing, placing strict regulations regarding how organisms should operate and how Gods should create them.
+
+It is unknown what the most recently created organism is, but is hypothesized by some to belong to some [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|mammalian]] group. Within the spawn of the iteration period, however, almost all organisms known in the present day would be invented. Following the end of the God-War populations of organisms would no longer be supported by Gods, and a majority of species went extinct. This is known as the [[Encyclopedia Mysenvaria/History/Post-War Era/Great Dying|Great Dying]].
+# Taxanomy
+[[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Taxonomy|Taxonomy]] is the study of the classification of organisms. [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Classification|Tri-criterial classification]] was one of the first great theories of biological taxonomy. Tri-criterial classification sorts organisms according to three criterion, their [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Dietary Classification|diet]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Body Plan|body plan]], and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Niches|historic niche]]. Tri-criterial classification is now widely considered an obsolete form of taxonomic ranking of organisms, replaced with the more widely recognized [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Evolutionary Classification|evolutionary classification]]. Evolutionary classification poses that Gods conceptually or physically added to or modified organisms in order to create new organisms, creating a tree-like structure of evolving ideas. 
+
+Within evolutionary classification the idea of taxa and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Common Ancestors|common ancestors]] arises. Taxon are populations of related organisms, for instance the taxon for [[Encyclopedia Mysenvaria/Biology/Taxa/Worms|worms]] includes any populations of animals which share a common ancestor which lacked an internal skeletal structure and any external manipulable limbs. Below is the current most plausible evolutionary classification taxonomical tree, proposed by [[Encyclopedia Mysenvaria/History/Biographies/Charles Darwin|Charles Darwin]] in his work *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]]*. 
+
 - [[Encyclopedia Mysenvaria/Biology/Taxa/Laboratorius|Laboratorius]]; c. BT 523; encompasses all organisms, created for autonomous work.
-	- [[Encyclopedia Mysenvaria/Biology/Taxa/Sessilis|Sessilis]]; c. BT 523; plants, organisms which cannot move without external forces.
+	- [[Encyclopedia Mysenvaria/Biology/Plant|Plants]]; c. BT 523; organisms which cannot move without external forces.
 		- [[Encyclopedia Mysenvaria/Biology/Taxa/Aseminifer|Aseminifer]]; c. BT 523; plants which reproduce asexually.
 			- [[Encyclopedia Mysenvaria/Biology/Taxa/Fragmentus|Fragmentus]]; c. BT 523; asexual plants which reproduce by means of breaking into two separate parts.
 			- [[Encyclopedia Mysenvaria/Biology/Taxa/Propagatus|Propagatus]]; c. BT 511; asexual plants which reproduce by means of growth and fragmentation.
 		- [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]; c. BT 503; plants which reproduce sexually.
 			- [[Encyclopedia Mysenvaria/Biology/Taxa/Sporifer|Sporifer]]; c. BT 503; plants which reproduce by spores.
 			- [[Encyclopedia Mysenvaria/Biology/Taxa/Florifer|Florifer]]; c. BT 499; plants which reproduce by flowering.
-	- [[Encyclopedia Mysenvaria/Biology/Taxa/Mobilitas|Mobilitas]]; c. BT 498; animals, organisms which can move by means of complex musculature.
+	- [[Encyclopedia Mysenvaria/Biology/Animal|Animals]]; c. BT 498; organisms which can move by means of complex musculature.
 		- [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]; c. BT 498; animals which lack an internal skeletal structure.
 			- [[Encyclopedia Mysenvaria/Biology/Taxa/Worms|Worms]]; c. BT 498; vermin which lack any notable manipulable external limbs.
 				- [[Encyclopedia Mysenvaria/Biology/Taxa/Shell-less Worms|Shell-less Worms]]; c. BT 498; worms which lack an external carapace.
@@ -76,87 +87,6 @@ tags:
 					- [[Encyclopedia Mysenvaria/Biology/Taxa/Ungulates|Ungulates]]; c. BT 452; mammals with hooves.
 						- [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]; c. BT 452; ungulates with an even number of toes.
 						- [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]; c. BT 451; ungulates with an odd number of toes.
-```mermaid
-flowchart LR
-Taxa1[Sessility]
-Taxa1-->Taxa11[Seedless]
-Taxa11-->Taxa111[Fragmantative]
-Taxa111-->Taxa1111[Propagative]
-Taxa1111-->Taxa11111[Mosses]
-Taxa1111-->Taxa11112[Liverwart]
-Taxa1111-->Taxa11113[Hornwart]
-Taxa111-->Taxa1112[Algae]
-Taxa11-->Taxa123[Seed Producing]
-Taxa123-->Taxa1231[Flowering]
-Taxa123-->Taxa1232[Sporebearing]
-Taxa123-->Taxa1233[Mobility]
-Taxa1233-->Taxa12331[Vermin]
-Taxa12331-->Taxa123311[Bivalves]
-Taxa12331-->Taxa123312[Worms]
-Taxa12331-->Taxa123313[Cephalopods]
-Taxa123313-->Taxa1233131[Nautiloids]
-Taxa123313-->Taxa1233132[Octopus]
-Taxa123313-->Taxa1233133[Cuttlefish & Squid]
-Taxa12331-->Taxa123314[Arthropods]
-Taxa123314-->Taxa1233141[Crustacea]
-Taxa1233141-->Taxa12331411[Barnacles]
-Taxa1233141-->Taxa12331412[Shrimp]
-Taxa1233141-->Taxa12331413[Crabs]
-Taxa123314-->Taxa1233142[Hexapods]
-Taxa1233142-->Taxa12331421[Non-insects]
-Taxa1233142-->Taxa12331422[Insects]
-Taxa12331422-->Taxa123314221[Winged Insects]
-Taxa12331422-->Taxa123314222[Wingless Insects]
-Taxa123314-->Taxa1233143[Myriapods]
-Taxa1233143-->Taxa12331431[Centipedes]
-Taxa1233143-->Taxa12331432[Millipedes]
-Taxa1233-->Taxa12334[Fish]
-Taxa12334-->Taxa123341[Cartilaginous Fish]
-Taxa12334-->Taxa123342[Jawless Fish]
-Taxa12334-->Taxa123343[Bony Fish]
-Taxa1233-->Taxa12336[Amphibia]
-Taxa12336-->Taxa123362[Frogs]
-Taxa12336-->Taxa123363[Salamanders]
-Taxa12336-->Taxa123361[Synapisids]
-Taxa123361-->Taxa1233611[Reptilia]
-Taxa1233611-->Taxa12336111[Lizards & Snakes]
-Taxa1233611-->Taxa12336112[Turtles]
-Taxa1233611-->Taxa12336113[Archosaurs]
-Taxa12336113-->Taxa123361131[Crocodilomorphs]
-Taxa12336113-->Taxa123361132[Dinosauria]
-Taxa123361132-->Taxa1233611321[Ornithosuchia]
-Taxa123361132-->Taxa1233611322[Saurisuchia]
-Taxa1233611322-->Taxa12336113221[Avians]
-Taxa123361-->Taxa1233612[Mammalia]
-Taxa1233612-->Taxa12336121[Marsupial]
-Taxa12336121-->Taxa123361211[Kangaroo]
-Taxa12336121-->Taxa123361212[Marsupial Bears]
-Taxa12336121-->Taxa123361213[Possums & Opossums]
-Taxa12336121-->Taxa123361214[Shrews]
-Taxa1233612-->Taxa12336122[Placentalia]
-Taxa12336122-->Taxa123361221[Carnivora]
-Taxa123361221-->Taxa1233612211[Feliforms]
-Taxa123361221-->Taxa1233612212[Caniforms]
-Taxa12336122-->Taxa123361222[Ungulates]
-Taxa123361222-->Taxa1233612221[Even-Toed Ungulates]
-Taxa123361222-->Taxa1233612222[Odd-Toed Ungulates]
-Taxa12336122-->Taxa123361223[Bats]
-Taxa12336122-->Taxa123361224[Rodents]
-Taxa123361224-->Taxa1233612241[Lagomorphs]
-Taxa123361224-->Taxa1233612242[Primates]
-Taxa123361224-->Taxa1233612243[Shrews and Moles]
-Taxa12336122-->Taxa123361225[Greater Mammals]
-Taxa123361225-->Taxa1233612251[Armored Mammals]
-Taxa1233612251-->Taxa12336122511[Armadillos]
-Taxa1233612251-->Taxa12336122512[Pangolin]
-Taxa123361225-->Taxa1233612252[Megamammals]
-Taxa1233612252-->Taxa12336122521[Elephants]
-Taxa1233612252-->Taxa12336122522[Manatees]
-Taxa1233612-->Taxa12336123[Egg laying Mammals]
-Taxa12336123-->Taxa123361231[Echidnas]
-Taxa12336123-->Taxa123361232[Platypus]
-```
-
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
