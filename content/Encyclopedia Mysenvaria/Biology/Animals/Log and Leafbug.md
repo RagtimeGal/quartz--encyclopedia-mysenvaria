@@ -42,5 +42,5 @@ Leafbugs, often, will protect their companions by fighting off animals which may
 Logbugs and leafbugs were originally native to nearly every climate and biome of the Plane, having been wildly successful organisms after the end of the God-War. Today, however, they have gone nearly extinct in southern temperate climates, and are seeing quick decline in the southern tropics. Northern populations have been untouched for centuries.
 # Species
 
-# See more
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

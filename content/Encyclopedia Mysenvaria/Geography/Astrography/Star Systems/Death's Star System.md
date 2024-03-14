@@ -10,6 +10,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
+Death's Star System originated with the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]], documenting the [[Encyclopedia Mysenvaria/History/God-War Era/First Death of a God|first death of a God]]. The host [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|star]] of the system, [[Encyclopedia Mysenvaria/Geography/Astrography/Death's Star System/Death's Star|Death's Star]], was created by the unknown perpetrator God documenting their fight with the God they slayed. The death of the unknown God would cause a series of events which would begin the God-War. The system would explode into over 150 stars, with Gods discussing and bickering on topics regarding their mortality.
 # Etymology
 
 > [!note]

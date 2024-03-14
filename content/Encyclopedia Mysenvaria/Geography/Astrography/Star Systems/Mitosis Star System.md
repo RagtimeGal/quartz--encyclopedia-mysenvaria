@@ -10,6 +10,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
+The Mitosis Star System is a major [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|star]] system. The host star, the [[Encyclopedia Mysenvaria/Geography/Astrography/Mitosis Star System/Mitosis Star|Mitosis Star]], was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Peroxide|God of Hydrogen Peroxide]] and documents their creation of [[Encyclopedia Mysenvaria/Biology/Animal|animals]]. Unlike similar stars, such as [[Encyclopedia Mysenvaria/Geography/Astrography/Carbonprint|Carbonprint]] and [[Encyclopedia Mysenvaria/Geography/Astrography/Cilia Star|Cilia Star]], the Mitosis System blew up in popularity amongst the Gods, becoming a central part of the [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]]. 
 # Etymology
 
 > [!note]

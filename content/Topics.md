@@ -19,7 +19,7 @@ Art is one of the quintessential activities that sets intelligent life, such as 
 
 We subdivide art into 5 categories:
 
-- [[Meta/Templates/Arts/Cuisine|Cuisine]], defined as any form of art that typically involves edible food, usually made for the purpose of being consumed;
+- [[Encyclopedia Mysenvaria/Arts/Cuisine|Cuisine]], defined as any form of art that typically involves edible food, usually made for the purpose of being consumed;
 - [[Encyclopedia Mysenvaria/Arts/Literature|Literature]], defined as written works of fiction or non-fiction;
 - [[Encyclopedia Mysenvaria/Arts/Music|Music]], defined as sounds which are combined and arranged in a purposeful and often methodical fashion;
 - [[Encyclopedia Mysenvaria/Arts/Performance|Performance]], defined as the activity of performing staged play and theatrics, often for an audience;

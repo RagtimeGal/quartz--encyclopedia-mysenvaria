@@ -44,3 +44,5 @@ A seasoning, perfume, aphrodisiac, and contraceptive found in mediterranean clim
 > [!note]
 > Add sub-sections as necessary. For instance if it is significant to more than one culture more sections for each culture may be added.
 
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

@@ -78,258 +78,6 @@
       <category>History</category>
     </event>
     <event>
-      <start>-527</start>
-      <end>-527</end>
-      <text>First God Council Held</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>The High Gods call for the first council in an attempt to end the war. However, tensions still remain high.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-442</start>
-      <end>-442</end>
-      <text>Humanity Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
-      <description>After the invention of Plants a different God creates Humans which can move over most terrain easily and are gifted with the ability to speak a very simplified version of God Tongue as to be able to cast spells.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-426</start>
-      <end>-426</end>
-      <text>Dwarves Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
-      <description>Created as an alternative to Human units as a way to quickly traverse subterranean areas. They are gifted with a vast knowledge of geography and geoloy and are created with a respiratory system capable of combating the negative effects of Mages Lung.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-421</start>
-      <end>-421</end>
-      <text>Elves Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>True</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
-      <description>Created by an unknown God after enchanting a seed. They were created as a way to hijack plants on enemy territory and turn them into a controllable attacking force. They were gifted with the innate knowledge of written God Tongue and Enchantments.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-523</start>
-      <end>-523</end>
-      <text>Plants Invented</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>A device for encroaching on another Gods territoriy easily, Plants are created. The first living thing which is not directly connected to the Gods as a device for them to spread passively. It is unknown which God(s) created plants, but it is known that they were a massive development during the war, proving that autonomous beings are a viable strategy.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>0</start>
-      <end>0</end>
-      <text>Harmonic Treaty Signed</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>The Harmonic Treaty is signed and the Sun is created.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-690</start>
-      <end>-690</end>
-      <text>First Gods Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>True</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Life and Death create the first Gods, Matter, Energy, Space, and Time. Also leads to the creation of God Tongue.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-388</start>
-      <end>-388</end>
-      <text>First Demi-God Born</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>True</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>The relations between a female Dwarf and a God create the first Demi-God.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-273</start>
-      <end>-273</end>
-      <text>First Womb-God Born</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>Relations between a Human and God create the first Womb-God.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-336</start>
-      <end>-336</end>
-      <text>First Construct Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>True</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Science &amp; Magic</category>
-      <description>After a large section of the world is flooded and the other Races can no longer traverse a majority of the world the first Construct is created by a God, a being similar to the Elves but lacking any form of biological material.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-336</start>
-      <end>-336</end>
-      <text>World Flooded</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>In a massive turning point towards the middle of the war a majority of the world is flooded, leaving only 2/3 of the world above the newly formed ocean.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-587</start>
-      <end>-587</end>
-      <text>Great Oceanic Crater Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>A fight between two higher gods leads to the creation of the Great Oceanic Crater. A massive feature towards the center of the world which is notably in the ocean during present day.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-651</start>
-      <end>-523</end>
-      <text>Early War Epoch</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Begins with the start of the God War and ends with the creation of plants shortly after the first council is held.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-523</start>
-      <end>-273</end>
-      <text>Mid War Epoch</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Begins with the creation of plants and ends with the birth of the first Womb-God.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-286</start>
-      <end>-286</end>
-      <text>Northern Mountains Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>Another fight between two higher Gods leads to the creation of the Northern Mountains.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-161</start>
-      <end>-161</end>
-      <text>Eastern Archipelago Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>A large battle between multiple Gods leads to the creation of the Eastern Archipelago.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-118</start>
-      <end>-118</end>
-      <text>Southern Craters Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>A fight between two higher Gods leads to the creation of the Southern Craters.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-273</start>
-      <end>0</end>
-      <text>End War Epoch</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Begins with the birth of the first Womb-God and ends with the signing of the Harmonic Treaty.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-651</start>
       <end>0</end>
       <text>The God War Era</text>
@@ -340,62 +88,6 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>History</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-37</start>
-      <end>-37</end>
-      <text>Great Tear Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>A spell cast by an unknown Demi-God creates the Great Tear.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-69</start>
-      <end>-69</end>
-      <text>First Demi-God Dies</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>The first Demi-God to have ever been born dies. The God which killed them is unknown but they did document it in a star.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-306</start>
-      <end>-306</end>
-      <text>First Elven Elder</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>True</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>The first recorded case of an adult Elf deciding to plant itself into the ground and become an Elder.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-37</start>
-      <end>-37</end>
-      <text>First Elven Elder Passes</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>True</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>First Elven Elder passes shortly after the creation of the Great Tear. It is unknown exactly what killed them, but a God which visited the area often documented it. It is theorized flooding may be the cause.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -441,6 +133,34 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
+      <start>0</start>
+      <end>0</end>
+      <text>Harmonic Treaty Signed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The Harmonic Treaty is signed and the Sun is created.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-690</start>
+      <end>-690</end>
+      <text>First Gods Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Life and Death create the first Gods, Matter, Energy, Space, and Time. Also leads to the creation of God Tongue.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
       <start>1496</start>
       <end>1496</end>
       <text>Distress Signal Sent</text>
@@ -451,19 +171,6 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>History</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>1309</start>
-      <end>1309</end>
-      <text>Guns Invented</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Science &amp; Magic</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -494,33 +201,6 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>1422</start>
-      <end>1422</end>
-      <text>First Southern Ship Reaches The Northern Continent</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>The first southern ship makes land on the nothern continent, marking the beginning of the northern colonization efforts by the south.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>1336</start>
-      <end>1496</end>
-      <text>colonization</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Temporary</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>296</start>
       <end>587</end>
       <text>civil uprest</text>
@@ -547,9 +227,37 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>575</start>
-      <end>772</end>
-      <text>lots of philosophical and ethical changes in societies</text>
+      <start>-273</start>
+      <end>0</end>
+      <text>End War Epoch</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Begins with the birth of the first Womb-God and ends with the signing of the Harmonic Treaty.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-523</start>
+      <end>-273</end>
+      <text>Mid War Epoch</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Begins with the creation of plants and ends with the birth of the first Womb-God.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1336</start>
+      <end>1496</end>
+      <text>colonization</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -560,17 +268,58 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-411</start>
-      <end>-411</end>
-      <text>Founding of Sextown</text>
+      <start>-651</start>
+      <end>-523</end>
+      <text>Early War Epoch</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
-      <description>Sextown is founded with the help of the God of Tectonics where the Eastern Archipelago would later be created.</description>
+      <category>History</category>
+      <description>Begins with the start of the God War and ends with the creation of plants shortly after the first council is held.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-523</start>
+      <end>-523</end>
+      <text>Plants Invented</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>A device for encroaching on another Gods territoriy easily, Plants are created. The first living thing which is not directly connected to the Gods as a device for them to spread passively. It is unknown which God(s) created plants, but it is known that they were a massive development during the war, proving that autonomous beings are a viable strategy.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-273</start>
+      <end>-273</end>
+      <text>First Womb-God Born</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>Relations between a Human and God create the first Womb-God.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1309</start>
+      <end>1309</end>
+      <text>Guns Invented</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Science &amp; Magic</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -652,6 +401,256 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
+      <start>575</start>
+      <end>772</end>
+      <text>lots of philosophical and ethical changes in societies</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Temporary</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-523</start>
+      <end>-440</end>
+      <text>Iteration Period</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-527</start>
+      <end>-527</end>
+      <text>First God Council Held</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The High Gods call for the first council in an attempt to end the war. However, tensions still remain high.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-426</start>
+      <end>-426</end>
+      <text>Dwarves Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture &amp; Society</category>
+      <description>Created as an alternative to Human units as a way to quickly traverse subterranean areas. They are gifted with a vast knowledge of geography and geoloy and are created with a respiratory system capable of combating the negative effects of Mages Lung.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-421</start>
+      <end>-421</end>
+      <text>Elves Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture &amp; Society</category>
+      <description>Created by an unknown God after enchanting a seed. They were created as a way to hijack plants on enemy territory and turn them into a controllable attacking force. They were gifted with the innate knowledge of written God Tongue and Enchantments.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-388</start>
+      <end>-388</end>
+      <text>First Demi-God Born</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>The relations between a female Dwarf and a God create the first Demi-God.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-336</start>
+      <end>-336</end>
+      <text>First Construct Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Science &amp; Magic</category>
+      <description>After a large section of the world is flooded and the other Races can no longer traverse a majority of the world the first Construct is created by a God, a being similar to the Elves but lacking any form of biological material.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-336</start>
+      <end>-336</end>
+      <text>World Flooded</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>In a massive turning point towards the middle of the war a majority of the world is flooded, leaving only 2/3 of the world above the newly formed ocean.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-587</start>
+      <end>-587</end>
+      <text>Great Oceanic Crater Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>A fight between two higher gods leads to the creation of the Great Oceanic Crater. A massive feature towards the center of the world which is notably in the ocean during present day.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-286</start>
+      <end>-286</end>
+      <text>Northern Mountains Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>Another fight between two higher Gods leads to the creation of the Northern Mountains.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-161</start>
+      <end>-161</end>
+      <text>Eastern Archipelago Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>A large battle between multiple Gods leads to the creation of the Eastern Archipelago.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-118</start>
+      <end>-118</end>
+      <text>Southern Craters Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>A fight between two higher Gods leads to the creation of the Southern Craters.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-37</start>
+      <end>-37</end>
+      <text>Great Tear Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>A spell cast by an unknown Demi-God creates the Great Tear.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-69</start>
+      <end>-69</end>
+      <text>First Demi-God Dies</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>The first Demi-God to have ever been born dies. The God which killed them is unknown but they did document it in a star.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-306</start>
+      <end>-306</end>
+      <text>First Elven Elder</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>The first recorded case of an adult Elf deciding to plant itself into the ground and become an Elder.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-37</start>
+      <end>-37</end>
+      <text>First Elven Elder Passes</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>First Elven Elder passes shortly after the creation of the Great Tear. It is unknown exactly what killed them, but a God which visited the area often documented it. It is theorized flooding may be the cause.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1422</start>
+      <end>1422</end>
+      <text>First Southern Ship Reaches The Northern Continent</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The first southern ship makes land on the nothern continent, marking the beginning of the northern colonization efforts by the south.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-411</start>
+      <end>-411</end>
+      <text>Founding of Sextown</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture &amp; Society</category>
+      <description>Sextown is founded with the help of the God of Tectonics where the Eastern Archipelago would later be created.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
       <start>-440</start>
       <end>-440</end>
       <text>Creations Act Passed</text>
@@ -675,6 +674,20 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>History</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-442</start>
+      <end>-442</end>
+      <text>Humanity Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture &amp; Society</category>
+      <description>After the invention of Plants a different God creates Humans which can move over most terrain easily and are gifted with the ability to speak a very simplified version of God Tongue as to be able to cast spells.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -794,24 +807,11 @@
       <category>History</category>
       <default_color>192,192,192</default_color>
     </event>
-    <event>
-      <start>-523</start>
-      <end>-440</end>
-      <text>Iteration Period</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <default_color>192,192,192</default_color>
-    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-559</start>
-      <end>-353</end>
+      <start>-668</start>
+      <end>-295</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
