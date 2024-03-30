@@ -9,7 +9,7 @@ tags:
 > This page is a stub and has more information that can be added.
 
 
-Astronomy is a study often confused with [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Wizardry|wizardry]]. While many wizards may also practice astronomy it is a separate area of study. Astronomy involves the observation and interpretation of stars to create a better understanding of the [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]] and [[God Tongue]]. 
+Astronomy is a study often confused with [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Wizardry|wizardry]]. While many wizards may also practice astronomy it is a separate area of study. Astronomy involves the observation and interpretation of stars to create a better understanding of the [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] and [[God Tongue]]. 
 
 To become an astronomer requires a keen eye and great understanding of the natural world, one that anyone can master with years of study and practice. Wizardry can sometimes play a role in easing the process of proper measurements. [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Wizardry#Written Magic|Enchantments]] can be used on astronomical tools to provide more accurate measurements and more recently have even been used to [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Technologies/Printing Press|print]] the proper measurements.
 
@@ -46,10 +46,11 @@ Functionally translating a star to an understandable form of written God Tongue 
 The Sun is the largest star in the sky and the closest to the Earth. It is one of the most translated stars in astronomy, with hundreds of different transcriptions in both God Tongue and in mortal languages. The Sun was created at the end of the [[God-War Era|God-War]], it is the proposed and signed [[Encyclopedia Mysenvaria/Geography/Astrography/Harmonic Treaty|Harmonic Treaty]] and thus the most influential star in history. The creation of the Sun also created the [[God of Harmony]] and limited each God to their own respective section of nature. Each current living God signed the treaty, and as such all current Gods are forced to abide by its law an~~~~d enforce its law.
 
 ## Fallen Stars
-![[fallen_star_small.png]]When a God dies all stars they have created fall to the Earth as ossified husks; fallen stars. These stars can be studied in great detail by astronomers and on many occasions have proven as incredibly useful tools in learning about the interpretation of stars. The [[Encyclopedia Mysenvaria/Culture/Organizations/Great Astronomy Foundation]] is known for their great collection of fallen stars. Recently, too, a documented case of a fallen star returning into the sky has occurred, the [[Cracked Star Incident]]. Below is a painting of a fallen star:
-
+When a God dies all stars they have created fall to the Earth as ossified husks; fallen stars. These stars can be studied in great detail by astronomers and on many occasions have proven as incredibly useful tools in learning about the interpretation of stars. The [[Encyclopedia Mysenvaria/Culture/Organizations/Great Astronomy Foundation]] is known for their great collection of fallen stars. Recently, too, a documented case of a fallen star returning into the sky has occurred, the [[Cracked Star Incident]]. Below is a painting of a fallen star:
+![[Meta/Images/fallen_star_small.png]]
 # Cultural Connections
-
 
 # Famous Astronomers
 - [[Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man]] (44-0)
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Scientific Branches|List of Scientific Branches]]

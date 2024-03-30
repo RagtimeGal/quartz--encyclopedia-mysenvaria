@@ -3,7 +3,7 @@ title: Eastern Subtropical Islands
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

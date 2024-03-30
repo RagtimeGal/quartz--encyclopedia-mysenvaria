@@ -3,7 +3,7 @@ title: Eastern Central Mediterranean
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

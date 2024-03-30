@@ -3,7 +3,7 @@ title: Southern Crater Rainforest
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

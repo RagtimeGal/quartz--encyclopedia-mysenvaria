@@ -3,7 +3,7 @@ title: Eastern Southern Subtropics
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

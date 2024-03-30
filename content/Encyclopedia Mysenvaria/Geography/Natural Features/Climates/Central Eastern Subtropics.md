@@ -3,7 +3,7 @@ title: Central Eastern Subtropics
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

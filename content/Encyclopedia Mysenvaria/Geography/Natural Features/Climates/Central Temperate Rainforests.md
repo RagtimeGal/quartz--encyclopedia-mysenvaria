@@ -3,7 +3,7 @@ title: Central Temperate Rainforests
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

@@ -3,7 +3,7 @@ title: Eastern Savannah Isles
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

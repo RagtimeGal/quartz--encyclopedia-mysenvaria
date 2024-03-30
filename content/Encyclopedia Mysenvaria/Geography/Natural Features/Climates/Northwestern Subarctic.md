@@ -3,7 +3,7 @@ title: Northwestern Subarctic
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

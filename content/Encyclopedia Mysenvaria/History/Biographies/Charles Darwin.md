@@ -3,7 +3,7 @@ title: Biography Template
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

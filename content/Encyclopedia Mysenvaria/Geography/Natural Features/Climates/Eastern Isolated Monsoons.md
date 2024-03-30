@@ -3,7 +3,7 @@ title: Eastern Isolated Monsoons
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

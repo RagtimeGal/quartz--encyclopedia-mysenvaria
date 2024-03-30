@@ -3,7 +3,7 @@ title: Northern Humid Lands
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

@@ -3,7 +3,7 @@ title: Godrick The Grafted
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

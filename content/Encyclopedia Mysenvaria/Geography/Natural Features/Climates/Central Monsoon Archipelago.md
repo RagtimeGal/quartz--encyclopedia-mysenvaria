@@ -3,7 +3,7 @@ title: Central Monsoon Archipelago
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

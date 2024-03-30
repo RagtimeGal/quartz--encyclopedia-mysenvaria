@@ -5,6 +5,7 @@ tags:
   - biology/fauna
 ---
 
+
 Logbugs are [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Classification|classified]] as scuttling disruptive consumers which host the related symbiotic Leafbugs to disguise themselves as various [[Encyclopedia Mysenvaria/Biology/Plant|trees]]. A host of different animals fall into this category, each very similar. They can be found across nearly all parts of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], although their numbers have been significantly diminished in the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|South]].
 # History
 It is unknown when exactly these disruptive mimics first appeared on the Plane, but it is believed to have been sometime before the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]. Star systems like the [[Encyclopedia Mysenvaria/Geography/Astrography/Star Systems/Coalition Against Mimicry|Coalition Against Mimicry]] document mimics of equal and even greater magnitude than log and leafbugs. These stars imply that many Gods viewed [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Classification|disruptors]] like logbugs negatively. It is unknown what, if any, behavioral adaptations log and leafbugs took on after the end of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]].

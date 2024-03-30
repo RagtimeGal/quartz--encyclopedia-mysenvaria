@@ -3,7 +3,7 @@ title: Great Northern Tundra
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

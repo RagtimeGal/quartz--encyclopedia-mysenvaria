@@ -5,9 +5,9 @@ tags:
 - culture/science
 ---
 
-Wizardry is the study and performance of magic, the manipulation of nature by Godly means. [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]] gifted the mortals the ability to manipulate nature during the [[God-War Era|God-War]] as a means to improve their ability to fight and give some an even match against lower Gods.
+Wizardry is the study and performance of magic, the manipulation of nature by Godly means. [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] gifted the mortals the ability to manipulate nature during the [[God-War Era|God-War]] as a means to improve their ability to fight and give some an even match against lower Gods.
 
-The effects of the God's choice to do this is unprecedented and is perhaps the only reason sophontic mortals proved useful during the war. Not every sapient was treated equally by the Gods though, for instance [[Encyclopedia Mysenvaria/Biology/Sapients/Human|Humans]] and [[Encyclopedia Mysenvaria/Biology/Sapients/Dwarf|Dwarves]] can both speak God Tongue but [[Encyclopedia Mysenvaria/Biology/Sapients/Elf|Elves]] cannot and instead are relegated to writing it as enchantments, which both the aforementioned sapients can also do. This has created imbalances in the powers of the sapients, which can be attributed as the cause of many historical events.
+The effects of the God's choice to do this is unprecedented and is perhaps the only reason sophontic mortals proved useful during the war. Not every sapient was treated equally by the Gods though, for instance [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|Humans]] and [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|Dwarves]] can both speak God Tongue but [[Encyclopedia Mysenvaria/Biology/Sophonts/Elf|Elves]] cannot and instead are relegated to writing it as enchantments, which both the aforementioned sapients can also do. This has created imbalances in the powers of the sapients, which can be attributed as the cause of many historical events.
 
 There are 3 notable classes of wizardry; written magic, spoken magic, and grafting magic. Written and Spoken involve the use of [[God Tongue]] to crast hexes and spells. Grafting involves the grafting of [[God Part|God Parts]] onto ones body to enhance themself.
 
@@ -40,7 +40,7 @@ Collection of mythril is a dangerous task which has cost many wizards and mages 
 
 Written magic has its history traced back to the creation of elves, who the Gods blessed with an innate knowledge of enchanting. Because of this, elves are oft sought out by wizards and mages to hex their armies and items.
 
-To cast a hex or enchant an item, one must write it out in God Tongue using mythril. This can be done in a number of ways; writing in [[Mythril Ink|mythril ink]], spreading mythril dust, or forging or chiseling mythril into the writing. It should be noted that as soon as a word is formed by the mythril the enchantment or hex is activated; even if not completed. This can be incredibly dangerous and has caused many accidents throughout history, one of the worst notably being the [[Dwarven Nuke|nuclear meltdown incident]]. 
+To cast a hex or enchant an item, one must write it out in God Tongue using mythril. This can be done in a number of ways; writing in [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Technologies/Mythril Ink|mythril ink]], spreading mythril dust, or forging or chiseling mythril into the writing. It should be noted that as soon as a word is formed by the mythril the enchantment or hex is activated; even if not completed. This can be incredibly dangerous and has caused many accidents throughout history, one of the worst notably being the [[Dwarven Nuke|nuclear meltdown incident]]. 
 
 Mythril ink is the oldest way of crafting enchantments and hexes, its history dating back to the creation of the elves during the God-War. It is used to this day by the Elves, and its recipe kept a trade secret by the Elders for millennia. Mythril ink has the advantage of containing so little mythril that what is written with it is not activated until more mythril dust is poured onto it. This has the advantage of not activating the enchantment until it is completed and gives control over how long the enchantment lasts based on how much dust is fed into the system.
 
@@ -56,7 +56,7 @@ Grafters may also not have complete control over their new limbs. Often the limb
 There is also the case of [[Encyclopedia Mysenvaria/History/Biographies/Godrick the Grafted|Godrick the Grafted]], a mage who grafted the head of a God onto their back in the search of greater wisdom. Instead, they were welcomed to a short hell as the God forced their body onto the nearest pike, a fatal experience.
 
 # Demi-Gods & Womb-Gods
-[[Encyclopedia Mysenvaria/Biology/Sapients/Demi-God|Demi-Gods]] and [[Encyclopedia Mysenvaria/Biology/Sapients/Womb-God|Womb-Gods]] are technically not a form of magic, but they are a byproduct of magic and are worth noting. Demi-Gods and Womb-Gods are born from the misuse of phallic God parts. Specifically, Demi-Gods are born when a mortal becomes pregnant from misuse of a God's penis, while Womb-Gods are born when a deceased God becomes pregnant from a mortal having intercourse with them.
+[[Encyclopedia Mysenvaria/Biology/Sophonts/Demi-God|Demi-Gods]] and [[Encyclopedia Mysenvaria/Biology/Sophonts/Womb-God|Womb-Gods]] are technically not a form of magic, but they are a byproduct of magic and are worth noting. Demi-Gods and Womb-Gods are born from the misuse of phallic God parts. Specifically, Demi-Gods are born when a mortal becomes pregnant from misuse of a God's penis, while Womb-Gods are born when a deceased God becomes pregnant from a mortal having intercourse with them.
 
 Demi-Gods are naturally weaker than Womb-Gods, but are also due to their nature easier to care for while developing. Demi-Gods have lifespans nearly twice that of their parental mortal and take on mixed features from both of their parents. Demi-Gods are naturally more resistant to the ossification of their larynx and it is said that they are born with an unnatural understanding of God Tongue.
 
@@ -74,3 +74,6 @@ Womb-Gods grow in the body of the god, and naturally are more powerful than thei
 * [[Encyclopedia Mysenvaria/History/Biographies/Godrick the Grafted|Godrick the Grafted]] (IDK yet); First recorded instance of a person grafting the head of a God onto themself.
 * 
 ## Famous Demi-Gods & Womb-Gods
+
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Scientific Branches|List of Scientific Branches]]

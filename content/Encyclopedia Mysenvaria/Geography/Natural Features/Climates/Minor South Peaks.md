@@ -3,7 +3,7 @@ title: Minor South Peaks
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

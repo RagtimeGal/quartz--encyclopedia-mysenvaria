@@ -3,7 +3,7 @@ title: Eastern Temperate Rainforest
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

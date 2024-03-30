@@ -3,7 +3,7 @@ title: East Island Tundra
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

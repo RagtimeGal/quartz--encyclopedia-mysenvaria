@@ -3,7 +3,7 @@ title: Eastern Cold Desert Strip
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

@@ -3,7 +3,7 @@ title: Northeastern Cold Deserts
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

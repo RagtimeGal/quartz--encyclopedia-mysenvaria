@@ -3,7 +3,7 @@ title: Elven Languages
 enableToc: true
 tags:
   - culture/language
-  - stub/template
+  - stub
 ---
 
 > [!note]

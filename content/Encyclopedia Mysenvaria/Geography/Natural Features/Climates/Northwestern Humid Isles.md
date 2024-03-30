@@ -3,7 +3,7 @@ title: Northwestern Humid Isles
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

@@ -3,7 +3,7 @@ title: Southern Isolated Monsoon
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

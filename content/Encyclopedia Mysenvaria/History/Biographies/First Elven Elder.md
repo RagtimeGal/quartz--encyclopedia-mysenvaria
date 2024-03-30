@@ -3,7 +3,7 @@ title: First Elven Elder
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

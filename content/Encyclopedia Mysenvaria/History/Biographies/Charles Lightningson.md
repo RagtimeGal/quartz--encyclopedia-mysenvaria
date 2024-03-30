@@ -3,7 +3,7 @@ title: Charles Lightningson
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

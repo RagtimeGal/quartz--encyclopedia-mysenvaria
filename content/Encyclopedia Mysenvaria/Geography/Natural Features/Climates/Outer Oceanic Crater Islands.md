@@ -3,7 +3,7 @@ title: Outer OCeanic Crater Islands
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

@@ -3,7 +3,7 @@ title: Northeastern Dividing Steppe
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

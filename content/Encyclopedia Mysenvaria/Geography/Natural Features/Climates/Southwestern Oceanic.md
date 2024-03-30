@@ -3,7 +3,7 @@ title: Southwestern Oceanic
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

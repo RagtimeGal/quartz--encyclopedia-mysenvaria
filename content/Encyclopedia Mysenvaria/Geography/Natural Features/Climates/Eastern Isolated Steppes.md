@@ -3,7 +3,7 @@ title: Eastern Isolated Steppes
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

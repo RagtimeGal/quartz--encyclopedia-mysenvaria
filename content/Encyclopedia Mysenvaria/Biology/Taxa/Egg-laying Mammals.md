@@ -3,7 +3,7 @@ title: Egg-laying Mammals
 enableToc: true
 tags:
   - biology/animals
-  - stub/template
+  - stub
 ---
 
 > [!note]

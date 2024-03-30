@@ -3,7 +3,7 @@ title: Northern Mediterranean Archipelago
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

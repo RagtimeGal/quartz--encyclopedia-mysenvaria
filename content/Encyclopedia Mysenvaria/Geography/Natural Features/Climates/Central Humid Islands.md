@@ -3,7 +3,7 @@ title: Central Humid Islands
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

@@ -3,7 +3,7 @@ title: Western Desert Islands
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

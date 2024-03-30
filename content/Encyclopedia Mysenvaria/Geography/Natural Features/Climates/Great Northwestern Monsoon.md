@@ -3,7 +3,7 @@ title: Great Northwestern Monsoon
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

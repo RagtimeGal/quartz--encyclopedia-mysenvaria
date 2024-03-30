@@ -3,7 +3,7 @@ title: Fitzgerald
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

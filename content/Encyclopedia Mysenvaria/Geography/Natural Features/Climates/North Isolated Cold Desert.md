@@ -3,7 +3,7 @@ title: North Isolated Cold Desert
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

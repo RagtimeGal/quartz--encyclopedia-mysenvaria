@@ -3,7 +3,7 @@ title: Fish
 enableToc: true
 tags:
   - biology/animals
-  - stub/template
+  - stub
 ---
 
 > [!note]

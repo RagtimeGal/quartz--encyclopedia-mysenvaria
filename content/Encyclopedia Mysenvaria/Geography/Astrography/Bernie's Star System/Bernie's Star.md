@@ -4,7 +4,7 @@ enableToc: true
 tags:
   - geography/astrography
   - star
-  - stub/template
+  - stub
 ---
 
 > [!note]

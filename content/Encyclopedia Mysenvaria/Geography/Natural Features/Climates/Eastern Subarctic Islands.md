@@ -3,7 +3,7 @@ title: Eastern Subarctic Islands
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

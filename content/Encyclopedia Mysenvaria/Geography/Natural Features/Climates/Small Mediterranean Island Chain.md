@@ -3,7 +3,7 @@ title: Small Mediterranean Island Chain
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

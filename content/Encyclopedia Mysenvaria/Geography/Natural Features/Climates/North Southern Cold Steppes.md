@@ -3,7 +3,7 @@ title: North Southern Cold Steppes
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

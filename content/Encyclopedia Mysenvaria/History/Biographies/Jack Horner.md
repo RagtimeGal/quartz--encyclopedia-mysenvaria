@@ -3,7 +3,7 @@ title: Jack Horner
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

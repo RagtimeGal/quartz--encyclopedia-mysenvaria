@@ -3,7 +3,7 @@ title: Great Northern Cold Steppe
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

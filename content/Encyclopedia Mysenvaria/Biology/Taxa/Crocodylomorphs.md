@@ -3,7 +3,7 @@ title: Crocodylomorphs
 enableToc: true
 tags:
   - biology/animals
-  - stub/template
+  - stub
 ---
 
 > [!note]

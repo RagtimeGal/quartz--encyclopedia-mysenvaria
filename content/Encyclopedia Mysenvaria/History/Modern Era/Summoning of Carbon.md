@@ -1,9 +1,9 @@
 ---
-title: Event Template
+title: Summoning of Carbon
 enableToc: true
 tags:
   - history/modern_era
-  - stub
+  - stub/template
 ---
 
 > [!note]

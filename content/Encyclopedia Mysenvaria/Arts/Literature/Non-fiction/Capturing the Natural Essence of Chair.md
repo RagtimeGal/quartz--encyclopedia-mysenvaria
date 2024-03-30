@@ -3,7 +3,7 @@ title: Capturing the Natural Essence of Chair
 enableToc: true
 tags:
   - art/literature/non-fiction
-  - stub/template
+  - stub
 ---
 
 > [!note]

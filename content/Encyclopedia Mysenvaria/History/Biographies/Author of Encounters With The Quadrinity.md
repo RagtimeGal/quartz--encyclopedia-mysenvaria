@@ -3,7 +3,7 @@ title: Author of Encounters With The Quadrinity
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

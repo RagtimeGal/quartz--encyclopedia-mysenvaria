@@ -3,7 +3,7 @@ title: Central Islandic Cold Steppe
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

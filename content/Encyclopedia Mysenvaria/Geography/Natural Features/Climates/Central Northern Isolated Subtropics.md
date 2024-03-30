@@ -3,7 +3,7 @@ title: Central Northern Isolated Subtropics
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

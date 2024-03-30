@@ -3,7 +3,7 @@ title: Great Southern Crater Savannah
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

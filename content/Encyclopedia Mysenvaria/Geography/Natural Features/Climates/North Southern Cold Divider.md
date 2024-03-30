@@ -3,7 +3,7 @@ title: North Southern Cold Divider
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

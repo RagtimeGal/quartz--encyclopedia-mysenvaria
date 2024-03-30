@@ -6,7 +6,7 @@ tags:
 - god/elemental_god
 ---
 
-This page serves as an index of elemental [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]]. Elemental Gods are defined by [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/(Name)'s Index|(Name)'s Index]] as third-generation Gods created solely by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter]].
+This page serves as an index of elemental [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]]. Elemental Gods are defined by [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/(Name)'s Index|(Name)'s Index]] as third-generation Gods created solely by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter]].
 
 # A
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Actinium|God of Actinium]]

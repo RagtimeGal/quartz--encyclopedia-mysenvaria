@@ -10,7 +10,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-Hydrogen Cyanide's Plants is the host [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|star]] of the [[Encyclopedia Mysenvaria/Geography/Astrography/Star Systems/Plant Star System|Plant Star System]]. Following the events of the [[Encyclopedia Mysenvaria/History/God-War Era/God Council|First God Council]] the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]] would create the star to document their creation of the first [[Encyclopedia Mysenvaria/Biology/Plant|plant]], and [[Encyclopedia Mysenvaria/Biology/Plants/Fragmantative/Algae|algae]]-like [[Encyclopedia Mysenvaria/Biology/Taxa/Aseminifer|asexual]] [[Encyclopedia Mysenvaria/Biology/Organisms|organism]].
+Hydrogen Cyanide's Plants is the host [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|star]] of the [[Encyclopedia Mysenvaria/Geography/Astrography/Star Systems/Plant Star System|Plant Star System]]. Following the events of the [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|First God Council]] the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]] would create the star to document their creation of the first [[Encyclopedia Mysenvaria/Biology/Plant|plant]], and [[Encyclopedia Mysenvaria/Biology/Plants/Fragmantative/Algae|algae]]-like [[Encyclopedia Mysenvaria/Biology/Taxa/Aseminifer|asexual]] [[Encyclopedia Mysenvaria/Biology/Organisms|organism]].
 # Etymology
 
 > [!note]

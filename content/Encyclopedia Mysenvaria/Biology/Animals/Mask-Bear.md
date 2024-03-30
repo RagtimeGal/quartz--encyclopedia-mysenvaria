@@ -24,13 +24,12 @@ The first signs of the mask-bears in history appear to have been recorded in the
 ## Range & Distribution
 
 # Domestication
-
 > [!note]
 > Remove this section if unnecessary.
 
-
 # Cultural Significance 
-
 > [!note]
 > Add sub-sections as necessary. For instance if it is significant to more than one culture more sections for each culture may be added.
 
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

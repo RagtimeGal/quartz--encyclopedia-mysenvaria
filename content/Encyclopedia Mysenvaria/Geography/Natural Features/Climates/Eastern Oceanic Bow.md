@@ -3,7 +3,7 @@ title: Eastern Oceanic Bow
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

@@ -3,7 +3,7 @@ title: Central Mediterannean Tear
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

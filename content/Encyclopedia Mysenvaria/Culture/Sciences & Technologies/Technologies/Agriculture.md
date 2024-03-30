@@ -13,10 +13,11 @@ tags:
 
 > [!note]
 > Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
-
-
 # History
 
 # Function
 
 # Significance
+
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Technologies|List of Technologies]]

@@ -3,7 +3,7 @@ title: Great Northern Divided Plains
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

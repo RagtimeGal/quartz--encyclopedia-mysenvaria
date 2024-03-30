@@ -3,7 +3,7 @@ title: Great Eastern Desert Island Chains
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

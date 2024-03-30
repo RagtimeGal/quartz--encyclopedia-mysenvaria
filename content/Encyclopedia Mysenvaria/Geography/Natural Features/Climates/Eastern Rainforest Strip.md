@@ -3,7 +3,7 @@ title: Eastern Rainforest Strip
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

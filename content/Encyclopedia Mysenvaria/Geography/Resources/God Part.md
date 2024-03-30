@@ -9,11 +9,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-
-> [!warning]
-> This page is a Template. This block, and others like it in the page, should be removed. Tags, page name, TOC, and others should be modified as necessary.
-
-
+[[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|God]]-parts are segments of a deceased, or even living, Gods body. They are obtained by various means and are integral to some forms of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Wizardry|wizardry]], most importantly the art of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Technologies/Grafting|grafting]]. God-parts are innately dangerous, exhibiting many of the same properties as [[Encyclopedia Mysenvaria/Geography/Resources/Mythril|mythril]]. 
 # Etymology
 
 > [!note]
@@ -24,7 +20,7 @@ tags:
 
 # Characteristics
 
-# Occurence
+# Occurrence
 
 # Production & Application
 

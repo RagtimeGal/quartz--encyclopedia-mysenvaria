@@ -3,7 +3,7 @@ title: Northern Great Steppes
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

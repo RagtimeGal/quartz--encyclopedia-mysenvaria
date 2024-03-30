@@ -3,7 +3,7 @@ title: Southeastern Steppes
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

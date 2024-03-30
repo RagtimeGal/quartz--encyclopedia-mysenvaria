@@ -9,7 +9,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-Natural subdivision is a process [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]] may undergo in which they split their domain over nature and pass it on to two or more new Gods.
+Natural subdivision is a process [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] may undergo in which they split their domain over nature and pass it on to two or more new Gods.
 # Etymology
 
 > [!note]

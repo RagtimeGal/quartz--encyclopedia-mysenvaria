@@ -3,7 +3,7 @@ title: Great Northern Desert
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

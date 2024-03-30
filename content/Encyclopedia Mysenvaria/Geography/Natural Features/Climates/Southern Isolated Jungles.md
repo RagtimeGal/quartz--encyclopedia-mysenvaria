@@ -3,7 +3,7 @@ title: Southern Isolated Jungles
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

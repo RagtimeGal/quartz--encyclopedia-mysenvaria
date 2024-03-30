@@ -3,7 +3,7 @@ title: Central Savannah Archipelago
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

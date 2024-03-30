@@ -3,7 +3,7 @@ title: Eastern Mediterranean Tip
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

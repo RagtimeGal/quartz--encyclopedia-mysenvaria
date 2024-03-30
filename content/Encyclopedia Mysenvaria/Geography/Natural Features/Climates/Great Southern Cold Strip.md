@@ -3,7 +3,7 @@ title: Great Southern Cold Strip
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 

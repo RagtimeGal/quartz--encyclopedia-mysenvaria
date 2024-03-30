@@ -3,7 +3,7 @@ title: Godefrey The Grafted
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

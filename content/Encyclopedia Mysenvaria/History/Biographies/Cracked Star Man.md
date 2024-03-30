@@ -3,7 +3,7 @@ title: Cracked Star Man
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note]

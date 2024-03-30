@@ -3,7 +3,7 @@ title: Bats
 enableToc: true
 tags:
   - biology/animals
-  - stub/template
+  - stub
 ---
 
 > [!note]

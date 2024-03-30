@@ -15,7 +15,7 @@ Since the publication of the first edition of the [[Encyclopedia Mysenvaria/Arts
 
 Each of these categories are split into a small number of sub-categories which may be organized further into smaller more specific categories. 
 # Art
-Art is one of the quintessential activities that sets intelligent life, such as [[Encyclopedia Mysenvaria/Biology/Sapients/Human|humans]] and [[Encyclopedia Mysenvaria/Biology/Sapients/Elf|elves]], apart from other life. Art may be defined as any activity partaken by intelligent life that uses creativity and imagination, a feature thought to be lacked by many [[Encyclopedia Mysenvaria/Biology/Animal|animals]].
+Art is one of the quintessential activities that sets intelligent life, such as [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humans]] and [[Encyclopedia Mysenvaria/Biology/Sophonts/Elf|elves]], apart from other life. Art may be defined as any activity partaken by intelligent life that uses creativity and imagination, a feature thought to be lacked by many [[Encyclopedia Mysenvaria/Biology/Animal|animals]].
 
 We subdivide art into 5 categories:
 
@@ -31,10 +31,10 @@ Because biology is a science many of the core principles and theories that it ga
 
 Biology is subdivided into 4 categories:
 
-- [[Encyclopedia Mysenvaria/Biology/Animal|Animal]], defined as the animals of the world, created by the [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]] to be locomotive autonomous working organisms;
+- [[Encyclopedia Mysenvaria/Biology/Animal|Animal]], defined as the animals of the world, created by the [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] to be locomotive autonomous working organisms;
 - [[Encyclopedia Mysenvaria/Biology/Plant|Plant]], defined as the plants of the world, created by the Gods to be autonomous territory definers;
 - [[Encyclopedia Mysenvaria/Biology/Disease|Disease]], defined as any sickness affecting the function of an [[Encyclopedia Mysenvaria/Biology/Organisms|organism]];
-- and the [[Encyclopedia Mysenvaria/Biology/Sapients|sapients]], organisms that can be differentiated from other fauna or flora for their higher levels of intelligence or creativity.
+- and the [[Encyclopedia Mysenvaria/Biology/Sophonts|sapients]], organisms that can be differentiated from other fauna or flora for their higher levels of intelligence or creativity.
 # Culture
 Culture is characterized by a wide range of activity and customs in a society. As aforementioned we categorize art separately from culture not because they are unrelated by because art is such an encompassing category on its own.
 

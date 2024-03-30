@@ -6,7 +6,7 @@ tags:
 - god
 ---
 
-This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]]. 
+This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]]. 
 
 # By Classification
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]
@@ -17,4 +17,4 @@ This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Biolo
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|List of Elemental Gods]]
 
 # See also
-- [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods]]
+- [[Encyclopedia Mysenvaria/Biology/Sapients/Gods|Gods

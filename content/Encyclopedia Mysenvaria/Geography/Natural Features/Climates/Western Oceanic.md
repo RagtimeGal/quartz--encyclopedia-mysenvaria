@@ -3,7 +3,7 @@ title: Western Oceanic
 enableToc: true
 tags:
   - geography/natural
-  - stub/template
+  - stub
   - climates
 ---
 
