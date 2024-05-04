@@ -1,0 +1,1466 @@
+{
+    "group": [
+        "Mammal",
+        "Reptile",
+        "Amphibian",
+        "Fish",
+        "Vermin",
+        "Bird",
+        "Crustacean",
+        "Cephalopod",
+        "Insect",
+        "Flying",
+        "Flightless",
+        "Aquatic",
+        "Terrestrial",
+        "Subterraneous",
+        "Apex Predator"
+    ],
+    "animals": [
+        {
+            "name": "Polar Bear",
+            "groups": [
+                "Mammal",
+                "Flightless",
+                "Terrestrial",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Bat",
+            "groups": [
+                "Mammal",
+                "Flying",
+                "Terrestrial"
+            ]
+        },
+        {
+            "name": "Snake",
+            "groups": [
+                "Reptile",
+                "Terrestrial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Rattlesnake",
+            "groups": [
+                "Reptile",
+                "Terrestrial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Stick Bug",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Frog",
+            "groups": [
+                "Amphibian",
+                "Terrestrial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Axolotl",
+            "groups": [
+                "Amphibian",
+                "Terrestrial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Salamander",
+            "groups": [
+                "Amphibian",
+                "Terrestrial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Glass Frog",
+            "groups": [
+                "Amphibian",
+                "Terrestrial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Tree Frog",
+            "groups": [
+                "Amphibian",
+                "Terrestrial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Toad",
+            "groups": [
+                "Amphibian",
+                "Terrestrial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Dart Frog",
+            "groups": [
+                "Amphibian",
+                "Terrestrial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Salmon",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Rat",
+            "groups": [
+                "Mammal",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Kangaroo",
+            "groups": [
+                "Mammal",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Raccoon",
+            "groups": [
+                "Mammal",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Porcupine",
+            "groups": [
+                "Mammal",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Possum",
+            "groups": [
+                "Mammal",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Oppossum",
+            "groups": [
+                "Mammal",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Eagle",
+            "groups": [
+                "Flying",
+                "Terrestrial",
+                "Bird",
+                "Reptile",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Ostrich",
+            "groups": [
+                "Flightless",
+                "Terrestrial",
+                "Bird",
+                "Reptile"
+            ]
+        },
+        {
+            "name": "Shark",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "SwordFish",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Mole",
+            "groups": [
+                "Subterraneous",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Wasp",
+            "groups": [
+                "Flying",
+                "Vermin",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Lion",
+            "groups": [
+                "Mammal",
+                "Terrestrial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Crocodile",
+            "groups": [
+                "Reptile",
+                "Aquatic",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Alligator",
+            "groups": [
+                "Reptile",
+                "Aquatic",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Turtle",
+            "groups": [
+                "Reptile",
+                "Aquatic",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Dolphin",
+            "groups": [
+                "Mammal",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Spider",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Hawk",
+            "groups": [
+                "Flying",
+                "Terrestrial",
+                "Reptile",
+                "Bird",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Emu",
+            "groups": [
+                "Flightless",
+                "Terrestrial",
+                "Reptile",
+                "Bird",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Tuna",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Badger",
+            "groups": [
+                "Mammal",
+                "Terrestrial"
+            ]
+        },
+        {
+            "name": "Hippo",
+            "groups": [
+                "Aquatic",
+                "Terrestrial",
+                "Mammal",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Wildebeast",
+            "groups": [
+                "Terrestrial",
+                "Mammal",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Hyena",
+            "groups": [
+                "terretrial",
+                "Mammal",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Wild dog",
+            "groups": [
+                "Terrestrial",
+                "Mammal",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Flying Squirrel",
+            "groups": [
+                "Terrestrial",
+                "Mammal",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Platypus",
+            "groups": [
+                "Terrestrial",
+                "Aquatic",
+                "Flightless",
+                "Mammal"
+            ]
+        },
+        {
+            "name": "Giraffe",
+            "groups": [
+                "Terrestrial",
+                "Flightless",
+                "Mammal"
+            ]
+        },
+        {
+            "name": "Elephant",
+            "groups": [
+                "Terrestrial",
+                "Flightless",
+                "Mammal"
+            ]
+        },
+        {
+            "name": "Skink",
+            "groups": [
+                "Reptile",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Frilled Lizard",
+            "groups": [
+                "Reptile",
+                "Terrestrial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Sea Snake",
+            "groups": [
+                "Reptile",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Arboreal Snake",
+            "groups": [
+                "Reptile",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Cobra",
+            "groups": [
+                "Reptile",
+                "Aquatic",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "SeaBird",
+            "groups": [
+                "Reptile",
+                "Bird",
+                "Aquatic",
+                "Terrestrial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Owl",
+            "groups": [
+                "Reptile",
+                "Bird",
+                "Terrestrial",
+                "Flying",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Flamingo",
+            "groups": [
+                "Reptile",
+                "Bird",
+                "Terrestrial",
+                "Aquatic",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Ant",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Subterraneous",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Termite",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Subterraneous",
+                "Flying",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Butterfly/Moth",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flying",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Weevil",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flightless",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Leaf Beetle",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flying",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Roach",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flying",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Ladybug",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Firefly",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Pillbug",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Water Beetle",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Aquatic",
+                "Flying",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Stag Beetle",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flying",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Mimic Beetle",
+            "groups": [
+                "Vermin",
+                "Terrestrial",
+                "Flying",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Squid",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless",
+                "Cephalopod"
+            ]
+        },
+        {
+            "name": "Octopus",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless",
+                "Cephalopod"
+            ]
+        },
+        {
+            "name": "CuttleFish",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless",
+                "Cephalopod"
+            ]
+        },
+        {
+            "name": "Shrimp",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless",
+                "Crustacean"
+            ]
+        },
+        {
+            "name": "Cleaner Fish",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Lamprey",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Nautilus",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless",
+                "Cephalopod"
+            ]
+        },
+        {
+            "name": "Land Fish",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Flying Fish",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Duck",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "Aquatic",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Pelican",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "Aquatic",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Albatross",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "Aquatic",
+                "terrestial",
+                "Flying",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Seagull",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "Aquatic",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Song Bird",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Chicken",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Pigeon",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Parrot",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "terrestial",
+                "Flightless",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Peacock",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Kiwi",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Secretary Bird",
+            "groups": [
+                "Bird",
+                "Reptile",
+                "terrestial",
+                "Flying"
+            ]
+        },
+        {
+            "name": "Crab",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "terrestial",
+                "Flightless",
+                "Crustacean"
+            ]
+        },
+        {
+            "name": "Lobster",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "terrestial",
+                "Flightless",
+                "Crustacean"
+            ]
+        },
+        {
+            "name": "Coconut Crab",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "terrestial",
+                "Flightless",
+                "Crustacean"
+            ]
+        },
+        {
+            "name": "Burrowing Crab",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "terrestial",
+                "Subterraneous",
+                "Flightless",
+                "Crustacean"
+            ]
+        },
+        {
+            "name": "Oyster",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Barnacle",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless",
+                "Cephalopod"
+            ]
+        },
+        {
+            "name": "Worm",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "terrestial",
+                "Subterraneous",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Scallop",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Sea Turtle",
+            "groups": [
+                "Reptile",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Parachute Spider",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Aquatic Spider",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Aquatic",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Trapdoor Spider",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Subterraneous",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Scorpion",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Subterraneous",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Whip Spider",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flightless",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Fly",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Dragonfly",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flying",
+                "Apex Predator",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Parasitic Fly",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Parasitic Wasp",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Bee",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Subterraneous",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Locust",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Subterraneous",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Mantis",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "Cricket",
+            "groups": [
+                "Vermin",
+                "terrestial",
+                "Flying",
+                "Insect"
+            ]
+        },
+        {
+            "name": "StarFish",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "JellyFish",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Shrew",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Capybara",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Rabbit",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Hampster",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Guine Pig",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Beaver",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Deer",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Monkey",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Ape",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Lemur",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Aye-Aye",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Armadillo",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Brown Bear",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Black Bear",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Pangolin",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Wolf",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Scunk",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Squirrel",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Fox",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Wild cat",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Tiger",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Panther",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Mountain Lion",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Cheetah",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Tiger",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Otter",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Weasel",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Horse",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Donkey",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Quagga/Zebra",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Ferret",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Porpoise",
+            "groups": [
+                "Mammal",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Beluga",
+            "groups": [
+                "Mammal",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Whale",
+            "groups": [
+                "Mammal",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Narwhal",
+            "groups": [
+                "Mammal",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Orca",
+            "groups": [
+                "Mammal",
+                "Aquatic",
+                "Flightless",
+                "Apex Predator"
+            ]
+        },
+        {
+            "name": "Llama",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Camel",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Alpaca",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Sloth",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Meercat",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Subterraneous",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Gopher",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Subterraneous",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Cow",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Moose",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Reindeer",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Sheep",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Pig",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Boar",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Goat",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Mountain Goat",
+            "groups": [
+                "Mammal",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Chameleon",
+            "groups": [
+                "Reptile",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Eel",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Sea Cucumber",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Coral",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Slug",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Snail",
+            "groups": [
+                "Vermin",
+                "Aquatic",
+                "terrestial",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Tropical Fish",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless"
+            ]
+        },
+        {
+            "name": "Freshwater Fish",
+            "groups": [
+                "Fish",
+                "Aquatic",
+                "Flightless"
+            ]
+        }
+    ]
+}

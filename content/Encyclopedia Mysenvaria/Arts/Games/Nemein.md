@@ -11,13 +11,13 @@ tags:
 
 Nemein is a strategy board game which uses national currencies as the pieces of the game. It is a game which has permeated nearly all of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|southern]] [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] cultures.
 # History
-The origins of Nemein are lost to time, but current theories suggest it originated early in the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. Anthropologists and historian [[Encyclopedia Mysenvaria/History/Biographies/Dian Fossey|Dian Fossey]] has posed that the game may trace its earliest origin to [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/God of Tectonics|God of Tectonics]]. Many folk tales are told and have been passed down regarding the origins of the game, these tales often tell of Gods who would challenge mortals during the God-War or vice versa.
+The origins of Nemein are lost to time, but current theories suggest it originated early in the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. Anthropologists and historian [[Encyclopedia Mysenvaria/History/Biographies/Dian Fossey|Dian Fossey]] has posed that the game may trace its earliest origin to [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics]]. Many folk tales are told and have been passed down regarding the origins of the game, these tales often tell of Gods who would challenge mortals during the God-War or vice versa.
 
 
 # Rules
 The most common variation of Nemein is played with two players on a board consisting of hexagons.
 
-Nemein is played on a simple hexagonal board with 2 players. Its a strategy game where players fight to control more of the board. Players must use coins of different nationalities, starting by choosing a handful of change which adds up to a corresponding whole fraction of their nations currency but which does not exceed a certain number of coins. (I.E. with USD you could choose a quarter, four dimes, six nickels, and five pennies, but you couldnt just choose a hundred pennies.)
+Nemein is played on a simple hexagonal board with 2 players. Its a strategy game where players fight to control more of the board. Players must use coins of different nationalities, starting by choosing a handful of change which adds up to a corresponding whole fraction of their nations currency but which does not exceed a certain number of coins. (I.E. with USD you could choose a quarter, four dimes, six nickels, and five pennies, but you couldn't just choose a hundred pennies.)
   Heads and tails correspond to units or houses respectively. One of each action may be taken by a player each turn (I.E. you can move a unit and turn a unit into a house in one turn, but you cant move two units in a turn):
 1. Move a unit;
 2. Split a unit;

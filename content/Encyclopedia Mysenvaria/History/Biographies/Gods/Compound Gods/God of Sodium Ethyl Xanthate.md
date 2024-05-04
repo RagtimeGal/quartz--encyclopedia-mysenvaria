@@ -11,6 +11,10 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
+> [!summary] God of Sodium Ethyl Xanthate
+> > [!info] Creator(s)
+> > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sulfur|God of Sulfur]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|God of Sodium]], 
+
 # History
 
 # Appearance

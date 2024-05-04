@@ -11,6 +11,10 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
+> [!summary] God of Carbon Monoxide
+> > [!info] Creator(s)
+> > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]], 
+
 # History
 
 # Appearance

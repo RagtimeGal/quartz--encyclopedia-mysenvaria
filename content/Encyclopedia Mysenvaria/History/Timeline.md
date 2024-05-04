@@ -19,7 +19,7 @@ tags:
 - 426bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|Dwarves Created]]
 - 421bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Elf|Elves Created]]
 - 419bt: [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Founding of Sextown]]
-- 404bt: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/God of Tectonics|God of Tectonics Slain]]
+- 404bt: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics Slain]]
 - 388bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Demi-God|First Demi-God Born]], [[Encyclopedia Mysenvaria/History/Biographies/Josh Soundson|Josh Soundson]]
 - 386bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Third Council|Third God Council Held]]
 - 337bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fourth Council|Fourth God Council Held]]
@@ -38,7 +38,6 @@ tags:
 - 0bt: [[Encyclopedia Mysenvaria/Geography/Astrography/Harmonic Treaty|Harmonic Treaty Signed]]
 
 # [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]
-
 
 # [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]
 

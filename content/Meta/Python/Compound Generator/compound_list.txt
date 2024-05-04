@@ -1,0 +1,586 @@
+Oxygen-->Thymolphthalein
+Carbon-->Thymolphthalein
+Hydrogen-->Thymolphthalein
+Cobalt-->Cyanocobalamin
+Phosphorus-->Cyanocobalamin
+Oxygen-->Cyanocobalamin
+Nitrogen-->Cyanocobalamin
+Carbon-->Cyanocobalamin
+Hydrogen-->Cyanocobalamin
+Sodium-->SodiumHydroxide
+Oxygen-->SodiumHydroxide
+Hydrogen-->SodiumHydroxide
+Calcium-->CalciumHydroxide
+Oxygen-->CalciumHydroxide
+Hydrogen-->CalciumHydroxide
+Oxygen-->NitricAcid
+Nitrogen-->NitricAcid
+Hydrogen-->NitricAcid
+Sulfur-->Volanesorsen
+Phosphorus-->Volanesorsen
+Oxygen-->Volanesorsen
+Nitrogen-->Volanesorsen
+Carbon-->Volanesorsen
+Hydrogen-->Volanesorsen
+Oxygen-->Phenylalanine
+Nitrogen-->Phenylalanine
+Carbon-->Phenylalanine
+Hydrogen-->Phenylalanine
+Oxygen-->PantothenicAcid
+Nitrogen-->PantothenicAcid
+Carbon-->PantothenicAcid
+Hydrogen-->PantothenicAcid
+Silicon-->SiliconDioxide
+Oxygen-->SiliconDioxide
+Sulfur-->SodiumSulfide
+Sodium-->SodiumSulfide
+Hydrogen-->SodiumSulfide
+Oxygen-->Imatinib
+Nitrogen-->Imatinib
+Carbon-->Imatinib
+Hydrogen-->Imatinib
+Oxygen-->AmmoniumNitrate
+Nitrogen-->AmmoniumNitrate
+Hydrogen-->AmmoniumNitrate
+Oxygen-->Hydroquinone
+Carbon-->Hydroquinone
+Hydrogen-->Hydroquinone
+Oxygen-->Ethanol-d3
+Carbon-->Ethanol-d3
+Hydrogen-->Ethanol-d3
+Oxygen-->RetinoicAcid
+Carbon-->RetinoicAcid
+Hydrogen-->RetinoicAcid
+Oxygen-->Cyclopentadecanolide
+Carbon-->Cyclopentadecanolide
+Hydrogen-->Cyclopentadecanolide
+Calcium-->CalciumChloride
+Chlorine-->CalciumChloride
+Oxygen-->HydrogenPeroxide
+Hydrogen-->HydrogenPeroxide
+Oxygen-->Glycine
+Nitrogen-->Glycine
+Carbon-->Glycine
+Hydrogen-->Glycine
+Thorium-->ThoriumSulfide
+Sulfur-->ThoriumSulfide
+Thorium-->ThoriumDioxalate
+Oxygen-->ThoriumDioxalate
+Carbon-->ThoriumDioxalate
+Hydrogen-->ThoriumDioxalate
+Oxygen-->MandelonitrileBeta-glucuronide
+Nitrogen-->MandelonitrileBeta-glucuronide
+Carbon-->MandelonitrileBeta-glucuronide
+Hydrogen-->MandelonitrileBeta-glucuronide
+Chlorine-->Atrazine
+Nitrogen-->Atrazine
+Carbon-->Atrazine
+Hydrogen-->Atrazine
+Fluorine-->Dexamethasone
+Oxygen-->Dexamethasone
+Carbon-->Dexamethasone
+Hydrogen-->Dexamethasone
+Oxygen-->Levocarnitine
+Nitrogen-->Levocarnitine
+Carbon-->Levocarnitine
+Hydrogen-->Levocarnitine
+Chlorine-->ThionylChloride
+Sulfur-->ThionylChloride
+Oxygen-->ThionylChloride
+Oxygen-->AsparticAcid
+Nitrogen-->AsparticAcid
+Carbon-->AsparticAcid
+Hydrogen-->AsparticAcid
+Yttrium-->YttriumOxide
+Oxygen-->YttriumOxide
+Oxygen-->Sucrose
+Carbon-->Sucrose
+Hydrogen-->Sucrose
+Oxygen-->Prednisolone
+Carbon-->Prednisolone
+Hydrogen-->Prednisolone
+Calcium-->CalciumOxide
+Oxygen-->CalciumOxide
+Oxygen-->Phytonadione
+Carbon-->Phytonadione
+Hydrogen-->Phytonadione
+Tantalum-->TantalumEthoxide
+Oxygen-->TantalumEthoxide
+Carbon-->TantalumEthoxide
+Hydrogen-->TantalumEthoxide
+Calcium-->CalciumAcetate
+Oxygen-->CalciumAcetate
+Carbon-->CalciumAcetate
+Hydrogen-->CalciumAcetate
+Sulfur-->SodiumSulfate
+Sodium-->SodiumSulfate
+Oxygen-->SodiumSulfate
+Oxygen-->UndecylenicAcid
+Carbon-->UndecylenicAcid
+Hydrogen-->UndecylenicAcid
+Nitrogen-->Tetrahydropyridine
+Carbon-->Tetrahydropyridine
+Hydrogen-->Tetrahydropyridine
+Zinc-->ZincOxide
+Oxygen-->ZincOxide
+Oxygen-->NitricOxide
+Nitrogen-->NitricOxide
+Potassium-->PotassiumCarbonate
+Oxygen-->PotassiumCarbonate
+Carbon-->PotassiumCarbonate
+Sulfur-->SodiumDodecylSulfate
+Sodium-->SodiumDodecylSulfate
+Oxygen-->SodiumDodecylSulfate
+Carbon-->SodiumDodecylSulfate
+Hydrogen-->SodiumDodecylSulfate
+Oxygen-->Isotretinoin
+Carbon-->Isotretinoin
+Hydrogen-->Isotretinoin
+Calcium-->CalciumNitrate
+Oxygen-->CalciumNitrate
+Nitrogen-->CalciumNitrate
+Oxygen-->OctanicAcid
+Carbon-->OctanicAcid
+Hydrogen-->OctanicAcid
+Oxygen-->LinolenicAcid
+Carbon-->LinolenicAcid
+Hydrogen-->LinolenicAcid
+Phosphorus-->AdenylicAcid
+Oxygen-->AdenylicAcid
+Nitrogen-->AdenylicAcid
+Carbon-->AdenylicAcid
+Hydrogen-->AdenylicAcid
+Oxygen-->NitrousOxide
+Nitrogen-->NitrousOxide
+Sulfur-->Parathion
+Phosphorus-->Parathion
+Oxygen-->Parathion
+Nitrogen-->Parathion
+Carbon-->Parathion
+Hydrogen-->Parathion
+Sulfur-->SodiumEthylXanthate
+Sodium-->SodiumEthylXanthate
+Oxygen-->SodiumEthylXanthate
+Carbon-->SodiumEthylXanthate
+Hydrogen-->SodiumEthylXanthate
+Thorium-->ThoriumFluoride
+Fluorine-->ThoriumFluoride
+Oxygen-->Warfarin
+Carbon-->Warfarin
+Hydrogen-->Warfarin
+Sodium-->SodiumCarbonate
+Oxygen-->SodiumCarbonate
+Carbon-->SodiumCarbonate
+Nitrogen-->HydrogenCyanide
+Carbon-->HydrogenCyanide
+Hydrogen-->HydrogenCyanide
+Oxygen-->Nicotinamide
+Nitrogen-->Nicotinamide
+Carbon-->Nicotinamide
+Hydrogen-->Nicotinamide
+Oxygen-->Caffeine
+Nitrogen-->Caffeine
+Carbon-->Caffeine
+Hydrogen-->Caffeine
+Oxygen-->Ethanol
+Carbon-->Ethanol
+Hydrogen-->Ethanol
+Europium-->EuropiumChloride
+Chlorine-->EuropiumChloride
+Thorium-->Tetrafluorothorium
+Fluorine-->Tetrafluorothorium
+Oxygen-->Rotenone
+Carbon-->Rotenone
+Hydrogen-->Rotenone
+Nitrogen-->Nicotine
+Carbon-->Nicotine
+Hydrogen-->Nicotine
+Oxygen-->NicotinicAcid
+Nitrogen-->NicotinicAcid
+Carbon-->NicotinicAcid
+Hydrogen-->NicotinicAcid
+Oxygen-->DinitrogenTetroxide
+Nitrogen-->DinitrogenTetroxide
+Calcium-->CalciumSulfide
+Sulfur-->CalciumSulfide
+Europium-->EuropiumAcetate
+Oxygen-->EuropiumAcetate
+Carbon-->EuropiumAcetate
+Hydrogen-->EuropiumAcetate
+Oxygen-->LinoleicAcid
+Carbon-->LinoleicAcid
+Hydrogen-->LinoleicAcid
+Potassium-->PotassiumNitrate
+Oxygen-->PotassiumNitrate
+Nitrogen-->PotassiumNitrate
+Oxygen-->Cyclopentanol
+Carbon-->Cyclopentanol
+Hydrogen-->Cyclopentanol
+Oxygen-->CarbonDioxide
+Carbon-->CarbonDioxide
+Oxygen-->Tyrosine
+Nitrogen-->Tyrosine
+Carbon-->Tyrosine
+Hydrogen-->Tyrosine
+Oxygen-->Calciferol
+Carbon-->Calciferol
+Hydrogen-->Calciferol
+Oxygen-->Allantoin
+Nitrogen-->Allantoin
+Carbon-->Allantoin
+Hydrogen-->Allantoin
+Oxygen-->NitrogenDioxide
+Nitrogen-->NitrogenDioxide
+Oxygen-->Fructose
+Carbon-->Fructose
+Hydrogen-->Fructose
+Chlorine-->DatelliptiumChloride
+Oxygen-->DatelliptiumChloride
+Nitrogen-->DatelliptiumChloride
+Carbon-->DatelliptiumChloride
+Hydrogen-->DatelliptiumChloride
+Oxygen-->Rutoside
+Carbon-->Rutoside
+Hydrogen-->Rutoside
+Oxygen-->Phenolphthalein
+Carbon-->Phenolphthalein
+Hydrogen-->Phenolphthalein
+Chlorine-->BenzethoniumChloride
+Oxygen-->BenzethoniumChloride
+Nitrogen-->BenzethoniumChloride
+Carbon-->BenzethoniumChloride
+Hydrogen-->BenzethoniumChloride
+Phosphorus-->HydrogenPhosphide
+Hydrogen-->HydrogenPhosphide
+Chlorine-->Chloramphenicol
+Oxygen-->Chloramphenicol
+Nitrogen-->Chloramphenicol
+Carbon-->Chloramphenicol
+Hydrogen-->Chloramphenicol
+Oxygen-->Pentylphenol
+Carbon-->Pentylphenol
+Hydrogen-->Pentylphenol
+Oxygen-->Brucine
+Nitrogen-->Brucine
+Carbon-->Brucine
+Hydrogen-->Brucine
+Sulfur-->CarbonDisulfide
+Carbon-->CarbonDisulfide
+Calcium-->CalciumCarbonate
+Oxygen-->CalciumCarbonate
+Carbon-->CalciumCarbonate
+Oxygen-->Riboflavin
+Nitrogen-->Riboflavin
+Carbon-->Riboflavin
+Hydrogen-->Riboflavin
+Oxygen-->Metronidazole
+Nitrogen-->Metronidazole
+Carbon-->Metronidazole
+Hydrogen-->Metronidazole
+Zinc-->ZincChloride
+Chlorine-->ZincChloride
+Phosphorus-->OrotidylicAcid
+Oxygen-->OrotidylicAcid
+Nitrogen-->OrotidylicAcid
+Carbon-->OrotidylicAcid
+Hydrogen-->OrotidylicAcid
+Oxygen-->Acetate
+Carbon-->Acetate
+Hydrogen-->Acetate
+Oxygen-->Glycerol
+Carbon-->Glycerol
+Hydrogen-->Glycerol
+Iodine-->CadmiumIodide
+Cadmium-->CadmiumIodide
+Oxygen-->Alitretinoin
+Carbon-->Alitretinoin
+Hydrogen-->Alitretinoin
+Oxygen-->AscorbicAcid
+Carbon-->AscorbicAcid
+Hydrogen-->AscorbicAcid
+Oxygen-->Benzoylmethylecgonine
+Nitrogen-->Benzoylmethylecgonine
+Carbon-->Benzoylmethylecgonine
+Hydrogen-->Benzoylmethylecgonine
+Thallium-->EthanolThallium
+Oxygen-->EthanolThallium
+Carbon-->EthanolThallium
+Hydrogen-->EthanolThallium
+Oxygen-->Water
+Hydrogen-->Water
+Oxygen-->Menadione
+Carbon-->Menadione
+Hydrogen-->Menadione
+Sulfur-->Thiamine
+Oxygen-->Thiamine
+Nitrogen-->Thiamine
+Carbon-->Thiamine
+Hydrogen-->Thiamine
+Oxygen-->Ozone
+Oxygen-->Penguinone
+Carbon-->Penguinone
+Hydrogen-->Penguinone
+Chlorine-->ThiamineChloride
+Sulfur-->ThiamineChloride
+Oxygen-->ThiamineChloride
+Nitrogen-->ThiamineChloride
+Carbon-->ThiamineChloride
+Hydrogen-->ThiamineChloride
+Oxygen-->MalonicAcid
+Carbon-->MalonicAcid
+Hydrogen-->MalonicAcid
+Magnesium-->MagnesiumEthoxide
+Oxygen-->MagnesiumEthoxide
+Carbon-->MagnesiumEthoxide
+Hydrogen-->MagnesiumEthoxide
+Oxygen-->AminobenzoicAcid
+Nitrogen-->AminobenzoicAcid
+Carbon-->AminobenzoicAcid
+Hydrogen-->AminobenzoicAcid
+Oxygen-->Glucose
+Carbon-->Glucose
+Hydrogen-->Glucose
+Thorium-->ThoriumTetranitrate
+Oxygen-->ThoriumTetranitrate
+Nitrogen-->ThoriumTetranitrate
+Oxygen-->Rocaltrol
+Carbon-->Rocaltrol
+Hydrogen-->Rocaltrol
+Oxygen-->AnthranilicAcid
+Nitrogen-->AnthranilicAcid
+Carbon-->AnthranilicAcid
+Hydrogen-->AnthranilicAcid
+Oxygen-->Hyperol
+Nitrogen-->Hyperol
+Carbon-->Hyperol
+Hydrogen-->Hyperol
+Oxygen-->Nitrophenol
+Nitrogen-->Nitrophenol
+Carbon-->Nitrophenol
+Hydrogen-->Nitrophenol
+Potassium-->PotassiumCyanide
+Nitrogen-->PotassiumCyanide
+Carbon-->PotassiumCyanide
+Phosphorus-->DiammoniumPhosphate
+Oxygen-->DiammoniumPhosphate
+Nitrogen-->DiammoniumPhosphate
+Hydrogen-->DiammoniumPhosphate
+Oxygen-->Trioxidane
+Hydrogen-->Trioxidane
+Thallium-->ThalliumEthoxide
+Oxygen-->ThalliumEthoxide
+Carbon-->ThalliumEthoxide
+Hydrogen-->ThalliumEthoxide
+Oxygen-->CarbonMonoxide
+Carbon-->CarbonMonoxide
+Europium-->Trichloroeuropium
+Chlorine-->Trichloroeuropium
+Oxygen-->Calcifediol
+Carbon-->Calcifediol
+Hydrogen-->Calcifediol
+Nitrogen-->Benzeneethanamine
+Carbon-->Benzeneethanamine
+Hydrogen-->Benzeneethanamine
+Oxygen-->Geraniol
+Carbon-->Geraniol
+Hydrogen-->Geraniol
+Chlorine-->Triclosan
+Oxygen-->Triclosan
+Carbon-->Triclosan
+Hydrogen-->Triclosan
+Oxygen-->SalicylicAcid
+Carbon-->SalicylicAcid
+Hydrogen-->SalicylicAcid
+Oxygen-->Retinol
+Carbon-->Retinol
+Hydrogen-->Retinol
+Oxygen-->Dicumarol
+Carbon-->Dicumarol
+Hydrogen-->Dicumarol
+Oxygen-->Dideuteroathanol
+Carbon-->Dideuteroathanol
+Hydrogen-->Dideuteroathanol
+Titanium-->TitaniumDioxide
+Oxygen-->TitaniumDioxide
+Oxygen-->Urea
+Nitrogen-->Urea
+Carbon-->Urea
+Hydrogen-->Urea
+Thorium-->ThoriumOxide
+Oxygen-->ThoriumOxide
+Europium-->EuropiumOxide
+Oxygen-->EuropiumOxide
+Oxygen-->Cholecalciferol
+Carbon-->Cholecalciferol
+Hydrogen-->Cholecalciferol
+Sulfur-->Inarigivir
+Phosphorus-->Inarigivir
+Oxygen-->Inarigivir
+Nitrogen-->Inarigivir
+Carbon-->Inarigivir
+Hydrogen-->Inarigivir
+Oxygen-->FolicAcid
+Nitrogen-->FolicAcid
+Carbon-->FolicAcid
+Hydrogen-->FolicAcid
+Sulfur-->Biotin
+Oxygen-->Biotin
+Nitrogen-->Biotin
+Carbon-->Biotin
+Hydrogen-->Biotin
+Thorium-->ThoriumChloride
+Chlorine-->ThoriumChloride
+Carbon-->Beta-carotene
+Hydrogen-->Beta-carotene
+Sulfur-->MagnesiumSulfate
+Magnesium-->MagnesiumSulfate
+Oxygen-->MagnesiumSulfate
+Chlorine-->PhenethylamineHydrochloride
+Nitrogen-->PhenethylamineHydrochloride
+Carbon-->PhenethylamineHydrochloride
+Hydrogen-->PhenethylamineHydrochloride
+Oxygen-->Aspirin
+Carbon-->Aspirin
+Hydrogen-->Aspirin
+subgraph CompoundGods[Compound Gods]
+direction LR
+Acetate
+ AdenylicAcid[Adenylic Acid]
+ Alitretinoin
+ Allantoin
+ AminobenzoicAcid[Aminobenzoic Acid]
+ AmmoniumNitrate[Ammonium Nitrate]
+ AnthranilicAcid[Anthranilic Acid]
+ AscorbicAcid[Ascorbic Acid]
+ AsparticAcid[Aspartic Acid]
+ Aspirin
+ Atrazine
+ Benzeneethanamine
+ BenzethoniumChloride[Benzethonium Chloride]
+ Benzoylmethylecgonine
+ Beta-carotene
+ Biotin
+ Brucine
+ CadmiumIodide[Cadmium Iodide]
+ Caffeine
+ Calcifediol
+ Calciferol
+ CalciumAcetate[Calcium Acetate]
+ CalciumCarbonate[Calcium Carbonate]
+ CalciumChloride[Calcium Chloride]
+ CalciumHydroxide[Calcium Hydroxide]
+ CalciumNitrate[Calcium Nitrate]
+ CalciumOxide[Calcium Oxide]
+ CalciumSulfide[Calcium Sulfide]
+ CarbonDioxide[Carbon Dioxide]
+ CarbonDisulfide[Carbon Disulfide]
+ CarbonMonoxide[Carbon Monoxide]
+ Chloramphenicol
+ Cholecalciferol
+ Cyanocobalamin
+ Cyclopentadecanolide
+ Cyclopentanol
+ DatelliptiumChloride[Datelliptium Chloride]
+ Dexamethasone
+ DiammoniumPhosphate[Diammonium Phosphate]
+ Dicumarol
+ Dideuteroathanol
+ DinitrogenTetroxide[Dinitrogen Tetroxide]
+ Ethanol
+ EthanolThallium[Ethanol Thallium]
+ Ethanol-d3
+ EuropiumAcetate[Europium Acetate]
+ EuropiumChloride[Europium Chloride]
+ EuropiumOxide[Europium Oxide]
+ FolicAcid[Folic Acid]
+ Fructose
+ Geraniol
+ Glucose
+ Glycerol
+ Glycine
+ HydrogenCyanide[Hydrogen Cyanide]
+ HydrogenPeroxide[Hydrogen Peroxide]
+ HydrogenPhosphide[Hydrogen Phosphide]
+ Hydroquinone
+ Hyperol
+ Imatinib
+ Imetelstate
+ Inarigivir
+ Isotretinoin
+ Levocarnitine
+ LinoleicAcid[Linoleic Acid]
+ LinolenicAcid[Linolenic Acid]
+ MagnesiumEthoxide[Magnesium Ethoxide]
+ MagnesiumSulfate[Magnesium Sulfate]
+ MalonicAcid[Malonic Acid]
+ MandelonitrileBeta-glucuronide[Mandelonitrile Beta-glucuronide]
+ Menadione
+ Metronidazole
+ Nicotinamide
+ Nicotine
+ NicotinicAcid[Nicotinic Acid]
+ NitricAcid[Nitric Acid]
+ NitricOxide[Nitric Oxide]
+ NitrogenDioxide[Nitrogen Dioxide]
+ Nitrophenol
+ NitrousOxide[Nitrous Oxide]
+ OctanicAcid[Octanic Acid]
+ OrotidylicAcid[Orotidylic Acid]
+ Ozone
+ PantothenicAcid[Pantothenic Acid]
+ Parathion
+ Penguinone
+ Pentylphenol
+ PhenethylamineHydrochloride[Phenethylamine Hydrochloride]
+ Phenolphthalein
+ Phenylalanine
+ Phytonadione
+ PotassiumCarbonate[Potassium Carbonate]
+ PotassiumCyanide[Potassium Cyanide]
+ PotassiumNitrate[Potassium Nitrate]
+ Prednisolone
+ RetinoicAcid[Retinoic Acid]
+ Retinol
+ Riboflavin
+ Rocaltrol
+ Rotenone
+ Rutoside
+ SalicylicAcid[Salicylic Acid]
+ SiliconDioxide[Silicon Dioxide]
+ SodiumCarbonate[Sodium Carbonate]
+ SodiumDodecylSulfate[Sodium Dodecyl Sulfate]
+ SodiumEthylXanthate[Sodium Ethyl Xanthate]
+ SodiumHydroxide[Sodium Hydroxide]
+ SodiumSulfate[Sodium Sulfate]
+ SodiumSulfide[Sodium Sulfide]
+ Sucrose
+ TantalumEthoxide[Tantalum Ethoxide]
+ Tetrafluorothorium
+ Tetrahydropyridine
+ ThalliumEthoxide[Thallium Ethoxide]
+ Thiamine
+ ThiamineChloride[Thiamine Chloride]
+ ThionylChloride[Thionyl Chloride]
+ ThorioumSulphate[Thorioum Sulphate]
+ ThoriumChloride[Thorium Chloride]
+ ThoriumDioxalate[Thorium Dioxalate]
+ ThoriumFluoride[Thorium Fluoride]
+ ThoriumOxide[Thorium Oxide]
+ ThoriumSulfide[Thorium Sulfide]
+ ThoriumTetranitrate[Thorium Tetranitrate]
+ Thymolphthalein
+ TitaniumDioxide[Titanium Dioxide]
+ Trichloroeuropium
+ Triclosan
+ Trioxidane
+ Tyrosine
+ UndecylenicAcid[Undecylenic Acid]
+ Urea
+ Volanesorsen
+ Warfarin
+ Water
+ YttriumOxide[Yttrium Oxide]
+ ZincChloride[Zinc Chloride]
+ ZincOxide[Zinc Oxide]
+ end
+

@@ -106,7 +106,6 @@ This page serves as an index of climates sorted in alphabetical order.
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Climates/Southeast Mediterranean|Southeast Mediterranean]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Climates/Southeastern Steppes|Southeastern Steppes]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Climates/Southern Cap|Southern Cap]]
-- [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape|Southern Crater Scape]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Climates/Southern Desert|Southern Desert]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Climates/Southern Isolated Monsoon|Southern Isolated Monsoon]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Climates/Southern Isolated Jungles|Southern Isolated Jungles]]

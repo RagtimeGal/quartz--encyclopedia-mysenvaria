@@ -1,0 +1,2000 @@
+Selected Group: Reptile
+Animal 1: Skink
+Animal 2: Pigeon
+
+Selected Group: Amphibian
+Animal 1: Tree Frog
+Animal 2: Glass Frog
+
+Selected Group: Aquatic
+Animal 1: Orca
+Animal 2: Frog
+
+Selected Group: Bird
+Animal 1: SeaBird
+Animal 2: Flamingo
+
+Selected Group: Apex Predator
+Animal 1: Orca
+Animal 2: Brown Bear
+
+Selected Group: Crustacean
+Animal 1: Crab
+Animal 2: Coconut Crab
+
+Selected Group: Aquatic
+Animal 1: Dolphin
+Animal 2: Seagull
+
+Selected Group: Subterraneous
+Animal 1: Scorpion
+Animal 2: Worm
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Squid
+
+Selected Group: Flying
+Animal 1: Parasitic Fly
+Animal 2: Firefly
+
+Selected Group: Cephalopod
+Animal 1: Octopus
+Animal 2: Nautilus
+
+Selected Group: Amphibian
+Animal 1: Frog
+Animal 2: Toad
+
+Selected Group: Bird
+Animal 1: Peacock
+Animal 2: Eagle
+
+Selected Group: Apex Predator
+Animal 1: Brown Bear
+Animal 2: Alligator
+
+Selected Group: Aquatic
+Animal 1: SwordFish
+Animal 2: Platypus
+
+Selected Group: Terrestrial
+Animal 1: Hawk
+Animal 2: Eagle
+
+Selected Group: Subterraneous
+Animal 1: Scorpion
+Animal 2: Trapdoor Spider
+
+Selected Group: Mammal
+Animal 1: Wildebeast
+Animal 2: Deer
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Frog
+
+Selected Group: Mammal
+Animal 1: Kangaroo
+Animal 2: Black Bear
+
+Selected Group: Vermin
+Animal 1: Spider
+Animal 2: Octopus
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: CuttleFish
+
+Selected Group: Flightless
+Animal 1: Porcupine
+Animal 2: Frog
+
+Selected Group: Insect
+Animal 1: Aquatic Spider
+Animal 2: Pillbug
+
+Selected Group: Fish
+Animal 1: Salmon
+Animal 2: Land Fish
+
+Selected Group: Flying
+Animal 1: Wasp
+Animal 2: Parasitic Wasp
+
+Selected Group: Reptile
+Animal 1: Flamingo
+Animal 2: Sea Turtle
+
+Selected Group: Mammal
+Animal 1: Rat
+Animal 2: Flying Squirrel
+
+Selected Group: Bird
+Animal 1: Emu
+Animal 2: Flamingo
+
+Selected Group: Mammal
+Animal 1: Monkey
+Animal 2: Pig
+
+Selected Group: Mammal
+Animal 1: Elephant
+Animal 2: Ferret
+
+Selected Group: Apex Predator
+Animal 1: Crocodile
+Animal 2: Tiger
+
+Selected Group: Mammal
+Animal 1: Kangaroo
+Animal 2: Oppossum
+
+Selected Group: Aquatic
+Animal 1: Salmon
+Animal 2: StarFish
+
+Selected Group: Crustacean
+Animal 1: Lobster
+Animal 2: Crab
+
+Selected Group: Apex Predator
+Animal 1: Tiger
+Animal 2: Cobra
+
+Selected Group: Flightless
+Animal 1: Coral
+Animal 2: StarFish
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Barnacle
+
+Selected Group: Insect
+Animal 1: Stag Beetle
+Animal 2: Scorpion
+
+Selected Group: Bird
+Animal 1: Secretary Bird
+Animal 2: Kiwi
+
+Selected Group: Bird
+Animal 1: Kiwi
+Animal 2: Parrot
+
+Selected Group: Terrestrial
+Animal 1: Platypus
+Animal 2: Tree Frog
+
+Selected Group: Fish
+Animal 1: Lamprey
+Animal 2: Salmon
+
+Selected Group: Crustacean
+Animal 1: Coconut Crab
+Animal 2: Crab
+
+Selected Group: Crustacean
+Animal 1: Coconut Crab
+Animal 2: Crab
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Squid
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Frog
+
+Selected Group: Subterraneous
+Animal 1: Scorpion
+Animal 2: Worm
+
+Selected Group: Reptile
+Animal 1: Sea Turtle
+Animal 2: Kiwi
+
+Selected Group: Mammal
+Animal 1: Mountain Goat
+Animal 2: Quagga/Zebra
+
+Selected Group: Flying
+Animal 1: Owl
+Animal 2: Bat
+
+Selected Group: Fish
+Animal 1: Cleaner Fish
+Animal 2: Salmon
+
+Selected Group: Aquatic
+Animal 1: Albatross
+Animal 2: Lamprey
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: Nautilus
+
+Selected Group: Reptile
+Animal 1: Skink
+Animal 2: Albatross
+
+Selected Group: Insect
+Animal 1: Firefly
+Animal 2: Whip Spider
+
+Selected Group: Crustacean
+Animal 1: Shrimp
+Animal 2: Lobster
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Octopus
+
+Selected Group: Flightless
+Animal 1: Crocodile
+Animal 2: Freshwater Fish
+
+Selected Group: Apex Predator
+Animal 1: Shark
+Animal 2: Alligator
+
+Selected Group: Crustacean
+Animal 1: Lobster
+Animal 2: Burrowing Crab
+
+Selected Group: Amphibian
+Animal 1: Toad
+Animal 2: Axolotl
+
+Selected Group: Insect
+Animal 1: Weevil
+Animal 2: Parasitic Wasp
+
+Selected Group: Reptile
+Animal 1: Chameleon
+Animal 2: Ostrich
+
+Selected Group: Insect
+Animal 1: Parasitic Wasp
+Animal 2: Cricket
+
+Selected Group: Fish
+Animal 1: Shark
+Animal 2: Eel
+
+Selected Group: Subterraneous
+Animal 1: Scorpion
+Animal 2: Trapdoor Spider
+
+Selected Group: Terrestrial
+Animal 1: Possum
+Animal 2: Snake
+
+Selected Group: Flightless
+Animal 1: Kiwi
+Animal 2: Lamprey
+
+Selected Group: Aquatic
+Animal 1: Salmon
+Animal 2: Salamander
+
+Selected Group: Subterraneous
+Animal 1: Bee
+Animal 2: Gopher
+
+Selected Group: Flightless
+Animal 1: Water Beetle
+Animal 2: Crocodile
+
+Selected Group: Aquatic
+Animal 1: Crocodile
+Animal 2: Tropical Fish
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: CuttleFish
+
+Selected Group: Aquatic
+Animal 1: Sea Snake
+Animal 2: Dart Frog
+
+Selected Group: Flightless
+Animal 1: Beluga
+Animal 2: Elephant
+
+Selected Group: Bird
+Animal 1: Secretary Bird
+Animal 2: Owl
+
+Selected Group: Reptile
+Animal 1: Pigeon
+Animal 2: Duck
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Barnacle
+
+Selected Group: Apex Predator
+Animal 1: Hawk
+Animal 2: Shark
+
+Selected Group: Apex Predator
+Animal 1: Emu
+Animal 2: Tiger
+
+Selected Group: Flying
+Animal 1: Water Beetle
+Animal 2: Flying Fish
+
+Selected Group: Crustacean
+Animal 1: Lobster
+Animal 2: Coconut Crab
+
+Selected Group: Apex Predator
+Animal 1: Lion
+Animal 2: Cobra
+
+Selected Group: Reptile
+Animal 1: Pigeon
+Animal 2: Ostrich
+
+Selected Group: Reptile
+Animal 1: Turtle
+Animal 2: Emu
+
+Selected Group: Amphibian
+Animal 1: Glass Frog
+Animal 2: Frog
+
+Selected Group: Insect
+Animal 1: Weevil
+Animal 2: Termite
+
+Selected Group: Flightless
+Animal 1: Ostrich
+Animal 2: Eel
+
+Selected Group: Flightless
+Animal 1: Ostrich
+Animal 2: Deer
+
+Selected Group: Insect
+Animal 1: Stick Bug
+Animal 2: Termite
+
+Selected Group: Subterraneous
+Animal 1: Burrowing Crab
+Animal 2: Trapdoor Spider
+
+Selected Group: Apex Predator
+Animal 1: Cobra
+Animal 2: SwordFish
+
+Selected Group: Flying
+Animal 1: Bat
+Animal 2: Parachute Spider
+
+Selected Group: Vermin
+Animal 1: Scorpion
+Animal 2: Water Beetle
+
+Selected Group: Reptile
+Animal 1: Snake
+Animal 2: Albatross
+
+Selected Group: Flightless
+Animal 1: Pig
+Animal 2: Wild dog
+
+Selected Group: Amphibian
+Animal 1: Toad
+Animal 2: Salamander
+
+Selected Group: Apex Predator
+Animal 1: Panther
+Animal 2: Tiger
+
+Selected Group: Vermin
+Animal 1: Coconut Crab
+Animal 2: Spider
+
+Selected Group: Reptile
+Animal 1: Alligator
+Animal 2: Rattlesnake
+
+Selected Group: Flying
+Animal 1: Water Beetle
+Animal 2: Bee
+
+Selected Group: Reptile
+Animal 1: Crocodile
+Animal 2: Skink
+
+Selected Group: Reptile
+Animal 1: Sea Turtle
+Animal 2: Alligator
+
+Selected Group: Mammal
+Animal 1: Porpoise
+Animal 2: Scunk
+
+Selected Group: Aquatic
+Animal 1: Oyster
+Animal 2: Hippo
+
+Selected Group: Insect
+Animal 1: Parasitic Fly
+Animal 2: Stick Bug
+
+Selected Group: Mammal
+Animal 1: Cow
+Animal 2: Brown Bear
+
+Selected Group: Flightless
+Animal 1: Wild dog
+Animal 2: Tiger
+
+Selected Group: Reptile
+Animal 1: Arboreal Snake
+Animal 2: Hawk
+
+Selected Group: Terrestrial
+Animal 1: Salamander
+Animal 2: Dart Frog
+
+Selected Group: Insect
+Animal 1: Trapdoor Spider
+Animal 2: Parasitic Wasp
+
+Selected Group: Mammal
+Animal 1: Cow
+Animal 2: Tiger
+
+Selected Group: Insect
+Animal 1: Wasp
+Animal 2: Fly
+
+Selected Group: Insect
+Animal 1: Locust
+Animal 2: Parasitic Fly
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Tree Frog
+
+Selected Group: Bird
+Animal 1: Secretary Bird
+Animal 2: Owl
+
+Selected Group: Flightless
+Animal 1: Tiger
+Animal 2: Possum
+
+Selected Group: Subterraneous
+Animal 1: Worm
+Animal 2: Bee
+
+Selected Group: Flying
+Animal 1: Bee
+Animal 2: Peacock
+
+Selected Group: Flightless
+Animal 1: Termite
+Animal 2: Tree Frog
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: CuttleFish
+
+Selected Group: Insect
+Animal 1: Fly
+Animal 2: Ant
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Salamander
+
+Selected Group: Flying
+Animal 1: Parrot
+Animal 2: Locust
+
+Selected Group: Fish
+Animal 1: Flying Fish
+Animal 2: Lamprey
+
+Selected Group: Apex Predator
+Animal 1: Panther
+Animal 2: Alligator
+
+Selected Group: Apex Predator
+Animal 1: Shark
+Animal 2: Tiger
+
+Selected Group: Bird
+Animal 1: Pigeon
+Animal 2: Ostrich
+
+Selected Group: Reptile
+Animal 1: Pelican
+Animal 2: Duck
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Octopus
+
+Selected Group: Bird
+Animal 1: Ostrich
+Animal 2: Emu
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Glass Frog
+
+Selected Group: Vermin
+Animal 1: Trapdoor Spider
+Animal 2: Octopus
+
+Selected Group: Apex Predator
+Animal 1: Snake
+Animal 2: Shark
+
+Selected Group: Aquatic
+Animal 1: Coral
+Animal 2: Crocodile
+
+Selected Group: Amphibian
+Animal 1: Tree Frog
+Animal 2: Toad
+
+Selected Group: Flightless
+Animal 1: Mole
+Animal 2: Cheetah
+
+Selected Group: Terrestrial
+Animal 1: Polar Bear
+Animal 2: SeaBird
+
+Selected Group: Insect
+Animal 1: Parachute Spider
+Animal 2: Cricket
+
+Selected Group: Flightless
+Animal 1: Pangolin
+Animal 2: Salmon
+
+Selected Group: Subterraneous
+Animal 1: Scorpion
+Animal 2: Meercat
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Barnacle
+
+Selected Group: Crustacean
+Animal 1: Lobster
+Animal 2: Burrowing Crab
+
+Selected Group: Flying
+Animal 1: Mimic Beetle
+Animal 2: Chicken
+
+Selected Group: Flightless
+Animal 1: Lion
+Animal 2: Wolf
+
+Selected Group: Flying
+Animal 1: Seagull
+Animal 2: Cricket
+
+Selected Group: Subterraneous
+Animal 1: Gopher
+Animal 2: Termite
+
+Selected Group: Bird
+Animal 1: Song Bird
+Animal 2: Albatross
+
+Selected Group: Bird
+Animal 1: Pigeon
+Animal 2: Pelican
+
+Selected Group: Flying
+Animal 1: Cricket
+Animal 2: Pigeon
+
+Selected Group: Flightless
+Animal 1: Rabbit
+Animal 2: Tiger
+
+Selected Group: Aquatic
+Animal 1: Frog
+Animal 2: Crab
+
+Selected Group: Bird
+Animal 1: Seagull
+Animal 2: Parrot
+
+Selected Group: Insect
+Animal 1: Roach
+Animal 2: Fly
+
+Selected Group: Subterraneous
+Animal 1: Locust
+Animal 2: Gopher
+
+Selected Group: Crustacean
+Animal 1: Coconut Crab
+Animal 2: Burrowing Crab
+
+Selected Group: Subterraneous
+Animal 1: Gopher
+Animal 2: Burrowing Crab
+
+Selected Group: Bird
+Animal 1: Owl
+Animal 2: Duck
+
+Selected Group: Mammal
+Animal 1: Hyena
+Animal 2: Wolf
+
+Selected Group: Reptile
+Animal 1: Song Bird
+Animal 2: Cobra
+
+Selected Group: Aquatic
+Animal 1: Aquatic Spider
+Animal 2: Burrowing Crab
+
+Selected Group: Subterraneous
+Animal 1: Gopher
+Animal 2: Meercat
+
+Selected Group: Bird
+Animal 1: Albatross
+Animal 2: Duck
+
+Selected Group: Insect
+Animal 1: Butterfly/Moth
+Animal 2: Whip Spider
+
+Selected Group: Reptile
+Animal 1: Turtle
+Animal 2: Hawk
+
+Selected Group: Flightless
+Animal 1: Parrot
+Animal 2: Butterfly/Moth
+
+Selected Group: Crustacean
+Animal 1: Crab
+Animal 2: Burrowing Crab
+
+Selected Group: Aquatic
+Animal 1: Salamander
+Animal 2: Flamingo
+
+Selected Group: Amphibian
+Animal 1: Toad
+Animal 2: Salamander
+
+Selected Group: Vermin
+Animal 1: Scorpion
+Animal 2: Ant
+
+Selected Group: Terrestrial
+Animal 1: Platypus
+Animal 2: Possum
+
+Selected Group: Mammal
+Animal 1: Whale
+Animal 2: Armadillo
+
+Selected Group: Bird
+Animal 1: Seagull
+Animal 2: Secretary Bird
+
+Selected Group: Flying
+Animal 1: Hawk
+Animal 2: Eagle
+
+Selected Group: Flying
+Animal 1: Cricket
+Animal 2: Parrot
+
+Selected Group: Apex Predator
+Animal 1: Hawk
+Animal 2: Orca
+
+Selected Group: Flying
+Animal 1: Chicken
+Animal 2: Flying Squirrel
+
+Selected Group: Fish
+Animal 1: Land Fish
+Animal 2: Flying Fish
+
+Selected Group: Fish
+Animal 1: Lamprey
+Animal 2: Salmon
+
+Selected Group: Mammal
+Animal 1: Tiger
+Animal 2: Flying Squirrel
+
+Selected Group: Flightless
+Animal 1: Parrot
+Animal 2: Capybara
+
+Selected Group: Apex Predator
+Animal 1: Hawk
+Animal 2: Snake
+
+Selected Group: Fish
+Animal 1: Freshwater Fish
+Animal 2: Shark
+
+Selected Group: Bird
+Animal 1: Pelican
+Animal 2: Hawk
+
+Selected Group: Terrestrial
+Animal 1: Mole
+Animal 2: Turtle
+
+Selected Group: Flying
+Animal 1: Pigeon
+Animal 2: Duck
+
+Selected Group: Bird
+Animal 1: Owl
+Animal 2: Ostrich
+
+Selected Group: Reptile
+Animal 1: Sea Snake
+Animal 2: Chicken
+
+Selected Group: Vermin
+Animal 1: Trapdoor Spider
+Animal 2: StarFish
+
+Selected Group: Apex Predator
+Animal 1: Tiger
+Animal 2: Lion
+
+Selected Group: Bird
+Animal 1: Pelican
+Animal 2: Parrot
+
+Selected Group: Subterraneous
+Animal 1: Gopher
+Animal 2: Locust
+
+Selected Group: Mammal
+Animal 1: Weasel
+Animal 2: Scunk
+
+Selected Group: Aquatic
+Animal 1: Crab
+Animal 2: Beaver
+
+Selected Group: Bird
+Animal 1: Pelican
+Animal 2: Song Bird
+
+Selected Group: Flightless
+Animal 1: Armadillo
+Animal 2: Giraffe
+
+Selected Group: Cephalopod
+Animal 1: Octopus
+Animal 2: CuttleFish
+
+Selected Group: Flying
+Animal 1: Pigeon
+Animal 2: Bee
+
+Selected Group: Subterraneous
+Animal 1: Ant
+Animal 2: Mole
+
+Selected Group: Apex Predator
+Animal 1: Mountain Lion
+Animal 2: Panther
+
+Selected Group: Aquatic
+Animal 1: Dart Frog
+Animal 2: Axolotl
+
+Selected Group: Terrestrial
+Animal 1: Termite
+Animal 2: Oppossum
+
+Selected Group: Cephalopod
+Animal 1: Octopus
+Animal 2: Barnacle
+
+Selected Group: Flightless
+Animal 1: Ferret
+Animal 2: Moose
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: CuttleFish
+
+Selected Group: Insect
+Animal 1: Weevil
+Animal 2: Locust
+
+Selected Group: Terrestrial
+Animal 1: Toad
+Animal 2: Hawk
+
+Selected Group: Flightless
+Animal 1: Shrew
+Animal 2: Wild dog
+
+Selected Group: Vermin
+Animal 1: Ladybug
+Animal 2: Snail
+
+Selected Group: Flightless
+Animal 1: Roach
+Animal 2: Dolphin
+
+Selected Group: Crustacean
+Animal 1: Burrowing Crab
+Animal 2: Lobster
+
+Selected Group: Aquatic
+Animal 1: Freshwater Fish
+Animal 2: Cobra
+
+Selected Group: Vermin
+Animal 1: Squid
+Animal 2: Stag Beetle
+
+Selected Group: Mammal
+Animal 1: Tiger
+Animal 2: Bat
+
+Selected Group: Subterraneous
+Animal 1: Meercat
+Animal 2: Trapdoor Spider
+
+Selected Group: Flightless
+Animal 1: Octopus
+Animal 2: Shrew
+
+Selected Group: Subterraneous
+Animal 1: Worm
+Animal 2: Scorpion
+
+Selected Group: Terrestrial
+Animal 1: Glass Frog
+Animal 2: Flying Squirrel
+
+Selected Group: Flightless
+Animal 1: Barnacle
+Animal 2: Glass Frog
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Barnacle
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Nautilus
+
+Selected Group: Flightless
+Animal 1: Raccoon
+Animal 2: Sea Turtle
+
+Selected Group: Mammal
+Animal 1: Polar Bear
+Animal 2: Goat
+
+Selected Group: Terrestrial
+Animal 1: Owl
+Animal 2: Mimic Beetle
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: Nautilus
+
+Selected Group: Flightless
+Animal 1: Tiger
+Animal 2: Black Bear
+
+Selected Group: Reptile
+Animal 1: Chicken
+Animal 2: Song Bird
+
+Selected Group: Mammal
+Animal 1: Cow
+Animal 2: Quagga/Zebra
+
+Selected Group: Flightless
+Animal 1: Lobster
+Animal 2: Stag Beetle
+
+Selected Group: Mammal
+Animal 1: Hyena
+Animal 2: Otter
+
+Selected Group: Apex Predator
+Animal 1: Orca
+Animal 2: Crocodile
+
+Selected Group: Mammal
+Animal 1: Panther
+Animal 2: Ferret
+
+Selected Group: Crustacean
+Animal 1: Crab
+Animal 2: Burrowing Crab
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Glass Frog
+
+Selected Group: Subterraneous
+Animal 1: Meercat
+Animal 2: Locust
+
+Selected Group: Flying
+Animal 1: Weevil
+Animal 2: Hawk
+
+Selected Group: Reptile
+Animal 1: Sea Turtle
+Animal 2: Ostrich
+
+Selected Group: Bird
+Animal 1: Seagull
+Animal 2: Pelican
+
+Selected Group: Mammal
+Animal 1: Scunk
+Animal 2: Pangolin
+
+Selected Group: Aquatic
+Animal 1: Freshwater Fish
+Animal 2: Salamander
+
+Selected Group: Bird
+Animal 1: Pelican
+Animal 2: Parrot
+
+Selected Group: Insect
+Animal 1: Pillbug
+Animal 2: Ladybug
+
+Selected Group: Reptile
+Animal 1: Hawk
+Animal 2: Albatross
+
+Selected Group: Mammal
+Animal 1: Polar Bear
+Animal 2: Aye-Aye
+
+Selected Group: Apex Predator
+Animal 1: Brown Bear
+Animal 2: Snake
+
+Selected Group: Bird
+Animal 1: Secretary Bird
+Animal 2: Song Bird
+
+Selected Group: Terrestrial
+Animal 1: Snake
+Animal 2: Tree Frog
+
+Selected Group: Aquatic
+Animal 1: Platypus
+Animal 2: Barnacle
+
+Selected Group: Vermin
+Animal 1: StarFish
+Animal 2: Cricket
+
+Selected Group: Flying
+Animal 1: Flying Fish
+Animal 2: Flying Squirrel
+
+Selected Group: Vermin
+Animal 1: Cricket
+Animal 2: Snail
+
+Selected Group: Amphibian
+Animal 1: Tree Frog
+Animal 2: Dart Frog
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Axolotl
+
+Selected Group: Apex Predator
+Animal 1: Shark
+Animal 2: Owl
+
+Selected Group: Bird
+Animal 1: Ostrich
+Animal 2: Hawk
+
+Selected Group: Vermin
+Animal 1: CuttleFish
+Animal 2: Slug
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: CuttleFish
+
+Selected Group: Reptile
+Animal 1: Albatross
+Animal 2: Parrot
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Squid
+
+Selected Group: Subterraneous
+Animal 1: Locust
+Animal 2: Scorpion
+
+Selected Group: Cephalopod
+Animal 1: Octopus
+Animal 2: Barnacle
+
+Selected Group: Reptile
+Animal 1: Eagle
+Animal 2: Chicken
+
+Selected Group: Amphibian
+Animal 1: Glass Frog
+Animal 2: Axolotl
+
+Selected Group: Cephalopod
+Animal 1: Nautilus
+Animal 2: CuttleFish
+
+Selected Group: Flying
+Animal 1: Leaf Beetle
+Animal 2: Locust
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Tree Frog
+
+Selected Group: Flying
+Animal 1: Firefly
+Animal 2: Flying Fish
+
+Selected Group: Apex Predator
+Animal 1: Lion
+Animal 2: Black Bear
+
+Selected Group: Vermin
+Animal 1: Spider
+Animal 2: Ant
+
+Selected Group: Crustacean
+Animal 1: Burrowing Crab
+Animal 2: Shrimp
+
+Selected Group: Fish
+Animal 1: Eel
+Animal 2: Tropical Fish
+
+Selected Group: Mammal
+Animal 1: Flying Squirrel
+Animal 2: Hyena
+
+Selected Group: Crustacean
+Animal 1: Burrowing Crab
+Animal 2: Shrimp
+
+Selected Group: Amphibian
+Animal 1: Dart Frog
+Animal 2: Axolotl
+
+Selected Group: Flying
+Animal 1: Weevil
+Animal 2: Cricket
+
+Selected Group: Flying
+Animal 1: Owl
+Animal 2: SeaBird
+
+Selected Group: Subterraneous
+Animal 1: Burrowing Crab
+Animal 2: Scorpion
+
+Selected Group: Vermin
+Animal 1: Firefly
+Animal 2: StarFish
+
+Selected Group: Vermin
+Animal 1: Termite
+Animal 2: Mimic Beetle
+
+Selected Group: Aquatic
+Animal 1: Oyster
+Animal 2: SwordFish
+
+Selected Group: Subterraneous
+Animal 1: Trapdoor Spider
+Animal 2: Bee
+
+Selected Group: Vermin
+Animal 1: Mimic Beetle
+Animal 2: Pillbug
+
+Selected Group: Bird
+Animal 1: Emu
+Animal 2: Eagle
+
+Selected Group: Aquatic
+Animal 1: Alligator
+Animal 2: Beluga
+
+Selected Group: Subterraneous
+Animal 1: Bee
+Animal 2: Ant
+
+Selected Group: Reptile
+Animal 1: Secretary Bird
+Animal 2: Hawk
+
+Selected Group: Crustacean
+Animal 1: Crab
+Animal 2: Burrowing Crab
+
+Selected Group: Apex Predator
+Animal 1: Hawk
+Animal 2: Tiger
+
+Selected Group: Amphibian
+Animal 1: Frog
+Animal 2: Tree Frog
+
+Selected Group: Mammal
+Animal 1: Goat
+Animal 2: Scunk
+
+Selected Group: Fish
+Animal 1: Cleaner Fish
+Animal 2: Lamprey
+
+Selected Group: Terrestrial
+Animal 1: Leaf Beetle
+Animal 2: Mimic Beetle
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Barnacle
+
+Selected Group: Mammal
+Animal 1: Raccoon
+Animal 2: Monkey
+
+Selected Group: Apex Predator
+Animal 1: Polar Bear
+Animal 2: Eagle
+
+Selected Group: Terrestrial
+Animal 1: Flamingo
+Animal 2: Platypus
+
+Selected Group: Apex Predator
+Animal 1: Tiger
+Animal 2: Eagle
+
+Selected Group: Subterraneous
+Animal 1: Bee
+Animal 2: Trapdoor Spider
+
+Selected Group: Crustacean
+Animal 1: Shrimp
+Animal 2: Burrowing Crab
+
+Selected Group: Vermin
+Animal 1: Fly
+Animal 2: Ladybug
+
+Selected Group: Terrestrial
+Animal 1: Ant
+Animal 2: Flying Squirrel
+
+Selected Group: Insect
+Animal 1: Dragonfly
+Animal 2: Firefly
+
+Selected Group: Aquatic
+Animal 1: Crab
+Animal 2: Alligator
+
+Selected Group: Aquatic
+Animal 1: Worm
+Animal 2: Cleaner Fish
+
+Selected Group: Crustacean
+Animal 1: Coconut Crab
+Animal 2: Burrowing Crab
+
+Selected Group: Amphibian
+Animal 1: Tree Frog
+Animal 2: Salamander
+
+Selected Group: Mammal
+Animal 1: Scunk
+Animal 2: Cow
+
+Selected Group: Apex Predator
+Animal 1: Alligator
+Animal 2: Owl
+
+Selected Group: Amphibian
+Animal 1: Frog
+Animal 2: Toad
+
+Selected Group: Insect
+Animal 1: Mantis
+Animal 2: Cricket
+
+Selected Group: Apex Predator
+Animal 1: Crocodile
+Animal 2: Tiger
+
+Selected Group: Vermin
+Animal 1: Weevil
+Animal 2: Locust
+
+Selected Group: Mammal
+Animal 1: Beaver
+Animal 2: Horse
+
+Selected Group: Reptile
+Animal 1: Cobra
+Animal 2: Chicken
+
+Selected Group: Flying
+Animal 1: Seagull
+Animal 2: Dragonfly
+
+Selected Group: Flightless
+Animal 1: Quagga/Zebra
+Animal 2: Cleaner Fish
+
+Selected Group: Crustacean
+Animal 1: Coconut Crab
+Animal 2: Lobster
+
+Selected Group: Fish
+Animal 1: Lamprey
+Animal 2: Shark
+
+Selected Group: Reptile
+Animal 1: Chameleon
+Animal 2: Hawk
+
+Selected Group: Flying
+Animal 1: Peacock
+Animal 2: Secretary Bird
+
+Selected Group: Insect
+Animal 1: Bee
+Animal 2: Butterfly/Moth
+
+Selected Group: Reptile
+Animal 1: Seagull
+Animal 2: Skink
+
+Selected Group: Terrestrial
+Animal 1: Polar Bear
+Animal 2: Giraffe
+
+Selected Group: Flightless
+Animal 1: Beaver
+Animal 2: SwordFish
+
+Selected Group: Bird
+Animal 1: Duck
+Animal 2: Eagle
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Toad
+
+Selected Group: Vermin
+Animal 1: CuttleFish
+Animal 2: Stag Beetle
+
+Selected Group: Apex Predator
+Animal 1: Polar Bear
+Animal 2: Mountain Lion
+
+Selected Group: Aquatic
+Animal 1: JellyFish
+Animal 2: Slug
+
+Selected Group: Fish
+Animal 1: Lamprey
+Animal 2: Shark
+
+Selected Group: Terrestrial
+Animal 1: Giraffe
+Animal 2: Lion
+
+Selected Group: Cephalopod
+Animal 1: Nautilus
+Animal 2: Octopus
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Nautilus
+
+Selected Group: Bird
+Animal 1: Hawk
+Animal 2: Flamingo
+
+Selected Group: Amphibian
+Animal 1: Dart Frog
+Animal 2: Tree Frog
+
+Selected Group: Cephalopod
+Animal 1: Nautilus
+Animal 2: CuttleFish
+
+Selected Group: Flightless
+Animal 1: Beluga
+Animal 2: Lamprey
+
+Selected Group: Apex Predator
+Animal 1: Eagle
+Animal 2: Shark
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Tree Frog
+
+Selected Group: Flying
+Animal 1: Albatross
+Animal 2: Firefly
+
+Selected Group: Insect
+Animal 1: Wasp
+Animal 2: Bee
+
+Selected Group: Flying
+Animal 1: Seagull
+Animal 2: Butterfly/Moth
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Dart Frog
+
+Selected Group: Flightless
+Animal 1: Brown Bear
+Animal 2: Ape
+
+Selected Group: Vermin
+Animal 1: Shrimp
+Animal 2: JellyFish
+
+Selected Group: Flightless
+Animal 1: Possum
+Animal 2: Tiger
+
+Selected Group: Fish
+Animal 1: Tuna
+Animal 2: Land Fish
+
+Selected Group: Aquatic
+Animal 1: Snail
+Animal 2: Coconut Crab
+
+Selected Group: Vermin
+Animal 1: Barnacle
+Animal 2: Water Beetle
+
+Selected Group: Flying
+Animal 1: Weevil
+Animal 2: Mimic Beetle
+
+Selected Group: Reptile
+Animal 1: Sea Snake
+Animal 2: Crocodile
+
+Selected Group: Fish
+Animal 1: Flying Fish
+Animal 2: Eel
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Toad
+
+Selected Group: Flying
+Animal 1: Secretary Bird
+Animal 2: Owl
+
+Selected Group: Flying
+Animal 1: Fly
+Animal 2: Parasitic Wasp
+
+Selected Group: Mammal
+Animal 1: Reindeer
+Animal 2: Capybara
+
+Selected Group: Reptile
+Animal 1: Albatross
+Animal 2: Emu
+
+Selected Group: Mammal
+Animal 1: Horse
+Animal 2: Lemur
+
+Selected Group: Mammal
+Animal 1: Beaver
+Animal 2: Shrew
+
+Selected Group: Amphibian
+Animal 1: Tree Frog
+Animal 2: Glass Frog
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Axolotl
+
+Selected Group: Apex Predator
+Animal 1: Tiger
+Animal 2: SwordFish
+
+Selected Group: Apex Predator
+Animal 1: Owl
+Animal 2: Alligator
+
+Selected Group: Apex Predator
+Animal 1: Shark
+Animal 2: Snake
+
+Selected Group: Flightless
+Animal 1: Crab
+Animal 2: Wildebeast
+
+Selected Group: Mammal
+Animal 1: Wolf
+Animal 2: Tiger
+
+Selected Group: Bird
+Animal 1: Pelican
+Animal 2: Ostrich
+
+Selected Group: Bird
+Animal 1: Peacock
+Animal 2: Albatross
+
+Selected Group: Mammal
+Animal 1: Horse
+Animal 2: Meercat
+
+Selected Group: Insect
+Animal 1: Leaf Beetle
+Animal 2: Weevil
+
+Selected Group: Vermin
+Animal 1: Locust
+Animal 2: Octopus
+
+Selected Group: Aquatic
+Animal 1: Orca
+Animal 2: Lobster
+
+Selected Group: Bird
+Animal 1: Chicken
+Animal 2: Pelican
+
+Selected Group: Bird
+Animal 1: Pigeon
+Animal 2: Ostrich
+
+Selected Group: Terrestrial
+Animal 1: Skink
+Animal 2: Giraffe
+
+Selected Group: Amphibian
+Animal 1: Frog
+Animal 2: Salamander
+
+Selected Group: Apex Predator
+Animal 1: Polar Bear
+Animal 2: Dragonfly
+
+Selected Group: Apex Predator
+Animal 1: Panther
+Animal 2: Crocodile
+
+Selected Group: Flightless
+Animal 1: Salmon
+Animal 2: Squid
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Salamander
+
+Selected Group: Aquatic
+Animal 1: Burrowing Crab
+Animal 2: Crab
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: CuttleFish
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Frog
+
+Selected Group: Vermin
+Animal 1: Weevil
+Animal 2: Oyster
+
+Selected Group: Fish
+Animal 1: SwordFish
+Animal 2: Salmon
+
+Selected Group: Reptile
+Animal 1: Duck
+Animal 2: Chicken
+
+Selected Group: Flightless
+Animal 1: Octopus
+Animal 2: Turtle
+
+Selected Group: Reptile
+Animal 1: Skink
+Animal 2: Secretary Bird
+
+Selected Group: Vermin
+Animal 1: Lobster
+Animal 2: Parachute Spider
+
+Selected Group: Bird
+Animal 1: Peacock
+Animal 2: Hawk
+
+Selected Group: Cephalopod
+Animal 1: Nautilus
+Animal 2: Squid
+
+Selected Group: Insect
+Animal 1: Bee
+Animal 2: Roach
+
+Selected Group: Fish
+Animal 1: Flying Fish
+Animal 2: Salmon
+
+Selected Group: Flightless
+Animal 1: Platypus
+Animal 2: Guine Pig
+
+Selected Group: Terrestrial
+Animal 1: Snake
+Animal 2: Giraffe
+
+Selected Group: Insect
+Animal 1: Termite
+Animal 2: Mantis
+
+Selected Group: Terrestrial
+Animal 1: Frilled Lizard
+Animal 2: Salamander
+
+Selected Group: Insect
+Animal 1: Ant
+Animal 2: Pillbug
+
+Selected Group: Terrestrial
+Animal 1: Lion
+Animal 2: SeaBird
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Glass Frog
+
+Selected Group: Subterraneous
+Animal 1: Worm
+Animal 2: Trapdoor Spider
+
+Selected Group: Flightless
+Animal 1: Moose
+Animal 2: Gopher
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Nautilus
+
+Selected Group: Bird
+Animal 1: Secretary Bird
+Animal 2: Seagull
+
+Selected Group: Fish
+Animal 1: Tuna
+Animal 2: Shark
+
+Selected Group: Mammal
+Animal 1: Squirrel
+Animal 2: Wild cat
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: CuttleFish
+
+Selected Group: Apex Predator
+Animal 1: Emu
+Animal 2: Alligator
+
+Selected Group: Amphibian
+Animal 1: Frog
+Animal 2: Axolotl
+
+Selected Group: Reptile
+Animal 1: Alligator
+Animal 2: Crocodile
+
+Selected Group: Bird
+Animal 1: Song Bird
+Animal 2: Chicken
+
+Selected Group: Vermin
+Animal 1: Burrowing Crab
+Animal 2: Weevil
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Squid
+
+Selected Group: Aquatic
+Animal 1: Porpoise
+Animal 2: CuttleFish
+
+Selected Group: Amphibian
+Animal 1: Glass Frog
+Animal 2: Frog
+
+Selected Group: Fish
+Animal 1: Freshwater Fish
+Animal 2: Land Fish
+
+Selected Group: Apex Predator
+Animal 1: Black Bear
+Animal 2: Tiger
+
+Selected Group: Vermin
+Animal 1: Water Beetle
+Animal 2: Whip Spider
+
+Selected Group: Vermin
+Animal 1: Locust
+Animal 2: Water Beetle
+
+Selected Group: Reptile
+Animal 1: Pelican
+Animal 2: Eagle
+
+Selected Group: Insect
+Animal 1: Mantis
+Animal 2: Stag Beetle
+
+Selected Group: Subterraneous
+Animal 1: Meercat
+Animal 2: Bee
+
+Selected Group: Crustacean
+Animal 1: Lobster
+Animal 2: Crab
+
+Selected Group: Crustacean
+Animal 1: Crab
+Animal 2: Lobster
+
+Selected Group: Mammal
+Animal 1: Elephant
+Animal 2: Capybara
+
+Selected Group: Flying
+Animal 1: Ladybug
+Animal 2: Albatross
+
+Selected Group: Reptile
+Animal 1: Kiwi
+Animal 2: Chicken
+
+Selected Group: Flightless
+Animal 1: Horse
+Animal 2: Coral
+
+Selected Group: Amphibian
+Animal 1: Toad
+Animal 2: Salamander
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Barnacle
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Frog
+
+Selected Group: Terrestrial
+Animal 1: Tree Frog
+Animal 2: Dart Frog
+
+Selected Group: Bird
+Animal 1: Flamingo
+Animal 2: Secretary Bird
+
+Selected Group: Apex Predator
+Animal 1: Panther
+Animal 2: Polar Bear
+
+Selected Group: Apex Predator
+Animal 1: Tiger
+Animal 2: Tiger
+
+Selected Group: Aquatic
+Animal 1: Seagull
+Animal 2: SwordFish
+
+Selected Group: Subterraneous
+Animal 1: Locust
+Animal 2: Meercat
+
+Selected Group: Bird
+Animal 1: Albatross
+Animal 2: SeaBird
+
+Selected Group: Cephalopod
+Animal 1: Octopus
+Animal 2: Barnacle
+
+Selected Group: Flightless
+Animal 1: Beluga
+Animal 2: Goat
+
+Selected Group: Cephalopod
+Animal 1: Octopus
+Animal 2: Squid
+
+Selected Group: Subterraneous
+Animal 1: Scorpion
+Animal 2: Burrowing Crab
+
+Selected Group: Subterraneous
+Animal 1: Locust
+Animal 2: Bee
+
+Selected Group: Apex Predator
+Animal 1: Emu
+Animal 2: Alligator
+
+Selected Group: Vermin
+Animal 1: Coconut Crab
+Animal 2: Burrowing Crab
+
+Selected Group: Vermin
+Animal 1: Bee
+Animal 2: Snail
+
+Selected Group: Flying
+Animal 1: Fly
+Animal 2: Albatross
+
+Selected Group: Subterraneous
+Animal 1: Locust
+Animal 2: Mole
+
+Selected Group: Flying
+Animal 1: Flying Fish
+Animal 2: Parasitic Fly
+
+Selected Group: Aquatic
+Animal 1: Tuna
+Animal 2: Whale
+
+Selected Group: Reptile
+Animal 1: Pigeon
+Animal 2: Song Bird
+
+Selected Group: Bird
+Animal 1: Owl
+Animal 2: Song Bird
+
+Selected Group: Flying
+Animal 1: Duck
+Animal 2: Pigeon
+
+Selected Group: Cephalopod
+Animal 1: Squid
+Animal 2: Nautilus
+
+Selected Group: Subterraneous
+Animal 1: Meercat
+Animal 2: Scorpion
+
+Selected Group: Flying
+Animal 1: Mantis
+Animal 2: Locust
+
+Selected Group: Insect
+Animal 1: Leaf Beetle
+Animal 2: Parasitic Wasp
+
+Selected Group: Amphibian
+Animal 1: Axolotl
+Animal 2: Dart Frog
+
+Selected Group: Terrestrial
+Animal 1: Spider
+Animal 2: Toad
+
+Selected Group: Vermin
+Animal 1: Roach
+Animal 2: Worm
+
+Selected Group: Aquatic
+Animal 1: Worm
+Animal 2: Seagull
+
+Selected Group: Crustacean
+Animal 1: Shrimp
+Animal 2: Crab
+
+Selected Group: Insect
+Animal 1: Fly
+Animal 2: Butterfly/Moth
+
+Selected Group: Terrestrial
+Animal 1: Platypus
+Animal 2: Wildebeast
+
+Selected Group: Amphibian
+Animal 1: Salamander
+Animal 2: Glass Frog
+
+Selected Group: Bird
+Animal 1: Song Bird
+Animal 2: Pigeon
+
+Selected Group: Mammal
+Animal 1: Scunk
+Animal 2: Squirrel
+
+Selected Group: Bird
+Animal 1: Eagle
+Animal 2: Albatross
+
+Selected Group: Terrestrial
+Animal 1: Ant
+Animal 2: Hippo
+
+Selected Group: Cephalopod
+Animal 1: CuttleFish
+Animal 2: Squid
+
+Selected Group: Aquatic
+Animal 1: Turtle
+Animal 2: Worm
+
+Selected Group: Flightless
+Animal 1: Deer
+Animal 2: Narwhal
+
+Selected Group: Subterraneous
+Animal 1: Trapdoor Spider
+Animal 2: Mole
+
+Selected Group: Terrestrial
+Animal 1: Raccoon
+Animal 2: Firefly
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: Octopus
+
+Selected Group: Flightless
+Animal 1: Worm
+Animal 2: Barnacle
+
+Selected Group: Terrestrial
+Animal 1: Glass Frog
+Animal 2: Bat
+
+Selected Group: Fish
+Animal 1: Tropical Fish
+Animal 2: Lamprey
+
+Selected Group: Bird
+Animal 1: Flamingo
+Animal 2: Eagle
+
+Selected Group: Insect
+Animal 1: Butterfly/Moth
+Animal 2: Locust
+
+Selected Group: Vermin
+Animal 1: Snail
+Animal 2: Stag Beetle
+
+Selected Group: Fish
+Animal 1: Cleaner Fish
+Animal 2: Lamprey
+
+Selected Group: Bird
+Animal 1: Duck
+Animal 2: Parrot
+
+Selected Group: Amphibian
+Animal 1: Toad
+Animal 2: Axolotl
+
+Selected Group: Cephalopod
+Animal 1: Barnacle
+Animal 2: CuttleFish
+
+Selected Group: Crustacean
+Animal 1: Coconut Crab
+Animal 2: Burrowing Crab
+
+Selected Group: Apex Predator
+Animal 1: Dragonfly
+Animal 2: Eagle
+
+Selected Group: Fish
+Animal 1: SwordFish
+Animal 2: Cleaner Fish
+
+Selected Group: Terrestrial
+Animal 1: Lion
+Animal 2: Elephant
+
+Selected Group: Mammal
+Animal 1: Llama
+Animal 2: Alpaca
+
+Selected Group: Reptile
+Animal 1: Pigeon
+Animal 2: Peacock
+
+Selected Group: Flightless
+Animal 1: Panther
+Animal 2: Frog
+
+Selected Group: Terrestrial
+Animal 1: Butterfly/Moth
+Animal 2: Possum
+
+Selected Group: Apex Predator
+Animal 1: Polar Bear
+Animal 2: Cobra
+
+Selected Group: Insect
+Animal 1: Leaf Beetle
+Animal 2: Roach
+
+Selected Group: Apex Predator
+Animal 1: Brown Bear
+Animal 2: Rattlesnake
+
+Selected Group: Flying
+Animal 1: Eagle
+Animal 2: Roach
+
+Selected Group: Vermin
+Animal 1: Ladybug
+Animal 2: Butterfly/Moth
+
+Selected Group: Aquatic
+Animal 1: Beluga
+Animal 2: Platypus
+

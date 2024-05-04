@@ -5,7 +5,19 @@ tags:
 - biology/animals
 ---
 
-Animals are defined by [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Classification|tri-criterial classification]] as any [[Encyclopedia Mysenvaria/Biology/Organisms|organism]] which is capable of locomotion, or according to [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Evolutionary Classification|evolutionary classification]] as any organism conceptually evolved from the idea of a [[Encyclopedia Mysenvaria/Biology/Plant|plant]] which can autonomously move or spread its influence by means other than growth. By either of these definitions 'animal' is an umbrella term which includes a great deal of organisms.
+> [!summary] Animal
+> > [!info] Relation
+> > ### Succeeds
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Laboratorius|Laboratorius]]
+> > ### Supersedes
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fish|Fish]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
+
+Animals are defined by [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Classification|tri-criterial classification]] as any [[Encyclopedia Mysenvaria/Biology/Organisms|organism]] which is capable of powered locomotion, or according to [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Evolutionary Classification|evolutionary classification]] as any second generation laboratorius organism conceptually evolved from the idea of a [[Encyclopedia Mysenvaria/Biology/Plant|plant]] which can autonomously move or spread its influence by means other than growth. By either of these definitions 'animal' is an umbrella term which includes a great deal of organisms.
+
+Within evolutionary classification the animal taxon is succeeded by 4 groups; [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|vermin]], [[Encyclopedia Mysenvaria/Biology/Taxa/Fish|fish]], [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|amphibia]], and [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|synapsids]]. Vermin are animals which lack internal skeletal structures. Fish are characterized by their entirely aquatic lifestyles. Amphibia are moist-skinned animals which undergo metamorphosis. Synapsids are animals defined by their specially adapted placental structures.
 # History
 Animals would see their inception into history during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]], conceptually being created convergently by multiple Gods. Stars like [[Encyclopedia Mysenvaria/Geography/Astrography/Carbonprint|Carbonprint]] and the [[Encyclopedia Mysenvaria/Geography/Astrography/Star Systems/Mitosis Star System|Mitosis Star System]] detail the creation and iteration that occurred. Animals would quickly become adopted by numerous [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]], spreading across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] at unprecedented speeds. 
 
@@ -19,9 +31,7 @@ Animals, and notably [[Encyclopedia Mysenvaria/Biology/Sophonts|intelligent orga
 
 As per the terms of the Harmonic Treaty Gods would reduce interference with organisms to a minimum, giving all organisms freedom to roam the Plane. In the coming century after the war many animals would go [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/List of Extinct Animals|extinct]] because of inability to adapt to the new world and its complex ecosystems.
 # Classification
-According to tri-criterial classification animals may be subdivided into a series of groups by a set of three criteria; diet, body plan, and historic niche.
-
-Alternatively, evolutionary classification poses that animals may be divided into groups based on similarity of concept or execution by the Gods. For more information see the page on [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Evolutionary Classification|evolutionary classification]].
+Animals are classified by their powered locomotion across both evolutionary and tri-criterial classification, although also classified as having evolutionary evolved from the idea of plants according to evolutionary classification. Within tri-criterial classification animals may be further organized based on their [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Dietary Classification|diet]] and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Niches|historical niche]]. Evolutionary classification takes a different route, and divides animals into 4 taxa, being vermin, fish, amphibia, and synapsids.
 # Sapient Relations 
 All sapients are classified as animals by both tri-criterial classification and evolutionary classification, but are commonly referenced or referred to as separate. While this is not the case, sapients still have a rocky relationship with other animals.
 

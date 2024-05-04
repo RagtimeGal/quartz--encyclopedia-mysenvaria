@@ -14,6 +14,7 @@ tags:
 > [!note]
 > Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
 # Book
+### The Taxonomical Tree
 
 # Reception
 

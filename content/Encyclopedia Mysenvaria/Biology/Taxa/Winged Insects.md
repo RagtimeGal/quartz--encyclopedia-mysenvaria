@@ -2,25 +2,28 @@
 title: Winged Insects
 enableToc: true
 tags:
-  - biology/animals
+  - biology/taxa
   - stub
 ---
 
 > [!note]
 > This page is a stub and has more information that can be added.
 
-# Etymology
+> [!summary] Winged Insects
+> > [!info] Relation
+> > ### Succeeds
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]]
+> > ### Supersedes
+> > None
+>
+> > [!info] Creation Date
+> > c. BT 485
 
-> [!note]
-> Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
+Hexapods characterized by their wings.
 # History
 
-# Anatomy
-
-> [!note]
-> Add new headers to this section as necessary for different notable features of an animals anatomy.
-# Ecology
-## Diet & Hunting
+# Classification
+## Anatomy & Physiology
 
 ## Reproduction & Lifestyle
 
@@ -32,9 +35,6 @@ tags:
 
 > [!note]
 > Remove this section if unnecessary.
-# Cultural Significance 
-
-> [!note]
-> Add sub-sections as necessary. For instance if it is significant to more than one culture more sections for each culture may be added.
 # See Also
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

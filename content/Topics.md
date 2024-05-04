@@ -34,7 +34,7 @@ Biology is subdivided into 4 categories:
 - [[Encyclopedia Mysenvaria/Biology/Animal|Animal]], defined as the animals of the world, created by the [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] to be locomotive autonomous working organisms;
 - [[Encyclopedia Mysenvaria/Biology/Plant|Plant]], defined as the plants of the world, created by the Gods to be autonomous territory definers;
 - [[Encyclopedia Mysenvaria/Biology/Disease|Disease]], defined as any sickness affecting the function of an [[Encyclopedia Mysenvaria/Biology/Organisms|organism]];
-- and the [[Encyclopedia Mysenvaria/Biology/Sophonts|sapients]], organisms that can be differentiated from other fauna or flora for their higher levels of intelligence or creativity.
+- and the [[Encyclopedia Mysenvaria/Biology/Sophonts|sophonts]], organisms that can be differentiated from other fauna or flora for their higher levels of intelligence or creativity.
 # Culture
 Culture is characterized by a wide range of activity and customs in a society. As aforementioned we categorize art separately from culture not because they are unrelated by because art is such an encompassing category on its own.
 
