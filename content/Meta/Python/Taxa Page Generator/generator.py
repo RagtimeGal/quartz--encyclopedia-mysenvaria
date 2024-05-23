@@ -47,7 +47,7 @@ def generate_files_from_list(input_list, template_file, output_directory):
     for index, entry in enumerate(input_list):
         name, year, description = entry.split('; ')
         
-        predecessors = find_predecessor(entry, index, input_list)
+        predecessor = find_predecessor(entry, index, input_list)
         successors = find_successors(entry, index, input_list)
 
         # Determine if the entry is a living or extinct species
@@ -59,16 +59,16 @@ def generate_files_from_list(input_list, template_file, output_directory):
         if is_species or is_extinct or is_domestic:
             name = name.strip()[3:]
 
-        # Format predecessors and successors
-        formatted_predecessors = format_links(predecessors)
+        # Format predecessor and successors
+        formatted_predecessor = format_links(predecessor)
         formatted_successors = format_links(successors)
 
         # Replace placeholders with entry details
         entry_content = template_content.replace('{name}', name.strip())\
-                                         .replace('{year}', year.strip())\
-                                         .replace('{description}', description.strip())\
-                                         .replace('{predecessors}', formatted_predecessors)\
-                                         .replace('{successors}', formatted_successors)
+                                        .replace('{year}', year.strip())\
+                                        .replace('{description}', description.strip())\
+                                        .replace('{predecessor}', formatted_predecessor)\
+                                        .replace('{successors}', formatted_successors)
 
         # Create the output directory if it doesn't exist
         if not os.path.exists(output_directory):

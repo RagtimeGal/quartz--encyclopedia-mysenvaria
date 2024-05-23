@@ -1,5 +1,5 @@
 ---
-title: Academy Encyclopedia
+title: Academy Publishing
 enableToc: true
 tags:
 - culture/organization

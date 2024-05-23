@@ -12,7 +12,7 @@ tags:
 > [!summary] {name}
 > > [!info] Relation
 > > ### Succeeds
-> > {predecessors}
+> > {predecessor}
 > > ### Supersedes
 > > {successors}
 >

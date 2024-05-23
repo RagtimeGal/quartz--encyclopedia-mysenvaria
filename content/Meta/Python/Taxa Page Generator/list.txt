@@ -1,5 +1,5 @@
 Laboratorius; c. BT 523; Encompasses all organisms, created by the Gods for autonomous work.
- Plant; c. BT 523; Organisms which cannot move without external forces. Created by Gods to define and even partially combat over territory.
+ Plant; c. BT 523; Organisms which cannot move without external forces. Created by Gods to define and, later into the God-War, even combat over territories. Originally created by the God of Hydrogen Cyanide plants would inspire the invention of animals.
   Aseminifer; c. BT 523; Asexually reproducing plants, often characterized by their simplar body forms compared to those of seminifers.
    Fragmentus; c. BT 523; Asexual plants which reproduce by means of breaking into two separate parts.
     Algae; c. BT 523; Fragmentative plants characterized by their rudimentary forms, lacking roots and leaves.
@@ -103,354 +103,354 @@ Laboratorius; c. BT 523; Encompasses all organisms, created by the Gods for auto
       s. Shea Tree; c. BT 448; Savannah climate plant.
       s. Camamile; c. BT 448; Humid subtropical climate plant.
       s. Teak; c. BT 448; Monsoon climate plant.
- Animal; c. BT 498; Organisms created with the idea of mobile autonomous work in mind. They move by means of complex musculature.
-  Vermin; c. BT 498; First of the animals, simple non-complex soft body forms which lack internal skeletal structure.
-   Worms; c. BT 498; Vermin which lack any external manipulable limbs.
-    Shell-less Worms; c. BT 498; First of the worms, characterized by their absence of an external calcium shell.
-     True Worm; c. BT 498; Shell-less worms which live mostly subterraneous life styles.
-      Seaworm; c. BT 498; True worms which live primarily aquatic lifestyles.
-       Freshwater Seaworm; c. BT 498; Seaworm created to live in freshwater environments.
-       Marine Seaworm; c. BT 498; Seaworm created to live in saltwater environments.
-      Earthworm; c. BT 498; True worms which live primarily subterraneous lifestyles.
-     Slug; c. BT 493; Shell-less worms characterized by their mucus-covered soft bodies and singular walking foot.
-      Seaslug; c. BT 493; Slug characterized by their primarily aquatic lifestyles.
-       Freshwater Seaslug; c. BT 493; Seaslug created to live in freshtwater environments.
-       Marine Seaslug; c. BT 493; Seaslug created to live in saltwater environments.
-      True Slug; c. BT 493; Slug characterized by their primarily terrestrial lifestyles.
-    Shelled Worms; c. BT 497; Worms characterized by their external calcium shells.
-     Walking Worm; c. BT 497; Shelled worms characterized by specialized shells used for walking.
-      Walking Seaworm; c. BT 497; Walking worms which live primarily aquatic lifestyles.
-       Freshwater Walking Seaworm; c. BT 497; Walking seaworm created to live in freshwater environments.
-       Marine Walking Seaworm; c. BT 497; Walking seaworm created to live in saltwater environments.
-      Walking Earthworm; c. BT 496; Walking worms which live primarily terrestrial lifestyles.
-     Snail; c. BT 493; Shelled worms characterized by their slig-like mucus-covered soft bodies and singular foot.
-      Seasnail; c. BT 493; Snail characterized by their primarily aquatic lifestyles.
-       Freshwater Seasnail; c. BT 493; Seasnail created to live in freshwater environments.
-       Marine Seasnail; c. BT 493; Seasnail created to live in saltwater environments.
-      True Snail; c. BT 493; Snail characterized by their primarily terrestrial lifestyles.
-   Bivalves; c. BT 497; Vermin characterized by their two-part shells hinged on one end by muscle.
-    Marine Bivalves; c. BT 497; Bivalves created to live in saltwater environments.
-    Freshwater Bivalves; c. BT 497; Bivalves created to live in freshwater environments.
-   Cephalopods; c. BT 498; Vermin characterized by an, often external, minor cartilagenous skeletal-like growth. Earliest of the organisms to exhibit such forms.
-    Nautiloids; c. BT 498; Shelled cephalopods with a diverse range of morphology.
-     Marine Nautiloids; c. BT 498; Nautiloids created to live in saltwater environments.
-     Freshwater Nautiloids; c. BT 498; Nautiloids created to live in freshwater environments.
-    Soft-bodied Cephalopods; c. BT 496; Cephalopods which lack external shells.
-     Decapods; c. BT 497; The first of the soft-bodied cephalopods. Ten-limbed and created with the shell remaining as a skeletal-like internal organ.
-      Squid; c. BT 497; Decapods which maintain their shell in the form of a pen.
-       Marine Squid; c. BT 497; Squid created to survive in saltwater environments.
-       Freshwater Squid; c. BT 494; Squid created to survive in freshwater environments.
-      Cuttlefish; c. BT 496; Decapods which maintain their shell in the form of a cuttlebone.
-     Octopus; c. BT 485; Soft-bodied cephalopods with eight limbs, lacking any form of external or internal shell structure.
-   Arthropod; c. BT 497; The most complex of the vermin. Arthropds are characterized by their segmented bodies covered in an external skeletal systems.
-    Crustacea; c. BT 497; Primarily aquatic arthropods with biramous appendages.
-     Copepod; c. BT 497; Crustacea differentiated by their small tear-shaped bodies.
-      One-eyed Copepod; c. BT 497; Copepod which have one, or in some cases no, eyes.
-      Two-eyed Copepod; c. BT 496; Copepod which have two eyes.
-     Shrimp; c. BT 495; Often small exclusively aquatic crustacean with specialized swimming tails and fused heads and thorax.
-      Freshwater Shrimp; c. BT 495; Shrimp created to survive in freshwater environments.
-      Marine Shrimp; c. BT 495; Shrimp created to survive in saltwater environments.
-     Crab; c. BT 494; Crustacea with a short, tucked, sometimes abscent tail.
-      Marine Crab; c. BT 494; Crab created to survive in saltwater environments.
-      Freshwater Crab; c. BT 492; Crab created to survive in freshwater environments.
-     Lobster; c. BT 491; Crustacea possessing claws on their first three pair of limbs, often with a enlarged first pair.
-      Crawfish; c. BT 491; Lobster created to survive in freshwater environments.
-      True Lobster; c. BT 490; Lobster created to survive in saltwater environments.
-    Hexapod; c. BT 496; Primarily terrestrial arthropods with uniraamous appendages.
-     Wingless Insects; c. BT 496; Hexapods characterized by their abscent wings.
-      Mites; c. BT 496; Small, often parasitic, wingless insects.
-       Flea; c. BT 496; Mites characterized by their ability to leap great distances. Parasatize a great deal of animals, sucking blood from their victims.
-        s. Common Flea; c. BT 496; The common flea, found in a majority of abodes. Known for their parasitizing of the domestic bear and cat.
-        s. Coastal Ave Flea; c. BT 496; Fleas found across the coastal jungles of the north and south, parasitizing birds and bats.
-        s. Dragon Flea; c. BT 495; Flea known for parasitizing bats, primarily species of dragon.
-      Myriapod; c. BT 496; Wingless insects characterized by their long segmented bodies, each segment with a pair of legs.
-       Millipede; c. BT 496; Myriapod characterized by their rounded bodies and often scavenging nature.
-       Centipede; c. BT 495; Myriapod characterized by their flattened bodies and often predatory nature.
-      Spiders; c. BT 496; Wingless insects with specialized abdomens capable of producing silk.
-       False Spiders; c. BT 496; Spiders which cannot inject venom.
-       True Spiders; c. BT 496; Spiders with fangs made for injecting venom.
-       Whip Spiders; c. BT 496; Spiders with elongated front legs which resemble whips.
-       Flying Spiders; c. BT 495; Spiders created with webbing between their legs, allowing for semi-flight.
-      Scorpion; c. BT 495; Wingless insects characterized by their segmented curved tail ending in a stinging appendage.
-     Winged Insects; c. BT 485; Hexapods characterized by their wings.
-       Metamorphosing Insects; c. BT 485; Four-winged insects characterized by their undergoing of the process of metamorphosis.
-        Flies; c. BT 485; Insects characterized by their small sizes.
-        Lepidoptera; c. BT 485; Insects characterized by their large scaly-wings and extremely mobile larval stage.
-         Butterflies; c. BT 485; Lepidoptera characterized by their long antennae, open wings at rest, and formation of a chrysalis during pupation.
-         Moths; c. BT 485; Lepidoptera characterized by their long feathery antennae, folded wings at rest, and formation of a silky cacoon during pupation.
-          d. Domestic Silkmoth; c. BT 441; 
-        Colonial Insects; c. BT 484; Insects characterized by their complex social structures, often consisting of a queen and drones. Although not all species are social.
-         Ants; c. BT 484; Colonial insects characterized by their distinct worker, soldier, and queen castes.
-          d. Domestic Ants; c. BT 442; 
-         Bees; c. BT 484; Colonial insects characterized by their role in pollinating, known for their production of honey and wax.
-          d. Domestic Sextown Bee; c. BT 442; 
-          d. Domestic Northern Bee; c. BT 441; 
-          d. Domestic Southwestern Bee; c. BT 441; 
-          d. Domestic Giant Bee; c. BT 441; 
-         Wasps; c. BT 483; Colonial insects characterized by their predatory or parasitic behavior and slender bodies.
-        Beetles; c. BT 483; Insects whos front wings have hardened into a protective covering.
-         Weevil; c. BT 483; Beetles distinguished by their elongated snout for boring and herbivorous diets.
-         Longhorn Beetles; c. BT 483; Beetles characterized by their long antennae and boring larvae.
-         Leaf Beetles; c. BT 483; Beetles characterized by their herbivorous diets and diverse colorful patterns.
-         Scarab Beetles; c. BT 482; Beetles characterized by their clubbed antennae, stout bodies, and diverse diets.
-         Ground Beetles; c. BT 482; Beetles characterized by their long tails, powerful mandibles, and predatory behavior.
-         Tiger Beetles;  c. BT 482; Beetles characterized by their large eyes, prominent mandibles, fast speed, and predatory behavior.
-         Diving Beetles; c. BT 482; Beetles characterized by their aquatic behavior, streamlined bodies, and flattened swimming legs.
-         Beetle-crab; c. BT 481; Beetles which appear to mimic crabs.
-       Incomplete-metamorphosing Insects; c. BT 483; Four-winged insects characterized by the absence of metamorphosis in their development.
-        True Flies; c. BT 483; Insects characterized by their one pair of wings.
-        Flatbugs; c. BT 483; Insects characterized by their flattened bodies. Omnivores and predators.
-         Earwigs; c. BT 483; Omnivorous flatbugs characterized by their pincer-like cerci.
-         Roaches; c. BT 483; Flatbug with segmented antennae, flat bodies, and omnivorous behavior.
-         Termites; c. BT 482; Flatbug characterized by their social colonies with distinct clastes of workers. Known for their woody apetite.
-        Hoppers; c. BT 483; Insects characterized by their strong hind legs and herbivorous or predatory behavior.
-         Grasshoppers; c. BT 483; Hoppers known for their jumping and loud sounds.
-         Crickets; c. BT 483; Hoppers known for their characteristic chirping.
-         Katydids; c. BT 482; Large hoppers known for their camouflage and loud continous calls.
-        Scythebugs; c. BT 483; Insects characterized by their elongated bodies and scythe-like forelimbs.
-         Stick Insects; c. BT 483; Scythebugs known for their elongated camouflaged bodies.
-         Mantises; c. BT 482; Predatory scythebugs known for their ambush behavior and praying-like stance.
-        Predatory Flies; c. BT 482; Insects characterized by their elongated bodies and predatory behavior.
-         Damselflies; c. BT 482; Narrow-bodied predatory flies which hold their wings against their body when at rest.
-         Dragonflies; c. BT 481; Slender and long-bodied predatory flies which hold their wings horizontal to their bodies when at rest.
-        Beaked Insects; c. BT 482; Insects characterized by their beak-like mouth parts.
-         Cicada; c. BT 482; Beaked insects known for their loud buzzing calls, spend much of their lifecycle buried beneath the soil as nymphs.
-         Aphid; c. BT 482; Small soft-bodied herbivorous beaked insects known for sitting on and feeding off of sappy plants.
-         Leafhopper; c. BT 482; Wedge-shaped beaked insects known for their elongated hing legs made for jumping.
-  Fish; c. BT 495; Second of the animals, more complex body forms than Vermin. Characterized by their commonly entirely aquatic lifestyles.
-   Cartilaginous Fish; c. BT 495; Fish characterized by their absence of true ossified bones. Possess tooth-like scales.
-    Rays; c. BT 495; Cartilaginous fish with flattened bodies and enlarged pectoral fins.
-     Shovelnose Rays; c. BT 495; Rays which exhibit specialized rostrum.
-      Sawfish; c. BT 495; Shovelnose Rays with extremely elongated and saw-like rostrum.
-     Stingrays; c. BT 493; Rays which exhibit extremely flattened bodies.
-      Freshwater Stingrays; c. BT 493; Stingrays created to live in freshwater environments.
-      Marine Stingrays; c. BT 493; Stingrays created to live in saltwater environments.
-    Sharks; c. BT 492; Cartilaginous fish characterized by their pectoral fins that are not fused to their heads.
-     Ground Sharks; c. BT 492; Sharks distinguished by their elongated snouts.
-     Mackerel Sharks; c. BT 486; Sharks distinguished by their large jaws.
-     Squaliform Sharks; c. BT 482; Sharks distinguished by their bioluminescence. Often found in the deep sea.
-   Jawless Fish; c. BT 490; Fish characterized by their absence of paired fins and true jaws.
-    Armored Jawless Fish; c. BT 490; Jawless fish with hard bone-like scales.
-    Jawless Eels; c. BT 485; Jawless fish with soft elongated eel-like bodies.
-     Hagfish; c. BT 485; Jawless eels possessing a bony skull but no spine.
-     Conodont; c. BT 482; Jawless eels possessing a bony skull and highly specialized bony teeth.
-     Lamprey; c. BT 478; Jawless eels characterized by their funnel-like suctioning mouth.
-   Bony Fish; c. BT 487; Fish characterized by their true ossified bones.
-    Ray-finned Fish; c. BT 487; Bony fish with fins made of webbed bony spines.
-     Partially-Ossified Fish; c. BT 487; Ray-finned Fish with partially ossified skeletal systems.
-      Sturgeon; c. BT 487; Partially-ossified fish distinguished by the scute lining their bodies.
-      Paddlefish; c. BT 483; Partially-ossified fish distinguished by their elongated nose.
-      Gar; c. BT 481; Partially-ossified fish characterized by their elongated scaly bodies.
-      Bowfin; c. BT 478; Partially-ossified fish characterized by their long dorsal fin.
-    Lobe-finned Fish; c. BT 478; Bony fish with muscular lobed fins supported by articulated skeletal structure.
-     Coelacanths; c. BT 478; Lobe-finned fish which do not possess air-breathing lungs.
-     Lungfish; c. BT 474; Lobe-finned fish which possess air-breathing lungs.
-  Amphibia; c. BT 489; Third of the animals, characterized by their complex bodies, moist skin, shell-less eggs, and varied drastic life stages.
-   Simple Amphibia; c. BT 486; First of the amphibians, characterized by their simplar and small bodies compared to those of the mega amphibia.
-    Salamander; c. BT 489; Simple amphibia characterized by their tail and limbed larval stage.
-    Frog; c. BT 489; Simple amphibia characterized by their powerful hind-limbs, tail-less body, and limb-less larval stage.
-   Mega Amphibia; c. BT 484; Amphibians characterized by their more complex and large bodies. Often carnivorous in nature.
-  Synapsids; c. BT 475; Last of the animals. Complex bodies with uniquely adapted placenta and often complex maternal instinct.
-   Reptilia; c. BT 475; Synapsids with placenta created to form calcium-coated shelled eggs.
-    Squamata; c. BT 475; Reptiles characterized by their slender elongated bodies.
-     Lizards; c. BT 475; Squamata characterized by their presence of legs.
-      Iguanians; c. BT 475; Lizards with characteristic dewlap and pronounced dorsal crests.
-      Gekkotans; c. BT 475; Lizards characterized by their adhesive toes and nocturnal behavior.
-      Skinks; c. BT 475; Lizards characterized by their overlapping scales and small elongated bodies.
-     Snakes; c. BT 474; Lizards characterized by their limbless bodies.
-      Non-venomous Snakes; c. BT 474; Snakes characterized by the absence of venom in their systems.
-      Venomous Snakes; c. BT 474; Snakes characterized by their predatory behavior and presence of venom.
-    Turtles; c. BT 469; Reptiles distinguished by their highly developed shell-like backs.
-     Soft-shelled Turtles; c. BT 469; Turtles distinguished by their soft fleshy shells.
-     Hard-shelled Turtles; c. BT 468; Turtles distinguished by their hard bone-like shells.
-    Archosaurs; c. BT 468; Reptiles distinguished by their pelvic bones.
-     Aves; c. BT 468; Feathered archosaurs, often capable of powered flight.
-      Perching Birds; c. BT 468; Birds characterized by their small-to-medium sizes and perching feet.
-      Waterfowl; c. BT 468; Birds characterized by their webbed feet and typically flat beaks.
-       d. Domestic Duck; c. BT 441; 
-      Columbiforms; c. BT 467; Birds characterized by their small stout bodies.
-       d. Domestic Chicken; c. BT 441; 
-       d. Domestic Pigeon; c. BT 441; 
-       d. Domestic Turkey; c. BT 441; 
-      Parrots; c. BT 467; Birds characterized by their grasping feet, curved bills, and exotic colors.
-      Birds of Prey; c. BT 467; Birds characterized by their large sizes, hooked beaks, and taloned feet.
-      Swifts; c. BT 466; Birds characterized by their small bodies and agile flying abilities.
-     Crocodylomorphs; c. BT 468; Non-avian primarily semi-aquatic scaly archosaurs.
-   Mammalia; c. BT 462; Synapsids with placenta created to cary young for extended periods of time. Also may be distinguished by the presence of mammary glands to produce milk for young.
-    Egg-laying Mammals; c. BT 462; Mammals which lay eggs instead of giving live birth.
-     s. Platypus; c. BT 462; Strange egg-laying mammal.
-    Marsupial; c. BT 460; Mammals which give birth to undeveloped young, which are nurtured in pouches.
-     Marsupial Bears; c. BT 460; Marsupials with characteristically carnivoran-like body plans.
-      s. Wombat; c. BT 460; Marsupial bears with short stuby bodies.
-      s. Sugar Glider; c. BT 460; Small marsupial bears with wing-like membranes connecting their hind and forelimbs.
-     Marsupial Shrews; c. BT 454; Marsupials with characteristically rodent-like body plans.
-      s. Northern Kangaroo; c. BT 454; Large marsupial shrews, found across much of the north western deserts. Characterized by their powerful hindlimbs and tails built for powerful hops and kicks. They can be differentiated from their northern counterparts by their dull tan color and more stiff ears.
-      s. Eastern Kangaroo; c. BT 454; Large marsupial shrews, created following the Northern Kangaroo species. Much like their relatives, characterized by their powerful hindlimbs and tails built for hopping and kicking. Eastern kangaroos may also be differentiated by their longer tails, less stiff ears, and red color.
-      s. Giant Kangaroo; c. BT 453; Created following the success of the Northern Kangaroo. Giant Kangaroo are rare in the modern day, found only in select regions of the great southern deserts. Giant Kangaroo like their relatives are characterized by their hunched postures and powerful hindlimbs and tails, made for powerful hops and kicks. Some members of this species may stand to be over 2 meters in height and are often a dull tan across much of their body, although males have blue and yellow splotches across their bellies and tails.
-      s. Western Possom; c. BT 454; Mid-sized gray and black rat-like marsupial shrews.
-      s. Oppossum; c. BT 454; Mid-sized gray and black rat-like marsupial shrews.
-    Placentalia; c. BT 459; Mammals which give birth to fully nourished offspring. 
-     Rodents; c. BT 459; Often small fingered mammals with diverse ecological roles.
-      Shrews; c. BT 459; Small insectivorous terrestrial rodents.
-       d. Domestic Hampster; c. BT 441; 
-       d. Domestic Guinea Pig; c. BT 440; 
-       d. Domestic Mouse; c. BT 441; 
-      Moles; c. BT 458; Rodents with large claws, often for subterraneous digging.
-      Lagomorphs; c. BT 456; Rodentia whose incisors continuously grow.
-       d. Domestic Rabbit; c. BT 441; 
-      Armored Mammals; c. BT 452; Rodents with prominent armor-like coverings.
-      Primates; c. BT 449; Rodentia with apposable thumbs.
-       Long-tailed Primates; c. BT 449; Primates which posses elongated posable tails.
-        d. Domestic Monkey; c. BT 440; 
-       Short-tailed Primates; c. BT 447; Primates which posses short stubby tails.
-        s. Human; c. BT 442; Humans as they are today.
-      Bats; c. BT 440; Rodents created with wing-like hands capable of flight.
-       True Bats; c. BT 440; True bats characterized by their small sizes and often social behavior.
-        Megabat; c. BT 440; Bats characterized by their larger sizes and often herbivorous diets.
-        Microbat; c. BT 440; Bats characterized by their smaller sizes and often carnivorous diets.
-         Insectivorous Microbat; c. BT 440; Microbats characterized by their insectivorous diets.
-         Vampire Bats; c. BT 440; Microbats characterized by their carnivorous diets consisting of blood.
-         Nectar Microbats; c. BT 440; Microbats characterized by their diets consisting of fruits, nectar, and pollen.
-       Dragon; c. BT 439; Bats characterized by their ability to walk on their wings and large sizes.
-        Greater Dragon; c. BT 439; Dragons characterized by their ability to cast spells, regrow their vocal tract, and form stars.
-         Pigmy Dragon; c. BT 439; Greater dragons characterized by their small sizes.
-          s. Elf Root Pigmy Dragon; c. BT 439; Pigmy dragons today only found in the north. They are known to congregate around elder elves.
-          s. Moss Pigmy Dragon; c. BT 439; Green and lime green pigmy dragons found in many of the southern tropics.
-          s. Northeastern Long-tailed Pigmy Dragon; c. BT 439; Pigmy dragons found in 
-          s. Western Travelers Pigmy Dragon; c. BT 439; Pigmy dragons found across most of the western tropics. Known to follow travelers for their food.
-          s. Boreal Pigmy Dragon; c. BT 439; Pigmy dragons found in the boreal forests of the south.
-          d. Domestic Pigmy Dragon; c. BT 439; Domesticated pigmy dragon.
-          s. Great Lake Pigmy Dragon; c. BT 439; Pigmies found across the great lakes of the north.
-          s. Mountain Pigmy Dragon; c. BT 439; Pigmies found throughout many of the mountains of the south.
-          s. Eastern Tropical Pigmy Dragon; c. BT 439; Pigmies found in the eastern archipelago tropics.
-          s. Neotropical Pigmy Dragon; c. BT 439; Pigmies found across the souths neotropics.
-          s. Long-tailed Pigmy Dragon; c. BT 439; Pigmy dragons with long tails, found in the south.
-          s. Northern Tropic Pigmy Dragon; c. BT 439; Pigmy dragons found in the northern tropic forests.
-         Horned Dragon; c. BT 438; Greater dragons characterized by their horn-like protrusions from their heads.
-          s. Archipelago Horseshoe Dragon; c. BT 438; Small dragons with U-shaped horns found acorss many of the island chains across the plane.
-          s. Eastern Buffalo Dragon; c. BT 438; Found in the eastern archipelago, mid-sized bulky dragons with buffalo-like horns.
-          s. New World Grand Dragon; c. BT 438; Large horned dragon found in the north with elk-like racks.
-          s. Western Boreal Dragon; c. BT 438; Dragon found in the western parts of the south. Has V-shaped parting horns.
-          s. New World Jungle Dragon; c. BT 438; Dragon found in the north with a large single curved horn on its head.
-          s. Ornamental Dragon; c. BT 438; Horned dragon found in the north with large fan-like horn across its head.
-         Bulldog Dragon; c. BT 438; Greater dragons characterized by their short stubby bulldog-like snouts.
-          s. Fishing Dragon; c. BT 438; Mid-sized basking dragon found across the coast of much of the northern continent.
-          s. Eastern Basking Dragon; c. BT 438; Small bulldog dragon found throughout the eastern archipelago's islands.
-          s. Southern Basking Dragon; c. BT 438; Mid-sized bulldog dragon found throughout much of the southern continents mountains.
-          s. Red Basking Dragon; c. BT 438; Large bulldog dragon found throughout much of the great southern deserts.
-          s. Pigmy Basking Dragon; c. BT 437; The smalles of the bulldog dragons.
-         True Devil Dragon; c. BT 438; Greater dragons characterized by their large sizes.
-          s. Polar Dragon; c. BT 438; True devil dragons which use their spells to keep their bodies warm, allowing them to live in the north and easts polar climates.
-          s. Great Angel Dragon; c. BT 438; Large true devil dragons with eye-like spots across their wings.
-          s. Lesser Red Dragon; c. BT 438; A small true devil dragon red and brown in color.
-          s. Great Wheezing Dragon; c. BT 438; True devil dragon characterized by their large size and wheezing-like sound produced when casting some spells.
-          s. Borborygamous Dragon; c. BT 437; True devil dragon characterized by their absolutely massive size and large bulging neck folds.
-        Lesser Dragon; c. BT 439; Dragons characterized by their inability to cast spells.
-         Cup-footed Dragon; c. BT 439; Lesser dragons characterized by their small sizes and cup-shaped feet.
-          s. Northern Tropic Cup-footed Dragon; c. BT 439; Cup-footed dragon found in the tropics of the north.
-          s. Yellow Cup-footed Dragon; c. BT 439; Cup-footed dragon found throughout much of the southern desert.
-         Lesser Bulldog Dragon; c. BT 438; Lesser dragons characterized by their short bulldog-like snouts.
-          s. Lesser Fishing Dragon; c. BT 438; Lesser bulldog dragons found at the souths great lakes.
-          s. Pigmy Fishing Dragon; c. BT 438; Lesser bulldog dragons found across much of the souths coasts.
-          s. Lesser Pigmy Basking Dragon; c. BT 438; Lesser bulldog dragon found in the souths boreal forests.
-         Leaf-nosed Dragon; c. BT 438; Small lesser dragons characterized by their leaf-like noses.
-          s. Greater Leaf-nosed Dragon; c. BT 438; Leaf-nosed dragons found across much of the norths east.
-          s. Pigmy Leaf-nosed Dragon; c. BT 438; Small leaf-nosed dragons found in the souths forests.
-         Whip-tailed Dragon; c. BT 438; Lesser dragons characterized by their long slender tails which can be used like whips.
-          s. Eastern Whip-tail; c. BT 438; Large whip-tailed dragon found across the eastern deserts of the north.
-          s. Northern Mega Whip-tail; c. BT 438; Large whip-tailed dragons found across much of the norths mountains.
-          s. Southern Black Whip-tail; c. BT 438; Black whip-tailed dragons found across small portions of the souths deserts.
-          s. Tropical Pigmy Whip-tail; c. BT 438; Small whip-tailed dragons found in the eastern desert of the north.
-         False Devil Dragon; c. BT 438; Lesser dragons characterized by their large size and mimic behavior.
-          s. False Borborygamous Dragon; c. BT 436; Large false devil dragons which attempt to mimic adolescent borborygamous dragons.
-          s. False Red Dragon; c. BT 438; False devil dragons which attempt to mimic adult lesser red dragons.
-          s. False Angel Dragon; c. BT 438; False devil dragons which attempt to mimic adolescent great angel dragons.
-     Carnivora; c. BT 453; Mammals with primarily carnivorous diets and diverse hunting practices.
-      Caniforms; c. BT 453; Carnivora with nonretractable claws. 
-       Canids; c. BT 453; Mid-sized caniforms known for their social behaviors. 
-        Weasel-dogs; c. BT 453; Small canids characterized by slender weasel-like bodies.
-        True Dogs; c. BT 452; Mid-sized canids characterized by their dog-like features, with tall strong legs. 
-        Foxes; c. BT 452; Small slender canids with bushy tails, characterized by their intelligence.
-         Raccoon Dogs; c. BT 452; Racoon-like foxes characterized by their gray and brown colors, omnivorous diets, and rare appearence.
-         True Foxes; c. BT 452; True foxes known for their slender bodies, bushy fur, and opportunistic cunning behavior.
-          d. Domestic Fox; c. BT 439; 
-       Ursus; c. BT 452; Large stocky short-tailed primarily omnivorous caniforms.
-        Dog-bears; c. BT 452; The first taxon of bear to be created, relatively similar to canids in their form.
-         s. Mask Bear; c. BT 452; Highly specialized bear created to hunt Organisms of Mass Destruction. Today only found in the north, hunting what few OMD still live.
-         d. Domestic Dog-bear; c. BT 441; The domesticated Dog-bear, found across many households of the south.
-        Panda; c. BT 451; Heavy and purely herbivorous bears.
-         s. Giant Panda; c. BT 451; Specialized herbivorous bears created by a northern God. Today only found on the Northern Island Chain. 
-        Short-faced Bear; c. BT 451; Bears with characteristically stubby snouts and lanky bodies.
-         s. Sloth Bear; c. BT 451; Short-faced bears which get their names from their lanky and long-clawed sloth-like appearence.
-         s. Sun Bear; c. BT 451; Short-faced bears which get their names from the yellow-colored spot on their chests.
-         s. Ghost Bear; c. BT 451; Large white or gray short-faced bears found around the oceanic deserts of the north and south.
-        True Bears; c. BT 449; The characteristic image of a bear, the largest and stocky short-tailed long-snouted bears.
-         s. Brown Bear; c. BT 449; Native to the northern continent, created to hunt relatively large prey.
-         s. Northern Black Bear; c. BT 449; Created by a northern God with the objective of hunting large prey to defend their territory.
-         s. Southern Black Bear; c. BT 448; Following the creation of the Northern Black Bear the Southern Black Bear would be created with some minor anatomical differences.
-       Mustiforms; c. BT 451; Small caniforms characterized by their elongated slender bodies and musty scent glands.
-        Weasel; c. BT 451; Mustiforms characterized by long slender bodies and short legs, created for hunting in narrow spaces.
-         d. Domestic Ferret; c. BT 439; 
-        Otter; c. BT 451; Mustiforms characterized by their semiaquatic lifestyles and swimming prowess.
-        Badger; c. BT 451; Mustiforms characterized by their short tails and highly aggressive behavior.
-      Feliforms; c. BT 451; Carnivora with retractable claws.
-       Dog-like Cats; c. BT 451; Feliforms with dog-like bodies. Short and stocky, stubby tails, and strong legs.
-       True Cats; c. BT 450; Feliforms characterized by their cat-like features. Slender forms, powerful forelimbs, and agility.
-        Small Cats; c. BT 450; True cats characterized by their small bodies.
-         d. Domestic House Cat; c. BT 440; 
-        Large Cats; c. BT 449; True cats characterized by their large bodies.
-         d. Domestic Hunting Cat; c. BT 437; 
-      Cetacea; c. BT 442; Often large mammals adapted for marine environments.
-       Seals; c. BT 442; Cetacea characterized by their terrestrial behavior.
-       Whales; c. BT 442; Completely aquatic cetacea characterized by their large size and filter-feeding diets.
-       Dolphins; c. BT 441; Completely aquatic cetacea characterized by their smaller sizes.
-     Ungulates; c. BT 452; Mammals with hooves.
-      Even-toed Ungulates; c. BT 452; Ungulates with an even number of toes.
-       Cattle; c. BT 452; Even-toed ungulates characterized by their sturdy builds and horns.
-        s. Auroch; c. BT 451; 
-        s. Buffalo; c. BT 451; 
-        s. Water Buffalo; c. BT 451; 
-        d. Domestic Cow; c. BT 442; The modern domestic cow, raised by humans for their meat and milk product.
-        d. Domestic Sheep; c. BT 442; 
-        d. Domestic Goat; c. BT 441; 
-       Cervidae; c. BT 451; Even-toed ungulates characterized by their slender and tall bodies created for running. Often accompanied by antlers.
-        s. Common Deer; c. BT 451; The first of the cervids, and the basal form of deer.
-        s. Pigmy Deer; c. BT 451; 
-        s. Eastern Deer; c. BT 450; 
-        s. Common Moose; c. BT 450; Tall, powerful, and lanky cervids. Characterized by their large and flat antlers and stocky face. Found in the wilds of the southern cold climates.
-        s. Wrinkled Deer; c. BT 450; A small wrinkly species of solitary deer found across islands in the oceanic southern crater scape. Males and females grow short, straight, spined antlers.
-        s. Northern Moose; c. BT 450; Relatives of the common moose, tall powerful and lanky. Found across cold northern climates. 
-        s. Blue Forest Deer; c. BT 450; A mid-sized rare species of deer, dark deep blue in color. Antlers are found only in males and grow like 
-        s. Pigmy Moose; c. BT 449; Small species of moose, sharing the characteristic lanky legs and powerful necks. Amongst the cervids pigmy moose have some of the largest antlers compared to body size. Found across the grasslands of the south and east.
-        s. Great-horned Moose; c. BT 449; 
-        s. Mage's Deer; c. BT 448; A rare species of deer capable of casting spells, found in warmer climates in the southwest of the plane.
-        d. Domestic Moose; c. BT 441; A smaller species of moose created to service humans as powerful and quick steeds. Their smaller bodies are more well adapted for warmer and hotter climates, making them more versatile for different climates. 
-       Sus; c. BT 451; Even-toed ungulates characterized by their often omnivorous diets and short stout bodies.
-        d. Domestic Pig; c. BT 442; The modern domestic pig, raised by humans for their meat and rarely companionship.
-       Giraffe; c. BT 450; Even-toed ungulates characterized by their herbivorous diets and often tall lanky builds, created for foraging high foliage.
-        e. Amber Giraffe; c. BT 450; The first of the giraffes. Extinct in the present, they gained their name from their amber orange color. Short and stout, similar to the Okapi of the modern day.
-        s. Horseshoe Giraffe; c. BT 450; Giraffes characterized by the u-shaped horns adorned upon their head. Horseshoe giraffes have long necks and legs alongside dark brown bodies. Common in monsoon climates in the south and east.
-        s. Shielded Giraffe; c. BT 450; Giraffes characterized by the leaf-shaped flat horns which create a shield-like pattern above their head. Shielded giraffe have relatively long legs and necks. Today they are nearly extinct and found rarely in some savannahs in the northwest.
-        s. Horned Giraffe; c. BT 450; Giraffes characterized by their sharp jagged horns. Horned giraffes have short legs but relatively long necks, amongst the smaller species of giraffe. Found in continental climates in the north.
-        s. Dome-headed Giraffe; c. BT 449; Giraffes characterized by the thick and hard dome on the top of their cranium. Used for mating displays where males will whip their heads into each others skulls. Short and stubby giraffes with tan bodies and dark brown spots. Found across many savannahs in the north and south.
-        s. Spotted Giraffe; c. BT 449; The common image of a giraffe, tall neck and long legs. Pale tan bodies covered in dark and light brown spots. Found across many savannahs of the north and south.
-        s. White Giraffe; c. BT 449; Shorter than their spotted relatives, white giraffes are primarily white and tan in coloration with dark and light brown heads. Found across savannahs of the north.
-        s. Pigmy Giraffe; c. BT 449; Giraffes characterized by their very small size, with the largest individuals standing no more than half a meter in height. Brown in color, they are found across isolated savannah climates in the east.
-        s. Okapi; c. BT 448; Giraffes characterized by their black and while coloration and short stature. Found across temperate rainforests in the north.
-       Camelidae; c. BT 450; Even-toed ungulates characterized by their long necks and legs, thick coats, and fat reserves.
-        s. Giant Camel; c. BT 450; 
-        s. Three-humped Camel; c. BT 450; 
-        s. Vicuna; c. BT 450; 
-        s. Guanaco; c. BT 450; 
-        d. Domestic Llama; c. BT 450; 
-        d. Domestic Alpaca; c. BT 450; 
-        d. Domestic Camel; c. BT 450; 
-      Odd-toed Ungulates; c. BT 451; Ungulates with an odd number of toes.
-       Equidae; c. BT 451; Odd-toed ungulates characterized by their herbivorous diets, slender legs and bodies, and social behavior.
-        s. Wild Horse; c. BT 451; 
-        s. Donkey; c. BT 450; 
-        s. Zebra; c. BT 450; 
-        d. Domestic Horse; c. BT 442; 
-       Rhino; c. BT 451; Odd-toed ungulates characterized by their heavy bodies covered in thick armored skin. Distinguished by their large horns.
-       Tapirs; c. BT 450; Odd-toed ungulates characterized by their trunk-like snouts and herbivorous diets.
-       Chalicotheri; c. BT 450; Odd-toed ungulates characterized by their clawed feet and elongated legs.
+  Animal; c. BT 498; Organisms created with the idea of mobile autonomous work in mind. They move by means of complex musculature.
+   Vermin; c. BT 498; First of the animals, simple non-complex soft body forms which lack internal skeletal structure.
+    Worms; c. BT 498; Vermin which lack any external manipulable limbs.
+     Shell-less Worms; c. BT 498; First of the worms, characterized by their absence of an external calcium shell.
+      True Worm; c. BT 498; Shell-less worms which live mostly subterraneous life styles.
+       Seaworm; c. BT 498; True worms which live primarily aquatic lifestyles.
+        Freshwater Seaworm; c. BT 498; Seaworm created to live in freshwater environments.
+        Marine Seaworm; c. BT 498; Seaworm created to live in saltwater environments.
+       Earthworm; c. BT 498; True worms which live primarily subterraneous lifestyles.
+      Slug; c. BT 493; Shell-less worms characterized by their mucus-covered soft bodies and singular walking foot.
+       Seaslug; c. BT 493; Slug characterized by their primarily aquatic lifestyles.
+        Freshwater Seaslug; c. BT 493; Seaslug created to live in freshtwater environments.
+        Marine Seaslug; c. BT 493; Seaslug created to live in saltwater environments.
+       True Slug; c. BT 493; Slug characterized by their primarily terrestrial lifestyles.
+     Shelled Worms; c. BT 497; Worms characterized by their external calcium shells.
+      Walking Worm; c. BT 497; Shelled worms characterized by specialized shells used for walking.
+       Walking Seaworm; c. BT 497; Walking worms which live primarily aquatic lifestyles.
+        Freshwater Walking Seaworm; c. BT 497; Walking seaworm created to live in freshwater environments.
+        Marine Walking Seaworm; c. BT 497; Walking seaworm created to live in saltwater environments.
+       Walking Earthworm; c. BT 496; Walking worms which live primarily terrestrial lifestyles.
+      Snail; c. BT 493; Shelled worms characterized by their slig-like mucus-covered soft bodies and singular foot.
+       Seasnail; c. BT 493; Snail characterized by their primarily aquatic lifestyles.
+        Freshwater Seasnail; c. BT 493; Seasnail created to live in freshwater environments.
+        Marine Seasnail; c. BT 493; Seasnail created to live in saltwater environments.
+       True Snail; c. BT 493; Snail characterized by their primarily terrestrial lifestyles.
+    Bivalves; c. BT 497; Vermin characterized by their two-part shells hinged on one end by muscle.
+     Marine Bivalves; c. BT 497; Bivalves created to live in saltwater environments.
+     Freshwater Bivalves; c. BT 497; Bivalves created to live in freshwater environments.
+    Cephalopods; c. BT 498; Vermin characterized by an, often external, minor cartilagenous skeletal-like growth. Earliest of the organisms to exhibit such forms.
+     Nautiloids; c. BT 498; Shelled cephalopods with a diverse range of morphology.
+      Marine Nautiloids; c. BT 498; Nautiloids created to live in saltwater environments.
+      Freshwater Nautiloids; c. BT 498; Nautiloids created to live in freshwater environments.
+     Soft-bodied Cephalopods; c. BT 496; Cephalopods which lack external shells.
+      Decapods; c. BT 497; The first of the soft-bodied cephalopods. Ten-limbed and created with the shell remaining as a skeletal-like internal organ.
+       Squid; c. BT 497; Decapods which maintain their shell in the form of a pen.
+        Marine Squid; c. BT 497; Squid created to survive in saltwater environments.
+        Freshwater Squid; c. BT 494; Squid created to survive in freshwater environments.
+       Cuttlefish; c. BT 496; Decapods which maintain their shell in the form of a cuttlebone.
+      Octopus; c. BT 485; Soft-bodied cephalopods with eight limbs, lacking any form of external or internal shell structure.
+    Arthropod; c. BT 497; The most complex of the vermin. Arthropds are characterized by their segmented bodies covered in an external skeletal systems.
+     Crustacea; c. BT 497; Primarily aquatic arthropods with biramous appendages.
+      Copepod; c. BT 497; Crustacea differentiated by their small tear-shaped bodies.
+       One-eyed Copepod; c. BT 497; Copepod which have one, or in some cases no, eyes.
+       Two-eyed Copepod; c. BT 496; Copepod which have two eyes.
+      Shrimp; c. BT 495; Often small exclusively aquatic crustacean with specialized swimming tails and fused heads and thorax.
+       Freshwater Shrimp; c. BT 495; Shrimp created to survive in freshwater environments.
+       Marine Shrimp; c. BT 495; Shrimp created to survive in saltwater environments.
+      Crab; c. BT 494; Crustacea with a short, tucked, sometimes abscent tail.
+       Marine Crab; c. BT 494; Crab created to survive in saltwater environments.
+       Freshwater Crab; c. BT 492; Crab created to survive in freshwater environments.
+      Lobster; c. BT 491; Crustacea possessing claws on their first three pair of limbs, often with a enlarged first pair.
+       Crawfish; c. BT 491; Lobster created to survive in freshwater environments.
+       True Lobster; c. BT 490; Lobster created to survive in saltwater environments.
+     Hexapod; c. BT 496; Primarily terrestrial arthropods with uniraamous appendages.
+      Wingless Insects; c. BT 496; Hexapods characterized by their abscent wings.
+       Mites; c. BT 496; Small, often parasitic, wingless insects.
+        Flea; c. BT 496; Mites characterized by their ability to leap great distances. Parasatize a great deal of animals, sucking blood from their victims.
+         s. Common Flea; c. BT 496; The common flea, found in a majority of abodes. Known for their parasitizing of the domestic bear and cat.
+         s. Coastal Ave Flea; c. BT 496; Fleas found across the coastal jungles of the north and south, parasitizing birds and bats.
+         s. Dragon Flea; c. BT 495; Flea known for parasitizing bats, primarily species of dragon.
+       Myriapod; c. BT 496; Wingless insects characterized by their long segmented bodies, each segment with a pair of legs.
+        Millipede; c. BT 496; Myriapod characterized by their rounded bodies and often scavenging nature.
+        Centipede; c. BT 495; Myriapod characterized by their flattened bodies and often predatory nature.
+       Spiders; c. BT 496; Wingless insects with specialized abdomens capable of producing silk.
+        False Spiders; c. BT 496; Spiders which cannot inject venom.
+        True Spiders; c. BT 496; Spiders with fangs made for injecting venom.
+        Whip Spiders; c. BT 496; Spiders with elongated front legs which resemble whips.
+        Flying Spiders; c. BT 495; Spiders created with webbing between their legs, allowing for semi-flight.
+       Scorpion; c. BT 495; Wingless insects characterized by their segmented curved tail ending in a stinging appendage.
+      Winged Insects; c. BT 485; Hexapods characterized by their wings.
+        Metamorphosing Insects; c. BT 485; Four-winged insects characterized by their undergoing of the process of metamorphosis.
+         Flies; c. BT 485; Insects characterized by their small sizes.
+         Lepidoptera; c. BT 485; Insects characterized by their large scaly-wings and extremely mobile larval stage.
+          Butterflies; c. BT 485; Lepidoptera characterized by their long antennae, open wings at rest, and formation of a chrysalis during pupation.
+          Moths; c. BT 485; Lepidoptera characterized by their long feathery antennae, folded wings at rest, and formation of a silky cacoon during pupation.
+           d. Domestic Silkmoth; c. BT 441; 
+         Colonial Insects; c. BT 484; Insects characterized by their complex social structures, often consisting of a queen and drones. Although not all species are social.
+          Ants; c. BT 484; Colonial insects characterized by their distinct worker, soldier, and queen castes.
+           d. Domestic Ants; c. BT 442; 
+          Bees; c. BT 484; Colonial insects characterized by their role in pollinating, known for their production of honey and wax.
+           d. Domestic Sextown Bee; c. BT 442; 
+           d. Domestic Northern Bee; c. BT 441; 
+           d. Domestic Southwestern Bee; c. BT 441; 
+           d. Domestic Giant Bee; c. BT 441; 
+          Wasps; c. BT 483; Colonial insects characterized by their predatory or parasitic behavior and slender bodies.
+         Beetles; c. BT 483; Insects whos front wings have hardened into a protective covering.
+          Weevil; c. BT 483; Beetles distinguished by their elongated snout for boring and herbivorous diets.
+          Longhorn Beetles; c. BT 483; Beetles characterized by their long antennae and boring larvae.
+          Leaf Beetles; c. BT 483; Beetles characterized by their herbivorous diets and diverse colorful patterns.
+          Scarab Beetles; c. BT 482; Beetles characterized by their clubbed antennae, stout bodies, and diverse diets.
+          Ground Beetles; c. BT 482; Beetles characterized by their long tails, powerful mandibles, and predatory behavior.
+          Tiger Beetles;  c. BT 482; Beetles characterized by their large eyes, prominent mandibles, fast speed, and predatory behavior.
+          Diving Beetles; c. BT 482; Beetles characterized by their aquatic behavior, streamlined bodies, and flattened swimming legs.
+          Beetle-crab; c. BT 481; Beetles which appear to mimic crabs.
+        Incomplete-metamorphosing Insects; c. BT 483; Four-winged insects characterized by the absence of metamorphosis in their development.
+         True Flies; c. BT 483; Insects characterized by their one pair of wings.
+         Flatbugs; c. BT 483; Insects characterized by their flattened bodies. Omnivores and predators.
+          Earwigs; c. BT 483; Omnivorous flatbugs characterized by their pincer-like cerci.
+          Roaches; c. BT 483; Flatbug with segmented antennae, flat bodies, and omnivorous behavior.
+          Termites; c. BT 482; Flatbug characterized by their social colonies with distinct clastes of workers. Known for their woody apetite.
+         Hoppers; c. BT 483; Insects characterized by their strong hind legs and herbivorous or predatory behavior.
+          Grasshoppers; c. BT 483; Hoppers known for their jumping and loud sounds.
+          Crickets; c. BT 483; Hoppers known for their characteristic chirping.
+          Katydids; c. BT 482; Large hoppers known for their camouflage and loud continous calls.
+         Scythebugs; c. BT 483; Insects characterized by their elongated bodies and scythe-like forelimbs.
+          Stick Insects; c. BT 483; Scythebugs known for their elongated camouflaged bodies.
+          Mantises; c. BT 482; Predatory scythebugs known for their ambush behavior and praying-like stance.
+         Predatory Flies; c. BT 482; Insects characterized by their elongated bodies and predatory behavior.
+          Damselflies; c. BT 482; Narrow-bodied predatory flies which hold their wings against their body when at rest.
+          Dragonflies; c. BT 481; Slender and long-bodied predatory flies which hold their wings horizontal to their bodies when at rest.
+         Beaked Insects; c. BT 482; Insects characterized by their beak-like mouth parts.
+          Cicada; c. BT 482; Beaked insects known for their loud buzzing calls, spend much of their lifecycle buried beneath the soil as nymphs.
+          Aphid; c. BT 482; Small soft-bodied herbivorous beaked insects known for sitting on and feeding off of sappy plants.
+          Leafhopper; c. BT 482; Wedge-shaped beaked insects known for their elongated hing legs made for jumping.
+   Fish; c. BT 495; Second of the animals, more complex body forms than Vermin. Characterized by their commonly entirely aquatic lifestyles.
+    Cartilaginous Fish; c. BT 495; Fish characterized by their absence of true ossified bones. Possess tooth-like scales.
+     Rays; c. BT 495; Cartilaginous fish with flattened bodies and enlarged pectoral fins.
+      Shovelnose Rays; c. BT 495; Rays which exhibit specialized rostrum.
+       Sawfish; c. BT 495; Shovelnose Rays with extremely elongated and saw-like rostrum.
+      Stingrays; c. BT 493; Rays which exhibit extremely flattened bodies.
+       Freshwater Stingrays; c. BT 493; Stingrays created to live in freshwater environments.
+       Marine Stingrays; c. BT 493; Stingrays created to live in saltwater environments.
+     Sharks; c. BT 492; Cartilaginous fish characterized by their pectoral fins that are not fused to their heads.
+      Ground Sharks; c. BT 492; Sharks distinguished by their elongated snouts.
+      Mackerel Sharks; c. BT 486; Sharks distinguished by their large jaws.
+      Squaliform Sharks; c. BT 482; Sharks distinguished by their bioluminescence. Often found in the deep sea.
+    Jawless Fish; c. BT 490; Fish characterized by their absence of paired fins and true jaws.
+     Armored Jawless Fish; c. BT 490; Jawless fish with hard bone-like scales.
+     Jawless Eels; c. BT 485; Jawless fish with soft elongated eel-like bodies.
+      Hagfish; c. BT 485; Jawless eels possessing a bony skull but no spine.
+      Conodont; c. BT 482; Jawless eels possessing a bony skull and highly specialized bony teeth.
+      Lamprey; c. BT 478; Jawless eels characterized by their funnel-like suctioning mouth.
+    Bony Fish; c. BT 487; Fish characterized by their true ossified bones.
+     Ray-finned Fish; c. BT 487; Bony fish with fins made of webbed bony spines.
+      Partially-Ossified Fish; c. BT 487; Ray-finned Fish with partially ossified skeletal systems.
+       Sturgeon; c. BT 487; Partially-ossified fish distinguished by the scute lining their bodies.
+       Paddlefish; c. BT 483; Partially-ossified fish distinguished by their elongated nose.
+       Gar; c. BT 481; Partially-ossified fish characterized by their elongated scaly bodies.
+       Bowfin; c. BT 478; Partially-ossified fish characterized by their long dorsal fin.
+     Lobe-finned Fish; c. BT 478; Bony fish with muscular lobed fins supported by articulated skeletal structure.
+      Coelacanths; c. BT 478; Lobe-finned fish which do not possess air-breathing lungs.
+      Lungfish; c. BT 474; Lobe-finned fish which possess air-breathing lungs.
+   Amphibia; c. BT 489; Third of the animals, characterized by their complex bodies, moist skin, shell-less eggs, and varied drastic life stages.
+    Simple Amphibia; c. BT 486; First of the amphibians, characterized by their simplar and small bodies compared to those of the mega amphibia.
+     Salamander; c. BT 489; Simple amphibia characterized by their tail and limbed larval stage.
+     Frog; c. BT 489; Simple amphibia characterized by their powerful hind-limbs, tail-less body, and limb-less larval stage.
+    Mega Amphibia; c. BT 484; Amphibians characterized by their more complex and large bodies. Often carnivorous in nature.
+   Synapsids; c. BT 475; Last of the animals. Complex bodies with uniquely adapted placenta and often complex maternal instinct.
+    Reptilia; c. BT 475; Synapsids with placenta created to form calcium-coated shelled eggs.
+     Squamata; c. BT 475; Reptiles characterized by their slender elongated bodies.
+      Lizards; c. BT 475; Squamata characterized by their presence of legs.
+       Iguanians; c. BT 475; Lizards with characteristic dewlap and pronounced dorsal crests.
+       Gekkotans; c. BT 475; Lizards characterized by their adhesive toes and nocturnal behavior.
+       Skinks; c. BT 475; Lizards characterized by their overlapping scales and small elongated bodies.
+      Snakes; c. BT 474; Lizards characterized by their limbless bodies.
+       Non-venomous Snakes; c. BT 474; Snakes characterized by the absence of venom in their systems.
+       Venomous Snakes; c. BT 474; Snakes characterized by their predatory behavior and presence of venom.
+     Turtles; c. BT 469; Reptiles distinguished by their highly developed shell-like backs.
+      Soft-shelled Turtles; c. BT 469; Turtles distinguished by their soft fleshy shells.
+      Hard-shelled Turtles; c. BT 468; Turtles distinguished by their hard bone-like shells.
+     Archosaurs; c. BT 468; Reptiles distinguished by their pelvic bones.
+      Aves; c. BT 468; Feathered archosaurs, often capable of powered flight.
+       Perching Birds; c. BT 468; Birds characterized by their small-to-medium sizes and perching feet.
+       Waterfowl; c. BT 468; Birds characterized by their webbed feet and typically flat beaks.
+        d. Domestic Duck; c. BT 441; 
+       Columbiforms; c. BT 467; Birds characterized by their small stout bodies.
+        d. Domestic Chicken; c. BT 441; 
+        d. Domestic Pigeon; c. BT 441; 
+        d. Domestic Turkey; c. BT 441; 
+       Parrots; c. BT 467; Birds characterized by their grasping feet, curved bills, and exotic colors.
+       Birds of Prey; c. BT 467; Birds characterized by their large sizes, hooked beaks, and taloned feet.
+       Swifts; c. BT 466; Birds characterized by their small bodies and agile flying abilities.
+      Crocodylomorphs; c. BT 468; Non-avian primarily semi-aquatic scaly archosaurs.
+    Mammalia; c. BT 462; Synapsids with placenta created to cary young for extended periods of time. Also may be distinguished by the presence of mammary glands to produce milk for young.
+     Egg-laying Mammals; c. BT 462; Mammals which lay eggs instead of giving live birth.
+      s. Platypus; c. BT 462; Strange egg-laying mammal.
+     Marsupial; c. BT 460; Mammals which give birth to undeveloped young, which are nurtured in pouches.
+      Marsupial Bears; c. BT 460; Marsupials with characteristically carnivoran-like body plans.
+       s. Wombat; c. BT 460; Marsupial bears with short stuby bodies.
+       s. Sugar Glider; c. BT 460; Small marsupial bears with wing-like membranes connecting their hind and forelimbs.
+      Marsupial Shrews; c. BT 454; Marsupials with characteristically rodent-like body plans.
+       s. Northern Kangaroo; c. BT 454; Large marsupial shrews, found across much of the north western deserts. Characterized by their powerful hindlimbs and tails built for powerful hops and kicks. They can be differentiated from their northern counterparts by their dull tan color and more stiff ears.
+       s. Eastern Kangaroo; c. BT 454; Large marsupial shrews, created following the Northern Kangaroo species. Much like their relatives, characterized by their powerful hindlimbs and tails built for hopping and kicking. Eastern kangaroos may also be differentiated by their longer tails, less stiff ears, and red color.
+       s. Giant Kangaroo; c. BT 453; Created following the success of the Northern Kangaroo. Giant Kangaroo are rare in the modern day, found only in select regions of the great southern deserts. Giant Kangaroo like their relatives are characterized by their hunched postures and powerful hindlimbs and tails, made for powerful hops and kicks. Some members of this species may stand to be over 2 meters in height and are often a dull tan across much of their body, although males have blue and yellow splotches across their bellies and tails.
+       s. Western Possom; c. BT 454; Mid-sized gray and black rat-like marsupial shrews.
+       s. Oppossum; c. BT 454; Mid-sized gray and black rat-like marsupial shrews.
+     Placentalia; c. BT 459; Mammals which give birth to fully nourished offspring. 
+      Rodents; c. BT 459; Often small fingered mammals with diverse ecological roles.
+       Shrews; c. BT 459; Small insectivorous terrestrial rodents.
+        d. Domestic Hampster; c. BT 441; 
+        d. Domestic Guinea Pig; c. BT 440; 
+        d. Domestic Mouse; c. BT 441; 
+       Moles; c. BT 458; Rodents with large claws, often for subterraneous digging.
+       Lagomorphs; c. BT 456; Rodentia whose incisors continuously grow.
+        d. Domestic Rabbit; c. BT 441; 
+       Armored Mammals; c. BT 452; Rodents with prominent armor-like coverings.
+       Primates; c. BT 449; Rodentia with apposable thumbs.
+        Long-tailed Primates; c. BT 449; Primates which posses elongated posable tails.
+         d. Domestic Monkey; c. BT 440; 
+        Short-tailed Primates; c. BT 447; Primates which posses short stubby tails.
+         s. Human; c. BT 442; Humans as they are today.
+       Bats; c. BT 440; Rodents created with wing-like hands capable of flight.
+        True Bats; c. BT 440; True bats characterized by their small sizes and often social behavior.
+         Megabat; c. BT 440; Bats characterized by their larger sizes and often herbivorous diets.
+         Microbat; c. BT 440; Bats characterized by their smaller sizes and often carnivorous diets.
+          Insectivorous Microbat; c. BT 440; Microbats characterized by their insectivorous diets.
+          Vampire Bats; c. BT 440; Microbats characterized by their carnivorous diets consisting of blood.
+          Nectar Microbats; c. BT 440; Microbats characterized by their diets consisting of fruits, nectar, and pollen.
+        Dragon; c. BT 439; Bats characterized by their ability to walk on their wings and large sizes.
+         Greater Dragon; c. BT 439; Dragons characterized by their ability to cast spells, regrow their vocal tract, and form stars.
+          Pigmy Dragon; c. BT 439; Greater dragons characterized by their small sizes.
+           s. Elf Root Pigmy Dragon; c. BT 439; Pigmy dragons today only found in the north. They are known to congregate around elder elves.
+           s. Moss Pigmy Dragon; c. BT 439; Green and lime green pigmy dragons found in many of the southern tropics.
+           s. Northeastern Long-tailed Pigmy Dragon; c. BT 439; Pigmy dragons found in 
+           s. Western Travelers Pigmy Dragon; c. BT 439; Pigmy dragons found across most of the western tropics. Known to follow travelers for their food.
+           s. Boreal Pigmy Dragon; c. BT 439; Pigmy dragons found in the boreal forests of the south.
+           d. Domestic Pigmy Dragon; c. BT 439; Domesticated pigmy dragon.
+           s. Great Lake Pigmy Dragon; c. BT 439; Pigmies found across the great lakes of the north.
+           s. Mountain Pigmy Dragon; c. BT 439; Pigmies found throughout many of the mountains of the south.
+           s. Eastern Tropical Pigmy Dragon; c. BT 439; Pigmies found in the eastern archipelago tropics.
+           s. Neotropical Pigmy Dragon; c. BT 439; Pigmies found across the souths neotropics.
+           s. Long-tailed Pigmy Dragon; c. BT 439; Pigmy dragons with long tails, found in the south.
+           s. Northern Tropic Pigmy Dragon; c. BT 439; Pigmy dragons found in the northern tropic forests.
+          Horned Dragon; c. BT 438; Greater dragons characterized by their horn-like protrusions from their heads.
+           s. Archipelago Horseshoe Dragon; c. BT 438; Small dragons with U-shaped horns found acorss many of the island chains across the plane.
+           s. Eastern Buffalo Dragon; c. BT 438; Found in the eastern archipelago, mid-sized bulky dragons with buffalo-like horns.
+           s. New World Grand Dragon; c. BT 438; Large horned dragon found in the north with elk-like racks.
+           s. Western Boreal Dragon; c. BT 438; Dragon found in the western parts of the south. Has V-shaped parting horns.
+           s. New World Jungle Dragon; c. BT 438; Dragon found in the north with a large single curved horn on its head.
+           s. Ornamental Dragon; c. BT 438; Horned dragon found in the north with large fan-like horn across its head.
+          Bulldog Dragon; c. BT 438; Greater dragons characterized by their short stubby bulldog-like snouts.
+           s. Fishing Dragon; c. BT 438; Mid-sized basking dragon found across the coast of much of the northern continent.
+           s. Eastern Basking Dragon; c. BT 438; Small bulldog dragon found throughout the eastern archipelago's islands.
+           s. Southern Basking Dragon; c. BT 438; Mid-sized bulldog dragon found throughout much of the southern continents mountains.
+           s. Red Basking Dragon; c. BT 438; Large bulldog dragon found throughout much of the great southern deserts.
+           s. Pigmy Basking Dragon; c. BT 437; The smalles of the bulldog dragons.
+          True Devil Dragon; c. BT 438; Greater dragons characterized by their large sizes.
+           s. Polar Dragon; c. BT 438; True devil dragons which use their spells to keep their bodies warm, allowing them to live in the north and easts polar climates.
+           s. Great Angel Dragon; c. BT 438; Large true devil dragons with eye-like spots across their wings.
+           s. Lesser Red Dragon; c. BT 438; A small true devil dragon red and brown in color.
+           s. Great Wheezing Dragon; c. BT 438; True devil dragon characterized by their large size and wheezing-like sound produced when casting some spells.
+           s. Borborygamous Dragon; c. BT 437; True devil dragon characterized by their absolutely massive size and large bulging neck folds.
+         Lesser Dragon; c. BT 439; Dragons characterized by their inability to cast spells.
+          Cup-footed Dragon; c. BT 439; Lesser dragons characterized by their small sizes and cup-shaped feet.
+           s. Northern Tropic Cup-footed Dragon; c. BT 439; Cup-footed dragon found in the tropics of the north.
+           s. Yellow Cup-footed Dragon; c. BT 439; Cup-footed dragon found throughout much of the southern desert.
+          Lesser Bulldog Dragon; c. BT 438; Lesser dragons characterized by their short bulldog-like snouts.
+           s. Lesser Fishing Dragon; c. BT 438; Lesser bulldog dragons found at the souths great lakes.
+           s. Pigmy Fishing Dragon; c. BT 438; Lesser bulldog dragons found across much of the souths coasts.
+           s. Lesser Pigmy Basking Dragon; c. BT 438; Lesser bulldog dragon found in the souths boreal forests.
+          Leaf-nosed Dragon; c. BT 438; Small lesser dragons characterized by their leaf-like noses.
+           s. Greater Leaf-nosed Dragon; c. BT 438; Leaf-nosed dragons found across much of the norths east.
+           s. Pigmy Leaf-nosed Dragon; c. BT 438; Small leaf-nosed dragons found in the souths forests.
+          Whip-tailed Dragon; c. BT 438; Lesser dragons characterized by their long slender tails which can be used like whips.
+           s. Eastern Whip-tail; c. BT 438; Large whip-tailed dragon found across the eastern deserts of the north.
+           s. Northern Mega Whip-tail; c. BT 438; Large whip-tailed dragons found across much of the norths mountains.
+           s. Southern Black Whip-tail; c. BT 438; Black whip-tailed dragons found across small portions of the souths deserts.
+           s. Tropical Pigmy Whip-tail; c. BT 438; Small whip-tailed dragons found in the eastern desert of the north.
+          False Devil Dragon; c. BT 438; Lesser dragons characterized by their large size and mimic behavior.
+           s. False Borborygamous Dragon; c. BT 436; Large false devil dragons which attempt to mimic adolescent borborygamous dragons.
+           s. False Red Dragon; c. BT 438; False devil dragons which attempt to mimic adult lesser red dragons.
+           s. False Angel Dragon; c. BT 438; False devil dragons which attempt to mimic adolescent great angel dragons.
+      Carnivora; c. BT 453; Mammals with primarily carnivorous diets and diverse hunting practices.
+       Caniforms; c. BT 453; Carnivora with nonretractable claws. 
+        Canids; c. BT 453; Mid-sized caniforms known for their social behaviors. 
+         Weasel-dogs; c. BT 453; Small canids characterized by slender weasel-like bodies.
+         True Dogs; c. BT 452; Mid-sized canids characterized by their dog-like features, with tall strong legs. 
+         Foxes; c. BT 452; Small slender canids with bushy tails, characterized by their intelligence.
+          Raccoon Dogs; c. BT 452; Racoon-like foxes characterized by their gray and brown colors, omnivorous diets, and rare appearence.
+          True Foxes; c. BT 452; True foxes known for their slender bodies, bushy fur, and opportunistic cunning behavior.
+           d. Domestic Fox; c. BT 439; 
+        Ursus; c. BT 452; Large stocky short-tailed primarily omnivorous caniforms.
+         Dog-bears; c. BT 452; The first taxon of bear to be created, relatively similar to canids in their form.
+          s. Mask Bear; c. BT 452; Highly specialized bear created to hunt Organisms of Mass Destruction. Today only found in the north, hunting what few OMD still live.
+          d. Domestic Dog-bear; c. BT 441; The domesticated Dog-bear, found across many households of the south.
+         Panda; c. BT 451; Heavy and purely herbivorous bears.
+          s. Giant Panda; c. BT 451; Specialized herbivorous bears created by a northern God. Today only found on the Northern Island Chain. 
+         Short-faced Bear; c. BT 451; Bears with characteristically stubby snouts and lanky bodies.
+          s. Sloth Bear; c. BT 451; Short-faced bears which get their names from their lanky and long-clawed sloth-like appearence.
+          s. Sun Bear; c. BT 451; Short-faced bears which get their names from the yellow-colored spot on their chests.
+          s. Ghost Bear; c. BT 451; Large white or gray short-faced bears found around the oceanic deserts of the north and south.
+         True Bears; c. BT 449; The characteristic image of a bear, the largest and stocky short-tailed long-snouted bears.
+          s. Brown Bear; c. BT 449; Native to the northern continent, created to hunt relatively large prey.
+          s. Northern Black Bear; c. BT 449; Created by a northern God with the objective of hunting large prey to defend their territory.
+          s. Southern Black Bear; c. BT 448; Following the creation of the Northern Black Bear the Southern Black Bear would be created with some minor anatomical differences.
+        Mustiforms; c. BT 451; Small caniforms characterized by their elongated slender bodies and musty scent glands.
+         Weasel; c. BT 451; Mustiforms characterized by long slender bodies and short legs, created for hunting in narrow spaces.
+          d. Domestic Ferret; c. BT 439; 
+         Otter; c. BT 451; Mustiforms characterized by their semiaquatic lifestyles and swimming prowess.
+         Badger; c. BT 451; Mustiforms characterized by their short tails and highly aggressive behavior.
+       Feliforms; c. BT 451; Carnivora with retractable claws.
+        Dog-like Cats; c. BT 451; Feliforms with dog-like bodies. Short and stocky, stubby tails, and strong legs.
+        True Cats; c. BT 450; Feliforms characterized by their cat-like features. Slender forms, powerful forelimbs, and agility.
+         Small Cats; c. BT 450; True cats characterized by their small bodies.
+          d. Domestic House Cat; c. BT 440; 
+         Large Cats; c. BT 449; True cats characterized by their large bodies.
+          d. Domestic Hunting Cat; c. BT 437; 
+       Cetacea; c. BT 442; Often large mammals adapted for marine environments.
+        Seals; c. BT 442; Cetacea characterized by their terrestrial behavior.
+        Whales; c. BT 442; Completely aquatic cetacea characterized by their large size and filter-feeding diets.
+        Dolphins; c. BT 441; Completely aquatic cetacea characterized by their smaller sizes.
+      Ungulates; c. BT 452; Mammals with hooves.
+       Even-toed Ungulates; c. BT 452; Ungulates with an even number of toes.
+        Cattle; c. BT 452; Even-toed ungulates characterized by their sturdy builds and horns.
+         s. Auroch; c. BT 451; 
+         s. Buffalo; c. BT 451; 
+         s. Water Buffalo; c. BT 451; 
+         d. Domestic Cow; c. BT 442; The modern domestic cow, raised by humans for their meat and milk product.
+         d. Domestic Sheep; c. BT 442; 
+         d. Domestic Goat; c. BT 441; 
+        Cervidae; c. BT 451; Even-toed ungulates characterized by their slender and tall bodies created for running. Often accompanied by antlers.
+         s. Common Deer; c. BT 451; The first of the cervids, and the basal form of deer.
+         s. Pigmy Deer; c. BT 451; 
+         s. Eastern Deer; c. BT 450; 
+         s. Common Moose; c. BT 450; Tall, powerful, and lanky cervids. Characterized by their large and flat antlers and stocky face. Found in the wilds of the southern cold climates.
+         s. Wrinkled Deer; c. BT 450; A small wrinkly species of solitary deer found across islands in the oceanic southern crater scape. Males and females grow short, straight, spined antlers.
+         s. Northern Moose; c. BT 450; Relatives of the common moose, tall powerful and lanky. Found across cold northern climates. 
+         s. Blue Forest Deer; c. BT 450; A mid-sized rare species of deer, dark deep blue in color. Antlers are found only in males and grow like 
+         s. Pigmy Moose; c. BT 449; Small species of moose, sharing the characteristic lanky legs and powerful necks. Amongst the cervids pigmy moose have some of the largest antlers compared to body size. Found across the grasslands of the south and east.
+         s. Great-horned Moose; c. BT 449; 
+         s. Mage's Deer; c. BT 448; A rare species of deer capable of casting spells, found in warmer climates in the southwest of the plane.
+         d. Domestic Moose; c. BT 441; A smaller species of moose created to service humans as powerful and quick steeds. Their smaller bodies are more well adapted for warmer and hotter climates, making them more versatile for different climates. 
+        Sus; c. BT 451; Even-toed ungulates characterized by their often omnivorous diets and short stout bodies.
+         d. Domestic Pig; c. BT 442; The modern domestic pig, raised by humans for their meat and rarely companionship.
+        Giraffe; c. BT 450; Even-toed ungulates characterized by their herbivorous diets and often tall lanky builds, created for foraging high foliage.
+         e. Amber Giraffe; c. BT 450; The first of the giraffes. Extinct in the present, they gained their name from their amber orange color. Short and stout, similar to the Okapi of the modern day.
+         s. Horseshoe Giraffe; c. BT 450; Giraffes characterized by the u-shaped horns adorned upon their head. Horseshoe giraffes have long necks and legs alongside dark brown bodies. Common in monsoon climates in the south and east.
+         s. Shielded Giraffe; c. BT 450; Giraffes characterized by the leaf-shaped flat horns which create a shield-like pattern above their head. Shielded giraffe have relatively long legs and necks. Today they are nearly extinct and found rarely in some savannahs in the northwest.
+         s. Horned Giraffe; c. BT 450; Giraffes characterized by their sharp jagged horns. Horned giraffes have short legs but relatively long necks, amongst the smaller species of giraffe. Found in continental climates in the north.
+         s. Dome-headed Giraffe; c. BT 449; Giraffes characterized by the thick and hard dome on the top of their cranium. Used for mating displays where males will whip their heads into each others skulls. Short and stubby giraffes with tan bodies and dark brown spots. Found across many savannahs in the north and south.
+         s. Spotted Giraffe; c. BT 449; The common image of a giraffe, tall neck and long legs. Pale tan bodies covered in dark and light brown spots. Found across many savannahs of the north and south.
+         s. White Giraffe; c. BT 449; Shorter than their spotted relatives, white giraffes are primarily white and tan in coloration with dark and light brown heads. Found across savannahs of the north.
+         s. Pigmy Giraffe; c. BT 449; Giraffes characterized by their very small size, with the largest individuals standing no more than half a meter in height. Brown in color, they are found across isolated savannah climates in the east.
+         s. Okapi; c. BT 448; Giraffes characterized by their black and while coloration and short stature. Found across temperate rainforests in the north.
+        Camelidae; c. BT 450; Even-toed ungulates characterized by their long necks and legs, thick coats, and fat reserves.
+         s. Giant Camel; c. BT 450; 
+         s. Three-humped Camel; c. BT 450; 
+         s. Vicuna; c. BT 450; 
+         s. Guanaco; c. BT 450; 
+         d. Domestic Llama; c. BT 450; 
+         d. Domestic Alpaca; c. BT 450; 
+         d. Domestic Camel; c. BT 450; 
+       Odd-toed Ungulates; c. BT 451; Ungulates with an odd number of toes.
+        Equidae; c. BT 451; Odd-toed ungulates characterized by their herbivorous diets, slender legs and bodies, and social behavior.
+         s. Wild Horse; c. BT 451; 
+         s. Donkey; c. BT 450; 
+         s. Zebra; c. BT 450; 
+         d. Domestic Horse; c. BT 442; 
+        Rhino; c. BT 451; Odd-toed ungulates characterized by their heavy bodies covered in thick armored skin. Distinguished by their large horns.
+        Tapirs; c. BT 450; Odd-toed ungulates characterized by their trunk-like snouts and herbivorous diets.
+        Chalicotheri; c. BT 450; Odd-toed ungulates characterized by their clawed feet and elongated legs.
