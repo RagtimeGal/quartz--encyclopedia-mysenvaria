@@ -6,9 +6,9 @@ tags:
 - god
 ---
 
-Gods are beings of varying power and abilities, often primordial in their age and near-infinite in their wisdom. Gods have shifted and often forged history, their names and stories dotted across the sky in the form of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|stars]]. 
+Gods are beings of varying power and abilities, often primordial in their age and near-infinite in their wisdom. Gods have shifted and often forged history, their names and stories dotted across the sky in the form of [[Encyclopedia Mysenvaria/Geography/Stars|stars]]. 
 
-Gods can be created and, due to the [[Encyclopedia Mysenvaria/Geography/Astrography/Harmonic Treaty|Harmonic Treaty]], are only capable of controlling the element of nature they are delegated to. Before the signing of the Harmonic Treaty Gods were capable of controlling any element of nature they had wished, which is partially part of the reason for the God-War.
+Gods can be created and, due to the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]], are only capable of controlling the element of nature they are delegated to. Before the signing of the Harmonic Treaty Gods were capable of controlling any element of nature they had wished, which is partially part of the reason for the God-War.
 
 # History
 The history of Gods is also the history of the Plane, see the [[Encyclopedia Mysenvaria/History/Timeline|timeline]] for a comprehensive overview of history, or see [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|respective pages]] for Gods for their singular histories.

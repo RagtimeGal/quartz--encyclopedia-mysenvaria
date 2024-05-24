@@ -6,7 +6,7 @@ tags:
 - star_system
 ---
 
-This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Stars|star systems]], defined as systems of contextually related stars which normally all orbit around a singular point, sometimes around another primary star.
+This page serves as an index of [[Encyclopedia Mysenvaria/Geography/Stars|star systems]], defined as systems of contextually related stars which normally all orbit around a singular point, sometimes around another primary star.
 
 # A
 ## Apology System

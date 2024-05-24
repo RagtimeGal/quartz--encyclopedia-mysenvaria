@@ -4,7 +4,6 @@ enableToc: true
 tags:
 - culture/groups
 - stub
-- meta
 ---
 
 > [!note]

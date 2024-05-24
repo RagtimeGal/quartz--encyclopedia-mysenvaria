@@ -5,14 +5,7 @@ tags:
 - meta
 ---
 
-This page serves as a thanks to all of our great and academically acclaimed collaborators but also serves as an index of our collaborators and their contributions to the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. This index is organized by contributions according to [[Topics|topic]] sorted by alphabetical order.
+[[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing Company|Academy Publishing Company]] makes it an effort to reach out to and collaborate with as many scholars as possible. With the objective of maintaining utmost truth in our pursuit of knowledge we think it is important to work with as diverse a cast of writers as possible. We work diligently to give each of our writers their own biography page.
 
-# Art
-
-# Biology
-
-# Culture
-
-# Geography
-
-# History
+> [!abstract] Meta
+> Collaborators and writers mentioned in this page are not real people, but may be created by or based on actual collaborators who have helped write the project.

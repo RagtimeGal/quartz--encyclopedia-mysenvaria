@@ -35,7 +35,7 @@ tags:
 - 65bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Sixth Council|Sixth God Council Held]]
 - 37bt: [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Tear|Great Tear Created]]
 - 37bt: [[Encyclopedia Mysenvaria/History/Biographies/First Elven Elder|First Elven Elder Passes]]
-- 0bt: [[Encyclopedia Mysenvaria/Geography/Astrography/Harmonic Treaty|Harmonic Treaty Signed]]
+- 0bt: [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty Signed]]
 
 # [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]
 
