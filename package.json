@@ -4,12 +4,12 @@
   "private": true,
   "version": "4.1.3",
   "type": "module",
-  "author": "Ragno <contact@ragnois.gay>",
+  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
   "license": "MIT",
-  "homepage": "https://mysenvaria.ragno.wiki/",
+  "homepage": "https://quartz.jzhao.xyz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria"
+    "url": "https://github.com/jackyzha0/quartz.git"
   },
   "scripts": {
     "docs": "npx quartz build --serve -d docs",
