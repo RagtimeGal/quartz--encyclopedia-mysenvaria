@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <timeline>
-  <version>2.9.0 beta (a050abc21360 2023-09-01)</version>
+  <version>2.8.0 (a5d1a524551b 2023-01-01)</version>
   <timetype>numtime</timetype>
   <categories>
     <category>
@@ -50,7 +50,7 @@
     <event>
       <start>0</start>
       <end>0</end>
-      <text>[8]Test</text>
+      <text>[7]Test</text>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
       <fuzzy_end>False</fuzzy_end>
@@ -61,7 +61,7 @@
     <event>
       <start>0</start>
       <end>0</end>
-      <text>[9]The God War</text>
+      <text>[8]The God War</text>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
       <fuzzy_end>False</fuzzy_end>
@@ -785,11 +785,37 @@
       <category>History</category>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>1313</start>
+      <end>1313</end>
+      <text>Academy Publishing Company founded</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1393</start>
+      <end>1393</end>
+      <text>Second Edition Encyclopedia Mysenvaria published</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture &amp; Society</category>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-187</start>
-      <end>-64</end>
+      <start>1172</start>
+      <end>1671</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
