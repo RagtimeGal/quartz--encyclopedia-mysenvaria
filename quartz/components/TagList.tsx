@@ -1,4 +1,4 @@
-import { pathToRoot, slugTag } from "../util/path"
+import { pathToRoot } from "../util/path"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function TagList({ fileData, displayClass }: QuartzComponentProps) {
@@ -9,12 +9,12 @@ function TagList({ fileData, displayClass }: QuartzComponentProps) {
       <ul class={`tags ${displayClass ?? ""}`}>
         {tags.map((tag) => {
           const display = `#${tag}`
-          const linkDest = baseDir + `/tags/${slugTag(tag)}`
+          // const linkDest = baseDir + `/tags/${slugTag(tag)}`  // Removed as it's no longer needed
           return (
             <li>
-              <a href={linkDest} class="internal tag-link">
+              <span class="internal tag-link">
                 {display}
-              </a>
+              </span>
             </li>
           )
         })}
@@ -47,7 +47,7 @@ TagList.css = `
   overflow-wrap: normal;
 }
 
-a.internal.tag-link {
+span.internal.tag-link {
   border-radius: 8px;
   background-color: var(--highlight);
   padding: 0.2rem 0.4rem;
