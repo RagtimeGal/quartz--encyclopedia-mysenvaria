@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - art/literature/non-fiction
 - stub/template
+draft: true
 ---
 
 > [!note]

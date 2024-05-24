@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - culture/language
 - stub/template
+draft: true
 ---
 
 > [!note]

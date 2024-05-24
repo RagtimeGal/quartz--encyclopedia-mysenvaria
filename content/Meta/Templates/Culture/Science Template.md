@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - culture/science
 - stub/template
+draft: true
 ---
 
 > [!note]

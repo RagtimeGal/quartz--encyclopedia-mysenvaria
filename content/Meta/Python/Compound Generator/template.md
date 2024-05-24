@@ -6,6 +6,7 @@ tags:
 - god/lesser-god
 - god/compound_god
 - stub
+draft: true
 ---
 
 > [!note]

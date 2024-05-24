@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - art/performance
 - stub/template
+draft: true
 ---
 
 > [!note]

@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - culture/holiday
 - stub/template
+draft: true
 ---
 
 > [!note]

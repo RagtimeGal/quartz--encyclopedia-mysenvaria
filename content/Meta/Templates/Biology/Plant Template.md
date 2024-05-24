@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - biology/plants
 - stub/template
+draft: true
 ---
 
 > [!note]

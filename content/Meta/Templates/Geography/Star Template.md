@@ -5,6 +5,7 @@ tags:
 - geography/astrography
 - star
 - stub/template
+draft: true
 ---
 
 > [!note]

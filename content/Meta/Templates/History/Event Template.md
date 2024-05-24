@@ -7,6 +7,7 @@ tags:
 - history/golden_age
 - history/modern_era
 - stub/template
+draft: true
 ---
 
 > [!note]

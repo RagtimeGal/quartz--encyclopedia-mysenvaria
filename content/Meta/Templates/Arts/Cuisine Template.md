@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - art/cuisine
 - stub/template
+draft: true
 ---
 
 > [!note]

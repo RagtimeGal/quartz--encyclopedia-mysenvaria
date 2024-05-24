@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - geography/artificial
 - stub/template
+draft: true
 ---
 
 > [!note]

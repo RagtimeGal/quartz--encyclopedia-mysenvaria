@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - geography/abstract
 - stub/template
+draft: true
 ---
 
 > [!note]

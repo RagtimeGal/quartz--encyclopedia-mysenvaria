@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - biology/disease
 - stub/template
+draft: true
 ---
 
 > [!note]
