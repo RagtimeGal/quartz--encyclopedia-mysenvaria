@@ -1,6 +1,6 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/footer.scss"
 import { version } from "../../package.json"
+import style from "./styles/footer.scss"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 interface Options {
   links: Record<string, string>

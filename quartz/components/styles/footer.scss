@@ -9,7 +9,23 @@ footer {
     padding: 0;
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;  // Add this line to evenly space the links
     gap: 1rem;
     margin-top: -1rem;
+    width: 100%;  // Ensure the ul takes the full width of the footer
+  }
+
+  & li {
+    flex: 1;  // Ensure each li takes equal space
+    text-align: center;  // Center align the text within each li
+  }
+
+  & a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  & a:hover {
+    text-decoration: underline;
   }
 }
