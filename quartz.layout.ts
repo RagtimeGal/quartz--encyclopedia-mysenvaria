@@ -7,9 +7,11 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "GitHub": "https://github.com/RagtimeGal/quartz--encyclopedia_galactica",
+      "Home": "https://mysenvaria.ragno.wiki/"
+      "Meta": "https://mysenvaria.ragno.wiki/Meta/Meta"
+      "GitHub": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria",
       "Discord": "https://discord.gg/2yUDZ5j",
-      "Blog": "https://blog.ragno.wiki/",
+      "Blog": "https://ragnois.gay/",
     },
   }),
 }
