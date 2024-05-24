@@ -4,7 +4,6 @@ enableToc: true
 tags:
   - meta
 ---
-![[Meta/Images/home_page_banner.png|center]]
 
 The [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is a comprehensive collection of [[Encyclopedia Mysenvaria/Arts/Literature|literary]] works by numerous scholars. Published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]] the Encyclopedia Mysenvaria is only possible because of the help of countless scholarly occupants from across the civilized [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Academy Publishing has worked diligently to gather as many [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]], [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Biologist|biologists]], [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]], [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|cartographers]], [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor|doctors]], and [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Adventurer|adventurers]] to diversify our cast of editors and writers.
 # Topics
