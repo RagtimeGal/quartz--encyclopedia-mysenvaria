@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "Home": "https://mysenvaria.ragno.wiki/"
-      "Meta": "https://mysenvaria.ragno.wiki/Meta/Meta"
+      "Home": "https://mysenvaria.ragno.wiki/",
+      "Meta": "https://mysenvaria.ragno.wiki/Meta/Meta",
       "GitHub": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria",
       "Discord": "https://discord.gg/2yUDZ5j",
       "Blog": "https://ragnois.gay/",
