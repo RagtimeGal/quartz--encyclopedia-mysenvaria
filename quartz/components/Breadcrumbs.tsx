@@ -1,7 +1,7 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import breadcrumbsStyle from "./styles/breadcrumbs.scss"
-import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
+import { FullSlug, SimpleSlug, resolveRelative } from "../util/path"
+import breadcrumbsStyle from "./styles/breadcrumbs.scss"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 type CrumbData = {
   displayName: string
@@ -18,7 +18,7 @@ interface BreadcrumbOptions {
    */
   rootName: string
   /**
-   * wether to look up frontmatter title for folders (could cause performance problems with big vaults)
+   * Wether to look up frontmatter title for folders (could cause performance problems with big vaults)
    */
   resolveFrontmatterTitle: boolean
   /**
@@ -32,7 +32,7 @@ interface BreadcrumbOptions {
 }
 
 const defaultOptions: BreadcrumbOptions = {
-  spacerSymbol: "❯",
+  spacerSymbol: "/",
   rootName: "Home",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
@@ -115,7 +115,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       <nav class={`breadcrumb-container ${displayClass ?? ""}`} aria-label="breadcrumbs">
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
-            <a href={crumb.path}>{crumb.displayName}</a>
+            <span>{crumb.displayName}</span>
             {index !== crumbs.length - 1 && <p>{` ${options.spacerSymbol} `}</p>}
           </div>
         ))}
