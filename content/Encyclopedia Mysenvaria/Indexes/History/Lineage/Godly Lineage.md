@@ -28,6 +28,10 @@ CompoundGods-->Phenomena[Gods of Phenomena]
 Phenomena-->Atmospheric[Gods of Atmosphere]
 Phenomena-->Earth[Gods of Earth]
 ElementalGods-->CompoundGods[Compound Gods]
+
+click LifeDeath "https://mysenvaria.ragno.wiki/Encyclopedia-Mysenvaria/History/Biographies/Gods/Gods-of-Life-and-Death"
+click CreationQuadrinity "https://mysenvaria.ragno.wiki/Encyclopedia-Mysenvaria/History/Biographies/Gods/Gods-of-Matter,-Energy,-Time,-and-Space"
+click TimeGods "https://mysenvaria.ragno.wiki/Encyclopedia-Mysenvaria/History/Biographies/Gods/Gods-of-Past,-Present,-and-Future"
 ```
 # Group Lineages
 These graphs serve to show the lineages of specific taxonomical groups of Gods.
