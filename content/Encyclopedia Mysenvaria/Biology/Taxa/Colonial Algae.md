@@ -2,6 +2,7 @@
 title: Colonial Algae
 enableToc: true
 tags:
+  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -14,7 +15,11 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Algae|Algae]]
 > > ### Supersedes
-> > None
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Sea Lettuce|Sea Lettuce]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Sphere Algae|Sphere Algae]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Giant Kelp|Giant Kelp]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Nori|Nori]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Branching Red Algae|Branching Red Algae]]
 >
 > > [!info] Creation Date
 > > c. BT 511
@@ -37,3 +42,5 @@ Algae which grow together in colonies.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

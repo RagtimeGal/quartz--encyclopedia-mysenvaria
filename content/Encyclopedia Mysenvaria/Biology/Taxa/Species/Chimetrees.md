@@ -2,7 +2,7 @@
 title: Chimetrees
 enableToc: true
 tags:
-  - biology/taxa
+  - biology/plant
   - stub
 ---
 
@@ -37,3 +37,4 @@ Nutty conifers found in dry climates. Produce elongated woody wind chime-like co
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

@@ -19,7 +19,7 @@ tags:
 > > [!info] Creation Date
 > > c. BT 441
 
-a
+Domestic species of bee native to the eastern archipelago.
 # History
 
 # Classification

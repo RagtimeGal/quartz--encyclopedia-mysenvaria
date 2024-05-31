@@ -2,7 +2,7 @@
 title: Redwoods
 enableToc: true
 tags:
-  - biology/taxa
+  - biology/plant
   - stub
 ---
 
@@ -37,3 +37,4 @@ Some of the largest trees in the world.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

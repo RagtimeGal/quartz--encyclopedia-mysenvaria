@@ -1,25 +1,25 @@
 ---
-title: Domestic Ants
+title: Mountain Fern
 enableToc: true
 tags:
-  - biology/animal/domestic
+  - biology/plant
   - stub
 ---
 
 > [!note]
 > This page is a stub and has more information that can be added.
 
-> [!summary] Domestic Ants
+> [!summary] Mountain Fern
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ants|Ants]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fern|Fern]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
-> > c. BT 442
+> > c. BT 483
 
-a
+Ferns created for high-altitude environments, they have tough leathery fronds.
 # History
 
 # Classification
@@ -37,4 +37,4 @@ a
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/List of Domesticated Animals|List of Domesticated Animals]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

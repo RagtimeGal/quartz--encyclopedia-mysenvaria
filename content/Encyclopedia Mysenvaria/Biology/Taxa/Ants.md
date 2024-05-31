@@ -15,7 +15,7 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Insects|Colonial Insects]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Ants|Domestic Ants]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Medicine Ants|Medicine Ants]]
 >
 > > [!info] Creation Date
 > > c. BT 484

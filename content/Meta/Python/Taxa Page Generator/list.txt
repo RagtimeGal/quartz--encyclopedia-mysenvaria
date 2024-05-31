@@ -1,12 +1,60 @@
-Universal Common Ancestor; c. BT 523; Created to spread the territory of its creator God. Single celled simple organism which fragments and propagates to grow rather than dispersing seed.
+Plant; c. BT 523; Created to spread the territory of its creator God. Single celled simple organism which fragments and propagates to grow rather than dispersing seed.
  Algae; c. BT 512; Amongst the first and simplest of the plants, created to serve as primary producers, spreading territory and creating energy which is used further up in the ecosystem. Algae are capable of surviving and thriving in water environments.
   Green Algae; c. BT 512; Single-celled algae that rapidly reproduce and bloom.
+   s. Common Green Algae; c. BT 511; A common algae found in freshwater environments.
+   s. Brown Algae; c. BT 511; A common species of freshwater algae which is brown in color.
+   s. Red Algae; c. BT 511; An uncommon species of algae which is red in color. During bloom they may turn beaches blood red in color.
+   s. Diatom; c. BT 511; A common single-celled algae found in saltwater and freshwater environments.
+   s. Glowing Algae; c. BT 511; An uncommon species of algae which are bioluminescent and glow when moved.
+   s. Golden Algae; c. BT 511; An uncommon species of freshwater algae which are yellow in color.
+   d. Pink Algae; c. BT 511; An uncommon species of freshwater algae used in traditional southern elven medicine. Can be considered to be domesticated by some.
   Colonial Algae; c. BT 511; Algae which grow together in colonies.
+   s. Sea Lettuce; c. BT 511; Common seaweed found in coastal waters. They have broad leaft fronds.
+   s. Sphere Algae; c. BT 511; Common algae found floating on the tops of still water bodies, form spherical clumps.
+   s. Giant Kelp; c. BT 511; Common species of kelp which grow in close proximity in shallow waters.
+   s. Nori; c. BT 510; Common species of seaweed found in intertidal zones, used in some cuisine.
+   s. Branching Red Algae; c. BT 510; Uncommon red seaweeds which appear to branch and grow out similarly to corals. May be used in the production of agar.
  Worts; c. BT 503; Created to spread territory in damp terrestrial and subterraneous environments, similar to algae in their purpose.
   Leafless Worts; c. BT 505; Created to colonize soils quickly, producing dense mats which protect against erosion.
+   s. Eastern Mosswort; c. BT 505; Leafless worts characterized by their flat hair-like growth. Larger than their western cousins.
+   s. Western Mosswort; c. BT 505; Leafless worts characterized by their flat hair-like growth. Smaller than their eastern cousins, more brown in color.
+   s. Red Mosswort; c. BT 504; Leafless worts characterized by their flat hair-like growth. A deep red in color and found in freshwater environments.
+   s. Purple Scalewort; c. BT 505; Leafless worts characterized by their long wavy and scale-like growth pattern. Purple in color and found towards the eastern continents.
+   s. Scalewort; c. BT 505; Leafless worts characterized by their long wavy and scale-like growths.
+   s. Coastal Liverwort; c. BT 504; Leafless worts with flattened lobed bodies. Found in intertidal zones.
+   s. Central Liverwort; c. BT 504; Leafless worts with flattened lobed bodies, found in the jungles of the terrestrial south.
+   s. Northern Liverwort; c. BT 504; Leafless worts with flattened lobed bodies, found across the deserts of the coastal north.
+   s. Hornwort; c. BT 504; Leafless worts with horn-like structures which protrude from their flat bodies.
+   s. Giant Hornwort; c. BT 504; Leafless worts with horn-like structures which protrude from their flat bodies. Found in the central desert of the south, creating large rock-like spikes which protrude from some areas of the desert.
   Leaved Worts; c. BT 505; Created to compete with leafless worts, grow slower but create leaves which may steal light from competing smaller plants.
+   s. Common Green Moss; c. BT 505; Leaved worts with small leafy shoots which grow densely together, creating hair-like filiment. Found across many of the damp forests of the south and north.
+   s. Common Yellow Moss; c. BT 505; Leaved worts with small leafy shoots which grow densely together, creating hair-like filiment. Yellow in color and less common than its green counterpart, found mostly in the north.
+   s. Pincushion Moss; c. BT 504; Leaved worts with small leafy shoots which grow densely together, forming hair-like filiment. These moss grow in small spheres, making a pin-cushion like shape.
+   s. Star Moss; c. BT 504; Leaved worts with small star-shaped leafy shoots which grow densely together. These star shape is iconic and the center of the star is a deep yellow in color.
+   s. Leafy Liverwort; c. BT 504; Leaved worts with small laid-down overlapping leaves arrange in rows.
+   s. Scalemoss; c. BT 504; Leaved worts with tiny scale-like leaves which point upwards and form dense mats.
+   s. Grand Scalemoss; c. BT 504; Leaved worts with tiny scale-like leaves which lay down and overlap with one another. They may completely cover the trunks of some larger plants, and are even known to overtake some plants in their entirety, starving them.
+   s. Haircap Moss; c. BT 503; Leaved worts with long erect brownish-red stems that end in pointed leaves.
+   s. Common Feather Moss; c. BT 503; Leaved worts with feather-like soft fronds. Found in many southern forests, especially in damp but not rainy areas.
  Seminifer; c. BT 484; An improvement to the previous design, seminifers can spread territory further by procreating with one another.
   Fern; c. BT 484; Photosynthetic seminifers which spread by releasing spores into the atmosphere.
+   s. Common Fiddlehead; c. BT 484; Ferns characterized by their unfurling leaves and stems. Found throughout much of the southern continent.
+   s. Pink Fiddlehead; c. BT 484; Ferns characterized by their unfurling leaves and stems, pink in coloration. Found only in a small portion of the south, where the Great Humid Plane meets the Great Southern Cold Strip.
+   s. Spiny Shield Fern; c. BT 484; Ferns which grow broad shield-like hard and spiny fronds to protect it from herbivory. Found on the eastern archipelago and some northwestern islands.
+   s. Great Shield Fern; c. BT 484; Large ferns which grow broad shield-like hard and spiny fronds to protect themselves from herbivory. Found on the eastern side of the southern continent.
+   s. Spiny Fern; c. BT 484; Ferns with hard waxy spiny fronds made for retaining water. Found in some arid environments across the south.
+   s. Silver Fern; c. BT 484; Ferns with silver-tinged fronds, found in some high-altitude regions of the south.
+   s. Copper Fern; c. BT 484; Rare species of fern with beautiful orange and red colors across their fronds. Found rarely around the central south mediterranean.
+   s. Tree Fern; c. BT 483; Ferns characterized by their tall tree-like structure and large soft fronds. Found in dense rainforests in the south and partially into the north.
+   s. Horsetail Fern; c. BT 483; Ferns notable for their segmented stems and radiating branches.
+   s. Giant Horsetail; c. BT 483; A large variety of horsetails, they may grow to be multiple meters in height. Rarely found in the south, apparently more common in the north.
+   s. Common Shrub Fern; c. BT 483; Ferns with low shrub-like growth patterns.
+   s. Large Shrub Fern; c. BT 483; Ferns with low shrub-like growth patterns, may sprawl out over a large area.
+   s. Mountain Fern; c. BT 483; Ferns created for high-altitude environments, they have tough leathery fronds.
+   s. Desert Fern; c. BT 483; Ferns created to survive arid environments, they sport waxy fronds and thick reduced leaves. Very common across the islands connecting the north and south.
+   s. Bog Fern; c. BT 483; Ferns created for acidic nutrient-poor environments like bogs and peatland. Found across much of the souths coast.
+   s. River Fern; c. BT 482; Aquatic ferns with tall stems which reach up to the surface of the water and long soft leaves which float on the surface.
+   s. Saltwater Fern; c. BT 482; Aquatic ferns found on brackish and saltwater coasts, usually amongst mangroves in shaded areas.
   Fungus; c. BT 483; Seminifers which spread by releasing spores into the atmosphere. Attain their nutrience by consuming biotic material.
    Mold; c. BT 484; Fungus created to quickly break down organic matter.
    Yeast; c. BT 480; Fungus created to aid in fermentation, thriving in anaerobic environments where fermentation is vital.
@@ -93,16 +141,16 @@ Universal Common Ancestor; c. BT 523; Created to spread the territory of its cre
       Metamorphosing Insects; c. BT 485; Four-winged insects characterized by their undergoing of the process of metamorphosis.
        Flies; c. BT 485; Insects characterized by their small sizes.
        Lepidoptera; c. BT 485; Insects characterized by their large scaly-wings and extremely mobile larval stage.
-        s. Starmoth; c. BT 446; a
-        d. Domestic Silkmoth; c. BT 441; a
+        s. Starmoth; c. BT 446; Moths which lay dormant across much of the Plane. When a star falls heaps of these moth emmerge from the ground to follow the star, consuming mythril which forms around it. In the modern day they are close to extinction.
+        d. Domestic Silkmoth; c. BT 441; Moths domesticated in the eastern archipelago by the dwarves. Their cocoons may be spun into fine thread.
        Colonial Insects; c. BT 484; Insects characterized by their complex social structures, often consisting of a queen and drones. Although not all species are social.
         Ants; c. BT 484; Colonial insects characterized by their distinct worker, soldier, and queen castes.
-         d. Domestic Ants; c. BT 442; a
+         s. Medicine Ants; c. BT 442; A species of ant found in the western mediterranean. Used in medicine to clean wounds. Years of use have led to some 'domestic' varities.
         Bees; c. BT 484; Colonial insects characterized by their role in pollinating, known for their production of honey and wax.
-         d. Domestic Sextown Bee; c. BT 442; a
-         d. Domestic Northern Bee; c. BT 441; a
-         d. Domestic Southwestern Bee; c. BT 441; a
-         d. Domestic Giant Bee; c. BT 441; a
+         d. Domestic Sextown Bee; c. BT 442; Domestic species of bee native to the sextown region of the world.
+         d. Domestic Northern Bee; c. BT 441; Domestic species of bee native to the nothern continent.
+         d. Domestic Southwestern Bee; c. BT 441; Domestic species of bee native to the southern continent.
+         d. Domestic Giant Bee; c. BT 441; Domestic species of bee native to the eastern archipelago.
         Wasps; c. BT 483; Colonial insects characterized by their predatory or parasitic behavior and slender bodies.
        Beetles; c. BT 483; Insects whos front wings have hardened into a protective covering.
         Weevil; c. BT 483; Beetles distinguished by their elongated snout for boring and herbivorous diets.

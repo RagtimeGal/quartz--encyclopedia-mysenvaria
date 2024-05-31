@@ -19,7 +19,7 @@ tags:
 > > [!info] Creation Date
 > > c. BT 442
 
-a
+Domestic species of bee native to the sextown region of the world.
 # History
 
 # Classification

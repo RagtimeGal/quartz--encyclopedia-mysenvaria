@@ -19,7 +19,7 @@ tags:
 > > [!info] Creation Date
 > > c. BT 441
 
-a
+Moths domesticated in the eastern archipelago by the dwarves. Their cocoons may be spun into fine thread.
 # History
 
 # Classification

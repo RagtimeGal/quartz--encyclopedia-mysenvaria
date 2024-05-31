@@ -12,7 +12,7 @@ tags:
 > [!summary] Worts
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Universal Common Ancestor|Universal Common Ancestor]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|Plant]]
 > > ### Supersedes
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Leafless Worts|Leafless Worts]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaved Worts|Leaved Worts]]
@@ -38,3 +38,4 @@ Created to spread territory in damp terrestrial and subterraneous environments, 
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

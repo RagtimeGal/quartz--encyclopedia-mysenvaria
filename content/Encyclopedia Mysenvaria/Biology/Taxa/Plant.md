@@ -1,5 +1,5 @@
 ---
-title: Universal Common Ancestor
+title: Plant
 enableToc: true
 tags:
   - biology/taxa
@@ -9,7 +9,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-> [!summary] Universal Common Ancestor
+> [!summary] Plant
 > > [!info] Relation
 > > ### Succeeds
 > > None
