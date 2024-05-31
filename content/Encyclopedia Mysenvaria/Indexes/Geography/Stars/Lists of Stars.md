@@ -7,7 +7,7 @@ tags:
 - star_system
 ---
 
-This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Stars|stars]]. 
+This page serves as an index of lists for [[Encyclopedia Mysenvaria/Stars|stars]]. 
 
 # By Name
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars Named After People and Places|List of Stars Named After People and Places]]

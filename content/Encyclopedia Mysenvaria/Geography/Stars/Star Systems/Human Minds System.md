@@ -10,7 +10,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-The Human Minds System is a small system of [[Encyclopedia Mysenvaria/Geography/Stars|stars]] whose host star, the [[Encyclopedia Mysenvaria/Geography/Stars/Human Minds System/Human Minds|Human Minds]] star, was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] as a way
+The Human Minds System is a small system of [[Encyclopedia Mysenvaria/Stars|stars]] whose host star, the [[Encyclopedia Mysenvaria/Geography/Stars/Human Minds System/Human Minds|Human Minds]] star, was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] as a way
 # Etymology
 
 > [!note]

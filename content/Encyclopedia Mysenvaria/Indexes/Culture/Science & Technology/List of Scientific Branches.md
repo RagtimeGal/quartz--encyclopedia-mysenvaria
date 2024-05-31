@@ -6,7 +6,7 @@ tags:
 - culture/science
 ---
 
-This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Science & Technology|scientific branches]] sorted in alphabetical order.
+This page serves as an index of [[Encyclopedia Mysenvaria/Science & Technology|scientific branches]] sorted in alphabetical order.
 
 # A
 - [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Anatomy|Anatomy]]
