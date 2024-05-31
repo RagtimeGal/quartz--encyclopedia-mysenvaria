@@ -12,14 +12,14 @@ tags:
 > [!summary] Domestic Silkmoth
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Moths|Moths]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lepidoptera|Lepidoptera]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 441
 
-
+a
 # History
 
 # Classification

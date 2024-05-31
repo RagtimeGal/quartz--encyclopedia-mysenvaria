@@ -2,7 +2,7 @@
 title: Fungus
 enableToc: true
 tags:
-  - biology/plant
+  - biology/taxa
   - stub
 ---
 
@@ -12,14 +12,16 @@ tags:
 > [!summary] Fungus
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Sporifer|Sporifer]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mold|Mold]], [[Encyclopedia Mysenvaria/Biology/Taxa/Yeast|Yeast]], [[Encyclopedia Mysenvaria/Biology/Taxa/Mushroom|Mushroom]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mold|Mold]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Yeast|Yeast]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shroom|Shroom]]
 >
 > > [!info] Creation Date
-> > c. BT 484
+> > c. BT 483
 
-Spore-producing soft fleshy carnivorous plants.
+Seminifers which spread by releasing spores into the atmosphere. Attain their nutrience by consuming biotic material.
 # History
 
 # Classification
@@ -37,5 +39,3 @@ Spore-producing soft fleshy carnivorous plants.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

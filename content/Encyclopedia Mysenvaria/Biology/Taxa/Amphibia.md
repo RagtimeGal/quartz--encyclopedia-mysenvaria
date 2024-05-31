@@ -2,7 +2,7 @@
 title: Amphibia
 enableToc: true
 tags:
-  - biology/animal
+  - biology/taxa
   - stub
 ---
 
@@ -12,14 +12,17 @@ tags:
 > [!summary] Amphibia
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Simple Amphibia|Simple Amphibia]], [[Encyclopedia Mysenvaria/Biology/Taxa/Mega Amphibia|Mega Amphibia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Salamanders|Salamanders]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Frogs|Frogs]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mega Amphibia|Mega Amphibia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
 >
 > > [!info] Creation Date
 > > c. BT 489
 
-Third of the animals, characterized by their complex bodies, moist skin, shell-less eggs, and varied drastic life stages.
+Vertebrate created for terrestrial mobility, have modified ovaries for laying eggs.
 # History
 
 # Classification
@@ -38,4 +41,3 @@ Third of the animals, characterized by their complex bodies, moist skin, shell-l
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

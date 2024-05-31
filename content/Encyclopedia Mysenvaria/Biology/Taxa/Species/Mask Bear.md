@@ -12,7 +12,7 @@ tags:
 > [!summary] Mask Bear
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dog-bears|Dog-bears]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
 > > ### Supersedes
 > > None
 >

@@ -12,7 +12,7 @@ tags:
 > [!summary] Lesser Red Dragon
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/True Devil Dragon|True Devil Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Devil Dragon|Devil Dragon]]
 > > ### Supersedes
 > > None
 >

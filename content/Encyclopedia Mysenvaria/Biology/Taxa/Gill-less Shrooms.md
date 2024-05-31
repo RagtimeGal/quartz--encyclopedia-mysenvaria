@@ -12,14 +12,14 @@ tags:
 > [!summary] Gill-less Shrooms
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mushroom|Mushroom]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shroom|Shroom]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 479
 
-Mushrooms which do not grow gills.
+Adapted for environments where spore dispersal is more challenging, relying on other methods.
 # History
 
 # Classification
@@ -37,4 +37,3 @@ Mushrooms which do not grow gills.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

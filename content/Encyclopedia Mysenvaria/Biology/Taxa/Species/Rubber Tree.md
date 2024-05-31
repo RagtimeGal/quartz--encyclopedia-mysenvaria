@@ -12,7 +12,7 @@ tags:
 > [!summary] Rubber Tree
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Eudicots|Eudicots]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]]
 > > ### Supersedes
 > > None
 >

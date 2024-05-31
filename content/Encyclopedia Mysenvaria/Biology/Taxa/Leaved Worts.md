@@ -19,7 +19,7 @@ tags:
 > > [!info] Creation Date
 > > c. BT 505
 
-Worts characterized by their leafy structures.
+Created to compete with leafless worts, grow slower but create leaves which may steal light from competing smaller plants.
 # History
 
 # Classification
@@ -37,4 +37,3 @@ Worts characterized by their leafy structures.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

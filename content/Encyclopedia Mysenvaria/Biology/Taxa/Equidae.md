@@ -15,7 +15,10 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Wild Horse|Wild Horse]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Donkey|Donkey]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Zebra|Zebra]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Horse|Domestic Horse]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Wild Horse|Wild Horse]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Donkey|Donkey]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Zebra|Zebra]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Horse|Domestic Horse]]
 >
 > > [!info] Creation Date
 > > c. BT 451
@@ -39,4 +42,4 @@ Odd-toed ungulates characterized by their herbivorous diets, slender legs and bo
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

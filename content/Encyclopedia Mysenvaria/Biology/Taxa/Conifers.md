@@ -15,12 +15,13 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Florifer|Florifer]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pines|Pines]], [[Encyclopedia Mysenvaria/Biology/Taxa/Pods|Pods]], [[Encyclopedia Mysenvaria/Biology/Taxa/Cypress|Cypress]], [[Encyclopedia Mysenvaria/Biology/Taxa/Nutty Conifers|Nutty Conifers]], [[Encyclopedia Mysenvaria/Biology/Taxa/Yews|Yews]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Redwoods|Redwoods]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Chimetrees|Chimetrees]]
 >
 > > [!info] Creation Date
 > > c. BT 471
 
-Florifers which produce seed-bearing cones from their flowering organs.
+Florifiers which produce seed-bearing cones which can spread seeds autonomously by wind.
 # History
 
 # Classification
@@ -38,5 +39,4 @@ Florifers which produce seed-bearing cones from their flowering organs.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

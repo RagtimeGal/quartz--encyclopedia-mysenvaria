@@ -15,12 +15,13 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Wombat|Wombat]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Sugar Glider|Sugar Glider]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Wombat|Wombat]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Sugar Glider|Sugar Glider]]
 >
 > > [!info] Creation Date
-> > c. BT 460
+> > c. BT 459
 
-Marsupials with characteristically carnivoran-like body plans.
+Created to fulfil predatory niches in the ecosystem.
 # History
 
 # Classification
@@ -39,4 +40,4 @@ Marsupials with characteristically carnivoran-like body plans.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

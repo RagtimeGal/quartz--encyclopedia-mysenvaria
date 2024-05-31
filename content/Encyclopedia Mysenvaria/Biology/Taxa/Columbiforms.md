@@ -15,7 +15,9 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Aves|Aves]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Chicken|Domestic Chicken]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Pigeon|Domestic Pigeon]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Turkey|Domestic Turkey]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Chicken|Domestic Chicken]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Pigeon|Domestic Pigeon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Turkey|Domestic Turkey]]
 >
 > > [!info] Creation Date
 > > c. BT 467
@@ -39,4 +41,4 @@ Birds characterized by their small stout bodies.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

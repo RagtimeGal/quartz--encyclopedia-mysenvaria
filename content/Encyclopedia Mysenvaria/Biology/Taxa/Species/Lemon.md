@@ -12,14 +12,14 @@ tags:
 > [!summary] Lemon
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Eudicots|Eudicots]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 448
 
-Hybrid plant which grows in mediterranean climates.
+Hybrid plant which grows in Mediterranean climates.
 # History
 
 # Classification

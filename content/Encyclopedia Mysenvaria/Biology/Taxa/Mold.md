@@ -2,7 +2,6 @@
 title: Mold
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -15,12 +14,12 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Water Mold|Water Mold]], [[Encyclopedia Mysenvaria/Biology/Taxa/Dry Mold|Dry Mold]]
+> > None
 >
 > > [!info] Creation Date
 > > c. BT 484
 
-Fungus which grow in fuzzy flat blankets.
+Fungus created to quickly break down organic matter.
 # History
 
 # Classification
@@ -38,5 +37,3 @@ Fungus which grow in fuzzy flat blankets.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

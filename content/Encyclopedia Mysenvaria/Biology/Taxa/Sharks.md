@@ -2,7 +2,6 @@
 title: Sharks
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -15,7 +14,7 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Cartilaginous Fish|Cartilaginous Fish]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ground Sharks|Ground Sharks]], [[Encyclopedia Mysenvaria/Biology/Taxa/Mackerel Sharks|Mackerel Sharks]], [[Encyclopedia Mysenvaria/Biology/Taxa/Squaliform Sharks|Squaliform Sharks]]
+> > None
 >
 > > [!info] Creation Date
 > > c. BT 492
@@ -39,4 +38,3 @@ Cartilaginous fish characterized by their pectoral fins that are not fused to th
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

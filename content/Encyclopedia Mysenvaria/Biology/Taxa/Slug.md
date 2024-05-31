@@ -2,7 +2,6 @@
 title: Slug
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -13,14 +12,14 @@ tags:
 > [!summary] Slug
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shell-less Worms|Shell-less Worms]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seaslug|Seaslug]], [[Encyclopedia Mysenvaria/Biology/Taxa/True Slug|True Slug]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Snail|Snail]]
 >
 > > [!info] Creation Date
-> > c. BT 493
+> > c. BT 498
 
-Shell-less worms characterized by their mucus-covered soft bodies and singular walking foot.
+Vermins characterized by the abssence of an external shell, move using a single muscular foot at the bottom of their body.
 # History
 
 # Classification
@@ -39,4 +38,3 @@ Shell-less worms characterized by their mucus-covered soft bodies and singular w
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

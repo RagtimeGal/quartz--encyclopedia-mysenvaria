@@ -12,7 +12,7 @@ tags:
 > [!summary] False Angel Dragon
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/False Devil Dragon|False Devil Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Devil Dragon|Devil Dragon]]
 > > ### Supersedes
 > > None
 >

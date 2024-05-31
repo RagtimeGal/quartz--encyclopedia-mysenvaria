@@ -2,7 +2,7 @@
 title: Synapsids
 enableToc: true
 tags:
-  - biology/animal
+  - biology/taxa
   - stub
 ---
 
@@ -12,14 +12,15 @@ tags:
 > [!summary] Synapsids
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]], [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
 >
 > > [!info] Creation Date
 > > c. BT 475
 
-Last of the animals. Complex bodies with uniquely adapted placenta and often complex maternal instinct.
+Synapsids marked the move to complete terrestrial lives, requiring the loss of moist eggs and a move to hard shelled protective eggs.
 # History
 
 # Classification
@@ -38,4 +39,3 @@ Last of the animals. Complex bodies with uniquely adapted placenta and often com
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

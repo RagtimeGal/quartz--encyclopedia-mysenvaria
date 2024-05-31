@@ -12,7 +12,7 @@ tags:
 > [!summary] Yellow Cup-footed Dragon
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cup-footed Dragon|Cup-footed Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]]
 > > ### Supersedes
 > > None
 >

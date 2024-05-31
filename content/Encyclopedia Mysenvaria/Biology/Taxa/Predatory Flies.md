@@ -15,7 +15,8 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Damselflies|Damselflies]], [[Encyclopedia Mysenvaria/Biology/Taxa/Dragonflies|Dragonflies]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Damselflies|Damselflies]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Dragonflies|Dragonflies]]
 >
 > > [!info] Creation Date
 > > c. BT 482
@@ -39,4 +40,4 @@ Insects characterized by their elongated bodies and predatory behavior.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

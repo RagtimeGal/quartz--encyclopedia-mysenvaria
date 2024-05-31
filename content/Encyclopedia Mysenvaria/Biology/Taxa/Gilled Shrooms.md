@@ -12,14 +12,14 @@ tags:
 > [!summary] Gilled Shrooms
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mushroom|Mushroom]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shroom|Shroom]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 478
 
-Mushrooms which do grow gills.
+Adapted for environments where spore dispersal is easiest, allowing them to thrive in forest and dense habitats.
 # History
 
 # Classification
@@ -37,4 +37,3 @@ Mushrooms which do grow gills.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

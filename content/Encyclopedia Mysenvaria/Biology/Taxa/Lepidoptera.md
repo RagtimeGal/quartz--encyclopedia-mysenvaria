@@ -15,7 +15,8 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Butterflies|Butterflies]], [[Encyclopedia Mysenvaria/Biology/Taxa/Moths|Moths]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Starmoth|Starmoth]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Silkmoth|Domestic Silkmoth]]
 >
 > > [!info] Creation Date
 > > c. BT 485
@@ -39,4 +40,4 @@ Insects characterized by their large scaly-wings and extremely mobile larval sta
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

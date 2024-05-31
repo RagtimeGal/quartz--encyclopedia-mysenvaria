@@ -12,14 +12,14 @@ tags:
 > [!summary] Olive
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Eudicots|Eudicots]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 448
 
-Mediterannean climate plant.
+Mediterranean climate plant.
 # History
 
 # Classification

@@ -17,9 +17,9 @@ tags:
 > > None
 >
 > > [!info] Creation Date
-> > c. BT 468
+> > c. BT 467
 
-Non-avian primarily semi-aquatic scaly archosaurs.
+Archosaurs which use little energy and are adapted for moist wet environments.
 # History
 
 # Classification

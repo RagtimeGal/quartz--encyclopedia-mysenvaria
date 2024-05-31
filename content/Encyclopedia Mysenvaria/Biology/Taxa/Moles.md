@@ -12,7 +12,7 @@ tags:
 > [!summary] Moles
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
 > > ### Supersedes
 > > None
 >

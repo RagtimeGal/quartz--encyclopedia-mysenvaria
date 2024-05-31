@@ -15,12 +15,16 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Northern Kangaroo|Northern Kangaroo]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Eastern Kangaroo|Eastern Kangaroo]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Giant Kangaroo|Giant Kangaroo]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Western Possom|Western Possom]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Oppossum|Oppossum]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Northern Kangaroo|Northern Kangaroo]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Eastern Kangaroo|Eastern Kangaroo]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Giant Kangaroo|Giant Kangaroo]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Western Possom|Western Possom]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Oppossum|Oppossum]]
 >
 > > [!info] Creation Date
 > > c. BT 454
 
-Marsupials with characteristically rodent-like body plans.
+Created to fulfil herbivorous niches in the ecosystem.
 # History
 
 # Classification
@@ -39,4 +43,4 @@ Marsupials with characteristically rodent-like body plans.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

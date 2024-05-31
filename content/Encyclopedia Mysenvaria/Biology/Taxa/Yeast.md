@@ -2,7 +2,6 @@
 title: Yeast
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -15,12 +14,12 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Single-celled Yeast|Single-celled Yeast]], [[Encyclopedia Mysenvaria/Biology/Taxa/Multicellular Yeast|Multicellular Yeast]]
+> > None
 >
 > > [!info] Creation Date
 > > c. BT 480
 
-Fungus which grow as single celled organisms but exhibit multicellular behavior.
+Fungus created to aid in fermentation, thriving in anaerobic environments where fermentation is vital.
 # History
 
 # Classification
@@ -38,5 +37,3 @@ Fungus which grow as single celled organisms but exhibit multicellular behavior.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

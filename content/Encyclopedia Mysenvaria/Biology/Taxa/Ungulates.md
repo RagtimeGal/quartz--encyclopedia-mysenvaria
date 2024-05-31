@@ -2,7 +2,6 @@
 title: Ungulates
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -13,9 +12,10 @@ tags:
 > [!summary] Ungulates
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]], [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]
 >
 > > [!info] Creation Date
 > > c. BT 452
@@ -39,4 +39,3 @@ Mammals with hooves.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

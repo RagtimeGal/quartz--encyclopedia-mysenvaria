@@ -12,7 +12,7 @@ tags:
 > [!summary] Carrot
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Eudicots|Eudicots]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Herbaceous|Herbaceous]]
 > > ### Supersedes
 > > None
 >

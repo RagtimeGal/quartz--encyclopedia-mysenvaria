@@ -14,12 +14,13 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]]
 > > ### Supersedes
-> > None
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 >
 > > [!info] Creation Date
 > > c. BT 485
 
-Hexapods characterized by their wings.
+Hexapods characterized by the presence of wings. Created for atmospheric purposes.
 # History
 
 # Classification

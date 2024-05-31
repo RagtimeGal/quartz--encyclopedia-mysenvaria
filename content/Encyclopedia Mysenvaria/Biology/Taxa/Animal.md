@@ -2,7 +2,6 @@
 title: Animal
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -13,14 +12,16 @@ tags:
 > [!summary] Animal
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Laboratorius|Laboratorius]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]], [[Encyclopedia Mysenvaria/Biology/Taxa/Fish|Fish]], [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]], [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
 >
 > > [!info] Creation Date
 > > c. BT 498
 
-Organisms created with the idea of mobile autonomous work in mind. They move by means of complex musculature.
+Seminifers which spread their territory by autonomous movement. Such a move necessitated the creation of new organelles, cell communication methods, and skeletal systems.
 # History
 
 # Classification
@@ -39,4 +40,3 @@ Organisms created with the idea of mobile autonomous work in mind. They move by 
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

@@ -12,7 +12,7 @@ tags:
 > [!summary] Northern Black Bear
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/True Bears|True Bears]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
 > > ### Supersedes
 > > None
 >

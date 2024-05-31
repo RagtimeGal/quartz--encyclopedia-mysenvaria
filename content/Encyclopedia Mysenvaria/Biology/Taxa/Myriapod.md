@@ -2,7 +2,6 @@
 title: Myriapod
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -15,7 +14,7 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Millipede|Millipede]], [[Encyclopedia Mysenvaria/Biology/Taxa/Centipede|Centipede]]
+> > None
 >
 > > [!info] Creation Date
 > > c. BT 496
@@ -39,4 +38,3 @@ Wingless insects characterized by their long segmented bodies, each segment with
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

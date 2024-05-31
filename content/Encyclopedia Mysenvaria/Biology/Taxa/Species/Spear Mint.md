@@ -12,7 +12,7 @@ tags:
 > [!summary] Spear Mint
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Eudicots|Eudicots]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Climbing|Climbing]]
 > > ### Supersedes
 > > None
 >

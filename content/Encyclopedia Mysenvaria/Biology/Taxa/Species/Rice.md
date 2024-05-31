@@ -12,7 +12,7 @@ tags:
 > [!summary] Rice
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Grasses|Grasses]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aquatic|Aquatic]]
 > > ### Supersedes
 > > None
 >

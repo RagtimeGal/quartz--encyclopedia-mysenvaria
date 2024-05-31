@@ -2,7 +2,6 @@
 title: Hexapod
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -13,14 +12,15 @@ tags:
 > [!summary] Hexapod
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropod|Arthropod]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]], [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]]
 >
 > > [!info] Creation Date
 > > c. BT 496
 
-Primarily terrestrial arthropods with uniraamous appendages.
+Athropods characterized by their uniraamous appendages.
 # History
 
 # Classification
@@ -39,4 +39,3 @@ Primarily terrestrial arthropods with uniraamous appendages.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

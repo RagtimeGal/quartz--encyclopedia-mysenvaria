@@ -2,7 +2,6 @@
 title: Florifer
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -15,12 +14,13 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Conifers|Conifers]], [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Conifers|Conifers]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
 >
 > > [!info] Creation Date
 > > c. BT 471
 
-Plants which reproduce by flowering.
+Seminifers which spread by convincing other species to spread their seed.
 # History
 
 # Classification
@@ -38,5 +38,3 @@ Plants which reproduce by flowering.
 > Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

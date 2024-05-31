@@ -2,7 +2,6 @@
 title: Rodents
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -15,7 +14,7 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrews|Shrews]], [[Encyclopedia Mysenvaria/Biology/Taxa/Moles|Moles]], [[Encyclopedia Mysenvaria/Biology/Taxa/Lagomorphs|Lagomorphs]], [[Encyclopedia Mysenvaria/Biology/Taxa/Armored Mammals|Armored Mammals]], [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]], [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
+> > None
 >
 > > [!info] Creation Date
 > > c. BT 459
@@ -39,4 +38,3 @@ Often small fingered mammals with diverse ecological roles.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

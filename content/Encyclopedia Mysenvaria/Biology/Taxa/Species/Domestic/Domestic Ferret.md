@@ -12,14 +12,14 @@ tags:
 > [!summary] Domestic Ferret
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Weasel|Weasel]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mustiforms|Mustiforms]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 439
 
-
+a
 # History
 
 # Classification

@@ -12,14 +12,14 @@ tags:
 > [!summary] Domestic Hunting Cat
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Large Cats|Large Cats]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Feliforms|Feliforms]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 437
 
-
+a
 # History
 
 # Classification

@@ -40,9 +40,15 @@ def find_animal_or_plant_entry(entry, index, input_list, is_extinct, is_domestic
                 return "- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]", "- biology/plant"
     return None, None
 
+def remove_draft_line(template_content):
+    return "\n".join(line for line in template_content.splitlines() if "draft: true" not in line)
+
 def generate_files_from_list(input_list, template_file, output_directory):
     with open(template_file, 'r') as f:
         template_content = f.read()
+
+    # Remove 'draft: true' line from the template content
+    template_content = remove_draft_line(template_content)
 
     for index, entry in enumerate(input_list):
         name, year, description = entry.split('; ')
@@ -115,13 +121,15 @@ def update_successor_links(filepath, successors):
     with open(filepath, 'r') as f:
         content = f.read()
 
+    has_species_successor = any(any(prefix in successor for prefix in ["s. ", "e. ", "d. "]) for successor in successors)
+
     for successor in successors:
         if any(prefix in successor for prefix in ["s. ", "e. ", "d. "]):
             updated_successor = successor[3:]  # Remove "s. " prefix
             content = content.replace(successor, updated_successor)
 
     # If the entry is a species, replace "- biology/taxa" with appropriate replacement
-    if "s. " or "e. " or "d. " in filepath:
+    if "s. " in filepath or "e. " in filepath or "d. " in filepath:
         if "- biology/taxa" in content:
             if "animal" in content:
                 content = content.replace("- biology/taxa", "- biology/animal")
@@ -129,11 +137,11 @@ def update_successor_links(filepath, successors):
                 content = content.replace("- biology/taxa", "- biology/plant")
 
     # Add a line at the end of the file for lists of families if a species successor exists
-    if any("s. " or "e. " or "d. " in successor for successor in successors):
-        content += "\n- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]"
+    if has_species_successor:
+        content += "\n- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]"
 
     # Add a line after "- biology/taxa" for family classification if a species successor exists
-    if "- biology/taxa" in content and any("s. " or "e. " or "d. " in successor for successor in successors):
+    if "- biology/taxa" in content and has_species_successor:
         content = content.replace("- biology/taxa", "- biology/taxa/family\n  - biology/taxa")
 
     # Write the updated content back to the file
@@ -180,7 +188,7 @@ def format_links(entries):
                 else:
                     formatted_entry = f"[[Encyclopedia Mysenvaria/Biology/Taxa/{entry}|{entry}]]"
                 formatted_entries.append(formatted_entry)
-            return ', '.join(formatted_entries)
+            return ("\n> > ").join(formatted_entries)
         else:
             return 'Invalid input'
 

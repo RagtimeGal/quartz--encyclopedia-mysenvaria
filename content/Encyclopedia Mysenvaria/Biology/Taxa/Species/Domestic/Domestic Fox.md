@@ -12,14 +12,14 @@ tags:
 > [!summary] Domestic Fox
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/True Foxes|True Foxes]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Canids|Canids]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 439
 
-
+a
 # History
 
 # Classification

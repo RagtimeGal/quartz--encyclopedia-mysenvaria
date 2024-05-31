@@ -17,9 +17,9 @@ tags:
 > > None
 >
 > > [!info] Creation Date
-> > c. BT 484
+> > c. BT 489
 
-Amphibians characterized by their more complex and large bodies. Often carnivorous in nature.
+Amphibia created to fulfil tertiary ranks in the ecosystem. Large and powerful, created for hunting.
 # History
 
 # Classification

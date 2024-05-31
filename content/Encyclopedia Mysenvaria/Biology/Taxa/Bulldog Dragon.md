@@ -13,9 +13,16 @@ tags:
 > [!summary] Bulldog Dragon
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Greater Dragon|Greater Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Fishing Dragon|Fishing Dragon]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Eastern Basking Dragon|Eastern Basking Dragon]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Southern Basking Dragon|Southern Basking Dragon]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Red Basking Dragon|Red Basking Dragon]], [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Pigmy Basking Dragon|Pigmy Basking Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Lesser Fishing Dragon|Lesser Fishing Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Fishing Dragon|Fishing Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Pigmy Fishing Dragon|Pigmy Fishing Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Eastern Basking Dragon|Eastern Basking Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Lesser Pigmy Basking Dragon|Lesser Pigmy Basking Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Southern Basking Dragon|Southern Basking Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Red Basking Dragon|Red Basking Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Pigmy Basking Dragon|Pigmy Basking Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 438
@@ -39,4 +46,4 @@ Greater dragons characterized by their short stubby bulldog-like snouts.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

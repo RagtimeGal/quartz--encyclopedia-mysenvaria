@@ -12,7 +12,7 @@ tags:
 > [!summary] Lesser Pigmy Basking Dragon
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lesser Bulldog Dragon|Lesser Bulldog Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bulldog Dragon|Bulldog Dragon]]
 > > ### Supersedes
 > > None
 >

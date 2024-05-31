@@ -12,7 +12,7 @@ tags:
 > [!summary] Giant Panda
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Panda|Panda]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
 > > ### Supersedes
 > > None
 >

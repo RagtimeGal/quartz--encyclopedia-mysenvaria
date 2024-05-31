@@ -12,7 +12,7 @@ tags:
 > [!summary] Megabat
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/True Bats|True Bats]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
 > > ### Supersedes
 > > None
 >

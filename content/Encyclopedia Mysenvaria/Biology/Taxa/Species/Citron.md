@@ -12,7 +12,7 @@ tags:
 > [!summary] Citron
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Eudicots|Eudicots]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]]
 > > ### Supersedes
 > > None
 >

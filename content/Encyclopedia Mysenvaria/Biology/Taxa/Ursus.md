@@ -15,7 +15,15 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dog-bears|Dog-bears]], [[Encyclopedia Mysenvaria/Biology/Taxa/Panda|Panda]], [[Encyclopedia Mysenvaria/Biology/Taxa/Short-faced Bear|Short-faced Bear]], [[Encyclopedia Mysenvaria/Biology/Taxa/True Bears|True Bears]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Mask Bear|Mask Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Giant Panda|Giant Panda]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Sloth Bear|Sloth Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Sun Bear|Sun Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Ghost Bear|Ghost Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Brown Bear|Brown Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Northern Black Bear|Northern Black Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Southern Black Bear|Southern Black Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Dog-bear|Domestic Dog-bear]]
 >
 > > [!info] Creation Date
 > > c. BT 452
@@ -39,4 +47,4 @@ Large stocky short-tailed primarily omnivorous caniforms.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

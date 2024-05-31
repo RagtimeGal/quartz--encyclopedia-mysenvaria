@@ -12,7 +12,7 @@ tags:
 > [!summary] Sun Bear
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Short-faced Bear|Short-faced Bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
 > > ### Supersedes
 > > None
 >

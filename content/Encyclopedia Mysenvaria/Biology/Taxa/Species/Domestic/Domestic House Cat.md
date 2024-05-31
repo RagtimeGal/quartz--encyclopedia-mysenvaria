@@ -12,14 +12,14 @@ tags:
 > [!summary] Domestic House Cat
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Small Cats|Small Cats]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Feliforms|Feliforms]]
 > > ### Supersedes
 > > None
 >
 > > [!info] Creation Date
 > > c. BT 440
 
-
+a
 # History
 
 # Classification

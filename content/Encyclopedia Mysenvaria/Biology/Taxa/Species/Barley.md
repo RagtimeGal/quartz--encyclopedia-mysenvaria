@@ -12,7 +12,7 @@ tags:
 > [!summary] Barley
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Grasses|Grasses]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Herbaceous|Herbaceous]]
 > > ### Supersedes
 > > None
 >

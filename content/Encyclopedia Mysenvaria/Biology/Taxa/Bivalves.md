@@ -2,7 +2,6 @@
 title: Bivalves
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
   - stub
 ---
@@ -15,12 +14,12 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marine Bivalves|Marine Bivalves]], [[Encyclopedia Mysenvaria/Biology/Taxa/Freshwater Bivalves|Freshwater Bivalves]]
+> > None
 >
 > > [!info] Creation Date
 > > c. BT 497
 
-Vermin characterized by their two-part shells hinged on one end by muscle.
+Ancestor created to function primarily in aquatic and moist terrestrial environments, build external shell structures to protect organs.
 # History
 
 # Classification
@@ -39,4 +38,3 @@ Vermin characterized by their two-part shells hinged on one end by muscle.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]

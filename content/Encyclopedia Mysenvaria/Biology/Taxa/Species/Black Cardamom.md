@@ -12,7 +12,7 @@ tags:
 > [!summary] Black Cardamom
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Grasses|Grasses]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Climbing|Climbing]]
 > > ### Supersedes
 > > None
 >

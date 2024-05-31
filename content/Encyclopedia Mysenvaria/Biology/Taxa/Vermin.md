@@ -2,7 +2,7 @@
 title: Vermin
 enableToc: true
 tags:
-  - biology/animal
+  - biology/taxa
   - stub
 ---
 
@@ -14,12 +14,15 @@ tags:
 > > ### Succeeds
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worms|Worms]], [[Encyclopedia Mysenvaria/Biology/Taxa/Bivalves|Bivalves]], [[Encyclopedia Mysenvaria/Biology/Taxa/Cephalopods|Cephalopods]], [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropod|Arthropod]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worm|Worm]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Slug|Slug]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cephalopods|Cephalopods]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bivalves|Bivalves]]
 >
 > > [!info] Creation Date
 > > c. BT 498
 
-First of the animals, simple non-complex soft body forms which lack internal skeletal structure.
+Ancestor created to function in moist subterraneous and aquatic environments, for this reason they have simple soft unspecialized bodies.
 # History
 
 # Classification
@@ -38,4 +41,3 @@ First of the animals, simple non-complex soft body forms which lack internal ske
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Families|List of Families]]
