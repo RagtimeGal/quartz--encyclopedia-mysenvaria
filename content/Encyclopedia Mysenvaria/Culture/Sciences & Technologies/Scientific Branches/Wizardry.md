@@ -9,11 +9,11 @@ Wizardry is the study and performance of magic, the manipulation of nature by Go
 
 The effects of the God's choice to do this is unprecedented and is perhaps the only reason sophontic mortals proved useful during the war. Not every sapient was treated equally by the Gods though, for instance [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|Humans]] and [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|Dwarves]] can both speak God Tongue but [[Encyclopedia Mysenvaria/Biology/Sophonts/Elf|Elves]] cannot and instead are relegated to writing it as enchantments, which both the aforementioned sapients can also do. This has created imbalances in the powers of the sapients, which can be attributed as the cause of many historical events.
 
-There are 3 notable classes of wizardry; written magic, spoken magic, and grafting magic. Written and Spoken involve the use of [[God Tongue]] to crast hexes and spells. Grafting involves the grafting of [[God Part|God Parts]] onto ones body to enhance themself.
+There are 3 notable classes of wizardry; written magic, spoken magic, and grafting magic. Written and Spoken involve the use of [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue]] to crast hexes and spells. Grafting involves the grafting of [[God Part|God Parts]] onto ones body to enhance themself.
 
-Practitioners of magic are referred to as [[Wizard|Wizards]] or [[Mage|Mages]], typically depending on their association with governments, although this can change locally. Wizards are practitioners of magic who do not identify themselves as working with any governmental agency, while Mages are Wizards who work for governments. All Mages are Wizards, but not all Wizards are Mages. 
+Practitioners of magic are referred to as [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|Wizards]] or [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Mage|Mages]], typically depending on their association with governments, although this can change locally. Wizards are practitioners of magic who do not identify themselves as working with any governmental agency, while Mages are Wizards who work for governments. All Mages are Wizards, but not all Wizards are Mages. 
 
-[[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Astronomy]] may sometimes be confused with wizardry, but they are two wholey different areas of study. [[Astronomer|Astronomers]] study the stars in an attempt to further the worlds understanding of Gods and God Tongue. They are solely responsible for a great deal of the information known about God Tongue in the [[Modern Era]].
+[[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Astronomy]] may sometimes be confused with wizardry, but they are two wholey different areas of study. [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|Astronomers]] study the stars in an attempt to further the worlds understanding of Gods and God Tongue. They are solely responsible for a great deal of the information known about God Tongue in the [[Modern Era]].
 
 # History
 ## God-War Era
@@ -25,7 +25,7 @@ Practitioners of magic are referred to as [[Wizard|Wizards]] or [[Mage|Mages]], 
 ## Modern Era
 
 # Spoken Magic
-Spoken magic is the most common and easiest form of magic to learn, although it is still incredibly difficult to perform. Spoken magic, often referred to as spellcasting and spells, is performed by speaking in [[God Tongue]]. Real God Tongue cannot be spoken by mortals, and so they will never have the same control over nature as the Gods have with their own word. Instead, mortals speak a kind of anglicized God Tongue which can be pronounced and properly spoken by them.
+Spoken magic is the most common and easiest form of magic to learn, although it is still incredibly difficult to perform. Spoken magic, often referred to as spellcasting and spells, is performed by speaking in [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue]]. Real God Tongue cannot be spoken by mortals, and so they will never have the same control over nature as the Gods have with their own word. Instead, mortals speak a kind of anglicized God Tongue which can be pronounced and properly spoken by them.
 
 This form of God Tongue is not perfect and at times is not even completed. Many words and much of the grammar of God Tongue is lost to mortals, locked behind the great minds of the Gods. Astronomers translate the stars in an attempt to decode God Tongue and further humanities understanding of it.
 

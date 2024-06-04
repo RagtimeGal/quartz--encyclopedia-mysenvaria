@@ -6,7 +6,7 @@ tags:
 - geography/resource
 ---
 
-This page serves as an index of [[Encyclopedia Mysenvaria/Resources|resources]] sorted alphabetically. 
+This page serves as an index of [[Encyclopedia Mysenvaria/Geography/Topics/Resources|resources]] sorted alphabetically. 
 # G
 - [[Encyclopedia Mysenvaria/Geography/Resources/God Part|God Part]]
 # M

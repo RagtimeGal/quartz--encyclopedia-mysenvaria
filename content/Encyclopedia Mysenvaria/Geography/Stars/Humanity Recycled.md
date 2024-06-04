@@ -10,7 +10,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-Humanity Recycled is a [[Encyclopedia Mysenvaria/Stars|star]] created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cyclopentadecanolide|God of Cyclopentadecanolide]], angered by the creation of [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humans]] they would create the star claiming that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] had stolen their idea. The creator of a minor family of [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|primates]], Cyclopentadecanolide would be largely ignored and dismissed by other Gods. The star is indirectly related to [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Alex's Star System|Alex's Star System]].
+Humanity Recycled is a [[Encyclopedia Mysenvaria/Geography/Topics/Stars|star]] created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cyclopentadecanolide|God of Cyclopentadecanolide]], angered by the creation of [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humans]] they would create the star claiming that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] had stolen their idea. The creator of a minor family of [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|primates]], Cyclopentadecanolide would be largely ignored and dismissed by other Gods. The star is indirectly related to [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Alex's Star System|Alex's Star System]].
 # Etymology
 
 > [!note]

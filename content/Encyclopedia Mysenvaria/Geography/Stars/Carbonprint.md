@@ -10,7 +10,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-Carbonprint is a [[Encyclopedia Mysenvaria/Stars|star]] created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] to document their creation of their own [[Encyclopedia Mysenvaria/Biology/Organisms|organisms]], namely a number of [[Encyclopedia Mysenvaria/Biology/Animal|animals]]. It is related to but not a descendant of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Mitosis Star System|Mitosis Star System]].
+Carbonprint is a [[Encyclopedia Mysenvaria/Geography/Topics/Stars|star]] created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] to document their creation of their own [[Encyclopedia Mysenvaria/Biology/Organisms|organisms]], namely a number of [[Encyclopedia Mysenvaria/Biology/Animal|animals]]. It is related to but not a descendant of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Mitosis Star System|Mitosis Star System]].
 # Etymology
 
 > [!note]

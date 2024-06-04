@@ -9,7 +9,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|God]] Councils were a series of related gatherings of a majority of the Gods during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Initiated by [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|higher-Gods]] each of the councils were highly important and changed the tides of the war. The councils are each recorded in their own [[Encyclopedia Mysenvaria/Stars|stars]] created by the initiators. 
+The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|God]] Councils were a series of related gatherings of a majority of the Gods during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Initiated by [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|higher-Gods]] each of the councils were highly important and changed the tides of the war. The councils are each recorded in their own [[Encyclopedia Mysenvaria/Geography/Topics/Stars|stars]] created by the initiators. 
 
 The councils would prove necessary multiple times throughout the war and would be influential in creating the [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Natural Laws|laws of nature]] which are known today. Laws like the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]] and [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]] would only come into existence because of the councils. 
 # First Council

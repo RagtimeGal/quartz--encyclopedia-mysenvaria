@@ -6,7 +6,7 @@ tags:
 - geography/natural
 ---
 
-This page serves as an index of lists for [[Encyclopedia Mysenvaria/Natural Features|natural features]]. 
+This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Topics/Natural Features|natural features]]. 
 # By Name
 
 # By Location

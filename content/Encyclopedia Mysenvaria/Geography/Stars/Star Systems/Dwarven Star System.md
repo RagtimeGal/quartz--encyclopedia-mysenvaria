@@ -10,7 +10,7 @@ tags:
 > [!note]
 > This page is a stub and has more information that can be added.
 
-The Dwarven Star System is a mid-sized [[Encyclopedia Mysenvaria/Stars|star]] system created following the creation of the [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|dwarves]] by [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humanity]] to discuss the legality of their creation in regards to the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]] which had been passed 12 years prior. The system would gain a number of stars shortly after its creation, beginning with the [[Encyclopedia Mysenvaria/Geography/Stars/Dwarven Star System/Dwarf Star|Dwarf Star]] by [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide|God of Carbon Dioxide]], but by the end of the ordeal consisting of 82 stars.
+The Dwarven Star System is a mid-sized [[Encyclopedia Mysenvaria/Geography/Topics/Stars|star]] system created following the creation of the [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|dwarves]] by [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humanity]] to discuss the legality of their creation in regards to the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]] which had been passed 12 years prior. The system would gain a number of stars shortly after its creation, beginning with the [[Encyclopedia Mysenvaria/Geography/Stars/Dwarven Star System/Dwarf Star|Dwarf Star]] by [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide|God of Carbon Dioxide]], but by the end of the ordeal consisting of 82 stars.
 # Etymology
 
 > [!note]

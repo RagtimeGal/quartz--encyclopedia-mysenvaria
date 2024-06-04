@@ -7,7 +7,7 @@ tags:
 - star_system
 ---
 
-This page serves as an index of all [[Encyclopedia Mysenvaria/Stars|stars]] sorted alphabetically.
+This page serves as an index of all [[Encyclopedia Mysenvaria/Geography/Topics/Stars|stars]] sorted alphabetically.
 
 | Star                                                                                       | test |
 | ------------------------------------------------------------------------------------------ | ---- |

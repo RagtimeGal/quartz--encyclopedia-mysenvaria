@@ -6,7 +6,7 @@ tags:
 - geography/abstract
 ---
 
-This page serves as an index of lists for [[Encyclopedia Mysenvaria/Abstract Features|abstract features]]. 
+This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Topics/Abstract Features|abstract features]]. 
 # By Name
 
 # By Location
