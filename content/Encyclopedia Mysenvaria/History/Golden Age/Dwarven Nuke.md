@@ -28,3 +28,6 @@ tags:
 > [!note]
 > A list of prominent figures and their relation to the event should go here.
 # See Also
+
+
+# History

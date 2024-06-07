@@ -21,5 +21,4 @@ The Harmonic Treaty has a slightly eccentric orbit with an axial tilt of 23°
 # Also see
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/Lists of Stars|Lists of Stars]]
 
-
-[^figure1]: A model of the Harmonic Treaties orbit over the Plane over the course of 10 days sometime in mid-spring in the modern day. ![[Meta/Videos/10-day-modern-simulation.mp4]]
+[^figure1]: A model of the Harmonic Treaties orbit over the Plane over the course of 10 days sometime in mid-spring in the modern day.

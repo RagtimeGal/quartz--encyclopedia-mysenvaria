@@ -48,28 +48,6 @@
   </categories>
   <events>
     <event>
-      <start>0</start>
-      <end>0</end>
-      <text>[7]Test</text>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
-    </event>
-    <event>
-      <start>0</start>
-      <end>0</end>
-      <text>[8]The God War</text>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-    </event>
-    <event>
       <start>-651</start>
       <end>0</end>
       <text>The God War Era</text>
@@ -814,8 +792,8 @@
   </events>
   <view>
     <displayed_period>
-      <start>1172</start>
-      <end>1671</end>
+      <start>-794</start>
+      <end>-295</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
