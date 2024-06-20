@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Dragon
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Horned Dragon|Horned Dragon]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Bulldog Dragon|Bulldog Dragon]]
@@ -24,21 +22,7 @@ tags:
 > > c. BT 439
 
 Bats characterized by their ability to walk on their wings and large sizes.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

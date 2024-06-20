@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Mammalia
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
@@ -23,21 +21,7 @@ tags:
 > > c. BT 462
 
 Created to carry and nurture young to ensure they survive longer. Created with placenta made to carry young and have mammary glands to produce milk for young.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

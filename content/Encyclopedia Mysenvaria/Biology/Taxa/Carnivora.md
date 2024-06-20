@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Carnivora
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Feliforms|Feliforms]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Cetacea|Cetacea]]
@@ -22,21 +20,7 @@ tags:
 > > c. BT 453
 
 Mammals with primarily carnivorous diets and diverse hunting practices.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

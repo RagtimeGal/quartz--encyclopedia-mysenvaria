@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Cetacea
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Seals|Seals]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|Whales]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Dolphins|Dolphins]]
@@ -22,21 +20,7 @@ tags:
 > > c. BT 442
 
 Often large mammals adapted for marine environments.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

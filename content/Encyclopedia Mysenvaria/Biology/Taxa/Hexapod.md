@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Hexapod
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]]
 >
@@ -21,21 +19,7 @@ tags:
 > > c. BT 496
 
 Athropods characterized by their uniraamous appendages.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

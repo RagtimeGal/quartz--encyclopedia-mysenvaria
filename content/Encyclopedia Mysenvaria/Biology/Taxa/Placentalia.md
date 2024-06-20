@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Placentalia
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrews|Shrews]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Moles|Moles]]
@@ -26,21 +24,7 @@ tags:
 > > c. BT 459
 
 Mammals which give birth to fully nourished offspring.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

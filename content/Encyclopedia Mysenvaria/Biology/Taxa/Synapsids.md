@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Synapsids
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
 >
@@ -21,21 +19,7 @@ tags:
 > > c. BT 475
 
 Synapsids marked the move to complete terrestrial lives, requiring the loss of moist eggs and a move to hard shelled protective eggs.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

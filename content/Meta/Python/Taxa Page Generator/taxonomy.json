@@ -1,0 +1,2085 @@
+{
+    "name": "Plant",
+    "date": 523,
+    "body": "Plants, originally created by the God of Hydrogen Cyanide, were made as a way to define and autonomously war over territory. The first were single-celled fragmentative and propagative, copulating not by seed dispersal but by other less effective means.",
+    "successors": [
+        {
+            "name": "Algae",
+            "date": 512,
+            "body": "Amongst the first and simplest of the plants, created to serve as primary producers, spreading territory and creating energy which is used further up in the ecosystem. Algae are capable of surviving and thriving in water environments.",
+            "successors": [
+                {
+                    "name": "Green Algae",
+                    "date": 512,
+                    "body": "Amongst the first and simplest of the plants, created to serve as primary producers, spreading territory and creating energy which is used further up in the ecosystem. Algae survive in aquatic environments.",
+                    "successors": [
+                        {
+                            "name": "Common Green Algae",
+                            "date": 511,
+                            "body": "A common algae found in freshwater environments."
+                        },
+                        {
+                            "name": "Brown Algae",
+                            "date": 511,
+                            "body": "A common species of freshwater algae which is brown in color."
+                        },
+                        {
+                            "name": "Red Algae",
+                            "date": 511,
+                            "body": "An uncommon species of algae which is red in color. During bloom they may turn beaches blood red in color."
+                        },
+                        {
+                            "name": "Diatom",
+                            "date": 511,
+                            "body": "A common single-celled algae found in saltwater and freshwater environments."
+                        },
+                        {
+                            "name": "Glowing Algae",
+                            "date": 511,
+                            "body": "An uncommon species of algae which are bioluminescent and glow when moved."
+                        },
+                        {
+                            "name": "Golden Algae",
+                            "date": 511,
+                            "body": "An uncommon species of freshwater algae which are yellow in color."
+                        },
+                        {
+                            "name": "Pink Algae",
+                            "date": 511,
+                            "body": "An uncommon species of freshwater algae used in traditional southern elven medicine. Can be considered to be domesticated by some."
+                        }
+                    ]
+                },
+                {
+                    "name": "Colonial Algae",
+                    "date": 511,
+                    "body": "Algae which grow together in colonies.",
+                    "successors": [
+                        {
+                            "name": "Sea Lettuce",
+                            "date": 511,
+                            "body": "Common seaweed found in coastal waters. They have broad leafy fronds."
+                        },
+                        {
+                            "name": "Sphere Algae",
+                            "date": 511,
+                            "body": "Common algae found floating on the tops of still water bodies, form spherical clumps."
+                        },
+                        {
+                            "name": "Giant Kelp",
+                            "date": 511,
+                            "body": "Common species of kelp which grow in close proximity in shallow waters."
+                        },
+                        {
+                            "name": "Nori",
+                            "date": 510,
+                            "body": "Common species of seaweed found in intertidal zones, used in some cuisine."
+                        },
+                        {
+                            "name": "Branching Red Algae",
+                            "date": 510,
+                            "body": "Uncommon red seaweeds which appear to branch and grow out similarly to corals. May be used in the production of agar."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Worts",
+            "date": 503,
+            "body": "Created to spread territory in damp terrestrial and subterraneous environments, similar to algae in their purpose.",
+            "successors": [
+                {
+                    "name": "Leafless Worts",
+                    "date": 505,
+                    "body": "Created to colonize soils quickly, producing dense mats which protect against erosion.",
+                    "successors": [
+                        {
+                            "name": "Eastern Mosswort",
+                            "date": 505,
+                            "body": "Leafless worts characterized by their flat hair-like growth. Larger than their western cousins."
+                        },
+                        {
+                            "name": "Western Mosswort",
+                            "date": 505,
+                            "body": "Leafless worts characterized by their flat hair-like growth. Smaller than their eastern cousins, more brown in color."
+                        },
+                        {
+                            "name": "Red Mosswort",
+                            "date": 504,
+                            "body": "Leafless worts characterized by their flat hair-like growth. A deep red in color and found in freshwater environments."
+                        },
+                        {
+                            "name": "Purple Scalewort",
+                            "date": 505,
+                            "body": "Leafless worts characterized by their long wavy and scale-like growth pattern. Purple in color and found towards the eastern continents."
+                        },
+                        {
+                            "name": "Scalewort",
+                            "date": 505,
+                            "body": "Leafless worts characterized by their long wavy and scale-like growths."
+                        },
+                        {
+                            "name": "Coastal Liverwort",
+                            "date": 504,
+                            "body": "Leafless worts with flattened lobed bodies. Found in intertidal zones."
+                        },
+                        {
+                            "name": "Central Liverwort",
+                            "date": 504,
+                            "body": "Leafless worts with flattened lobed bodies, found in the jungles of the terrestrial south."
+                        },
+                        {
+                            "name": "Northern Liverwort",
+                            "date": 504,
+                            "body": "Leafless worts with flattened lobed bodies, found across the deserts of the coastal north."
+                        },
+                        {
+                            "name": "Hornwort",
+                            "date": 504,
+                            "body": "Leafless worts with horn-like structures which protrude from their flat bodies."
+                        },
+                        {
+                            "name": "Giant Hornwort",
+                            "date": 504,
+                            "body": "Leafless worts with horn-like structures which protrude from their flat bodies. Found in the central desert of the south, creating large rock-like spikes which protrude from some areas of the desert."
+                        }
+                    ]
+                },
+                {
+                    "name": "Leaved Worts",
+                    "date": 505,
+                    "body": "Created to compete with leafless worts, grow slower but create leaves which may steal light from competing smaller plants.",
+                    "successors": [
+                        {
+                            "name": "Common Green Moss",
+                            "date": 505,
+                            "body": "Leaved worts with small leafy shoots which grow densely together, creating hair-like filiment. Found across many of the damp forests of the south and north."
+                        },
+                        {
+                            "name": "Common Yellow Moss",
+                            "date": 505,
+                            "body": "Leaved worts with small leafy shoots which grow densely together, creating hair-like filiment. Yellow in color and less common than its green counterpart, found mostly in the north."
+                        },
+                        {
+                            "name": "Pincushion Moss",
+                            "date": 504,
+                            "body": "Leaved worts with small leafy shoots which grow densely together, forming hair-like filiment. These moss grow in small spheres, making a pin-cushion like shape."
+                        },
+                        {
+                            "name": "Star Moss",
+                            "date": 504,
+                            "body": "Leaved worts with small star-shaped leafy shoots which grow densely together. These star shape is iconic and the center of the star is a deep yellow in color."
+                        },
+                        {
+                            "name": "Leafy Liverwort",
+                            "date": 504,
+                            "body": "Leaved worts with small laid-down overlapping leaves arrange in rows."
+                        },
+                        {
+                            "name": "Scalemoss",
+                            "date": 504,
+                            "body": "Leaved worts with tiny scale-like leaves which point upwards and form dense mats."
+                        },
+                        {
+                            "name": "Grand Scalemoss",
+                            "date": 504,
+                            "body": "Leaved worts with tiny scale-like leaves which lay down and overlap with one another. They may completely cover the trunks of some larger plants, and are even known to overtake some plants in their entirety, starving them."
+                        },
+                        {
+                            "name": "Haircap Moss",
+                            "date": 503,
+                            "body": "Leaved worts with long erect brownish-red stems that end in pointed leaves."
+                        },
+                        {
+                            "name": "Common Feather Moss",
+                            "date": 503,
+                            "body": "Leaved worts with feather-like soft fronds. Found in many southern forests, especially in damp but not rainy areas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Seminifer",
+            "date": 484,
+            "body": "An improvement to the previous design, seminifers can spread territory further by procreating with one another.",
+            "successors": [
+                {
+                    "name": "Fern",
+                    "date": 484,
+                    "body": "Photosynthetic seminifers which spread by releasing spores into the atmosphere.",
+                    "successors": [
+                        {
+                            "name": "Common Fiddlehead",
+                            "date": 484,
+                            "body": "Ferns characterized by their unfurling leaves and stems. Found throughout much of the southern continent."
+                        },
+                        {
+                            "name": "Pink Fiddlehead",
+                            "date": 484,
+                            "body": "Ferns characterized by their unfurling leaves and stems, pink in coloration. Found only in a small portion of the south, where the Great Humid Plane meets the Great Southern Cold Strip."
+                        },
+                        {
+                            "name": "Spiny Shield Fern",
+                            "date": 484,
+                            "body": "Ferns which grow broad shield-like hard and spiny fronds to protect it from herbivory. Found on the eastern archipelago and some northwestern islands."
+                        },
+                        {
+                            "name": "Great Shield Fern",
+                            "date": 484,
+                            "body": "Large ferns which grow broad shield-like hard and spiny fronds to protect themselves from herbivory. Found on the eastern side of the southern continent."
+                        },
+                        {
+                            "name": "Spiny Fern",
+                            "date": 484,
+                            "body": "Ferns with hard waxy spiny fronds made for retaining water. Found in some arid environments across the south."
+                        },
+                        {
+                            "name": "Silver Fern",
+                            "date": 484,
+                            "body": "Ferns with silver-tinged fronds, found in some high-altitude regions of the south."
+                        },
+                        {
+                            "name": "Copper Fern",
+                            "date": 484,
+                            "body": "Rare species of fern with beautiful orange and red colors across their fronds. Found rarely around the central south mediterranean."
+                        },
+                        {
+                            "name": "Tree Fern",
+                            "date": 483,
+                            "body": "Ferns characterized by their tall tree-like structure and large soft fronds. Found in dense rainforests in the south and partially into the north."
+                        },
+                        {
+                            "name": "Horsetail Fern",
+                            "date": 483,
+                            "body": "Ferns notable for their segmented stems and radiating branches."
+                        },
+                        {
+                            "name": "Giant Horsetail",
+                            "date": 483,
+                            "body": "A large variety of horsetails, they may grow to be multiple meters in height. Rarely found in the south, apparently more common in the north."
+                        },
+                        {
+                            "name": "Common Shrub Fern",
+                            "date": 483,
+                            "body": "Ferns with low shrub-like growth patterns."
+                        },
+                        {
+                            "name": "Large Shrub Fern",
+                            "date": 483,
+                            "body": "Ferns with low shrub-like growth patterns, may sprawl out over a large area."
+                        },
+                        {
+                            "name": "Mountain Fern",
+                            "date": 483,
+                            "body": "Ferns created for high-altitude environments, they have tough leathery fronds."
+                        },
+                        {
+                            "name": "Desert Fern",
+                            "date": 483,
+                            "body": "Ferns created to survive arid environments, they sport waxy fronds and thick reduced leaves. Very common across the islands connecting the north and south."
+                        },
+                        {
+                            "name": "Bog Fern",
+                            "date": 483,
+                            "body": "Ferns created for acidic nutrient-poor environments like bogs and peatland. Found across much of the souths coast."
+                        },
+                        {
+                            "name": "River Fern",
+                            "date": 482,
+                            "body": "Aquatic ferns with tall stems which reach up to the surface of the water and long soft leaves which float on the surface."
+                        },
+                        {
+                            "name": "Saltwater Fern",
+                            "date": 482,
+                            "body": "Aquatic ferns found on brackish and saltwater coasts, usually amongst mangroves in shaded areas."
+                        }
+                    ]
+                },
+                {
+                    "name": "Fungus",
+                    "date": 483,
+                    "body": "Seminifers which spread by releasing spores into the atmosphere. Attain their nutrience by consuming biotic material.",
+                    "successors": [
+                        {
+                            "name": "Mold",
+                            "date": 484,
+                            "body": "Fungus created to quickly break down organic matter.",
+                            "successors": []
+                        },
+                        {
+                            "name": "Yeast",
+                            "date": 480,
+                            "body": "Fungus created to aid in fermentation, thriving in anaerobic environments where fermentation is vital.",
+                            "successors": []
+                        },
+                        {
+                            "name": "Shroom",
+                            "date": 479,
+                            "body": "Fungus created to hold symbiotic relationshipos with plants.",
+                            "successors": [
+                                {
+                                    "name": "Gill-less Shrooms",
+                                    "date": 479,
+                                    "body": "Adapted for environments where spore dispersal is more challenging, relying on other methods.",
+                                    "successors": []
+                                },
+                                {
+                                    "name": "Gilled Shrooms",
+                                    "date": 478,
+                                    "body": "Adapted for environments where spore dispersal is easiest, allowing them to thrive in forest and dense habitats.",
+                                    "successors": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Florifer",
+                    "date": 471,
+                    "body": "Seminifers which spread by convincing other species to spread their seed.",
+                    "successors": [
+                        {
+                            "name": "Conifers",
+                            "date": 471,
+                            "body": "Florifiers which produce seed-bearing cones which can spread seeds autonomously by wind.",
+                            "successors": [
+                                {
+                                    "name": "Redwoods",
+                                    "date": 464,
+                                    "body": "Some of the largest trees in the world."
+                                },
+                                {
+                                    "name": "Chimetrees",
+                                    "date": 460,
+                                    "body": "Nutty conifers found in dry climates. Produce elongated woody wind chime-like cones."
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Fruiting Plants",
+                            "date": 462,
+                            "body": "Florifers which produce fleshy fruits to attract organisms which may spread their seeds.",
+                            "successors": [
+                                {
+                                    "name": "Aquatic",
+                                    "date": 462,
+                                    "body": "Fruiting plants created to thrive in primarily aquatic environments.",
+                                    "successors": [
+                                        {
+                                            "name": "Rice",
+                                            "date": 451,
+                                            "body": "Monsoon and humid subtropical plant."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Arboreal",
+                                    "date": 460,
+                                    "body": "Fruiting plants created with thick woody stems to protect them from trampling, foraging, and consumption.",
+                                    "successors": [
+                                        {
+                                            "name": "Date Palm",
+                                            "date": 451,
+                                            "body": "Desert climate plant."
+                                        },
+                                        {
+                                            "name": "Baobab",
+                                            "date": 448,
+                                            "body": "Savannah climate plant."
+                                        },
+                                        {
+                                            "name": "Beech",
+                                            "date": 448,
+                                            "body": "Oceanic climate plant."
+                                        },
+                                        {
+                                            "name": "Cocoa Tree",
+                                            "date": 448,
+                                            "body": "Rainforest climate plant. Their seeds may be dried and crushed to make chocolate."
+                                        },
+                                        {
+                                            "name": "Fig Tree",
+                                            "date": 448,
+                                            "body": "Mediterranean climate plant."
+                                        },
+                                        {
+                                            "name": "Maple",
+                                            "date": 448,
+                                            "body": "Humid continental plant."
+                                        },
+                                        {
+                                            "name": "Olive",
+                                            "date": 448,
+                                            "body": "Mediterranean climate plant."
+                                        },
+                                        {
+                                            "name": "Pecan Tree",
+                                            "date": 448,
+                                            "body": "Humid subtropical climate plant."
+                                        },
+                                        {
+                                            "name": "Rubber Tree",
+                                            "date": 448,
+                                            "body": "Rainforest climate plant. Their tree sap may be dried and hardened into organic rubber."
+                                        },
+                                        {
+                                            "name": "Shea Tree",
+                                            "date": 448,
+                                            "body": "Savannah climate plant."
+                                        },
+                                        {
+                                            "name": "Teak",
+                                            "date": 448,
+                                            "body": "Monsoon climate plant."
+                                        },
+                                        {
+                                            "name": "Almond",
+                                            "date": 448,
+                                            "body": "Mediterranean climate plant."
+                                        },
+                                        {
+                                            "name": "Apple",
+                                            "date": 448,
+                                            "body": "Humid continental climate plant."
+                                        },
+                                        {
+                                            "name": "Cherry",
+                                            "date": 448,
+                                            "body": "Humid continental climate plants."
+                                        },
+                                        {
+                                            "name": "Citron",
+                                            "date": 448,
+                                            "body": "Humid subtropical climate plant."
+                                        },
+                                        {
+                                            "name": "Mandarin Orange",
+                                            "date": 448,
+                                            "body": "Humid subtropical climate plant."
+                                        },
+                                        {
+                                            "name": "Lemon",
+                                            "date": 448,
+                                            "body": "Hybrid plant which grows in Mediterranean climates."
+                                        },
+                                        {
+                                            "name": "Curry Tree",
+                                            "date": 448,
+                                            "body": "Monsoon climate plant."
+                                        },
+                                        {
+                                            "name": "Papaya",
+                                            "date": 448,
+                                            "body": "Rainforest climate plant."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Herbaceous",
+                                    "date": 451,
+                                    "body": "Fruiting plants created with thin soft stems.",
+                                    "successors": [
+                                        {
+                                            "name": "Agave",
+                                            "date": 451,
+                                            "body": "Desert climate plant."
+                                        },
+                                        {
+                                            "name": "Aloe",
+                                            "date": 451,
+                                            "body": "Mediterranean climate plant."
+                                        },
+                                        {
+                                            "name": "Barley",
+                                            "date": 451,
+                                            "body": "Cold desert and cold steppe climate plant."
+                                        },
+                                        {
+                                            "name": "Buckwheat",
+                                            "date": 448,
+                                            "body": "Subarctic continental climate plant."
+                                        },
+                                        {
+                                            "name": "Carrot",
+                                            "date": 448,
+                                            "body": "Subarctic continental climate plant."
+                                        },
+                                        {
+                                            "name": "Chamomile",
+                                            "date": 448,
+                                            "body": "Humid continental climate plants."
+                                        },
+                                        {
+                                            "name": "Ginger",
+                                            "date": 451,
+                                            "body": "Rainforest climate plant."
+                                        },
+                                        {
+                                            "name": "Millet",
+                                            "date": 451,
+                                            "body": "Savannah climate plant."
+                                        },
+                                        {
+                                            "name": "Oat",
+                                            "date": 451,
+                                            "body": "Humid continental plant."
+                                        },
+                                        {
+                                            "name": "Pineapple",
+                                            "date": 451,
+                                            "body": "Rainforest climate plant."
+                                        },
+                                        {
+                                            "name": "Potato",
+                                            "date": 448,
+                                            "body": "Subarctic continental climate plant."
+                                        },
+                                        {
+                                            "name": "Sage",
+                                            "date": 448,
+                                            "body": "Cold desert climate plant."
+                                        },
+                                        {
+                                            "name": "Yams",
+                                            "date": 451,
+                                            "body": "Savannah climate plant."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Climbing",
+                                    "date": 448,
+                                    "body": "Fruiting plants which creep up as they grow, climbing and trailing other structures.",
+                                    "successors": [
+                                        {
+                                            "name": "Yellow Bamboo",
+                                            "date": 451,
+                                            "body": "Monsoon climate plant."
+                                        },
+                                        {
+                                            "name": "Cavendish Banana",
+                                            "date": 451,
+                                            "body": "Rainforest climate plant."
+                                        },
+                                        {
+                                            "name": "Black Cardamom",
+                                            "date": 451,
+                                            "body": "Monsoon climate plant."
+                                        },
+                                        {
+                                            "name": "Green Cardamom",
+                                            "date": 451,
+                                            "body": "Monsoon climate plant."
+                                        },
+                                        {
+                                            "name": "Turmeric",
+                                            "date": 451,
+                                            "body": "Monsoon climate plant."
+                                        },
+                                        {
+                                            "name": "Vanilla",
+                                            "date": 451,
+                                            "body": "Rainforest climate plant."
+                                        },
+                                        {
+                                            "name": "Table Grape",
+                                            "date": 448,
+                                            "body": "Mediterranean climate plant."
+                                        },
+                                        {
+                                            "name": "Spear Mint",
+                                            "date": 448,
+                                            "body": "Humid continental plant."
+                                        },
+                                        {
+                                            "name": "Oregano",
+                                            "date": 448,
+                                            "body": "Mediterranean climate plant."
+                                        },
+                                        {
+                                            "name": "Prickly Pear",
+                                            "date": 448,
+                                            "body": "Desert climate plant."
+                                        },
+                                        {
+                                            "name": "Rosemary",
+                                            "date": 448,
+                                            "body": "Mediterranean climate plant."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Animal",
+                    "date": 498,
+                    "body": "Seminifers which spread their territory by autonomous movement. Such a move necessitated the creation of new organelles, cell communication methods, and skeletal systems.",
+                    "successors": [
+                        {
+                            "name": "Vermin",
+                            "date": 498,
+                            "body": "Ancestor created to function in moist subterraneous and aquatic environments, for this reason they have simple soft unspecialized bodies.",
+                            "successors": [
+                                {
+                                    "name": "Worm",
+                                    "date": 498,
+                                    "body": "Vermins created with no external manipulable limbs. Move by contracting their bodies.",
+                                    "successors": []
+                                },
+                                {
+                                    "name": "Gastropod",
+                                    "date": 498,
+                                    "body": "Vermins characterized by their mobility using a single muscular foot at the bottom of their body.",
+                                    "successors": [
+                                        {
+                                            "name": "Slug",
+                                            "date": 498,
+                                            "body": "Shell-less gastropods.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Snail",
+                                            "date": 497,
+                                            "body": "Gastropods created to develop and grow shells to protect them from predators.",
+                                            "successors": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Cephalopods",
+                                    "date": 497,
+                                    "body": "Created to function in highly moist and aquatic environments, very intelligent and partially sociable, leading to the advent of their tentacles.",
+                                    "successors": []
+                                },
+                                {
+                                    "name": "Bivalves",
+                                    "date": 497,
+                                    "body": "Ancestor created to function primarily in aquatic and moist terrestrial environments, build external shell structures to protect organs.",
+                                    "successors": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Arthropods",
+                            "date": 497,
+                            "body": "Ancestor created to function in terrestrial and aquatic environments, their size necessitated the creation of exoskeletal carapace which must molt to grow.",
+                            "successors": [
+                                {
+                                    "name": "Crustacea",
+                                    "date": 497,
+                                    "body": "Arthropods characterized by their biramous appendages.",
+                                    "successors": [
+                                        {
+                                            "name": "Copepod",
+                                            "date": 497,
+                                            "body": "Crustacea differentiated by their small tear-shaped bodies.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Shrimp",
+                                            "date": 495,
+                                            "body": "Often small exclusively aquatic crustacean with specialized swimming tails and fused heads and thorax.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Crab",
+                                            "date": 494,
+                                            "body": "Crustacea with a short, tucked, sometimes abscent tail.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Lobster",
+                                            "date": 491,
+                                            "body": "Crustacea possessing claws on their first three pair of limbs, often with a enlarged first pair.",
+                                            "successors": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Hexapod",
+                                    "date": 496,
+                                    "body": "Athropods characterized by their uniraamous appendages.",
+                                    "successors": [
+                                        {
+                                            "name": "Wingless Insects",
+                                            "date": 496,
+                                            "body": "Hexapods characterized by the absence of wings. Created for a variety of niches.",
+                                            "successors": [
+                                                {
+                                                    "name": "Mites",
+                                                    "date": 496,
+                                                    "body": "Small, often parasitic, wingless insects.",
+                                                    "successors": [
+                                                        {
+                                                            "name": "Common Flea",
+                                                            "date": 496,
+                                                            "body": "The common flea, found in a majority of abodes. Known for their parasitizing of the domestic bear and cat."
+                                                        },
+                                                        {
+                                                            "name": "Coastal Avian Flea",
+                                                            "date": 496,
+                                                            "body": "Fleas found across the coastal jungles of the north and south, parasitizing birds and bats."
+                                                        },
+                                                        {
+                                                            "name": "Dragon Flea",
+                                                            "date": 495,
+                                                            "body": "Flea known for parasitizing bats, primarily species of dragon."
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Myriapod",
+                                                    "date": 496,
+                                                    "body": "Wingless insects characterized by their long segmented bodies, each segment with a pair of legs.",
+                                                    "successors": []
+                                                },
+                                                {
+                                                    "name": "Spiders",
+                                                    "date": 496,
+                                                    "body": "Wingless insects with specialized abdomens capable of producing silk.",
+                                                    "successors": []
+                                                },
+                                                {
+                                                    "name": "Scorpion",
+                                                    "date": 495,
+                                                    "body": "Wingless insects characterized by their segmented curved tail ending in a stinging appendage.",
+                                                    "successors": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Winged Insects",
+                                            "date": 485,
+                                            "body": "Hexapods characterized by the presence of wings. Created for atmospheric purposes.",
+                                            "successors": [
+                                                {
+                                                    "name": "Metamorphosing Insects",
+                                                    "date": 485,
+                                                    "body": "Insects characterized by their undergoing of the process of metamorphosis.",
+                                                    "successors": [
+                                                        {
+                                                            "name": "Flies",
+                                                            "date": 485,
+                                                            "body": "Insects characterized by their small sizes.",
+                                                            "successors": []
+                                                        },
+                                                        {
+                                                            "name": "Lepidoptera",
+                                                            "date": 485,
+                                                            "body": "Insects characterized by their large scaly-wings and extremely mobile larval stage.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Starmoth",
+                                                                    "date": 446,
+                                                                    "body": "Moths which lay dormant across much of the Plane. When a star falls heaps of these moth emmerge from the ground to follow the star, consuming mythril which forms around it. In the modern day they are close to extinction."
+                                                                },
+                                                                {
+                                                                    "name": "Domestic Silkmoth",
+                                                                    "date": 446,
+                                                                    "body": "Moths domesticated in the eastern archipelago by the dwarves. Their cocoons may be spun into fine thread."
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Colonial Insects",
+                                                            "date": 484,
+                                                            "body": "Insects characterized by their complex social structures, often consisting of a queen and drones. Although not all species are social.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Ants",
+                                                                    "date": 484,
+                                                                    "body": "Colonial insects characterized by their distinct worker, soldier, and queen castes.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Medicine Ants",
+                                                                            "date": 442,
+                                                                            "body": "A species of ant found in the western mediterranean. Used in medicine to clean wounds. Years of use have led to some 'domestic' varities."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Bees",
+                                                                    "date": 484,
+                                                                    "body": "Colonial insects characterized by their role in pollinating, known for their production of honey and wax.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Domestic Sextown Bee",
+                                                                            "date": 442,
+                                                                            "body": "Domestic species of bee native to the sextown region of the world."
+                                                                        },
+                                                                        {
+                                                                            "name": "Domestic Northern Bee",
+                                                                            "date": 441,
+                                                                            "body": "Domestic species of bee native to the nothern continent."
+                                                                        },
+                                                                        {
+                                                                            "name": "Domestic Southwestern Bee",
+                                                                            "date": 441,
+                                                                            "body": "Domestic species of bee native to the southern continent."
+                                                                        },
+                                                                        {
+                                                                            "name": "Domestic Giant Bee",
+                                                                            "date": 441,
+                                                                            "body": "Domestic species of bee native to the eastern archipelago."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Wasps",
+                                                                    "date": 483,
+                                                                    "body": "Colonial insects characterized by their predatory or parasitic behavior and slender bodies.",
+                                                                    "successors": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Beetles",
+                                                            "date": 483,
+                                                            "body": "Insects whos front wings have hardened into a protective covering.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Weevil",
+                                                                    "date": 483,
+                                                                    "body": "Beetles distinguished by their elongated snout for boring and herbivorous diets.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Longhorn Beetles",
+                                                                    "date": 483,
+                                                                    "body": "Beetles characterized by their long antennae and boring larvae.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Leaf Beetles",
+                                                                    "date": 483,
+                                                                    "body": "Beetles characterized by their herbivorous diets and diverse colorful patterns.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Scarab Beetles",
+                                                                    "date": 482,
+                                                                    "body": "Beetles characterized by their clubbed antennae, stout bodies, and diverse diets.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Ground Beetles",
+                                                                    "date": 482,
+                                                                    "body": "Beetles characterized by their long tails, powerful mandibles, and predatory behavior.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Tiger Beetles",
+                                                                    "date": 482,
+                                                                    "body": "Beetles characterized by their large eyes, prominent mandibles, fast speed, and predatory behavior.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Diving Beetles",
+                                                                    "date": 482,
+                                                                    "body": "Beetles characterized by their aquatic behavior, streamlined bodies, and flattened swimming legs.",
+                                                                    "successors": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Incomplete-metamorphosing Insects",
+                                                    "date": 483,
+                                                    "body": "Insects characterized by the absence of metamorphosis in their development.",
+                                                    "successors": [
+                                                        {
+                                                            "name": "True Flies",
+                                                            "date": 483,
+                                                            "body": "Insects characterized by their one pair of wings.",
+                                                            "successors": []
+                                                        },
+                                                        {
+                                                            "name": "Flatbugs",
+                                                            "date": 483,
+                                                            "body": "Insects characterized by their flattened bodies. Omnivores and predators.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Earwigs",
+                                                                    "date": 483,
+                                                                    "body": "Omnivorous flatbugs characterized by their pincer-like cerci."
+                                                                },
+                                                                {
+                                                                    "name": "Roaches",
+                                                                    "date": 483,
+                                                                    "body": "Flatbug with segmented antennae, flat bodies, and omnivorous behavior."
+                                                                },
+                                                                {
+                                                                    "name": "Termites",
+                                                                    "date": 483,
+                                                                    "body": "Flatbug characterized by their social colonies with distinct clastes of workers. Known for their woody apetite."
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Hoppers",
+                                                            "date": 483,
+                                                            "body": "Insects characterized by their strong hind legs and herbivorous or predatory behavior.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Grasshopper",
+                                                                    "date": 483,
+                                                                    "body": "Hoppers known for their jumping and loud sounds."
+                                                                },
+                                                                {
+                                                                    "name": "Cricket",
+                                                                    "date": 483,
+                                                                    "body": "Hoppers known for their characteristic chirping."
+                                                                },
+                                                                {
+                                                                    "name": "Katydid",
+                                                                    "date": 483,
+                                                                    "body": "Large hoppers known for their camouflage and loud continous calls."
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Scythebugs",
+                                                            "date": 483,
+                                                            "body": "Insects characterized by their elongated bodies and scythe-like forelimbs.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Stickbug",
+                                                                    "date": 483,
+                                                                    "body": "Scythebugs known for their elongated camouflaged bodies."
+                                                                },
+                                                                {
+                                                                    "name": "Mantis",
+                                                                    "date": 483,
+                                                                    "body": "ory scythebugs known for their ambush behavior and praying-like stance."
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Predatory Flies",
+                                                            "date": 482,
+                                                            "body": "Insects characterized by their elongated bodies and predatory behavior.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Damselfly",
+                                                                    "date": 482,
+                                                                    "body": "Narrow-bodied predatory flies which hold their wings against their body when at rest."
+                                                                },
+                                                                {
+                                                                    "name": "Dragonfly",
+                                                                    "date": 482,
+                                                                    "body": "Slender and long-bodied predatory flies which hold their wings horizontal to their bodies when at rest."
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Beaked Insects",
+                                                            "date": 482,
+                                                            "body": "Insects characterized by their beak-like mouth parts.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Cicada",
+                                                                    "date": 482,
+                                                                    "body": "Beaked insects known for their loud buzzing calls, spend much of their lifecycle buried beneath the soil as nymphs."
+                                                                },
+                                                                {
+                                                                    "name": "Aphid",
+                                                                    "date": 482,
+                                                                    "body": "Small soft-bodied herbivorous beaked insects known for sitting on and feeding off of sappy plants."
+                                                                },
+                                                                {
+                                                                    "name": "Leafhopper",
+                                                                    "date": 482,
+                                                                    "body": "Wedge-shaped beaked insects known for their elongated hing legs made for jumping."
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vertebrate",
+                            "date": 497,
+                            "body": "Ancestor created to function in aquatic environments and grow larger in size, necessitating the creation of the spine.",
+                            "successors": [
+                                {
+                                    "name": "Carilaginous Fish",
+                                    "date": 495,
+                                    "body": "Vertebrate which do not have completely ossified bone structure.",
+                                    "successors": [
+                                        {
+                                            "name": "Rays",
+                                            "date": 495,
+                                            "body": "Cartilaginous fish with flattened bodies and enlarged pectoral fins.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Sharks",
+                                            "date": 492,
+                                            "body": "Cartilaginous fish characterized by their pectoral fins that are not fused to their heads.",
+                                            "successors": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Jawless Fish",
+                                    "date": 490,
+                                    "body": "As the need for larger, more powerful, or more agile bodies arised vertebrate were created with ossified bone structures but lacked manipulable jaws.",
+                                    "successors": [
+                                        {
+                                            "name": "Armored Jawless Fish",
+                                            "date": 490,
+                                            "body": "Jawless fish with hard bone-like scales.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Jawless Eels",
+                                            "date": 485,
+                                            "body": "Jawless fish with soft elongated eel-like bodies.",
+                                            "successors": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Bony Fish",
+                                    "date": 487,
+                                    "body": "When jawless vertebrates were no longer powerful enough vertebrate with completely ossified skeletal structure and bony jaws were created.",
+                                    "successors": [
+                                        {
+                                            "name": "Ray-finned Fish",
+                                            "date": 487,
+                                            "body": "Bony fish with fins made of webbed bony spines.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Lobe-finned Fish",
+                                            "date": 478,
+                                            "body": "Bony fish with muscular lobed fins supported by articulated skeletal structure.",
+                                            "successors": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Amphibia",
+                                    "date": 489,
+                                    "body": "Vertebrate created for terrestrial mobility, have modified ovaries for laying eggs.",
+                                    "successors": [
+                                        {
+                                            "name": "Salamanders",
+                                            "date": 489,
+                                            "body": "Amphibia created with powerful back legs for leaping and swimming, created to hunt insects.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Frogs",
+                                            "date": 489,
+                                            "body": "Small amphibia created to hunt invertebrates.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Mega Amphibia",
+                                            "date": 486,
+                                            "body": "Amphibia created to fulfil tertiary ranks in the ecosystem. Large and powerful, created for hunting.",
+                                            "successors": []
+                                        },
+                                        {
+                                            "name": "Synapsids",
+                                            "date": 475,
+                                            "body": "Synapsids marked the move to complete terrestrial lives, requiring the loss of moist eggs and a move to hard shelled protective eggs.",
+                                            "successors": [
+                                                {
+                                                    "name": "Reptilia",
+                                                    "date": 475,
+                                                    "body": "Created to be quicker, more agile, and more powerful than their synapsid ancestors.",
+                                                    "successors": [
+                                                        {
+                                                            "name": "Squamata",
+                                                            "date": 475,
+                                                            "body": "Generally smaller and more agile reptiles created primarily for predatory reasons.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Lizards",
+                                                                    "date": 475,
+                                                                    "body": "Squamata characterized by their presence of legs.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Snakes",
+                                                                    "date": 475,
+                                                                    "body": "Lizards characterized by their absence of limbs.",
+                                                                    "successors": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Turtles",
+                                                            "date": 469,
+                                                            "body": "Larger and more armored reptiles created to serve primarily herbivorous niches in their ecosystems.",
+                                                            "successors": []
+                                                        },
+                                                        {
+                                                            "name": "Archosaurs",
+                                                            "date": 467,
+                                                            "body": "Typically large and powerful reptiles created for a variety of environments and reasons.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Crocodylomorphs",
+                                                                    "date": 467,
+                                                                    "body": "Archosaurs which use little energy and are adapted for moist wet environments.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Dinosauria",
+                                                                    "date": 467,
+                                                                    "body": "The largest of the archosaurs, their large bodies requiring specialized pelvic bones.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Therapod",
+                                                                            "date": 467,
+                                                                            "body": "Dinosauria created for primarily carnivorous and tertiary niches.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Sauropod",
+                                                                            "date": 467,
+                                                                            "body": "Dinosauria created primarily for herbivorous and consumptive niches.",
+                                                                            "successors": []
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Aves",
+                                                                    "date": 466,
+                                                                    "body": "Small and nimble archosaurs created to fill a variety of ecosystems and environments.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Perching Birds",
+                                                                            "date": 466,
+                                                                            "body": "Birds characterized by their small-to-medium sizes and perching feet.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Waterfowl",
+                                                                            "date": 466,
+                                                                            "body": "Birds characterized by their webbed feet and typically flat beaks.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Domestic Duck",
+                                                                                    "date": 441
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Columbiforms",
+                                                                            "date": 466,
+                                                                            "body": "Birds characterized by their small stout bodies.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Domestic Chicken",
+                                                                                    "date": 441,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Pigeon",
+                                                                                    "date": 441,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Turkey",
+                                                                                    "date": 441,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Parrots",
+                                                                            "date": 466,
+                                                                            "body": "Birds characterized by their grasping feet, curved bills, and exotic colors.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Birds of Prey",
+                                                                            "date": 466,
+                                                                            "body": "Birds characterized by their large sizes, hooked beaks, and taloned feet.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Swifts",
+                                                                            "date": 466,
+                                                                            "body": "Birds characterized by their small bodies and agile flying abilities.",
+                                                                            "successors": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Mammalia",
+                                                    "date": 462,
+                                                    "body": "Created to carry and nurture young to ensure they survive longer. Created with placenta made to carry young and have mammary glands to produce milk for young.",
+                                                    "successors": [
+                                                        {
+                                                            "name": "Marsupial",
+                                                            "date": 460,
+                                                            "body": "Mammals which give birth to undeveloped young and use extra time and resources to nurture them outside of the womb.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Marsupial Bears",
+                                                                    "date": 459,
+                                                                    "body": "Created to fulfil predatory niches in the ecosystem.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Wombat",
+                                                                            "date": 458,
+                                                                            "body": "Marsupial bears with short stuby bodies."
+                                                                        },
+                                                                        {
+                                                                            "name": "Sugar Glider",
+                                                                            "date": 458,
+                                                                            "body": "Small marsupial bears with wing-like membranes connecting their hind and forelimbs."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Marsupial Shrews",
+                                                                    "date": 454,
+                                                                    "body": "Created to fulfil herbivorous niches in the ecosystem.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Northern Kangaroo",
+                                                                            "date": 454,
+                                                                            "body": "Large marsupial shrews, found across much of the north western deserts. Characterized by their powerful hindlimbs and tails built for powerful hops and kicks. They can be differentiated from their northern counterparts by their dull tan color and more stiff ears."
+                                                                        },
+                                                                        {
+                                                                            "name": "Eastern Kangaroo",
+                                                                            "date": 454,
+                                                                            "body": "Large marsupial shrews, created following the Northern Kangaroo species. Much like their relatives, characterized by their powerful hindlimbs and tails built for hopping and kicking. Eastern kangaroos may also be differentiated by their longer tails, less stiff ears, and red color."
+                                                                        },
+                                                                        {
+                                                                            "name": "Giant Kangaroo",
+                                                                            "date": 454,
+                                                                            "body": "Created following the success of the Northern Kangaroo. Giant Kangaroo are rare in the modern day, found only in select regions of the great southern deserts. Giant Kangaroo like their relatives are characterized by their hunched postures and powerful hindlimbs and tails, made for powerful hops and kicks. Some members of this species may stand to be over 2 meters in height and are often a dull tan across much of their body, although males have blue and yellow splotches across their bellies and tails."
+                                                                        },
+                                                                        {
+                                                                            "name": "Western Possum",
+                                                                            "date": 454,
+                                                                            "body": "Mid-sized gray and black rat-like marsupial shrews."
+                                                                        },
+                                                                        {
+                                                                            "name": "Opposum",
+                                                                            "date": 454,
+                                                                            "body": "Mid-sized gray and black rat-like marsupial shrews."
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Placentalia",
+                                                            "date": 459,
+                                                            "body": "Mammals which give birth to fully nourished offspring.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Rodents",
+                                                                    "date": 459,
+                                                                    "body": "Often small fingered mammals with diverse ecological roles.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Domestic Hampster",
+                                                                            "date": 441,
+                                                                            "body": ""
+                                                                        },
+                                                                        {
+                                                                            "name": "Domestic Guinea Pig",
+                                                                            "date": 440,
+                                                                            "body": ""
+                                                                        },
+                                                                        {
+                                                                            "name": "Domestic Mouse",
+                                                                            "date": 441,
+                                                                            "body": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Shrews",
+                                                                    "date": 459,
+                                                                    "body": "Small insectivorous terrestrial placentalia.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Moles",
+                                                                    "date": 458,
+                                                                    "body": "Placentalia with large claws, often for subterraneous digging.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Lagomorphs",
+                                                                    "date": 456,
+                                                                    "body": "Placentalia whose incisors continuously grow.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Domestic Rabbit",
+                                                                            "date": 441,
+                                                                            "body": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Armored Mammals",
+                                                                    "date": 452,
+                                                                    "body": "Placentalia with prominent armor-like coverings.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Primates",
+                                                                    "date": 449,
+                                                                    "body": "Placentalia with apposable thumbs.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Long-tailed Primates",
+                                                                            "date": 449,
+                                                                            "body": "Primates which posses elongated posable tails.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Domestic Monkey",
+                                                                                    "date": 440,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Short-tailed Primates",
+                                                                            "date": 447,
+                                                                            "body": "Primates which posses short stubby tails.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Human",
+                                                                                    "date": 442,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Bats",
+                                                                    "date": 440,
+                                                                    "body": "Placentalia created with wing-like hands capable of flight.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Megabat",
+                                                                            "date": 440,
+                                                                            "body": "Bats characterized by their larger sizes and often herbivorous diets.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Microbat",
+                                                                            "date": 440,
+                                                                            "body": "Bats characterized by their smaller sizes and often carnivorous diets.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Insectivorous Microbat",
+                                                                                    "date": 440,
+                                                                                    "body": "Microbats characterized by their insectivorous diets.",
+                                                                                    "successors": []
+                                                                                },
+                                                                                {
+                                                                                    "name": "Vampire Bat",
+                                                                                    "date": 440,
+                                                                                    "body": "Microbats characterized by their carnivorous diets consisting of blood.",
+                                                                                    "successors": []
+                                                                                },
+                                                                                {
+                                                                                    "name": "Nectar Microbat",
+                                                                                    "date": 440,
+                                                                                    "body": "Microbats characterized by their diets consisting of fruits, nectar, and pollen.",
+                                                                                    "successors": []
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Dragon",
+                                                                            "date": 439,
+                                                                            "body": "Bats characterized by their ability to walk on their wings and large sizes.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Pigmy Dragon",
+                                                                                    "date": 439,
+                                                                                    "body": "Greater dragons characterized by their small sizes.",
+                                                                                    "successors": [
+                                                                                        {
+                                                                                            "name": "Elf Root Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmy dragons today only found in the north. They are known to congregate around elder elves."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Moss Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Green and lime green pigmy dragons found in many of the southern tropics."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Northeastern Long-tailed Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmy dragons found in "
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Western Travelers Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmy dragons found across most of the western tropics. Known to follow travelers for their food."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Boreal Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmy dragons found in the boreal forests of the south."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Domestic Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Domesticated pigmy dragon."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Great Lake Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmies found across the great lakes of the north."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Mountain Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmies found throughout many of the mountains of the south."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Eastern Tropical Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmies found in the eastern archipelago tropics."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Neotropical Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmies found across the souths neotropics."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Long-tailed Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmy dragons with long tails, found in the south."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Yellow Cup-footed Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Cup-footed dragon found throughout much of the southern desert."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Northern Tropic Cup-footed Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Cup-footed dragon found in the tropics of the north."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Northern Tropic Pigmy Dragon",
+                                                                                            "date": 439,
+                                                                                            "body": "Pigmy dragons found in the northern tropic forests."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Greater Leaf-nosed Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Leaf-nosed dragons found across much of the norths east."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Leaf-nosed Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Small leaf-nosed dragons found in the souths forests."
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Horned Dragon",
+                                                                                    "date": 438,
+                                                                                    "body": "Greater dragons characterized by their horn-like protrusions from their heads.",
+                                                                                    "successors": [
+                                                                                        {
+                                                                                            "name": "Archipelago Horseshoe Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Small dragons with U-shaped horns found acorss many of the island chains across the plane."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Eastern Buffalo Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Found in the eastern archipelago, mid-sized bulky dragons with buffalo-like horns."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "New World Grand Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Large horned dragon found in the north with elk-like racks."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Western Boreal Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Dragon found in the western parts of the south. Has V-shaped parting horns."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "New World Jungle Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Dragon found in the north with a large single curved horn on its head."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Ornamental Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Horned dragon found in the north with large fan-like horn across its head."
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Bulldog Dragon",
+                                                                                    "date": 438,
+                                                                                    "body": "Greater dragons characterized by their short stubby bulldog-like snouts.",
+                                                                                    "successors": [
+                                                                                        {
+                                                                                            "name": "Lesser Fishing Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Lesser bulldog dragons found at the souths great lakes."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Fishing Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Mid-sized basking dragon found across the coast of much of the northern continent."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Pigmy Fishing Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Lesser bulldog dragons found across much of the souths coasts."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Eastern Basking Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Small bulldog dragon found throughout the eastern archipelago's islands."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Lesser Pigmy Basking Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Lesser bulldog dragon found in the souths boreal forests."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Southern Basking Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Mid-sized bulldog dragon found throughout much of the southern continents mountains."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Red Basking Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Large bulldog dragon found throughout much of the great southern deserts."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Pigmy Basking Dragon",
+                                                                                            "date": 437,
+                                                                                            "body": "The smallest of the bulldog dragons."
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Devil Dragon",
+                                                                                    "date": 438,
+                                                                                    "body": "Greater dragons characterized by their large sizes.",
+                                                                                    "successors": [
+                                                                                        {
+                                                                                            "name": "Polar Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "True devil dragons which use their spells to keep their bodies warm, allowing them to live in the north and easts polar climates."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Great Angel Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "Large true devil dragons with eye-like spots across their wings."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Lesser Red Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "A small true devil dragon red and brown in color."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Great Wheezing Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "True devil dragon characterized by their large size and wheezing-like sound produced when casting some spells."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "False Red Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "False devil dragons which attempt to mimic adult lesser red dragons."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "False Angel Dragon",
+                                                                                            "date": 438,
+                                                                                            "body": "False devil dragons which attempt to mimic adolescent great angel dragons."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Borborygamous Dragon",
+                                                                                            "date": 437,
+                                                                                            "body": "True devil dragon characterized by their absolutely massive size and large bulging neck folds."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "False Borborygamous Dragon",
+                                                                                            "date": 436,
+                                                                                            "body": "Large false devil dragons which attempt to mimic adolescent borborygamous dragons."
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "Whip-tailed Dragon",
+                                                                                    "date": 438,
+                                                                                    "body": "Lesser dragons characterized by their long slender tails which can be used like whips.",
+                                                                                    "successors": [
+                                                                                        {
+                                                                                            "name": "Eastern Whip-tail",
+                                                                                            "date": 438,
+                                                                                            "body": "Large whip-tailed dragon found across the eastern deserts of the north."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Northern Mega Whip-tail",
+                                                                                            "date": 438,
+                                                                                            "body": "Large whip-tailed dragons found across much of the norths mountains."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Southern Black Whip-tail",
+                                                                                            "date": 438,
+                                                                                            "body": "Black whip-tailed dragons found across small portions of the souths deserts."
+                                                                                        },
+                                                                                        {
+                                                                                            "name": "Tropical Pigmy Whip-tail",
+                                                                                            "date": 438,
+                                                                                            "body": "Small whip-tailed dragons found in the eastern desert of the north."
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Carnivora",
+                                                            "date": 453,
+                                                            "body": "Mammals with primarily carnivorous diets and diverse hunting practices.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Caniforms",
+                                                                    "date": 453,
+                                                                    "body": "Carnivora with nonretractable claws.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Canids",
+                                                                            "date": 453,
+                                                                            "body": "Mid-sized caniforms known for their social behaviors.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Domestic Fox",
+                                                                                    "date": 439,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Ursus",
+                                                                            "date": 452,
+                                                                            "body": "Large stocky short-tailed primarily omnivorous caniforms.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Mask Bear",
+                                                                                    "date": 452,
+                                                                                    "body": "Highly specialized bear created to hunt Organisms of Mass Destruction. Today only found in the north, hunting what few OMD still live."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Giant Panda",
+                                                                                    "date": 451,
+                                                                                    "body": "Specialized herbivorous bears created by a northern God. Today only found on the Northern Island Chain."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Sloth Bear",
+                                                                                    "date": 451,
+                                                                                    "body": "Short-faced bears which get their names from their lanky and long-clawed sloth-like appearence."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Sun Bear",
+                                                                                    "date": 451,
+                                                                                    "body": "Short-faced bears which get their names from the yellow-colored spot on their chests."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Ghost Bear",
+                                                                                    "date": 451,
+                                                                                    "body": "Large white or gray short-faced bears found around the oceanic deserts of the north and south."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Brown Bear",
+                                                                                    "date": 449,
+                                                                                    "body": "Native to the northern continent, created to hunt relatively large prey."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Northern Black Bear",
+                                                                                    "date": 449,
+                                                                                    "body": "Created by a northern God with the objective of hunting large prey to defend their territory."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Southern Black Bear",
+                                                                                    "date": 448,
+                                                                                    "body": "Following the creation of the Northern Black Bear the Southern Black Bear would be created with some minor anatomical differences."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Dog-bear",
+                                                                                    "date": 441,
+                                                                                    "body": "The domesticated Dog-bear, found across many households of the south."
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Mustiforms",
+                                                                            "date": 451,
+                                                                            "body": "Small caniforms characterized by their elongated slender bodies and musty scent glands.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Domestic Ferret",
+                                                                                    "date": 439,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Feliforms",
+                                                                    "date": 451,
+                                                                    "body": "Carnivora with retractable claws.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Domestic House Cat",
+                                                                            "date": 440,
+                                                                            "body": ""
+                                                                        },
+                                                                        {
+                                                                            "name": "Domestic Hunting Cat",
+                                                                            "date": 437,
+                                                                            "body": ""
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Cetacea",
+                                                                    "date": 442,
+                                                                    "body": "Often large mammals adapted for marine environments.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Seals",
+                                                                            "date": 442,
+                                                                            "body": "Cetacea characterized by their terrestrial behavior.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Whales",
+                                                                            "date": 442,
+                                                                            "body": "Completely aquatic cetacea characterized by their large size and filter-feeding diets.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Dolphins",
+                                                                            "date": 441,
+                                                                            "body": "Completely aquatic cetacea characterized by their smaller sizes.",
+                                                                            "successors": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Ungulates",
+                                                            "date": 452,
+                                                            "body": "Mammals with hooves.",
+                                                            "successors": [
+                                                                {
+                                                                    "name": "Even-toed Ungulates",
+                                                                    "date": 452,
+                                                                    "body": "Ungulates with an even number of toes.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Cattle",
+                                                                            "date": 452,
+                                                                            "body": "Even-toed ungulates characterized by their sturdy builds and horns.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Auroch",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Buffalo",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Water Buffalo",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Cow",
+                                                                                    "date": 442,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Sheep",
+                                                                                    "date": 442,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Goat",
+                                                                                    "date": 442,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Cervidae",
+                                                                            "date": 451,
+                                                                            "body": "Even-toed ungulates characterized by their slender and tall bodies created for running. Often accompanied by antlers.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Common Deer",
+                                                                                    "date": 451,
+                                                                                    "body": "The first of the cervids, and the basal form of deer."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Pigmy Deer",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Eastern Deer",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Common Moose",
+                                                                                    "date": 450,
+                                                                                    "body": "Tall, powerful, and lanky cervids. Characterized by their large and flat antlers and stocky face. Found in the wilds of the southern cold climates."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Wrinkled Deer",
+                                                                                    "date": 450,
+                                                                                    "body": "A small wrinkly species of solitary deer found across islands in the oceanic southern crater scape. Males and females grow short, straight, spined antlers."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Northern Moose",
+                                                                                    "date": 450,
+                                                                                    "body": "Relatives of the common moose, tall powerful and lanky. Found across cold northern climates. "
+                                                                                },
+                                                                                {
+                                                                                    "name": "Blue Forest Deer",
+                                                                                    "date": 450,
+                                                                                    "body": "A mid-sized rare species of deer, dark deep blue in color. Antlers are found only in males and grow like "
+                                                                                },
+                                                                                {
+                                                                                    "name": "Pigmy Moose",
+                                                                                    "date": 449,
+                                                                                    "body": "Small species of moose, sharing the characteristic lanky legs and powerful necks. Amongst the cervids pigmy moose have some of the largest antlers compared to body size. Found across the grasslands of the south and east."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Great-horned Moose",
+                                                                                    "date": 449,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Mage's Deer",
+                                                                                    "date": 448,
+                                                                                    "body": "A rare species of deer capable of casting spells, found in warmer climates in the southwest of the plane."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Moose",
+                                                                                    "date": 441,
+                                                                                    "body": "A smaller species of moose created to service humans as powerful and quick steeds. Their smaller bodies are more well adapted for warmer and hotter climates, making them more versatile for different climates. "
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Sus",
+                                                                            "date": 451,
+                                                                            "body": "Even-toed ungulates characterized by their often omnivorous diets and short stout bodies.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Domestic Pig",
+                                                                                    "date": 442,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Giraffe",
+                                                                            "date": 450,
+                                                                            "body": "Even-toed ungulates characterized by their herbivorous diets and often tall lanky builds, created for foraging high foliage.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Amber Giraffe",
+                                                                                    "date": 450,
+                                                                                    "extinct": true,
+                                                                                    "body": "The first of the giraffes. Extinct in the present, they gained their name from their amber orange color. Short and stout, similar to the Okapi of the modern day."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Horseshoe Giraffe",
+                                                                                    "date": 450,
+                                                                                    "body": "Giraffes characterized by the u-shaped horns adorned upon their head. Horseshoe giraffes have long necks and legs alongside dark brown bodies. Common in monsoon climates in the south and east."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Shielded Giraffe",
+                                                                                    "date": 450,
+                                                                                    "body": "Giraffes characterized by the leaf-shaped flat horns which create a shield-like pattern above their head. Shielded giraffe have relatively long legs and necks. Today they are nearly extinct and found rarely in some savannahs in the northwest."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Horned Giraffe",
+                                                                                    "date": 450,
+                                                                                    "body": "Giraffes characterized by their sharp jagged horns. Horned giraffes have short legs but relatively long necks, amongst the smaller species of giraffe. Found in continental climates in the north."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Dome-headed Giraffe",
+                                                                                    "date": 449,
+                                                                                    "body": "Giraffes characterized by the thick and hard dome on the top of their cranium. Used for mating displays where males will whip their heads into each others skulls. Short and stubby giraffes with tan bodies and dark brown spots. Found across many savannahs in the north and south."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Spotted Giraffe",
+                                                                                    "date": 449,
+                                                                                    "body": "The common image of a giraffe, tall neck and long legs. Pale tan bodies covered in dark and light brown spots. Found across many savannahs of the north and south."
+                                                                                },
+                                                                                {
+                                                                                    "name": "White Giraffe",
+                                                                                    "date": 449,
+                                                                                    "body": "Shorter than their spotted relatives, white giraffes are primarily white and tan in coloration with dark and light brown heads. Found across savannahs of the north."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Pigmy Giraffe",
+                                                                                    "date": 449,
+                                                                                    "body": "Giraffes characterized by their very small size, with the largest individuals standing no more than half a meter in height. Brown in color, they are found across isolated savannah climates in the east."
+                                                                                },
+                                                                                {
+                                                                                    "name": "Okapi",
+                                                                                    "date": 448,
+                                                                                    "body": "Giraffes characterized by their black and while coloration and short stature. Found across temperate rainforests in the north."
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Camelidae",
+                                                                            "date": 450,
+                                                                            "body": "Even-toed ungulates characterized by their long necks and legs, thick coats, and fat reserves.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Giant Camel",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Three-humped Camel",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Vicuna",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Guanaco",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Llama",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Alpaca",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Camel",
+                                                                                    "date": 450,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Odd-toed Ungulates",
+                                                                    "date": 451,
+                                                                    "body": "Ungulates with an odd number of toes.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Equidae",
+                                                                            "date": 451,
+                                                                            "body": "Odd-toed ungulates characterized by their herbivorous diets, slender legs and bodies, and social behavior.",
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Wild Horse",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Donkey",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Zebra",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                },
+                                                                                {
+                                                                                    "name": "Domestic Horse",
+                                                                                    "date": 451,
+                                                                                    "body": ""
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Rhino",
+                                                                            "date": 451,
+                                                                            "body": "Odd-toed ungulates characterized by their heavy bodies covered in thick armored skin. Distinguished by their large horns.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Tapir",
+                                                                            "date": 450,
+                                                                            "body": "Odd-toed ungulates characterized by their trunk-like snouts and herbivorous diets.",
+                                                                            "successors": []
+                                                                        },
+                                                                        {
+                                                                            "name": "Chalicotheri",
+                                                                            "date": 450,
+                                                                            "body": "Odd-toed ungulates characterized by their clawed feet and elongated legs.",
+                                                                            "successors": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

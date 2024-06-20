@@ -2,8 +2,8 @@
 title: Mustiforms
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
+  - biology/taxa/family
   - stub
 ---
 
@@ -12,31 +12,14 @@ tags:
 
 > [!summary] Mustiforms
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
-> > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Domestic/Domestic Ferret|Domestic Ferret]]
+> > ### Supersedes 
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Ferret|Domestic Ferret]]
 >
 > > [!info] Creation Date
 > > c. BT 451
 
 Small caniforms characterized by their elongated slender bodies and musty scent glands.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

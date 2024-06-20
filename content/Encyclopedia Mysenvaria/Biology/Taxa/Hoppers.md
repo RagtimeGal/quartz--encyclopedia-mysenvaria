@@ -2,8 +2,8 @@
 title: Hoppers
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
+  - biology/taxa/family
   - stub
 ---
 
@@ -12,33 +12,16 @@ tags:
 
 > [!summary] Hoppers
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
-> > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Grasshoppers|Grasshoppers]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Crickets|Crickets]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Katydids|Katydids]]
+> > ### Supersedes 
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Grasshopper|Grasshopper]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cricket|Cricket]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Katydid|Katydid]]
 >
 > > [!info] Creation Date
 > > c. BT 483
 
 Insects characterized by their strong hind legs and herbivorous or predatory behavior.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

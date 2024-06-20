@@ -1,0 +1,23 @@
+---
+title: Northern Liverwort
+enableToc: true
+tags:
+  - biology/taxa
+  - biology/plant
+  - stub
+---
+
+> [!note]
+> This page is a stub and has more information that can be added.
+
+> [!summary] Northern Liverwort
+> > [!info] Relation
+>
+> > [!info] Creation Date
+> > c. BT 504
+
+Leafless worts with flattened lobed bodies, found across the deserts of the coastal north.
+
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

@@ -11,31 +11,15 @@ tags:
 
 > [!summary] Primates
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Long-tailed Primates|Long-tailed Primates]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Short-tailed Primates|Short-tailed Primates]]
 >
 > > [!info] Creation Date
 > > c. BT 449
 
-Rodentia with apposable thumbs.
-# History
+Placentalia with apposable thumbs.
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Crustacea
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Copepod|Copepod]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrimp|Shrimp]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Crab|Crab]]
@@ -23,21 +21,7 @@ tags:
 > > c. BT 497
 
 Arthropods characterized by their biramous appendages.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

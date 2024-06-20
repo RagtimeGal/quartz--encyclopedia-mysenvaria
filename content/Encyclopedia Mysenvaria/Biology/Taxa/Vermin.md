@@ -11,11 +11,9 @@ tags:
 
 > [!summary] Vermin
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Worm|Worm]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Slug|Slug]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Gastropod|Gastropod]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Cephalopods|Cephalopods]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Bivalves|Bivalves]]
 >
@@ -23,21 +21,7 @@ tags:
 > > c. BT 498
 
 Ancestor created to function in moist subterraneous and aquatic environments, for this reason they have simple soft unspecialized bodies.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

@@ -2,8 +2,8 @@
 title: Ants
 enableToc: true
 tags:
-  - biology/taxa/family
   - biology/taxa
+  - biology/taxa/family
   - stub
 ---
 
@@ -12,31 +12,14 @@ tags:
 
 > [!summary] Ants
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Insects|Colonial Insects]]
-> > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Species/Medicine Ants|Medicine Ants]]
+> > ### Supersedes 
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Medicine Ants|Medicine Ants]]
 >
 > > [!info] Creation Date
 > > c. BT 484
 
 Colonial insects characterized by their distinct worker, soldier, and queen castes.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]

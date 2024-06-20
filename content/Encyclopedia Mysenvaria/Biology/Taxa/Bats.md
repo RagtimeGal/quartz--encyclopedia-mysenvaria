@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Bats
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Megabat|Megabat]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Microbat|Microbat]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
@@ -21,22 +19,8 @@ tags:
 > > [!info] Creation Date
 > > c. BT 440
 
-Rodents created with wing-like hands capable of flight.
-# History
+Placentalia created with wing-like hands capable of flight.
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

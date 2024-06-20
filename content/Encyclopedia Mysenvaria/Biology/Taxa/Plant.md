@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Plant
 > > [!info] Relation
-> > ### Succeeds
-> > None
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Algae|Algae]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Worts|Worts]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
@@ -21,21 +19,8 @@ tags:
 > > [!info] Creation Date
 > > c. BT 523
 
-Created to spread the territory of its creator God. Single celled simple organism which fragments and propagates to grow rather than dispersing seed.
-# History
+Plants, originally created by the God of Hydrogen Cyanide, were made as a way to define and autonomously war over territory. The first were single-celled fragmentative and propagative, copulating not by seed dispersal but by other less effective means.
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

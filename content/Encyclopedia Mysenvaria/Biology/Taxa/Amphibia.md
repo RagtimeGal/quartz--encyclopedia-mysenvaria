@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Amphibia
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Salamanders|Salamanders]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Frogs|Frogs]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Mega Amphibia|Mega Amphibia]]
@@ -23,21 +21,7 @@ tags:
 > > c. BT 489
 
 Vertebrate created for terrestrial mobility, have modified ovaries for laying eggs.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

@@ -3,6 +3,7 @@ title: Mites
 enableToc: true
 tags:
   - biology/taxa
+  - biology/taxa/family
   - stub
 ---
 
@@ -11,30 +12,16 @@ tags:
 
 > [!summary] Mites
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]]
-> > ### Supersedes
-> > None
+> > ### Supersedes 
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Common Flea|Common Flea]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Coastal Avian Flea|Coastal Avian Flea]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon Flea|Dragon Flea]]
 >
 > > [!info] Creation Date
 > > c. BT 496
 
 Small, often parasitic, wingless insects.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

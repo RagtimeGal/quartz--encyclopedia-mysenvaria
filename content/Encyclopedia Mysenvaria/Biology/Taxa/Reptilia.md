@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Reptilia
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Squamata|Squamata]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Turtles|Turtles]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
@@ -22,21 +20,7 @@ tags:
 > > c. BT 475
 
 Created to be quicker, more agile, and more powerful than their synapsid ancestors.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

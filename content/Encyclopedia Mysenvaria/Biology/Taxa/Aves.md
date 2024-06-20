@@ -11,9 +11,7 @@ tags:
 
 > [!summary] Aves
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
-> > ### Supersedes
+> > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Perching Birds|Perching Birds]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Waterfowl|Waterfowl]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Columbiforms|Columbiforms]]
@@ -22,24 +20,10 @@ tags:
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Swifts|Swifts]]
 >
 > > [!info] Creation Date
-> > c. BT 468
+> > c. BT 466
 
 Small and nimble archosaurs created to fill a variety of ecosystems and environments.
-# History
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

@@ -3,6 +3,7 @@ title: Snail
 enableToc: true
 tags:
   - biology/taxa
+  - biology/taxa/family
   - stub
 ---
 
@@ -11,30 +12,12 @@ tags:
 
 > [!summary] Snail
 > > [!info] Relation
-> > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Slug|Slug]]
-> > ### Supersedes
-> > None
 >
 > > [!info] Creation Date
 > > c. BT 497
 
-Slugs created to develop and grow shells to protect them from predators.
-# History
+Gastropods created to develop and grow shells to protect them from predators.
 
-# Classification
-## Anatomy & Physiology
-
-## Reproduction & Lifestyle
-
-## Predators & Disease
-
-## Range & Distribution
-
-# Domestication
-
-> [!note]
-> Remove this section if unnecessary.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
