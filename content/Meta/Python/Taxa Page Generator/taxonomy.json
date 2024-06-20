@@ -1,7 +1,7 @@
 {
     "name": "Plant",
     "date": 523,
-    "body": "Plants, originally created by the God of Hydrogen Cyanide, were made as a way to define and autonomously war over territory. The first were single-celled fragmentative and propagative, copulating not by seed dispersal but by other less effective means.",
+    "generate": false,
     "successors": [
         {
             "name": "Algae",

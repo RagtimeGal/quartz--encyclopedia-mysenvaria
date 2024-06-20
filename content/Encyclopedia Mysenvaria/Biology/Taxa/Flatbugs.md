@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Flatbugs
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Earwigs|Earwigs]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Roaches|Roaches]]

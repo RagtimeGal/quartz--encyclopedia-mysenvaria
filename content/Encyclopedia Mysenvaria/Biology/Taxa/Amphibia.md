@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Amphibia
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Salamanders|Salamanders]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Frogs|Frogs]]

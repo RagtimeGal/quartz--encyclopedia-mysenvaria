@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Dragon Flea
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mites|Mites]]
 >
 > > [!info] Creation Date
 > > c. BT 495

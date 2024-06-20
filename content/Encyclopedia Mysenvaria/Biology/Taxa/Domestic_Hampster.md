@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Domestic Hampster
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]]
 >
 > > [!info] Creation Date
 > > c. BT 441

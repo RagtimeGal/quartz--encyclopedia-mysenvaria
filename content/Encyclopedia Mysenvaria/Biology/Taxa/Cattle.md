@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Cattle
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Auroch|Auroch]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Buffalo|Buffalo]]

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] True Flies
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 >
 > > [!info] Creation Date
 > > c. BT 483

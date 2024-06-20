@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Domestic Dog-bear
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
 >
 > > [!info] Creation Date
 > > c. BT 441

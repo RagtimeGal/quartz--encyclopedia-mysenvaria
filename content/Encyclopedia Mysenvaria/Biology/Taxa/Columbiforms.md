@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Columbiforms
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aves|Aves]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Chicken|Domestic Chicken]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Pigeon|Domestic Pigeon]]

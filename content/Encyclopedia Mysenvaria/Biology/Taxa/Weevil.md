@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Weevil
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Beetles|Beetles]]
 >
 > > [!info] Creation Date
 > > c. BT 483

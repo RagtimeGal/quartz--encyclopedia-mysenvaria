@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Animal
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]

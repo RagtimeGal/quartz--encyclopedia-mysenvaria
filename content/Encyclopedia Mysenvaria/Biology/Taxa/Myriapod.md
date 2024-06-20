@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Myriapod
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]]
 >
 > > [!info] Creation Date
 > > c. BT 496

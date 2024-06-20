@@ -41,37 +41,44 @@ def collect_entries_by_name(entry, collected):
             collect_entries_by_name(successor, collected)
 
 # Recursive function to process each entry in the JSON tree and generate a file
-def process_entry(entry, template, output_dir, all_entries, root_ancestors):
-    # Determine the tag for the current entry
-    tag = determine_tag(entry)
+def process_entry(entry, template, output_dir, all_entries, root_ancestors, predecessor=None):
+    # Determine if this entry should generate a page
+    generate = entry.get('generate', True)
 
-    # Prepare the data for rendering
-    data = entry.copy()
-    data['tags'] = tag if tag else None
+    if generate:
+        # Determine the tag for the current entry
+        tag = determine_tag(entry)
 
-    # Set the extinct field to false if not specified
-    if 'extinct' not in data:
-        data['extinct'] = False
+        # Prepare the data for rendering
+        data = entry.copy()
+        data['tags'] = tag if tag else None
 
-    # Determine the root ancestor
-    root_ancestor = find_root_ancestor(entry['name'], root_ancestors, all_entries)
-    data['root_ancestor'] = root_ancestor
+        # Set the extinct field to false if not specified
+        if 'extinct' not in data:
+            data['extinct'] = False
 
-    # Render the template with the entry data
-    rendered_content = template.render(data)
+        # Set the predecessor
+        data['predecessor'] = predecessor
 
-    # Create a file name based on the entry name
-    file_name = f"{entry['name'].replace(' ', '_')}.md"
-    output_path = os.path.join(output_dir, file_name)
+        # Determine the root ancestor
+        root_ancestor = find_root_ancestor(entry['name'], root_ancestors, all_entries)
+        data['root_ancestor'] = root_ancestor
 
-    # Write the rendered content to the file
-    with open(output_path, 'w') as output_file:
-        output_file.write(rendered_content)
+        # Render the template with the entry data
+        rendered_content = template.render(data)
+
+        # Create a file name based on the entry name
+        file_name = f"{entry['name'].replace(' ', '_')}.md"
+        output_path = os.path.join(output_dir, file_name)
+
+        # Write the rendered content to the file
+        with open(output_path, 'w') as output_file:
+            output_file.write(rendered_content)
 
     # Process any successors recursively
     if 'successors' in entry:
         for successor in entry['successors']:
-            process_entry(successor, template, output_dir, all_entries, root_ancestors)
+            process_entry(successor, template, output_dir, all_entries, root_ancestors, predecessor=entry['name'])
 
 def main():
     # Load the JSON file

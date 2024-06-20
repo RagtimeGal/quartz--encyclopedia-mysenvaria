@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Marsupial Bears
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Wombat|Wombat]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Sugar Glider|Sugar Glider]]

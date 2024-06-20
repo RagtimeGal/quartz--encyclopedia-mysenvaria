@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Canids
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Fox|Domestic Fox]]
 >

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Leaf Beetles
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Beetles|Beetles]]
 >
 > > [!info] Creation Date
 > > c. BT 483

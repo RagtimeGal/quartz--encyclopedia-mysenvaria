@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Colonial Insects
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Ants|Ants]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Bees|Bees]]

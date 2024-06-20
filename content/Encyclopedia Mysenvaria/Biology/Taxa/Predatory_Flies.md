@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Predatory Flies
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Damselfly|Damselfly]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragonfly|Dragonfly]]

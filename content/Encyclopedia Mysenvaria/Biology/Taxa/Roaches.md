@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Roaches
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Flatbugs|Flatbugs]]
 >
 > > [!info] Creation Date
 > > c. BT 483

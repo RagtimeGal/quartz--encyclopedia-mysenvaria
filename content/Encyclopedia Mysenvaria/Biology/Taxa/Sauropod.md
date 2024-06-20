@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Sauropod
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dinosauria|Dinosauria]]
 >
 > > [!info] Creation Date
 > > c. BT 467

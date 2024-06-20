@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Lagomorphs
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Rabbit|Domestic Rabbit]]
 >

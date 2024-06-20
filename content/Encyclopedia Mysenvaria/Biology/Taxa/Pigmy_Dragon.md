@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Pigmy Dragon
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Elf Root Pigmy Dragon|Elf Root Pigmy Dragon]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Moss Pigmy Dragon|Moss Pigmy Dragon]]

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Snakes
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Squamata|Squamata]]
 >
 > > [!info] Creation Date
 > > c. BT 475

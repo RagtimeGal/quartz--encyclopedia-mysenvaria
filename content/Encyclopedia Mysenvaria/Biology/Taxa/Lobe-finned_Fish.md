@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Lobe-finned Fish
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bony Fish|Bony Fish]]
 >
 > > [!info] Creation Date
 > > c. BT 478

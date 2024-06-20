@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Domestic Turkey
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Columbiforms|Columbiforms]]
 >
 > > [!info] Creation Date
 > > c. BT 441

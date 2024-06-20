@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Arboreal
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Date Palm|Date Palm]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Baobab|Baobab]]

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Domestic Monkey
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Long-tailed Primates|Long-tailed Primates]]
 >
 > > [!info] Creation Date
 > > c. BT 440

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Cavendish Banana
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Climbing|Climbing]]
 >
 > > [!info] Creation Date
 > > c. BT 451

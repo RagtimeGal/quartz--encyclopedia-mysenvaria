@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Ants
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Insects|Colonial Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Medicine Ants|Medicine Ants]]
 >

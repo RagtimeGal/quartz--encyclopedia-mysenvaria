@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Giraffe
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Amber Giraffe|Amber Giraffe]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Horseshoe Giraffe|Horseshoe Giraffe]]

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Marsupial Shrews
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Northern Kangaroo|Northern Kangaroo]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Eastern Kangaroo|Eastern Kangaroo]]

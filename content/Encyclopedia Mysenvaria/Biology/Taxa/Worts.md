@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Worts
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|Plant]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Leafless Worts|Leafless Worts]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaved Worts|Leaved Worts]]

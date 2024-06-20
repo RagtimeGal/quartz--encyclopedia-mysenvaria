@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Domestic Sextown Bee
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bees|Bees]]
 >
 > > [!info] Creation Date
 > > c. BT 442

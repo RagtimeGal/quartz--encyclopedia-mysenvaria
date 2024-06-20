@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Sugar Glider
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Bears|Marsupial Bears]]
 >
 > > [!info] Creation Date
 > > c. BT 458

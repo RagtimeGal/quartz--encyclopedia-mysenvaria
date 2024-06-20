@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Whales
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cetacea|Cetacea]]
 >
 > > [!info] Creation Date
 > > c. BT 442

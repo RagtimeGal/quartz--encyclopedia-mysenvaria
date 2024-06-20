@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Beaked Insects
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Cicada|Cicada]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Aphid|Aphid]]

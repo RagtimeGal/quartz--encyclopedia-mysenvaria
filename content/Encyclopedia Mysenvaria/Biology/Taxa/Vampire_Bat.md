@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Vampire Bat
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Microbat|Microbat]]
 >
 > > [!info] Creation Date
 > > c. BT 440

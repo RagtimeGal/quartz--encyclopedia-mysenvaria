@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Frogs
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
 >
 > > [!info] Creation Date
 > > c. BT 489

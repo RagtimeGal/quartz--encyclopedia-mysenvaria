@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Gastropod
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Slug|Slug]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Snail|Snail]]

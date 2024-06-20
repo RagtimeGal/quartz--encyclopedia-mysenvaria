@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Dragon
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Horned Dragon|Horned Dragon]]

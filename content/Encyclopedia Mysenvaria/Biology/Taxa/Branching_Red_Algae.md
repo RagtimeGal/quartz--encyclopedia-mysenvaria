@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Branching Red Algae
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Algae|Colonial Algae]]
 >
 > > [!info] Creation Date
 > > c. BT 510

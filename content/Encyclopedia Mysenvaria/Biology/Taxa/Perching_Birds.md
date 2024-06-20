@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Perching Birds
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aves|Aves]]
 >
 > > [!info] Creation Date
 > > c. BT 466

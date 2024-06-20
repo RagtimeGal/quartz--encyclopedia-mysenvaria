@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Hoppers
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Grasshopper|Grasshopper]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Cricket|Cricket]]

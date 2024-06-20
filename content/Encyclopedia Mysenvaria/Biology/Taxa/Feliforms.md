@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Feliforms
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic House Cat|Domestic House Cat]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Hunting Cat|Domestic Hunting Cat]]

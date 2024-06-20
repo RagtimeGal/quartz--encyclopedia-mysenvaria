@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Vermin
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Worm|Worm]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Gastropod|Gastropod]]

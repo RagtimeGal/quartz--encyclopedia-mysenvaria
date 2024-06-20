@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Ursus
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Mask Bear|Mask Bear]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Giant Panda|Giant Panda]]

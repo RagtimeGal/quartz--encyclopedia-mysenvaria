@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Vicuna
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Camelidae|Camelidae]]
 >
 > > [!info] Creation Date
 > > c. BT 450

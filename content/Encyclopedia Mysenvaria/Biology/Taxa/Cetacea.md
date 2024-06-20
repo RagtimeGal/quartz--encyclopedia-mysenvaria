@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Cetacea
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Seals|Seals]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|Whales]]

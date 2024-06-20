@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Auroch
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cattle|Cattle]]
 >
 > > [!info] Creation Date
 > > c. BT 451

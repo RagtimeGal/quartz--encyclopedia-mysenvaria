@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Cervidae
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Common Deer|Common Deer]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Deer|Pigmy Deer]]

@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Carnivora
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Feliforms|Feliforms]]

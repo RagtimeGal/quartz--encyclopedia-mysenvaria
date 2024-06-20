@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Even-toed Ungulates
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ungulates|Ungulates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Cattle|Cattle]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Cervidae|Cervidae]]

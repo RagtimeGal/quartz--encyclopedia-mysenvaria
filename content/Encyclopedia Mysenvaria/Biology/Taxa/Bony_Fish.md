@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Bony Fish
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Ray-finned Fish|Ray-finned Fish]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Lobe-finned Fish|Lobe-finned Fish]]

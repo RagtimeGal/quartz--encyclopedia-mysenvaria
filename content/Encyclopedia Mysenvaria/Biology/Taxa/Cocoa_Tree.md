@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Cocoa Tree
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]]
 >
 > > [!info] Creation Date
 > > c. BT 448

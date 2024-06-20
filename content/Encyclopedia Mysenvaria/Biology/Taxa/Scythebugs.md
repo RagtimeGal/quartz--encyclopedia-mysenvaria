@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Scythebugs
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Stickbug|Stickbug]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Mantis|Mantis]]

@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Microbat
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Insectivorous Microbat|Insectivorous Microbat]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Vampire Bat|Vampire Bat]]

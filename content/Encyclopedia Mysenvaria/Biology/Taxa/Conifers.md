@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Conifers
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Florifer|Florifer]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Redwoods|Redwoods]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Chimetrees|Chimetrees]]

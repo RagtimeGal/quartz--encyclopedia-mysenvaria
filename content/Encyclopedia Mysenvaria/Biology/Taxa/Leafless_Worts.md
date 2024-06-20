@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Leafless Worts
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worts|Worts]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Eastern Mosswort|Eastern Mosswort]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Western Mosswort|Western Mosswort]]

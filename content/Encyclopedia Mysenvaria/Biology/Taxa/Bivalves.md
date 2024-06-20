@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Bivalves
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
 >
 > > [!info] Creation Date
 > > c. BT 497

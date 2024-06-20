@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Devil Dragon
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Polar Dragon|Polar Dragon]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Great Angel Dragon|Great Angel Dragon]]

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Copepod
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Crustacea|Crustacea]]
 >
 > > [!info] Creation Date
 > > c. BT 497

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Wasps
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Insects|Colonial Insects]]
 >
 > > [!info] Creation Date
 > > c. BT 483

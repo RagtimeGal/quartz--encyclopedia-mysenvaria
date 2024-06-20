@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Primates
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Long-tailed Primates|Long-tailed Primates]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Short-tailed Primates|Short-tailed Primates]]

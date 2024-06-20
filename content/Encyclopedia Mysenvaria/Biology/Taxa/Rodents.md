@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Rodents
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Hampster|Domestic Hampster]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Guinea Pig|Domestic Guinea Pig]]

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Fern
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Common Fiddlehead|Common Fiddlehead]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Pink Fiddlehead|Pink Fiddlehead]]

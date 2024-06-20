@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Human
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Short-tailed Primates|Short-tailed Primates]]
 >
 > > [!info] Creation Date
 > > c. BT 442

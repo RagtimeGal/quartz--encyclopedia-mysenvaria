@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Arthropods
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Crustacea|Crustacea]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]]

@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Aves
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Perching Birds|Perching Birds]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Waterfowl|Waterfowl]]

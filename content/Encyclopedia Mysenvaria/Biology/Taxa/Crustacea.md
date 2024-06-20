@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Crustacea
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Copepod|Copepod]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrimp|Shrimp]]

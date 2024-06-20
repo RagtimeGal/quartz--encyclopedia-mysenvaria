@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Stickbug
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Scythebugs|Scythebugs]]
 >
 > > [!info] Creation Date
 > > c. BT 483

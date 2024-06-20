@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Dinosauria
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Therapod|Therapod]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Sauropod|Sauropod]]

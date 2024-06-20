@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Starmoth
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lepidoptera|Lepidoptera]]
 >
 > > [!info] Creation Date
 > > c. BT 446

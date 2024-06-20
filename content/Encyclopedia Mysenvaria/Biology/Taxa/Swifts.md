@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Swifts
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aves|Aves]]
 >
 > > [!info] Creation Date
 > > c. BT 466

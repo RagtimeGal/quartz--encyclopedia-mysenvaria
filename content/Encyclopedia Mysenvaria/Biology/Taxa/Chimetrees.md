@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Chimetrees
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Conifers|Conifers]]
 >
 > > [!info] Creation Date
 > > c. BT 460

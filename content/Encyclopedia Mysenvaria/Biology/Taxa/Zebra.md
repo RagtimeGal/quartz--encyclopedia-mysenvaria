@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Zebra
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Equidae|Equidae]]
 >
 > > [!info] Creation Date
 > > c. BT 451

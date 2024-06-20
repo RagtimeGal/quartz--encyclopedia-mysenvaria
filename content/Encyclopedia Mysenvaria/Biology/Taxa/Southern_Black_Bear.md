@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Southern Black Bear
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
 >
 > > [!info] Creation Date
 > > c. BT 448

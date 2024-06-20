@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Teak
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]]
 >
 > > [!info] Creation Date
 > > c. BT 448

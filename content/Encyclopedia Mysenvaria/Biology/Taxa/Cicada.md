@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Cicada
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Beaked Insects|Beaked Insects]]
 >
 > > [!info] Creation Date
 > > c. BT 482

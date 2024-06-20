@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Bees
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Insects|Colonial Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Sextown Bee|Domestic Sextown Bee]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Northern Bee|Domestic Northern Bee]]

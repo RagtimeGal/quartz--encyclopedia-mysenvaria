@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Marsupial
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Bears|Marsupial Bears]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Shrews|Marsupial Shrews]]

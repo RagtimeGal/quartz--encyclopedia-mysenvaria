@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Red Basking Dragon
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bulldog Dragon|Bulldog Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 438

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Giant Kangaroo
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Shrews|Marsupial Shrews]]
 >
 > > [!info] Creation Date
 > > c. BT 454

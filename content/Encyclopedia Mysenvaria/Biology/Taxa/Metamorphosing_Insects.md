@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Metamorphosing Insects
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Flies|Flies]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Lepidoptera|Lepidoptera]]

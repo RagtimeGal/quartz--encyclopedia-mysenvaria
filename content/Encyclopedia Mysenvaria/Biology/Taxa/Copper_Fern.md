@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Copper Fern
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fern|Fern]]
 >
 > > [!info] Creation Date
 > > c. BT 484

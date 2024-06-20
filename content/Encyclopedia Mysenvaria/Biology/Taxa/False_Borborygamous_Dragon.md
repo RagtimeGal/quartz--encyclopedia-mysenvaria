@@ -12,6 +12,8 @@ tags:
 
 > [!summary] False Borborygamous Dragon
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Devil Dragon|Devil Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 436

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Domestic Pig
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Sus|Sus]]
 >
 > > [!info] Creation Date
 > > c. BT 442

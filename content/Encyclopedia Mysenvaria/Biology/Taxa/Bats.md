@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Bats
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Megabat|Megabat]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Microbat|Microbat]]

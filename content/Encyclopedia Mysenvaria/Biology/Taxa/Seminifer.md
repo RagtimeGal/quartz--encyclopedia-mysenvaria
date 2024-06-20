@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Seminifer
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|Plant]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Fern|Fern]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]]

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Oat
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Herbaceous|Herbaceous]]
 >
 > > [!info] Creation Date
 > > c. BT 451

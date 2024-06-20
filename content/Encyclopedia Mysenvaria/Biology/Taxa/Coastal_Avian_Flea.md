@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Coastal Avian Flea
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mites|Mites]]
 >
 > > [!info] Creation Date
 > > c. BT 496

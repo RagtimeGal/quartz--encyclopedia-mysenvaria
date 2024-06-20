@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Squamata
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Lizards|Lizards]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Snakes|Snakes]]

@@ -11,6 +11,8 @@ tags:
 
 > [!summary] Fungus
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Mold|Mold]]
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Yeast|Yeast]]

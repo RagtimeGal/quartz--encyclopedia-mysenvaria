@@ -13,6 +13,8 @@ tags:
 
 > [!summary] Amber Giraffe
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Giraffe|Giraffe]]
 >
 > > [!info] Creation Date
 > > c. BT 450

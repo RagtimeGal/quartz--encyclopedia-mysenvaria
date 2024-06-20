@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Waterfowl
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aves|Aves]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Duck|Domestic Duck]]
 >

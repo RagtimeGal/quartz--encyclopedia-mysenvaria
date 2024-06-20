@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Dragonfly
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Predatory Flies|Predatory Flies]]
 >
 > > [!info] Creation Date
 > > c. BT 482

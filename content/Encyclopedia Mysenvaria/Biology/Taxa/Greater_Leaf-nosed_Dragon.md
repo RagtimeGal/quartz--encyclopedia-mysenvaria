@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Greater Leaf-nosed Dragon
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 438

@@ -12,6 +12,8 @@ tags:
 
 > [!summary] Jawless Eels
 > > [!info] Relation
+> > ### Succeeds:
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Jawless Fish|Jawless Fish]]
 >
 > > [!info] Creation Date
 > > c. BT 485
