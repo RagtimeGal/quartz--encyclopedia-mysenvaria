@@ -1,6 +1,7 @@
 ---
 title: Home
 enableToc: true
+stub: true
 tags:
   - meta
 ---
