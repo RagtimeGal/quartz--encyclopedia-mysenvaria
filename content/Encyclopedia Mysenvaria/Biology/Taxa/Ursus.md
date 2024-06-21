@@ -13,17 +13,17 @@ tags:
 > [!summary] Ursus
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mask Bear|Mask Bear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Giant Panda|Giant Panda]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Sloth Bear|Sloth Bear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Sun Bear|Sun Bear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ghost Bear|Ghost Bear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Brown Bear|Brown Bear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Northern Black Bear|Northern Black Bear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Southern Black Bear|Southern Black Bear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Dog-bear|Domestic Dog-bear]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Mask Bear|Mask Bear]] c. BT 452
+> > [[Encyclopedia Mysenvaria/Biology/Species/Giant Panda|Giant Panda]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Sloth Bear|Sloth Bear]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Sun Bear|Sun Bear]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Ghost Bear|Ghost Bear]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Brown Bear|Brown Bear]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Species/Northern Black Bear|Northern Black Bear]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Species/Southern Black Bear|Southern Black Bear]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Dog-bear|Domestic Dog-bear]] c. BT 441
 >
 > > [!info] Creation Date
 > > c. BT 452

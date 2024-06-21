@@ -13,21 +13,21 @@ tags:
 > [!summary] Herbaceous
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Agave|Agave]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aloe|Aloe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Barley|Barley]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Buckwheat|Buckwheat]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carrot|Carrot]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Chamomile|Chamomile]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ginger|Ginger]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Millet|Millet]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Oat|Oat]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pineapple|Pineapple]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Potato|Potato]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Sage|Sage]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Yams|Yams]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Agave|Agave]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Aloe|Aloe]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Barley|Barley]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Buckwheat|Buckwheat]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Carrot|Carrot]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Chamomile|Chamomile]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Ginger|Ginger]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Millet|Millet]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Oat|Oat]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Pineapple|Pineapple]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Potato|Potato]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Sage|Sage]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Yams|Yams]] c. BT 451
 >
 > > [!info] Creation Date
 > > c. BT 451

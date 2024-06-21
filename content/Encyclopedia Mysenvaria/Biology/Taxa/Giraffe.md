@@ -13,17 +13,17 @@ tags:
 > [!summary] Giraffe
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amber Giraffe|Amber Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Horseshoe Giraffe|Horseshoe Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shielded Giraffe|Shielded Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Horned Giraffe|Horned Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dome-headed Giraffe|Dome-headed Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Spotted Giraffe|Spotted Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/White Giraffe|White Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Giraffe|Pigmy Giraffe]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Okapi|Okapi]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Amber Giraffe|Amber Giraffe]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Horseshoe Giraffe|Horseshoe Giraffe]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Shielded Giraffe|Shielded Giraffe]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Horned Giraffe|Horned Giraffe]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Dome-headed Giraffe|Dome-headed Giraffe]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Species/Spotted Giraffe|Spotted Giraffe]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Species/White Giraffe|White Giraffe]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Species/Pigmy Giraffe|Pigmy Giraffe]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Species/Okapi|Okapi]] c. BT 448
 >
 > > [!info] Creation Date
 > > c. BT 450

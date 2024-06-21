@@ -13,9 +13,9 @@ tags:
 > [!summary] Aquatic
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rice|Rice]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Rice|Rice]] c. BT 451
 >
 > > [!info] Creation Date
 > > c. BT 462

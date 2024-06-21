@@ -13,12 +13,12 @@ tags:
 > [!summary] Bees
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Insects|Colonial Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Insects|Colonial Insects]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Sextown Bee|Domestic Sextown Bee]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Northern Bee|Domestic Northern Bee]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Southwestern Bee|Domestic Southwestern Bee]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Giant Bee|Domestic Giant Bee]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Sextown Bee|Domestic Sextown Bee]] c. BT 442
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Northern Bee|Domestic Northern Bee]] c. BT 441
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Southwestern Bee|Domestic Southwestern Bee]] c. BT 441
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Giant Bee|Domestic Giant Bee]] c. BT 441
 >
 > > [!info] Creation Date
 > > c. BT 484

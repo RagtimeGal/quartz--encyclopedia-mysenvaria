@@ -13,11 +13,11 @@ tags:
 > [!summary] Hoppers
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Grasshopper|Grasshopper]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cricket|Cricket]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Katydid|Katydid]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Grasshopper|Grasshopper]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Cricket|Cricket]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Katydid|Katydid]] c. BT 483
 >
 > > [!info] Creation Date
 > > c. BT 483

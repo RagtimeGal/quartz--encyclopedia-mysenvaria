@@ -12,13 +12,13 @@ tags:
 > [!summary] Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Horned Dragon|Horned Dragon]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bulldog Dragon|Bulldog Dragon]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Devil Dragon|Devil Dragon]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whip-tailed Dragon|Whip-tailed Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]] c. BT 439
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Horned Dragon|Horned Dragon]] c. BT 438
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bulldog Dragon|Bulldog Dragon]] c. BT 438
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Devil Dragon|Devil Dragon]] c. BT 438
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whip-tailed Dragon|Whip-tailed Dragon]] c. BT 438
 >
 > > [!info] Creation Date
 > > c. BT 439

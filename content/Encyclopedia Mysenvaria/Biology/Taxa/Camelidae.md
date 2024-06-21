@@ -13,15 +13,15 @@ tags:
 > [!summary] Camelidae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Giant Camel|Giant Camel]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Three-humped Camel|Three-humped Camel]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vicuna|Vicuna]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Guanaco|Guanaco]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Llama|Domestic Llama]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Alpaca|Domestic Alpaca]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Camel|Domestic Camel]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Giant Camel|Giant Camel]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Three-humped Camel|Three-humped Camel]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Vicuna|Vicuna]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Guanaco|Guanaco]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Llama|Domestic Llama]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Alpaca|Domestic Alpaca]] c. BT 450
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Camel|Domestic Camel]] c. BT 450
 >
 > > [!info] Creation Date
 > > c. BT 450

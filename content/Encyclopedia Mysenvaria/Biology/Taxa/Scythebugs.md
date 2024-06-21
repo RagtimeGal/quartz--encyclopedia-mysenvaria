@@ -3,7 +3,6 @@ title: Scythebugs
 enableToc: true
 tags:
   - biology/taxa
-  - biology/taxa/family
   - stub
 ---
 
@@ -13,10 +12,11 @@ tags:
 > [!summary] Scythebugs
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Stickbug|Stickbug]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mantis|Mantis]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Stickbug|Stickbug]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mantis|Mantis]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Logbug|Logbug]] c. BT 467
 >
 > > [!info] Creation Date
 > > c. BT 483

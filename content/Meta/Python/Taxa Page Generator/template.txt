@@ -1,0 +1,35 @@
+---
+title: {{ name }}
+enableToc: true
+tags:
+  - biology/taxa{% if tags == "family" %}
+  - biology/taxa/{{ tags }}{% endif %}{% if tags == "species" and root_ancestor == "Animal" %}
+  - biology/animal{% endif %}{% if tags == "species" and root_ancestor == "Plant" %}
+  - biology/plant{% endif %}{% if extinct %}
+  - biology/extinct{% endif %}
+  - stub
+---
+
+> [!note]
+> This page is a stub and has more information that can be added.
+
+> [!summary] {{ name }}
+> > [!info] Relation{% if predecessor %}
+> > ### Succeeds:
+> > {{ predecessor }}{% endif %}{% if successors %}
+> > ### Supersedes {% for successor in successors %}
+> > {% if successor.generate != false %}{% if successor.link %}{{ successor.link }} c. BT {{ successor.date }}{% else %}{% if successor.tags == "species" %}[[Encyclopedia Mysenvaria/Biology/Species/{{ successor.name }}|{{ successor.name }}]] c. BT {{ successor.date }}{% else %}[[Encyclopedia Mysenvaria/Biology/Taxa/{{ successor.name }}|{{ successor.name }}]] c. BT {{ successor.date }}{% endif %}{% endif %}{% else %}{{ successor.name }} c. BT {{ successor.date }}{% endif %}{% endfor %}{% endif %}
+>
+> > [!info] Creation Date
+> > c. BT {{ date }}
+
+{{ body }}
+
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]{% if root_ancestor == "Plant" %}
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]
+{% endif %}{% if root_ancestor == "Animal" %}
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]
+{% endif %}{% if tags == "biology/taxa/family" %}
+- [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/List of Family Taxa|List of Phylogenetic Families]]
+{% endif %}

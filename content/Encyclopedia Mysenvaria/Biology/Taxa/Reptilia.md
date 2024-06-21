@@ -12,11 +12,11 @@ tags:
 > [!summary] Reptilia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Squamata|Squamata]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Turtles|Turtles]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Squamata|Squamata]] c. BT 475
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Turtles|Turtles]] c. BT 469
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]] c. BT 467
 >
 > > [!info] Creation Date
 > > c. BT 475

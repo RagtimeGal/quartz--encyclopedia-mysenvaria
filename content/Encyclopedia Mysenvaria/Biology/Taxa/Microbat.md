@@ -12,11 +12,11 @@ tags:
 > [!summary] Microbat
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Insectivorous Microbat|Insectivorous Microbat]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vampire Bat|Vampire Bat]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Nectar Microbat|Nectar Microbat]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Insectivorous Microbat|Insectivorous Microbat]] c. BT 440
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vampire Bat|Vampire Bat]] c. BT 440
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Nectar Microbat|Nectar Microbat]] c. BT 440
 >
 > > [!info] Creation Date
 > > c. BT 440

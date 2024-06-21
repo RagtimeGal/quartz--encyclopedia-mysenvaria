@@ -13,9 +13,9 @@ tags:
 > [!summary] Mustiforms
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Caniforms|Caniforms]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Ferret|Domestic Ferret]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Ferret|Domestic Ferret]] c. BT 439
 >
 > > [!info] Creation Date
 > > c. BT 451

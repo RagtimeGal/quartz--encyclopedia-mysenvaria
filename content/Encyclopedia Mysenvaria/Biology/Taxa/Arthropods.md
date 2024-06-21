@@ -12,10 +12,10 @@ tags:
 > [!summary] Arthropods
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
+> > [[Encyclopedia Mysenvaria/Biology/Animal|Animal]]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Crustacea|Crustacea]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Crustacea|Crustacea]] c. BT 497
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]] c. BT 496
 >
 > > [!info] Creation Date
 > > c. BT 497

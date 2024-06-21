@@ -12,10 +12,10 @@ tags:
 > [!summary] Ungulates
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]] c. BT 452
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]] c. BT 451
 >
 > > [!info] Creation Date
 > > c. BT 452

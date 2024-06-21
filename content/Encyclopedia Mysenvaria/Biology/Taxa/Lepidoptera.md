@@ -13,10 +13,10 @@ tags:
 > [!summary] Lepidoptera
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Starmoth|Starmoth]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Silkmoth|Domestic Silkmoth]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Starmoth|Starmoth]] c. BT 446
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Silkmoth|Domestic Silkmoth]] c. BT 446
 >
 > > [!info] Creation Date
 > > c. BT 485

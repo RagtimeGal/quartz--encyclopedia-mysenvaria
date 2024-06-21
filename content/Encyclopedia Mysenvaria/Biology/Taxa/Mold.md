@@ -13,7 +13,7 @@ tags:
 > [!summary] Mold
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]
 >
 > > [!info] Creation Date
 > > c. BT 484

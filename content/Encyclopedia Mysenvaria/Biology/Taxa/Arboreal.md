@@ -13,27 +13,27 @@ tags:
 > [!summary] Arboreal
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Date Palm|Date Palm]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Baobab|Baobab]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Beech|Beech]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cocoa Tree|Cocoa Tree]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fig Tree|Fig Tree]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Maple|Maple]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Olive|Olive]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pecan Tree|Pecan Tree]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rubber Tree|Rubber Tree]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shea Tree|Shea Tree]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Teak|Teak]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Almond|Almond]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Apple|Apple]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cherry|Cherry]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Citron|Citron]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mandarin Orange|Mandarin Orange]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lemon|Lemon]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Curry Tree|Curry Tree]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Papaya|Papaya]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Date Palm|Date Palm]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Baobab|Baobab]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Beech|Beech]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Cocoa Tree|Cocoa Tree]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Fig Tree|Fig Tree]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Maple|Maple]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Olive|Olive]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Pecan Tree|Pecan Tree]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Rubber Tree|Rubber Tree]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Shea Tree|Shea Tree]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Teak|Teak]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Almond|Almond]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Apple|Apple]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Cherry|Cherry]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Citron|Citron]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Mandarin Orange|Mandarin Orange]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Lemon|Lemon]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Curry Tree|Curry Tree]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Papaya|Papaya]] c. BT 448
 >
 > > [!info] Creation Date
 > > c. BT 460

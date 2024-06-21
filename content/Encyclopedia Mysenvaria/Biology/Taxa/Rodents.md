@@ -13,11 +13,11 @@ tags:
 > [!summary] Rodents
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Hampster|Domestic Hampster]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Guinea Pig|Domestic Guinea Pig]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Mouse|Domestic Mouse]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Hampster|Domestic Hampster]] c. BT 441
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Guinea Pig|Domestic Guinea Pig]] c. BT 440
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Mouse|Domestic Mouse]] c. BT 441
 >
 > > [!info] Creation Date
 > > c. BT 459

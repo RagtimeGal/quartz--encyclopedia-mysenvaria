@@ -12,11 +12,11 @@ tags:
 > [!summary] Bats
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Megabat|Megabat]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Microbat|Microbat]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Megabat|Megabat]] c. BT 440
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Microbat|Microbat]] c. BT 440
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]] c. BT 439
 >
 > > [!info] Creation Date
 > > c. BT 440

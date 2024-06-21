@@ -41,35 +41,61 @@ def collect_entries_by_name(entry, collected):
             collect_entries_by_name(successor, collected)
 
 # Recursive function to process each entry in the JSON tree and generate a file
-def process_entry(entry, template, output_dir, all_entries, root_ancestors, predecessor=None):
+def process_entry(entry, template, output_dir, all_entries, root_ancestors, predecessor_link=None):
+    # Prepare the data for rendering
+    data = entry.copy()
+    data['tags'] = determine_tag(entry) if determine_tag(entry) else None
+    data['extinct'] = entry.get('extinct', False)
+    data['predecessor'] = predecessor_link
+    data['root_ancestor'] = find_root_ancestor(entry['name'], root_ancestors, all_entries)
+
+    # Ensure 'link' is always present in data
+    if 'link' not in data:
+        if data['tags'] == "species":
+            data['link'] = f"[[Encyclopedia Mysenvaria/Biology/Species/{data['name']}|{data['name']}]"
+        else:
+            data['link'] = f"[[Encyclopedia Mysenvaria/Biology/Taxa/{data['name']}|{data['name']}]"
+
+    # Determine the predecessor link
+    if not predecessor_link:
+        predecessor_entry = None
+        for name, potential_predecessor in all_entries.items():
+            if 'successors' in potential_predecessor and any(successor['name'] == data['name'] for successor in potential_predecessor['successors']):
+                predecessor_entry = potential_predecessor
+                break
+        if predecessor_entry:
+            if 'link' in predecessor_entry:
+                data['predecessor'] = predecessor_entry['link']
+            elif determine_tag(predecessor_entry) == "species":
+                data['predecessor'] = f"[[Encyclopedia Mysenvaria/Biology/Species/{predecessor_entry['name']}|{predecessor_entry['name']}]]"
+            else:
+                data['predecessor'] = f"[[Encyclopedia Mysenvaria/Biology/Taxa/{predecessor_entry['name']}|{predecessor_entry['name']}]]"
+        else:
+            data['predecessor'] = None
+
+    # Set tags for successors before rendering
+    if 'successors' in entry:
+        for successor in entry['successors']:
+            successor['tags'] = determine_tag(successor)
+
+    # Print the data passed to the template for debugging
+    print(f"Processing {data['name']}:")
+    for key, value in data.items():
+        print(f"  {key}: {value} (Type: {type(value)})")
+
     # Determine if this entry should generate a page
     generate = entry.get('generate', True)
-
     if generate:
-        # Determine the tag for the current entry
-        tag = determine_tag(entry)
-
-        # Prepare the data for rendering
-        data = entry.copy()
-        data['tags'] = tag if tag else None
-
-        # Set the extinct field to false if not specified
-        if 'extinct' not in data:
-            data['extinct'] = False
-
-        # Set the predecessor
-        data['predecessor'] = predecessor
-
-        # Determine the root ancestor
-        root_ancestor = find_root_ancestor(entry['name'], root_ancestors, all_entries)
-        data['root_ancestor'] = root_ancestor
-
         # Render the template with the entry data
         rendered_content = template.render(data)
 
         # Create a file name based on the entry name
-        file_name = f"{entry['name'].replace(' ', '_')}.md"
-        output_path = os.path.join(output_dir, file_name)
+        folder = "Species" if data['tags'] == "species" else "Taxa"
+        file_name = f"{data['name']}.md"
+        output_path = os.path.join(output_dir, folder, file_name)
+
+        # Create the folder if it doesn't exist
+        os.makedirs(os.path.join(output_dir, folder), exist_ok=True)
 
         # Write the rendered content to the file
         with open(output_path, 'w') as output_file:
@@ -78,7 +104,10 @@ def process_entry(entry, template, output_dir, all_entries, root_ancestors, pred
     # Process any successors recursively
     if 'successors' in entry:
         for successor in entry['successors']:
-            process_entry(successor, template, output_dir, all_entries, root_ancestors, predecessor=entry['name'])
+            successor_link = f"[[Encyclopedia Mysenvaria/Biology/Taxa/{successor['name']}|{successor['name']}]]"
+            if successor.get('link'):
+                successor_link = successor['link']
+            process_entry(successor, template, output_dir, all_entries, root_ancestors, predecessor_link=data['link'])
 
 def main():
     # Load the JSON file
@@ -94,12 +123,12 @@ def main():
 
     # Load the Jinja2 template
     template_dir = 'C:\\Users\\Terra\\Documents\\Worldbuilding\\Mysenvar_Branch\\Mysenvar\\Meta\\Python\\Taxa Page Generator'  # Replace with your template directory
-    template_file = 'template.md'  # Replace with your template file name
+    template_file = 'template.txt'  # Replace with your template file name
     env = Environment(loader=FileSystemLoader(template_dir))
     template = env.get_template(template_file)
 
     # Create an output directory if it doesn't exist
-    output_dir = 'C:\\Users\\Terra\\Documents\\Worldbuilding\\Mysenvar_Branch\\Mysenvar\\Meta\\Python\\Taxa Page Generator\\Taxa'  # Replace with your desired output directory
+    output_dir = 'C:\\Users\\Terra\\Documents\\Worldbuilding\\Mysenvar_Branch\\Mysenvar\\Meta\\Python\\Taxa Page Generator\\Output'  # Replace with your desired output directory
     os.makedirs(output_dir, exist_ok=True)
 
     # Process the JSON data and generate output files

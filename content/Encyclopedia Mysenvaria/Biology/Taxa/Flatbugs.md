@@ -13,11 +13,11 @@ tags:
 > [!summary] Flatbugs
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Earwigs|Earwigs]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Roaches|Roaches]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Termites|Termites]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Earwigs|Earwigs]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Roaches|Roaches]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Termites|Termites]] c. BT 483
 >
 > > [!info] Creation Date
 > > c. BT 483

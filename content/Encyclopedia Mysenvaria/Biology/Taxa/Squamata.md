@@ -12,10 +12,10 @@ tags:
 > [!summary] Squamata
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lizards|Lizards]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Snakes|Snakes]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lizards|Lizards]] c. BT 475
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Snakes|Snakes]] c. BT 475
 >
 > > [!info] Creation Date
 > > c. BT 475

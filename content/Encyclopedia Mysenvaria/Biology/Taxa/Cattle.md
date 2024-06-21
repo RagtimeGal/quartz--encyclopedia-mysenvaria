@@ -13,14 +13,14 @@ tags:
 > [!summary] Cattle
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Auroch|Auroch]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Buffalo|Buffalo]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Water Buffalo|Water Buffalo]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Cow|Domestic Cow]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Sheep|Domestic Sheep]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Goat|Domestic Goat]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Auroch|Auroch]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Buffalo|Buffalo]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Water Buffalo|Water Buffalo]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Cow|Domestic Cow]] c. BT 442
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Sheep|Domestic Sheep]] c. BT 442
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Goat|Domestic Goat]] c. BT 442
 >
 > > [!info] Creation Date
 > > c. BT 452

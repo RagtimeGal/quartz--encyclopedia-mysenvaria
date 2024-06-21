@@ -12,12 +12,12 @@ tags:
 > [!summary] Crustacea
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Copepod|Copepod]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrimp|Shrimp]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Crab|Crab]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lobster|Lobster]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Copepod|Copepod]] c. BT 497
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrimp|Shrimp]] c. BT 495
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Crab|Crab]] c. BT 494
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lobster|Lobster]] c. BT 491
 >
 > > [!info] Creation Date
 > > c. BT 497

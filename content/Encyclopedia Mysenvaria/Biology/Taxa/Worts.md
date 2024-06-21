@@ -12,10 +12,10 @@ tags:
 > [!summary] Worts
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|Plant]]
+> > [[Encyclopedia Mysenvaria/Biology/Plant|Plant]]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leafless Worts|Leafless Worts]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaved Worts|Leaved Worts]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leafless Worts|Leafless Worts]] c. BT 505
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaved Worts|Leaved Worts]] c. BT 505
 >
 > > [!info] Creation Date
 > > c. BT 503

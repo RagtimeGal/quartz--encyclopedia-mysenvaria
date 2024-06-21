@@ -12,15 +12,15 @@ tags:
 > [!summary] Beetles
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Weevil|Weevil]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Longhorn Beetles|Longhorn Beetles]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaf Beetles|Leaf Beetles]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Scarab Beetles|Scarab Beetles]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ground Beetles|Ground Beetles]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Tiger Beetles|Tiger Beetles]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Diving Beetles|Diving Beetles]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Weevil|Weevil]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Longhorn Beetles|Longhorn Beetles]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaf Beetles|Leaf Beetles]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Scarab Beetles|Scarab Beetles]] c. BT 482
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ground Beetles|Ground Beetles]] c. BT 482
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Tiger Beetles|Tiger Beetles]] c. BT 482
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Diving Beetles|Diving Beetles]] c. BT 482
 >
 > > [!info] Creation Date
 > > c. BT 483

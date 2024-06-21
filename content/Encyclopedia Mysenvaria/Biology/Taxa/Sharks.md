@@ -13,7 +13,7 @@ tags:
 > [!summary] Sharks
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carilaginous Fish|Carilaginous Fish]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carilaginous Fish|Carilaginous Fish]
 >
 > > [!info] Creation Date
 > > c. BT 492

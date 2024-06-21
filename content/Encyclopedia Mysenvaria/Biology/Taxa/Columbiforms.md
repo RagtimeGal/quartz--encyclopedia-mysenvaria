@@ -13,11 +13,11 @@ tags:
 > [!summary] Columbiforms
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aves|Aves]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aves|Aves]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Chicken|Domestic Chicken]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Pigeon|Domestic Pigeon]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Turkey|Domestic Turkey]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Chicken|Domestic Chicken]] c. BT 441
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Pigeon|Domestic Pigeon]] c. BT 441
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Turkey|Domestic Turkey]] c. BT 441
 >
 > > [!info] Creation Date
 > > c. BT 466

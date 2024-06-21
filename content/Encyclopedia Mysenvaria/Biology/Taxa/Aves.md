@@ -12,14 +12,14 @@ tags:
 > [!summary] Aves
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Perching Birds|Perching Birds]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Waterfowl|Waterfowl]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Columbiforms|Columbiforms]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Parrots|Parrots]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Birds of Prey|Birds of Prey]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Swifts|Swifts]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Perching Birds|Perching Birds]] c. BT 466
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Waterfowl|Waterfowl]] c. BT 466
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Columbiforms|Columbiforms]] c. BT 466
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Parrots|Parrots]] c. BT 466
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Birds of Prey|Birds of Prey]] c. BT 466
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Swifts|Swifts]] c. BT 466
 >
 > > [!info] Creation Date
 > > c. BT 466

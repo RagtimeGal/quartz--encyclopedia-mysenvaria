@@ -12,12 +12,12 @@ tags:
 > [!summary] Amphibia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Salamanders|Salamanders]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Frogs|Frogs]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mega Amphibia|Mega Amphibia]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Salamanders|Salamanders]] c. BT 489
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Frogs|Frogs]] c. BT 489
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mega Amphibia|Mega Amphibia]] c. BT 486
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]] c. BT 475
 >
 > > [!info] Creation Date
 > > c. BT 489

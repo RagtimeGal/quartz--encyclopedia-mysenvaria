@@ -12,10 +12,10 @@ tags:
 > [!summary] Algae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|Plant]]
+> > [[Encyclopedia Mysenvaria/Biology/Plant|Plant]]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Green Algae|Green Algae]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Algae|Colonial Algae]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Green Algae|Green Algae]] c. BT 512
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Algae|Colonial Algae]] c. BT 511
 >
 > > [!info] Creation Date
 > > c. BT 512

@@ -12,10 +12,10 @@ tags:
 > [!summary] Primates
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Long-tailed Primates|Long-tailed Primates]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Short-tailed Primates|Short-tailed Primates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Long-tailed Primates|Long-tailed Primates]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Short-tailed Primates|Short-tailed Primates]] c. BT 447
 >
 > > [!info] Creation Date
 > > c. BT 449

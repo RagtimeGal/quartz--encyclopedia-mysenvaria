@@ -12,10 +12,10 @@ tags:
 > [!summary] Dinosauria
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Therapod|Therapod]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Sauropod|Sauropod]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Therapod|Therapod]] c. BT 467
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Sauropod|Sauropod]] c. BT 467
 >
 > > [!info] Creation Date
 > > c. BT 467

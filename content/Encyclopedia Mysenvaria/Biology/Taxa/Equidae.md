@@ -13,12 +13,12 @@ tags:
 > [!summary] Equidae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Wild Horse|Wild Horse]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Donkey|Donkey]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Zebra|Zebra]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Domestic Horse|Domestic Horse]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Wild Horse|Wild Horse]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Donkey|Donkey]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Zebra|Zebra]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Horse|Domestic Horse]] c. BT 451
 >
 > > [!info] Creation Date
 > > c. BT 451

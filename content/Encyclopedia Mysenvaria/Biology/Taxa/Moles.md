@@ -13,7 +13,7 @@ tags:
 > [!summary] Moles
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]
 >
 > > [!info] Creation Date
 > > c. BT 458

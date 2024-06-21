@@ -13,25 +13,25 @@ tags:
 > [!summary] Fern
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Common Fiddlehead|Common Fiddlehead]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pink Fiddlehead|Pink Fiddlehead]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Spiny Shield Fern|Spiny Shield Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Great Shield Fern|Great Shield Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Spiny Fern|Spiny Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Silver Fern|Silver Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Copper Fern|Copper Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Tree Fern|Tree Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Horsetail Fern|Horsetail Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Giant Horsetail|Giant Horsetail]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Common Shrub Fern|Common Shrub Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Large Shrub Fern|Large Shrub Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mountain Fern|Mountain Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Desert Fern|Desert Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bog Fern|Bog Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/River Fern|River Fern]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Saltwater Fern|Saltwater Fern]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Common Fiddlehead|Common Fiddlehead]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Species/Pink Fiddlehead|Pink Fiddlehead]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Species/Spiny Shield Fern|Spiny Shield Fern]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Species/Great Shield Fern|Great Shield Fern]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Species/Spiny Fern|Spiny Fern]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Species/Silver Fern|Silver Fern]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Species/Copper Fern|Copper Fern]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Species/Tree Fern|Tree Fern]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Horsetail Fern|Horsetail Fern]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Giant Horsetail|Giant Horsetail]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Common Shrub Fern|Common Shrub Fern]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Large Shrub Fern|Large Shrub Fern]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Mountain Fern|Mountain Fern]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Desert Fern|Desert Fern]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/Bog Fern|Bog Fern]] c. BT 483
+> > [[Encyclopedia Mysenvaria/Biology/Species/River Fern|River Fern]] c. BT 482
+> > [[Encyclopedia Mysenvaria/Biology/Species/Saltwater Fern|Saltwater Fern]] c. BT 482
 >
 > > [!info] Creation Date
 > > c. BT 484

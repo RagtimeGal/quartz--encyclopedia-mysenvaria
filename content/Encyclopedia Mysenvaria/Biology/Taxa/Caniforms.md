@@ -12,11 +12,11 @@ tags:
 > [!summary] Caniforms
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Canids|Canids]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mustiforms|Mustiforms]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Canids|Canids]] c. BT 453
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]] c. BT 452
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mustiforms|Mustiforms]] c. BT 451
 >
 > > [!info] Creation Date
 > > c. BT 453

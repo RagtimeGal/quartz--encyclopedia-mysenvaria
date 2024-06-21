@@ -12,11 +12,11 @@ tags:
 > [!summary] Cetacea
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seals|Seals]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|Whales]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dolphins|Dolphins]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seals|Seals]] c. BT 442
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|Whales]] c. BT 442
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dolphins|Dolphins]] c. BT 441
 >
 > > [!info] Creation Date
 > > c. BT 442

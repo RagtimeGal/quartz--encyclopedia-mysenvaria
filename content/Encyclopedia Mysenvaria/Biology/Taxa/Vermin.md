@@ -12,12 +12,12 @@ tags:
 > [!summary] Vermin
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
+> > [[Encyclopedia Mysenvaria/Biology/Animal|Animal]]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worm|Worm]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Gastropod|Gastropod]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cephalopods|Cephalopods]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bivalves|Bivalves]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worm|Worm]] c. BT 498
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Gastropod|Gastropod]] c. BT 498
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cephalopods|Cephalopods]] c. BT 497
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bivalves|Bivalves]] c. BT 497
 >
 > > [!info] Creation Date
 > > c. BT 498

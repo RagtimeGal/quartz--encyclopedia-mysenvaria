@@ -12,11 +12,11 @@ tags:
 > [!summary] Fungus
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mold|Mold]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Yeast|Yeast]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shroom|Shroom]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mold|Mold]] c. BT 484
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Yeast|Yeast]] c. BT 480
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shroom|Shroom]] c. BT 479
 >
 > > [!info] Creation Date
 > > c. BT 483

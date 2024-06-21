@@ -13,19 +13,19 @@ tags:
 > [!summary] Climbing
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Yellow Bamboo|Yellow Bamboo]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cavendish Banana|Cavendish Banana]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Black Cardamom|Black Cardamom]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Green Cardamom|Green Cardamom]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Turmeric|Turmeric]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vanilla|Vanilla]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Table Grape|Table Grape]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Spear Mint|Spear Mint]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Oregano|Oregano]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Prickly Pear|Prickly Pear]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rosemary|Rosemary]]
+> > [[Encyclopedia Mysenvaria/Biology/Species/Yellow Bamboo|Yellow Bamboo]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Cavendish Banana|Cavendish Banana]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Black Cardamom|Black Cardamom]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Green Cardamom|Green Cardamom]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Turmeric|Turmeric]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Vanilla|Vanilla]] c. BT 451
+> > [[Encyclopedia Mysenvaria/Biology/Species/Table Grape|Table Grape]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Spear Mint|Spear Mint]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Oregano|Oregano]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Prickly Pear|Prickly Pear]] c. BT 448
+> > [[Encyclopedia Mysenvaria/Biology/Species/Rosemary|Rosemary]] c. BT 448
 >
 > > [!info] Creation Date
 > > c. BT 448

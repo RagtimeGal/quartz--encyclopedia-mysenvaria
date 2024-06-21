@@ -13,7 +13,7 @@ tags:
 > [!summary] Chalicotheri
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]
 >
 > > [!info] Creation Date
 > > c. BT 450

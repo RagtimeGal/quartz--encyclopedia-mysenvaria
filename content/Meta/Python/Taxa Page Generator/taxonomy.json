@@ -2,6 +2,7 @@
     "name": "Plant",
     "date": 523,
     "generate": false,
+    "link": "[[Encyclopedia Mysenvaria/Biology/Plant|Plant]]",
     "successors": [
         {
             "name": "Algae",
@@ -617,7 +618,8 @@
                 {
                     "name": "Animal",
                     "date": 498,
-                    "body": "Seminifers which spread their territory by autonomous movement. Such a move necessitated the creation of new organelles, cell communication methods, and skeletal systems.",
+                    "generate": false,
+                    "link": "[[Encyclopedia Mysenvaria/Biology/Animal|Animal]]",
                     "successors": [
                         {
                             "name": "Vermin",
@@ -851,7 +853,13 @@
                                                                     "name": "Longhorn Beetles",
                                                                     "date": 483,
                                                                     "body": "Beetles characterized by their long antennae and boring larvae.",
-                                                                    "successors": []
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Necrobeetle",
+                                                                            "date": 426,
+                                                                            "body": "Parasitic species of longhorn beetle capable of necromancing organisms and manipulating their body. Used to attract mates."
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 {
                                                                     "name": "Leaf Beetles",
@@ -950,12 +958,51 @@
                                                                 {
                                                                     "name": "Stickbug",
                                                                     "date": 483,
-                                                                    "body": "Scythebugs known for their elongated camouflaged bodies."
+                                                                    "body": "Scythebugs known for their elongated camouflaged bodies.",
+                                                                    "successors": []
                                                                 },
                                                                 {
                                                                     "name": "Mantis",
                                                                     "date": 483,
-                                                                    "body": "ory scythebugs known for their ambush behavior and praying-like stance."
+                                                                    "body": "Predatory scythebugs known for their ambush behavior and praying-like stance.",
+                                                                    "successors": []
+                                                                },
+                                                                {
+                                                                    "name": "Logbug",
+                                                                    "date": 467,
+                                                                    "body": "Conceptual relatives of the Stickbug. Logbugs grow to massive sizes, and appear to have a mutual relationship with leafbugs.",
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Northern Redwood Logbug",
+                                                                            "date": 464,
+                                                                            "generate": false
+                                                                        },
+                                                                        {
+                                                                            "name": "Eastern Pine Logbug",
+                                                                            "date": 458,
+                                                                            "generate": false
+                                                                        },
+                                                                        {
+                                                                            "name": "Northern Bush Logbug",
+                                                                            "date": 456,
+                                                                            "generate": false
+                                                                        },
+                                                                        {
+                                                                            "name": "Bamboo Pike Logbug",
+                                                                            "date": 450,
+                                                                            "generate": false
+                                                                        },
+                                                                        {
+                                                                            "name": "Apple Logbug",
+                                                                            "date": 448,
+                                                                            "generate": false
+                                                                        },
+                                                                        {
+                                                                            "name": "Northern Elf Logbug",
+                                                                            "date": 420,
+                                                                            "generate": false
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -1695,7 +1742,7 @@
                                                                                 {
                                                                                     "name": "Mask Bear",
                                                                                     "date": 452,
-                                                                                    "body": "Highly specialized bear created to hunt Organisms of Mass Destruction. Today only found in the north, hunting what few OMD still live."
+                                                                                    "body": "Highly specialized bear created to hunt Organisms of Mass Destruction. Today only found in the north, hunting what few OMD still live. Mask Bear have hollow sacs in their face which may filled with gas, expanding to create air-tight gaps across their face which allow them to enter OoMDs sphere of influence without being poisoned."
                                                                                 },
                                                                                 {
                                                                                     "name": "Giant Panda",
@@ -1785,7 +1832,13 @@
                                                                             "name": "Whales",
                                                                             "date": 442,
                                                                             "body": "Completely aquatic cetacea characterized by their large size and filter-feeding diets.",
-                                                                            "successors": []
+                                                                            "successors": [
+                                                                                {
+                                                                                    "name": "Shield Whale",
+                                                                                    "date": 442,
+                                                                                    "body": "Whales with a tough head-piece used to ram into each other and rarely into predators."
+                                                                                }
+                                                                            ]
                                                                         },
                                                                         {
                                                                             "name": "Dolphins",

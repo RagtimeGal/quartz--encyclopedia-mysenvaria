@@ -12,12 +12,12 @@ tags:
 > [!summary] Vertebrate
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
+> > [[Encyclopedia Mysenvaria/Biology/Animal|Animal]]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carilaginous Fish|Carilaginous Fish]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Jawless Fish|Jawless Fish]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bony Fish|Bony Fish]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carilaginous Fish|Carilaginous Fish]] c. BT 495
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Jawless Fish|Jawless Fish]] c. BT 490
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bony Fish|Bony Fish]] c. BT 487
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]] c. BT 489
 >
 > > [!info] Creation Date
 > > c. BT 497

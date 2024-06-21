@@ -12,12 +12,12 @@ tags:
 > [!summary] Mammalia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ungulates|Ungulates]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]] c. BT 460
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]] c. BT 459
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]] c. BT 453
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ungulates|Ungulates]] c. BT 452
 >
 > > [!info] Creation Date
 > > c. BT 462

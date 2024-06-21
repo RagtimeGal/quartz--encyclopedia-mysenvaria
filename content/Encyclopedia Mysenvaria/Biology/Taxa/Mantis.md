@@ -3,7 +3,7 @@ title: Mantis
 enableToc: true
 tags:
   - biology/taxa
-  - biology/animal
+  - biology/taxa/family
   - stub
 ---
 
@@ -13,12 +13,12 @@ tags:
 > [!summary] Mantis
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Scythebugs|Scythebugs]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Scythebugs|Scythebugs]
 >
 > > [!info] Creation Date
 > > c. BT 483
 
-ory scythebugs known for their ambush behavior and praying-like stance.
+Predatory scythebugs known for their ambush behavior and praying-like stance.
 
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]

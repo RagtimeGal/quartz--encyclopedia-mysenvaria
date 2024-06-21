@@ -12,15 +12,15 @@ tags:
 > [!summary] Placentalia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]
 > > ### Supersedes 
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrews|Shrews]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Moles|Moles]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lagomorphs|Lagomorphs]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Armored Mammals|Armored Mammals]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]] c. BT 459
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrews|Shrews]] c. BT 459
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Moles|Moles]] c. BT 458
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Lagomorphs|Lagomorphs]] c. BT 456
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Armored Mammals|Armored Mammals]] c. BT 452
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]] c. BT 449
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bats|Bats]] c. BT 440
 >
 > > [!info] Creation Date
 > > c. BT 459
