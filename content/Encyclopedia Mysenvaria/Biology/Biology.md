@@ -7,8 +7,9 @@ tags:
 - stub
 ---
 
-> [!note]
-> This page is a stub and has more information that can be added.
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+
 > (Primarily regarding the 'History' section of the page)
 
 Biology is a [[Encyclopedia Mysenvaria/Culture/Topics/Science & Technology|scientific branch]] focused on the study of [[Encyclopedia Mysenvaria/Biology/Organisms|living things]]. It is an umbrella branch, encompassing a number of other fields such as [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Anatomy|anatomy]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Zoology|zoology]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Physiology|physiology]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Taxonomy|taxonomy]], [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Paleontology|paleontology]], and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Immunology|immunology]]. [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Biologist|Biologists]] use a great diversity of tools to study the number of different aspects each of these fields cover.

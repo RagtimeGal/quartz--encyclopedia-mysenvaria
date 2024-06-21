@@ -6,8 +6,9 @@ tags:
 - stub
 ---
 
-> [!note]
-> This page is a stub and has more information that can be added.
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+
 
 
 Proto-Human is the reconstructed common ancestor of all [[Encyclopedia Mysenvaria/Indexes/Culture/List of Human Languages|Human languages]]. There is no written record of Proto-Human; all of its features are proposed based off of inherited features in all Human languages through the process of the comparative method and internal reconstruction, among other methods.

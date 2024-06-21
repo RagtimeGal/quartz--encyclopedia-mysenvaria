@@ -6,8 +6,9 @@ tags:
 - stub
 ---
 
-> [!note]
-> This page is a stub and has more information that can be added.
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+
 
 Humans were the first highly intelligent fully autonomous conscious [[Encyclopedia Mysenvaria/Biology/Animal|animals]] to be created by the [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]]. Designed by a small group of Gods and eventually created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] humans would go on to become fundamental to the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]], changing the tide of the war and become one of the most successful organisms ever.
 

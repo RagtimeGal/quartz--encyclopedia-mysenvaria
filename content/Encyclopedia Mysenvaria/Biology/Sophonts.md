@@ -6,8 +6,9 @@ tags:
 - stub
 ---
 
-> [!note]
-> This page is a stub and has more information that can be added.
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+
 
 Sophonts are seemingly living [[Encyclopedia Mysenvaria/Biology/Organisms|organism]]-like objects capable of self-reflection which are aware of their own existence. Known sophonts are [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humans]], [[Encyclopedia Mysenvaria/Biology/Sophonts/Elf|elves]], [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|dwarves]], [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]], [[Encyclopedia Mysenvaria/Biology/Sophonts/Demi-God|Demi-Gods]], and [[Encyclopedia Mysenvaria/Biology/Sophonts/Womb-God|Womb-Gods]]. The first sophonts outside of Gods were humans. The exact mechanics of sophonce are unknown and widely debated across many [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Scientific Branches|branches]] of [[Encyclopedia Mysenvaria/Culture/Topics/Science & Technology|science]].
 # Definition

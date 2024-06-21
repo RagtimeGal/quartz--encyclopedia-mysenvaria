@@ -6,7 +6,7 @@ tags:
   - stub
 ---
 
-> [!note]
+> [!note] Stub
 > This page is a stub and has more information that can be added.
 
 # Early Life & Education

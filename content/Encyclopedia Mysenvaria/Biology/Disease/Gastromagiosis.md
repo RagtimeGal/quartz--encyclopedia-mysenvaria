@@ -6,8 +6,9 @@ tags:
 - stub
 ---
 
-> [!note]
-> This page is a stub and has more information that can be added.
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+
 
 
 Gastromagiosis, also called Brewer's Disease, is a dangerous illness most commonly found affecting [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor|doctors]]. It is caused by the ingestion of objects which are high in their concentrated nature, most typically [[God Part|God parts]]. The disease comes with many side effects, including [[Encyclopedia Mysenvaria/Biology/Disease/Wild Magic|wild magic]] and [[Encyclopedia Mysenvaria/Biology/Disease/Spell Malfunction|spell malfunction]].

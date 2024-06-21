@@ -6,8 +6,9 @@ tags:
 - stub
 ---
 
-> [!note]
-> This page is a stub and has more information that can be added.
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+
 
 Natural subdivision is a process [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] may undergo in which they split their domain over nature and pass it on to two or more new Gods.
 # Etymology
