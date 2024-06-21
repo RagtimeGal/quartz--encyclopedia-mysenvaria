@@ -975,32 +975,38 @@
                                                                         {
                                                                             "name": "Northern Redwood Logbug",
                                                                             "date": 464,
-                                                                            "generate": false
+                                                                            "generate": false,
+                                                                            "body": "Species found in the redwood regions of the North."
                                                                         },
                                                                         {
                                                                             "name": "Eastern Pine Logbug",
                                                                             "date": 458,
-                                                                            "generate": false
+                                                                            "generate": false,
+                                                                            "body": "Species found in the continental regions of the Eastern Archipelago."
                                                                         },
                                                                         {
                                                                             "name": "Northern Bush Logbug",
                                                                             "date": 456,
-                                                                            "generate": false
+                                                                            "generate": false,
+                                                                            "body": "Species found in the continental regions of the North."
                                                                         },
                                                                         {
                                                                             "name": "Bamboo Pike Logbug",
                                                                             "date": 450,
-                                                                            "generate": false
+                                                                            "generate": false,
+                                                                            "body": "Species found in tropical regions across the Plane."
                                                                         },
                                                                         {
                                                                             "name": "Apple Logbug",
                                                                             "date": 448,
-                                                                            "generate": false
+                                                                            "generate": false,
+                                                                            "body": "Species found in mountainous regions of the North."
                                                                         },
                                                                         {
                                                                             "name": "Northern Elf Logbug",
                                                                             "date": 420,
-                                                                            "generate": false
+                                                                            "generate": false,
+                                                                            "body": "Species found across the North."
                                                                         }
                                                                     ]
                                                                 }

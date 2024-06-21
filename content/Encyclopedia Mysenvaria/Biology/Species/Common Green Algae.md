@@ -13,7 +13,7 @@ tags:
 > [!summary] Common Green Algae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Green Algae|Green Algae]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Green Algae|Green Algae]]
 >
 > > [!info] Creation Date
 > > c. BT 511

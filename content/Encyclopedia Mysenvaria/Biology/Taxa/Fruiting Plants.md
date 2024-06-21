@@ -12,7 +12,7 @@ tags:
 > [!summary] Fruiting Plants
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Florifer|Florifer]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Florifer|Florifer]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Aquatic|Aquatic]] c. BT 462
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]] c. BT 460

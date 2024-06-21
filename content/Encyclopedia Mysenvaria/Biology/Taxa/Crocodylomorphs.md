@@ -13,7 +13,7 @@ tags:
 > [!summary] Crocodylomorphs
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Archosaurs|Archosaurs]]
 >
 > > [!info] Creation Date
 > > c. BT 467

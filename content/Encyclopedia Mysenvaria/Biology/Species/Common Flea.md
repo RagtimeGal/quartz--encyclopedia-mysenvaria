@@ -13,7 +13,7 @@ tags:
 > [!summary] Common Flea
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mites|Mites]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mites|Mites]]
 >
 > > [!info] Creation Date
 > > c. BT 496

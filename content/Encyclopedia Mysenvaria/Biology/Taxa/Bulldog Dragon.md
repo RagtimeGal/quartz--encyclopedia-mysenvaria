@@ -13,7 +13,7 @@ tags:
 > [!summary] Bulldog Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Lesser Fishing Dragon|Lesser Fishing Dragon]] c. BT 438
 > > [[Encyclopedia Mysenvaria/Biology/Species/Fishing Dragon|Fishing Dragon]] c. BT 438

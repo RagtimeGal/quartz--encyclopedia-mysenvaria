@@ -13,7 +13,7 @@ tags:
 > [!summary] Climbing
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Yellow Bamboo|Yellow Bamboo]] c. BT 451
 > > [[Encyclopedia Mysenvaria/Biology/Species/Cavendish Banana|Cavendish Banana]] c. BT 451

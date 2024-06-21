@@ -13,7 +13,7 @@ tags:
 > [!summary] Long-tailed Primates
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Domestic Monkey|Domestic Monkey]] c. BT 440
 >

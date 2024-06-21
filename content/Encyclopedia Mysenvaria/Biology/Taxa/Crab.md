@@ -13,7 +13,7 @@ tags:
 > [!summary] Crab
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Crustacea|Crustacea]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Crustacea|Crustacea]]
 >
 > > [!info] Creation Date
 > > c. BT 494

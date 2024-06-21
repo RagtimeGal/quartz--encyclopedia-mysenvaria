@@ -13,7 +13,7 @@ tags:
 > [!summary] Common Deer
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cervidae|Cervidae]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cervidae|Cervidae]]
 >
 > > [!info] Creation Date
 > > c. BT 451

@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Alpaca
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Camelidae|Camelidae]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Camelidae|Camelidae]]
 >
 > > [!info] Creation Date
 > > c. BT 450

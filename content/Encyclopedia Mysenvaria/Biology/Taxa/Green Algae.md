@@ -13,7 +13,7 @@ tags:
 > [!summary] Green Algae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Algae|Algae]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Algae|Algae]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Common Green Algae|Common Green Algae]] c. BT 511
 > > [[Encyclopedia Mysenvaria/Biology/Species/Brown Algae|Brown Algae]] c. BT 511

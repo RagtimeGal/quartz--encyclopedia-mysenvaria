@@ -13,7 +13,7 @@ tags:
 > [!summary] Herbaceous
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fruiting Plants|Fruiting Plants]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Agave|Agave]] c. BT 451
 > > [[Encyclopedia Mysenvaria/Biology/Species/Aloe|Aloe]] c. BT 451

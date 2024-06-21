@@ -13,7 +13,7 @@ tags:
 > [!summary] Leaved Worts
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worts|Worts]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worts|Worts]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Common Green Moss|Common Green Moss]] c. BT 505
 > > [[Encyclopedia Mysenvaria/Biology/Species/Common Yellow Moss|Common Yellow Moss]] c. BT 505

@@ -13,7 +13,7 @@ tags:
 > [!summary] Yams
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Herbaceous|Herbaceous]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Herbaceous|Herbaceous]]
 >
 > > [!info] Creation Date
 > > c. BT 451

@@ -12,7 +12,7 @@ tags:
 > [!summary] Jawless Fish
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Armored Jawless Fish|Armored Jawless Fish]] c. BT 490
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Jawless Eels|Jawless Eels]] c. BT 485

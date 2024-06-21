@@ -17,7 +17,7 @@ tags:
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Fern|Fern]] c. BT 484
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]] c. BT 483
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Florifer|Florifer]] c. BT 471
-> > Animal c. BT 498
+> > [[Encyclopedia Mysenvaria/Biology/Animal|Animal]] c. BT 498
 >
 > > [!info] Creation Date
 > > c. BT 484

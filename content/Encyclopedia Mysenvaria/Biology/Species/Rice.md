@@ -13,7 +13,7 @@ tags:
 > [!summary] Rice
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aquatic|Aquatic]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Aquatic|Aquatic]]
 >
 > > [!info] Creation Date
 > > c. BT 451

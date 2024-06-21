@@ -13,7 +13,7 @@ tags:
 > [!summary] Camelidae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Even-toed Ungulates|Even-toed Ungulates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Giant Camel|Giant Camel]] c. BT 450
 > > [[Encyclopedia Mysenvaria/Biology/Species/Three-humped Camel|Three-humped Camel]] c. BT 450

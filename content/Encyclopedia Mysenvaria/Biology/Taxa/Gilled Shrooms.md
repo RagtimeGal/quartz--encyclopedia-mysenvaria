@@ -13,7 +13,7 @@ tags:
 > [!summary] Gilled Shrooms
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shroom|Shroom]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Shroom|Shroom]]
 >
 > > [!info] Creation Date
 > > c. BT 478

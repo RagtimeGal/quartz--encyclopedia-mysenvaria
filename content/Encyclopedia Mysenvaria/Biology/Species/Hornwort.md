@@ -13,7 +13,7 @@ tags:
 > [!summary] Hornwort
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leafless Worts|Leafless Worts]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leafless Worts|Leafless Worts]]
 >
 > > [!info] Creation Date
 > > c. BT 504

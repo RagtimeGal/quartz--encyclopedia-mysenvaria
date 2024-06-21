@@ -13,7 +13,7 @@ tags:
 > [!summary] Grasshopper
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hoppers|Hoppers]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hoppers|Hoppers]]
 >
 > > [!info] Creation Date
 > > c. BT 483

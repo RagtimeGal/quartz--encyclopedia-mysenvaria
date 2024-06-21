@@ -13,7 +13,7 @@ tags:
 > [!summary] Medicine Ants
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ants|Ants]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ants|Ants]]
 >
 > > [!info] Creation Date
 > > c. BT 442

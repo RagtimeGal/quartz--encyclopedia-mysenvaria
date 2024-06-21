@@ -13,7 +13,7 @@ tags:
 > [!summary] Fern
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Common Fiddlehead|Common Fiddlehead]] c. BT 484
 > > [[Encyclopedia Mysenvaria/Biology/Species/Pink Fiddlehead|Pink Fiddlehead]] c. BT 484

@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Fox
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Canids|Canids]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Canids|Canids]]
 >
 > > [!info] Creation Date
 > > c. BT 439

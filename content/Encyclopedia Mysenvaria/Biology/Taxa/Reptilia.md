@@ -12,7 +12,7 @@ tags:
 > [!summary] Reptilia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Squamata|Squamata]] c. BT 475
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Turtles|Turtles]] c. BT 469

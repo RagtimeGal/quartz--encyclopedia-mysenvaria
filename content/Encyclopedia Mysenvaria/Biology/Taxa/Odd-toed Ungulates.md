@@ -12,7 +12,7 @@ tags:
 > [!summary] Odd-toed Ungulates
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ungulates|Ungulates]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ungulates|Ungulates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Equidae|Equidae]] c. BT 451
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Rhino|Rhino]] c. BT 451

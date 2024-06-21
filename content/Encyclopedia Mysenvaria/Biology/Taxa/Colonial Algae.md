@@ -13,7 +13,7 @@ tags:
 > [!summary] Colonial Algae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Algae|Algae]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Algae|Algae]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Sea Lettuce|Sea Lettuce]] c. BT 511
 > > [[Encyclopedia Mysenvaria/Biology/Species/Sphere Algae|Sphere Algae]] c. BT 511

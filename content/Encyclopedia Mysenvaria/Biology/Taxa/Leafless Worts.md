@@ -13,7 +13,7 @@ tags:
 > [!summary] Leafless Worts
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worts|Worts]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Worts|Worts]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Eastern Mosswort|Eastern Mosswort]] c. BT 505
 > > [[Encyclopedia Mysenvaria/Biology/Species/Western Mosswort|Western Mosswort]] c. BT 505

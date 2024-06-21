@@ -13,7 +13,7 @@ tags:
 > [!summary] Pigmy Giraffe
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Giraffe|Giraffe]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Giraffe|Giraffe]]
 >
 > > [!info] Creation Date
 > > c. BT 449

@@ -13,7 +13,7 @@ tags:
 > [!summary] Equidae
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Odd-toed Ungulates|Odd-toed Ungulates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Wild Horse|Wild Horse]] c. BT 451
 > > [[Encyclopedia Mysenvaria/Biology/Species/Donkey|Donkey]] c. BT 451

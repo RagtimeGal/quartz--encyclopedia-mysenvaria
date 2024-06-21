@@ -13,7 +13,7 @@ tags:
 > [!summary] Leafy Liverwort
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaved Worts|Leaved Worts]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Leaved Worts|Leaved Worts]]
 >
 > > [!info] Creation Date
 > > c. BT 504

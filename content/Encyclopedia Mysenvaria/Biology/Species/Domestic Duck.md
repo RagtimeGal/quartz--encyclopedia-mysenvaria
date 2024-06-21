@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Duck
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Waterfowl|Waterfowl]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Waterfowl|Waterfowl]]
 >
 > > [!info] Creation Date
 > > c. BT 441

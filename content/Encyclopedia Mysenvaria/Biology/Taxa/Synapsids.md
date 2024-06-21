@@ -12,7 +12,7 @@ tags:
 > [!summary] Synapsids
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]] c. BT 475
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]] c. BT 462

@@ -13,7 +13,7 @@ tags:
 > [!summary] Shield Whale
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|Whales]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|Whales]]
 >
 > > [!info] Creation Date
 > > c. BT 442

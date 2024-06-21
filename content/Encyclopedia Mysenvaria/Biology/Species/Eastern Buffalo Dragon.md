@@ -13,7 +13,7 @@ tags:
 > [!summary] Eastern Buffalo Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Horned Dragon|Horned Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Horned Dragon|Horned Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 438

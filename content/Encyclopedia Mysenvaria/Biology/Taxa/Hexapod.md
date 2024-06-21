@@ -12,7 +12,7 @@ tags:
 > [!summary] Hexapod
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]] c. BT 496
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]] c. BT 485

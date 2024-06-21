@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Ferret
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mustiforms|Mustiforms]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mustiforms|Mustiforms]]
 >
 > > [!info] Creation Date
 > > c. BT 439

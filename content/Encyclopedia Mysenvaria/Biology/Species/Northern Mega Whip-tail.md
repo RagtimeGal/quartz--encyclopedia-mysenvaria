@@ -13,7 +13,7 @@ tags:
 > [!summary] Northern Mega Whip-tail
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whip-tailed Dragon|Whip-tailed Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Whip-tailed Dragon|Whip-tailed Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 438

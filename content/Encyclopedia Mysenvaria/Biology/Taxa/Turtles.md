@@ -13,7 +13,7 @@ tags:
 > [!summary] Turtles
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]]
 >
 > > [!info] Creation Date
 > > c. BT 469

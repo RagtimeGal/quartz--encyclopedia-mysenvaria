@@ -12,7 +12,7 @@ tags:
 > [!summary] Shroom
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fungus|Fungus]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Gill-less Shrooms|Gill-less Shrooms]] c. BT 479
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Gilled Shrooms|Gilled Shrooms]] c. BT 478

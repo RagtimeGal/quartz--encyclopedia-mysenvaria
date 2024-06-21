@@ -12,7 +12,7 @@ tags:
 > [!summary] Archosaurs
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Reptilia|Reptilia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Crocodylomorphs|Crocodylomorphs]] c. BT 467
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Dinosauria|Dinosauria]] c. BT 467

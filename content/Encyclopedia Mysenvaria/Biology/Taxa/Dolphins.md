@@ -13,7 +13,7 @@ tags:
 > [!summary] Dolphins
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cetacea|Cetacea]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cetacea|Cetacea]]
 >
 > > [!info] Creation Date
 > > c. BT 441

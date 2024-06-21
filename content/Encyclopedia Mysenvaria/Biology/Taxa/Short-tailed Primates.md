@@ -13,7 +13,7 @@ tags:
 > [!summary] Short-tailed Primates
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Human|Human]] c. BT 442
 >

@@ -13,7 +13,7 @@ tags:
 > [!summary] Date Palm
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arboreal|Arboreal]]
 >
 > > [!info] Creation Date
 > > c. BT 451

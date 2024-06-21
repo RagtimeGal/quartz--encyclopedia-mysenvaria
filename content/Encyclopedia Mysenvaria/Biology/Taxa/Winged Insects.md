@@ -12,7 +12,7 @@ tags:
 > [!summary] Winged Insects
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]] c. BT 485
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Incomplete-metamorphosing Insects|Incomplete-metamorphosing Insects]] c. BT 483

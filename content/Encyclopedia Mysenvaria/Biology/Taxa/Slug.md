@@ -13,7 +13,7 @@ tags:
 > [!summary] Slug
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Gastropod|Gastropod]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Gastropod|Gastropod]]
 >
 > > [!info] Creation Date
 > > c. BT 498

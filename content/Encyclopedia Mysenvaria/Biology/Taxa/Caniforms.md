@@ -12,7 +12,7 @@ tags:
 > [!summary] Caniforms
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Carnivora|Carnivora]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Canids|Canids]] c. BT 453
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]] c. BT 452

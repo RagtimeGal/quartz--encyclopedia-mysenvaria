@@ -12,7 +12,7 @@ tags:
 > [!summary] Mammalia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial|Marsupial]] c. BT 460
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]] c. BT 459

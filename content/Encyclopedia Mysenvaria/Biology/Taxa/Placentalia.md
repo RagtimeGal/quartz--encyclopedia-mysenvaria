@@ -12,7 +12,7 @@ tags:
 > [!summary] Placentalia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Mammalia|Mammalia]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]] c. BT 459
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Shrews|Shrews]] c. BT 459

@@ -8,12 +8,11 @@ tags:
 > [!summary] Animal
 > > [!info] Relation
 > > ### Succeeds
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Laboratorius|Laboratorius]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Seminifer|Seminifer]]
 > > ### Supersedes
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fish|Fish]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Synapsids|Synapsids]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vermin|Vermin]] c. BT 498
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Arthropods|Arthropods]] c. BT 497
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]] c. BT 497
 
 Animals are defined by [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Criterial Classification|tri-criterial classification]] as any [[Encyclopedia Mysenvaria/Biology/Organisms|organism]] which is capable of powered locomotion, or according to [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Evolutionary Classification|evolutionary classification]] as any second generation laboratorius organism conceptually evolved from the idea of a [[Encyclopedia Mysenvaria/Biology/Plant|plant]] which can autonomously move or spread its influence by means other than growth. By either of these definitions 'animal' is an umbrella term which includes a great deal of organisms.
 

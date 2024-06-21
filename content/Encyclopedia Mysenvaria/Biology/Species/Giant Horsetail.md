@@ -13,7 +13,7 @@ tags:
 > [!summary] Giant Horsetail
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fern|Fern]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Fern|Fern]]
 >
 > > [!info] Creation Date
 > > c. BT 483

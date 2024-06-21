@@ -18,7 +18,7 @@ tags:
 > > ### Succeeds:
 > > {{ predecessor }}{% endif %}{% if successors %}
 > > ### Supersedes {% for successor in successors %}
-> > {% if successor.generate != false %}{% if successor.link %}{{ successor.link }} c. BT {{ successor.date }}{% else %}{% if successor.tags == "species" %}[[Encyclopedia Mysenvaria/Biology/Species/{{ successor.name }}|{{ successor.name }}]] c. BT {{ successor.date }}{% else %}[[Encyclopedia Mysenvaria/Biology/Taxa/{{ successor.name }}|{{ successor.name }}]] c. BT {{ successor.date }}{% endif %}{% endif %}{% else %}{{ successor.name }} c. BT {{ successor.date }}{% endif %}{% endfor %}{% endif %}
+> > {% if successor.generate != false %}{% if successor.link %}{{ successor.link }} c. BT {{ successor.date }}{% else %}{% if successor.tags == "species" %}[[Encyclopedia Mysenvaria/Biology/Species/{{ successor.name }}|{{ successor.name }}]] c. BT {{ successor.date }}{% else %}[[Encyclopedia Mysenvaria/Biology/Taxa/{{ successor.name }}|{{ successor.name }}]] c. BT {{ successor.date }}{% endif %}{% endif %}{% else %}{{ successor.name }} c. BT {{ successor.date }}; {{ successor.body }}{% endif %}{% endfor %}{% endif %}
 >
 > > [!info] Creation Date
 > > c. BT {{ date }}

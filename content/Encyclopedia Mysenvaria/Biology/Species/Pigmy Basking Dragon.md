@@ -13,7 +13,7 @@ tags:
 > [!summary] Pigmy Basking Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bulldog Dragon|Bulldog Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Bulldog Dragon|Bulldog Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 437

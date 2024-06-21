@@ -13,7 +13,7 @@ tags:
 > [!summary] Sea Lettuce
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Algae|Colonial Algae]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Colonial Algae|Colonial Algae]]
 >
 > > [!info] Creation Date
 > > c. BT 511

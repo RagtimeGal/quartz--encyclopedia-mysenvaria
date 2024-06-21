@@ -12,7 +12,7 @@ tags:
 > [!summary] Beetles
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Weevil|Weevil]] c. BT 483
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Longhorn Beetles|Longhorn Beetles]] c. BT 483

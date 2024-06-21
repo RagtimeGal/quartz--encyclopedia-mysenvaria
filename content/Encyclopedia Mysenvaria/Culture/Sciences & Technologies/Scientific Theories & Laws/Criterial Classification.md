@@ -31,7 +31,7 @@ Tri-criterial classification organizes organisms into groups based off of their
     - Serpents, organisms which use no limbs for locomotion.
 ## [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Tri-Criterial Niches|Niche]]
 - Expansionists, organisms which originally served to autonomously expand territory.
-- Defenders, organisms which originally served to autonomously protect territory.
+- Defenders, organisms which originally served to autonomously defend territory.
 - Offenders, organisms which originally served to autonomously attack territory.
 - Scouts, organisms which originally served to gauge the safety of a territory.
 - Disruptors, organisms which originally snuck into opposing territories as agents of chaos.

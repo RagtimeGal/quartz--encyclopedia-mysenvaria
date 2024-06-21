@@ -12,7 +12,7 @@ tags:
 > [!summary] Wingless Insects
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Hexapod|Hexapod]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Mites|Mites]] c. BT 496
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Myriapod|Myriapod]] c. BT 496

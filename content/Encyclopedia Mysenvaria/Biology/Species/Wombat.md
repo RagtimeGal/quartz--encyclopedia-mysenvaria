@@ -13,7 +13,7 @@ tags:
 > [!summary] Wombat
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Bears|Marsupial Bears]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Bears|Marsupial Bears]]
 >
 > > [!info] Creation Date
 > > c. BT 458

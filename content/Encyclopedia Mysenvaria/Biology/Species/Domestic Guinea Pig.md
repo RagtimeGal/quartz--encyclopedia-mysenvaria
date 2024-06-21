@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Guinea Pig
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Rodents|Rodents]]
 >
 > > [!info] Creation Date
 > > c. BT 440

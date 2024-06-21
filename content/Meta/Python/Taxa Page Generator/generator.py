@@ -52,9 +52,9 @@ def process_entry(entry, template, output_dir, all_entries, root_ancestors, pred
     # Ensure 'link' is always present in data
     if 'link' not in data:
         if data['tags'] == "species":
-            data['link'] = f"[[Encyclopedia Mysenvaria/Biology/Species/{data['name']}|{data['name']}]"
+            data['link'] = f"[[Encyclopedia Mysenvaria/Biology/Species/{data['name']}|{data['name']}]]"
         else:
-            data['link'] = f"[[Encyclopedia Mysenvaria/Biology/Taxa/{data['name']}|{data['name']}]"
+            data['link'] = f"[[Encyclopedia Mysenvaria/Biology/Taxa/{data['name']}|{data['name']}]]"
 
     # Determine the predecessor link
     if not predecessor_link:

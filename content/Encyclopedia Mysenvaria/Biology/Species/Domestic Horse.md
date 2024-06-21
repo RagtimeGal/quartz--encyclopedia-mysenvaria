@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Horse
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Equidae|Equidae]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Equidae|Equidae]]
 >
 > > [!info] Creation Date
 > > c. BT 451

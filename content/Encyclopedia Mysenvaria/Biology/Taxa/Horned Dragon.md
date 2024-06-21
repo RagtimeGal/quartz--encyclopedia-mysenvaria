@@ -13,7 +13,7 @@ tags:
 > [!summary] Horned Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Archipelago Horseshoe Dragon|Archipelago Horseshoe Dragon]] c. BT 438
 > > [[Encyclopedia Mysenvaria/Biology/Species/Eastern Buffalo Dragon|Eastern Buffalo Dragon]] c. BT 438

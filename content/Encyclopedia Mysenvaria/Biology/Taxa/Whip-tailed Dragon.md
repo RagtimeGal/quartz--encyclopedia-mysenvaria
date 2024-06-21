@@ -13,7 +13,7 @@ tags:
 > [!summary] Whip-tailed Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Dragon|Dragon]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Eastern Whip-tail|Eastern Whip-tail]] c. BT 438
 > > [[Encyclopedia Mysenvaria/Biology/Species/Northern Mega Whip-tail|Northern Mega Whip-tail]] c. BT 438

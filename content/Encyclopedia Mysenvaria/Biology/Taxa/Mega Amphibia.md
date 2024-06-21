@@ -13,7 +13,7 @@ tags:
 > [!summary] Mega Amphibia
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Amphibia|Amphibia]]
 >
 > > [!info] Creation Date
 > > c. BT 486

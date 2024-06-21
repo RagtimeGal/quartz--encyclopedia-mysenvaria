@@ -12,7 +12,7 @@ tags:
 > [!summary] Incomplete-metamorphosing Insects
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/True Flies|True Flies]] c. BT 483
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Flatbugs|Flatbugs]] c. BT 483

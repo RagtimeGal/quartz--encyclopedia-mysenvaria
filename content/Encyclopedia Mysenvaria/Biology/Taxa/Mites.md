@@ -13,7 +13,7 @@ tags:
 > [!summary] Mites
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Wingless Insects|Wingless Insects]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Species/Common Flea|Common Flea]] c. BT 496
 > > [[Encyclopedia Mysenvaria/Biology/Species/Coastal Avian Flea|Coastal Avian Flea]] c. BT 496

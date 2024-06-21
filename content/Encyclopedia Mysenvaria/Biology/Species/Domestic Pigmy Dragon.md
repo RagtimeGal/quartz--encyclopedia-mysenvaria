@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Pigmy Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Pigmy Dragon|Pigmy Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 439

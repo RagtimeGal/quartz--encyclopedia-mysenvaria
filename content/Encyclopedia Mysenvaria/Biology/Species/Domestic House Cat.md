@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic House Cat
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Feliforms|Feliforms]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Feliforms|Feliforms]]
 >
 > > [!info] Creation Date
 > > c. BT 440

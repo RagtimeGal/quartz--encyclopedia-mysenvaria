@@ -13,7 +13,7 @@ tags:
 > [!summary] Mask Bear
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Ursus|Ursus]]
 >
 > > [!info] Creation Date
 > > c. BT 452

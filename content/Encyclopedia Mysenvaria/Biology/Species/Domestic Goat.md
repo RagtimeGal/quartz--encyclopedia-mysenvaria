@@ -13,7 +13,7 @@ tags:
 > [!summary] Domestic Goat
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cattle|Cattle]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Cattle|Cattle]]
 >
 > > [!info] Creation Date
 > > c. BT 442

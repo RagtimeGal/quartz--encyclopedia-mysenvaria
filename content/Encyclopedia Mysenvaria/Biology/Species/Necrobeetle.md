@@ -13,7 +13,7 @@ tags:
 > [!summary] Necrobeetle
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Longhorn Beetles|Longhorn Beetles]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Longhorn Beetles|Longhorn Beetles]]
 >
 > > [!info] Creation Date
 > > c. BT 426

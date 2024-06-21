@@ -13,7 +13,7 @@ tags:
 > [!summary] Opposum
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Shrews|Marsupial Shrews]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Marsupial Shrews|Marsupial Shrews]]
 >
 > > [!info] Creation Date
 > > c. BT 454

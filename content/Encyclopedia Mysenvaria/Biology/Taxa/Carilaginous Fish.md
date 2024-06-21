@@ -12,7 +12,7 @@ tags:
 > [!summary] Carilaginous Fish
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Rays|Rays]] c. BT 495
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Sharks|Sharks]] c. BT 492

@@ -13,7 +13,7 @@ tags:
 > [!summary] Lesser Red Dragon
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Devil Dragon|Devil Dragon]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Devil Dragon|Devil Dragon]]
 >
 > > [!info] Creation Date
 > > c. BT 438

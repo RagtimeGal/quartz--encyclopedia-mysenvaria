@@ -13,7 +13,7 @@ tags:
 > [!summary] Flies
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Metamorphosing Insects|Metamorphosing Insects]]
 >
 > > [!info] Creation Date
 > > c. BT 485
