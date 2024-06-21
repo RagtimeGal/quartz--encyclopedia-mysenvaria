@@ -1,19 +1,13 @@
 ---
-name: Feature request
-about: Suggest an idea or improvement for Quartz
+name: Enhancement
+about: Suggest text or a feature to be added to the encyclopedia.
 title: ""
 labels: enhancement
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Is the enhancement for a single page, multiple pages, or the global encyclopedia?**
+Does this request have to do with page(s) that already exist? Is it a general feature for the entirety of the encyclopedia?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**What's the request?**
+What are you requesting? Describe the feature or text and why you would like it, how would it improve the encyclopedia!

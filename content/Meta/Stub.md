@@ -1,5 +1,5 @@
 ---
-title: Meta
+title: Stubs
 enableToc: true
 tags:
   - meta
