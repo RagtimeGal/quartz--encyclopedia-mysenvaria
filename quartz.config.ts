@@ -52,7 +52,6 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting(),
       Plugin.Description(),
-      Plugin.Stub({ repoURL: "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
