@@ -6,7 +6,7 @@ tags:
   - stub
 ---
 
-Atmospheric circulation is the processes by which the atmosphere of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] circulates air from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] or [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]]. Understanding these processes are vital to research into weather and climate and is the primary focus of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Meteorology|meteorological]] studies.
+Atmospheric circulation is the processes by which air in the atmosphere of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] moves from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] or [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]]. Understanding these processes are vital to research into weather and climate and is the primary focus of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Meteorology|meteorological]] studies.
 
 Atmospheric circulation differs slightly from year-to-year and even month-to-month as the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] moves farther or closer to the surface of the Plane. Not only this, but the interactions between bands of wind in the atmosphere can be chaotic. Because of this, properly modelling the exact movements and interactions of the whole atmosphere are impossible.
 
@@ -26,7 +26,7 @@ On the contrary sometime between its summer extreme and winter extreme the Treat
 # See Also
 - [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Ocean Circulation|Ocean Circulation]]
 
-[^figure1]: Figure one: Pictures a model of the harmony line, inner and outer ring, north pole and the edge.
-[^figure2]: Figure two: Pictures a model of atmospheric cells.
-[^clockwise]: Clockwise
+[^figure1]: ![[Meta/Images/Maps/Pixelart/world_diagram.png]]
+[^figure2]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]
+[^clockwise]: Counterclockwise
 [^figure3]: Figure three: Pictures a model of the Treaties axial tilt and the effects it has on atmospheric circulation.

@@ -6,9 +6,8 @@ tags:
 - stub
 ---
 
-> [!note]
-> This page is a stub and is thus missing information which can be added.
-
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 Pneumomagiosis, also called Mage's or Wizard's Lung Disease, is a dangerous illness most commonly affecting [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|wizards]] and [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Mage|mages]]. It is caused by inhalation of fine particles of materials that are high in concentrated magic, often in the form of [[Mythril|mythril dust]] or fine [[God Part|God parts]]. The disease has many side effects, with some of the worst including [[Encyclopedia Mysenvaria/Biology/Disease/Wild Magic|wild magic]] and [[Encyclopedia Mysenvaria/Biology/Disease/Spell Malfunction|spell malfunction]].
 

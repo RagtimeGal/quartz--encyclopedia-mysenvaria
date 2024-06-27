@@ -1,9 +1,10 @@
 ---
-title: New Inner Rainciv Astronomy Council
+title: Ocean
 enableToc: true
 tags:
-- culture/organization
-- stub
+  - geography/natural
+  - stub/template
+draft: true
 ---
 
 > [!note] Stub
@@ -13,12 +14,15 @@ tags:
 
 > [!note]
 > Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
-
-
 # History
 
-# Practices
+# Geography
 
-# Influence
+# Geology
 
-# Notable Figures
+# Ecology & Climate
+
+# Cultural Significance
+
+# See also
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/Lists of Natural Features|Lists of Natural Features]]

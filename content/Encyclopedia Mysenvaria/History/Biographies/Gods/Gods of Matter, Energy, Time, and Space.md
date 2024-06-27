@@ -4,9 +4,10 @@ enableToc: true
 tags:
 - history/biography
 - god/higher-god
-
-Incomplete Page: Missing writing from the History section regarding post-war information.
 ---
+
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] of Matter, Energy, Time, and Space, also sometimes referred to as the creation quadrinity, were the first higher-Gods to be created, born from [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Natural Subdivision|natural subdivision]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Life and Death|Gods of Life and Death]]. The creation quadrinity are among the most powerful Gods but often choose to stay out of conflict, sometimes leading to them being called negligent or uncaring. Like other Gods of similar nature the quadrinity often act together in sync and as one.
 # History
@@ -17,7 +18,7 @@ The creation of these lesser-Gods would spark the [[Encyclopedia Mysenvaria/Hist
 
 In 337bt Time and Space would call for the [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|Fourth God Council]] due to ongoing mortal-God relations. Time and Space would force the other Gods to sign the [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]] into law stripping Gods of their ability to feel for mortals and ending the [[Encyclopedia Mysenvaria/History/God-War Era/Lover's Period|Lover's Period]].
 
-Following the actions taken by Time and Space in 321bt the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water|God of Water]] would be summoned infront of Matter during a small council between the Gods of Elements and Gods of Compounds. Water would be made to answer for their actions regarding the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]] during this meeting resulting in the writing, signing, and passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Elemental Act|Elemental Act]], restricting the rights of the Elemental and Compound Gods.
+Following the actions taken by Time and Space in 321bt the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water|God of Water]] would be summoned in front of Matter during a small council between the Gods of Elements and Gods of Compounds. Water would be made to answer for their actions regarding the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]] during this meeting resulting in the writing, signing, and passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Elemental Act|Elemental Act]], restricting the rights of the Elemental and Compound Gods.
 
 In 161bt a disagreement between Matter and Time documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Effigy Star|Effigy Star]] would lead to the creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago|Eastern Archipelago]]. By 118bt another disagreement, this time between Time and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium|God of Plutonium]], would erupt and result in the creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape|Southern Crater Scape]]. These events would mark the latter end of the God-War.
 

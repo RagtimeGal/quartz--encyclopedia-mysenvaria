@@ -4,9 +4,10 @@ enableToc: true
 tags:
 - history/biography
 - god/higher-god
-
-Incomplete Page: Missing parts of the History section.
 ---
+
+> [!note] Stub
+> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] of Life and Death, also sometimes referred to as the fog, are the two oldest and most powerful Gods. Life and Death preside over the natural divisions of life and death; since everything lives and everything dies the duo are considered the most powerful of the Gods.
 

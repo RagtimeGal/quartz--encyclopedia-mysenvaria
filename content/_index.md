@@ -30,7 +30,7 @@ Culture is the customs, activities, and makings of societies, not the societies 
 - [[Encyclopedia Mysenvaria/Culture/Topics/Organizations|Organizations]], groups of people with clear organized structure that work for common goal;
 - And [[Encyclopedia Mysenvaria/Culture/Topics/Science & Technology|science & technology]], organized research and development which further knowledge or society.
 ## [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
-Geography encompasses everything related to the physicality of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|world]]. Mountains, lakes, rivers, nations, cities, roads, and more are all classified, documented, and organized under geography.
+Geography encompasses everything related to the physicality of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Mountains, lakes, rivers, nations, cities, roads, and more are all classified, documented, and organized under geography.
 - [[Encyclopedia Mysenvaria/Geography/Topics/Abstract Features|Abstract Features]], non-physical geographical features and includes national borders;
 - [[Encyclopedia Mysenvaria/Geography/Topics/Artificial Features|Artificial Features]], created geographical features, like settlements or monuments;
 - [[Encyclopedia Mysenvaria/Geography/Topics/Natural Features|Natural Features]], naturally formed geographical features, like mountains and rivers;
