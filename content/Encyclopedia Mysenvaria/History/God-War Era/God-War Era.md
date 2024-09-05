@@ -65,3 +65,33 @@ Another disagreement would break out around 118bt, this time between the [[Encyc
 In 37bt votes to end the war would nearly become a majority when Charles Lightningson created the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Tear|Great Tear]] in a territorial dispute with human [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|wizards]] in the south. The tear would indirectly cause the death of First Elven Elder and Sodium Ethyl Xanthate alongside other minor Gods and people. In their dying moments Sodium Ethyl Xanthate would create the [[Encyclopedia Mysenvaria/Geography/Stars/Plea Star|Plea Star]] asking for the end of the war.
 
 The actions of Sodium Ethyl Xanthate would cause debate amongst Gods and lead to the creation of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Ending Star System|Ending Star System]]. 37 years later in 0bt the [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Seventh Council|Seventh God Council]] would be held by Life and Death and a majority vote would end the war and create the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]].
+# Timeline
+- 690bt: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space Created]] by [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Life and Death|Gods of Life and Death]]
+- 653bt: [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening Begins]]
+- 651bt: [[Encyclopedia Mysenvaria/History/God-War Era/First Death of a God|First God Dies]], start of the era
+- 650bt: [[Encyclopedia Mysenvaria/History/God-War Era/The First Convening|The First Convening Held]]
+- 587bt: [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater|Great Oceanic Crater Created]]
+- 527bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#First Council|First God Council Held]]
+- 523bt: [[Encyclopedia Mysenvaria/Biology/Plant|Plants Invented]]
+- 442bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|Humanity Invented]]
+- 440bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Second Council|Second God Council Held]]
+- 426bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|Dwarves Created]]
+- 421bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Elf|Elves Created]]
+- 419bt: [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Founding of Sextown]]
+- 404bt: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics Slain]]
+- 388bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Demi-God|First Demi-God Born]], [[Encyclopedia Mysenvaria/History/Biographies/Josh Soundson|Josh Soundson]]
+- 386bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Third Council|Third God Council Held]]
+- 337bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fourth Council|Fourth God Council Held]]
+- 336bt: [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Beginning of the Great Flood]]
+- 321bt: [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Ending of the Great Flood]]
+- 306bt: [[Encyclopedia Mysenvaria/History/Biographies/First Elven Elder|First Elven Elder Rooted]]
+- 286bt: [[Encyclopedia Mysenvaria/Geography/Natural Features/Northern Mountains|Northern Mountains Created]]
+- 273bt: [[Encyclopedia Mysenvaria/Biology/Sophonts/Womb-God|First Womb-God Born]], [[Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson|First Womb-God]]
+- 272bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fifth Council|Fifth God Council Held]]
+- 161bt: [[Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago|Eastern Archipelago Created]]
+- 118bt: [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape|Southern Crater Scape Created]]
+- 69bt: [[Encyclopedia Mysenvaria/History/Biographies/Josh Soundson|First Demi-God Dies]]
+- 65bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Sixth Council|Sixth God Council Held]]
+- 37bt: [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Tear|Great Tear Created]]
+- 37bt: [[Encyclopedia Mysenvaria/History/Biographies/First Elven Elder|First Elven Elder Passes]]
+- 0bt: [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty Signed]]
