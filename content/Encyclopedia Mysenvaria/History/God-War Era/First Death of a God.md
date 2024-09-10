@@ -11,9 +11,7 @@ tags:
 
 # Overview
 
-# Prelude
-
-# Events 
+# [](Meta/Stubs.md)
 > [!note]
 > Add headers or sub-headers as necessary to explain the history of the event.
 

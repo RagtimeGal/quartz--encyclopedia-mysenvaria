@@ -12,9 +12,7 @@ tags:
 
 # History
 
-# Classification
-
-# Cause
+# [](Meta/Stubs.md)Cause
 
 # Prevention
 

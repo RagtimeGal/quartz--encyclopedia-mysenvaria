@@ -11,7 +11,5 @@ tags:
 
 
 
-# Ethnic Groups
-
-# Cultural Groups
+# Ethnic Gro[](Meta/Stubs.md)oups
 

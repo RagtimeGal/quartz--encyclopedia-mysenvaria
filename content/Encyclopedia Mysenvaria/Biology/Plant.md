@@ -10,8 +10,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-> [!summary] Plant
-> > [!info] Relation
+> [!summary] [](Meta/Stubs.md)Relation
 > > ### Supersedes
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Algae|Algae]] c. BT 512
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Worts|Worts]] c. BT 503

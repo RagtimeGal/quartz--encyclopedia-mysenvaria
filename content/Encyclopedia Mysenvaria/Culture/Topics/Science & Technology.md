@@ -13,8 +13,6 @@ tags:
 
 # History
 
-# Branches
-
-# Processes
+#[](Meta/Stubs.md)sses
 
 # Philosophy

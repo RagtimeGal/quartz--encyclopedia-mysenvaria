@@ -1,4 +1,4 @@
----
+[](Meta/Stubs.md)---
 title: Hornerian Classification
 enableToc: true
 tags:

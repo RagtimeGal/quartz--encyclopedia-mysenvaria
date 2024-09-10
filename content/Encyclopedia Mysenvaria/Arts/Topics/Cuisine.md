@@ -13,9 +13,7 @@ tags:
 
 # Overview
 
-# History
-
-# Forms
+[](Meta/Stubs.md)
 
 # Purpose
 

@@ -11,7 +11,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] of Material States are a group of four Gods created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter and Energy]] to control the material states of matter, those being solids, liquids, gasses, and plasma.
+The [[Encyc[](Meta/Stubs%20and.md)/Biology/Sophonts/Gods|Gods]] of Material States are a group of four Gods created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter and Energy]] to control the material states of matter, those being solids, liquids, gasses, and plasma.
 # History
 
 # Appearances

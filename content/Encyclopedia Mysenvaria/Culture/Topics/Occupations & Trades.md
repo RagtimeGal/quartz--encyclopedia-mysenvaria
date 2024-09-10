@@ -13,6 +13,4 @@ tags:
 
 # History
 
-# Workers
-
-# In Society
+#[](Meta/Stubs.md)iety

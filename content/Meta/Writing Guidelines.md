@@ -1,5 +1,5 @@
 ---
-title: Stubs
+title: Writing Guidelines
 enableToc: true
 tags:
   - meta

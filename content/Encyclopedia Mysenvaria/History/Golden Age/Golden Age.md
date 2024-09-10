@@ -1,4 +1,4 @@
----
+[](Meta/Stubs.md)---
 title: Golden Age
 enableToc: true
 tags:

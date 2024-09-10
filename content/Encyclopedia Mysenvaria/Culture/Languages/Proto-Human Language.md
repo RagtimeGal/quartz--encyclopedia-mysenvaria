@@ -11,7 +11,7 @@ tags:
 
 
 
-Proto-Human is the reconstructed common ancestor of all [[Encyclopedia Mysenvaria/Indexes/Culture/List of Human Languages|Human languages]]. There is no written record of Proto-Human; all of its features are proposed based off of inherited features in all Human languages through the process of the comparative method and internal reconstruction, among other methods.
+Proto-Hum[](Meta/Stubs.md)ucted common ancestor of all [[Encyclopedia Mysenvaria/Indexes/Culture/List of Human Languages|Human languages]]. There is no written record of Proto-Human; all of its features are proposed based off of inherited features in all Human languages through the process of the comparative method and internal reconstruction, among other methods.
 
 Proto-Human is believed to have been spoken between __ and __ during the beginnings of [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humanity]]. Evidence from certain irregular forms that controversially points to Proto-Human predating humanity by approximately __-__ years; however, what predates Proto-Human beyond this point is generally uncertain, with many proposing [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]] as an ancestor.
 

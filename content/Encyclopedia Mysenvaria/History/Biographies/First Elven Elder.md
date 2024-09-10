@@ -10,9 +10,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-# Early Life & Education
-
-# Career
+# Early Lif[](Meta/Stubs.md) Career
 
 > [!note]
 > Career, Personal Life, and Death may be completely forgone in favor of a different way of organizing the page, for instance in order of important events through their life.

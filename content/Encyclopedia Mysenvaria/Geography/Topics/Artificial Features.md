@@ -1,4 +1,4 @@
----
+[](Meta/Stubs.md)---
 title: Artifical Features
 enableToc: true
 tags:

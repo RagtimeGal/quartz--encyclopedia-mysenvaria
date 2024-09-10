@@ -11,8 +11,4 @@ tags:
 
 
 
-# Philosophy
-
-# Religion
-
-# Conspiracies
+# Philosophy[](Meta/Stubs.md)nspiracies

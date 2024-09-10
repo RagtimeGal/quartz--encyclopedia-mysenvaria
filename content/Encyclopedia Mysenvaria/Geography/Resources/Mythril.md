@@ -12,8 +12,7 @@ tags:
 
 # Etymology
 
-> [!note]
-> Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
+[](Meta/Stubs.md)ogy is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
 
 # History
 

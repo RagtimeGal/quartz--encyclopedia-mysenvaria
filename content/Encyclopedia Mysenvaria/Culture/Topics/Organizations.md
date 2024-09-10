@@ -13,8 +13,6 @@ tags:
 
 # Types
 
-# Structures
-
-# Theories
+# S[](Meta/Stubs.md)ies
 
 # Leaderships

@@ -1,4 +1,4 @@
----
+[](Meta/Stubs.md)---
 title: Modern Era
 enableToc: true
 tags:

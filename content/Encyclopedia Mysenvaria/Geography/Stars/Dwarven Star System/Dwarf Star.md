@@ -11,7 +11,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-The Dwarf Star is the host star of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Dwarven Star System|Dwarven Star System]]. The star was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide|God of Carbon Dioxide]] in regards to the ethicality and legality of the creation of [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|dwarves]] by [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humans]]. Fearing that this creation may be a violation of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]], passed 12 years prior to the events.
+The Dwarf S[](Meta/Stubs.md)ar of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Dwarven Star System|Dwarven Star System]]. The star was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide|God of Carbon Dioxide]] in regards to the ethicality and legality of the creation of [[Encyclopedia Mysenvaria/Biology/Sophonts/Dwarf|dwarves]] by [[Encyclopedia Mysenvaria/Biology/Sophonts/Human|humans]]. Fearing that this creation may be a violation of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]], passed 12 years prior to the events.
 # Etymology
 
 > [!note]

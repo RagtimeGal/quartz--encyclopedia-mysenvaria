@@ -13,6 +13,4 @@ tags:
 
 # Economy
 
-# Capital
-
-# Processing
+#[](Meta/Stubs.md)sing

@@ -11,7 +11,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-> [!summary] Short-tailed Primates
+> [!summary[](Meta/Stubs.md)mates
 > > [!info] Relation
 > > ### Succeeds:
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Primates|Primates]]

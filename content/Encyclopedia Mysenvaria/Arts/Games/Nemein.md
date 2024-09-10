@@ -10,7 +10,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-Nemein is a strategy board game which uses national currencies as the pieces of the game. It is a game which has permeated nearly all of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|southern]] [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] cultures.
+Nemein is a s[](Meta/Stubs.md) which uses national currencies as the pieces of the game. It is a game which has permeated nearly all of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|southern]] [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] cultures.
 # History
 The origins of Nemein are lost to time, but current theories suggest it originated early in the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. Anthropologists and historian [[Encyclopedia Mysenvaria/History/Biographies/Dian Fossey|Dian Fossey]] has posed that the game may trace its earliest origin to [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics]]. Many folk tales are told and have been passed down regarding the origins of the game, these tales often tell of Gods who would challenge mortals during the God-War or vice versa.
 

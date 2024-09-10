@@ -12,7 +12,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] of Kinetic and Potential Energy are two closely related Gods, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter and Energy]] to watch over Kinetic and Potential energy in matter. By [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Natural Subdivision|subdividing]] their domains Kinetic and Potential Energy would be responsible for the creation of nearly all the other [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|Gods of Energy Types]].
+The [[Encyc[](Meta/Stubs%20and.md)/Biology/Sophonts/Gods|Gods]] of Kinetic and Potential Energy are two closely related Gods, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter and Energy]] to watch over Kinetic and Potential energy in matter. By [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Natural Subdivision|subdividing]] their domains Kinetic and Potential Energy would be responsible for the creation of nearly all the other [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|Gods of Energy Types]].
 # History
 
 # Appearance

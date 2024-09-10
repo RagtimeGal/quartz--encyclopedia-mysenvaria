@@ -10,7 +10,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-> [!summary] Metamorphosing Insects
+> [!summary[](Meta/Stubs.md)nsects
 > > [!info] Relation
 > > ### Succeeds:
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Winged Insects|Winged Insects]]

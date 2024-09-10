@@ -13,7 +13,7 @@ draft: true
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-> [!summary] God of {compound_name}
+> [!summary] [](Meta/Stubs.md)ame}
 > > [!info] Creator(s)
 > > {link_to_elements}
 
