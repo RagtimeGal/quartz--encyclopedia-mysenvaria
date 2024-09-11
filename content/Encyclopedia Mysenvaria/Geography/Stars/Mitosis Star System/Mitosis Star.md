@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
 The Mitosis Star is the host [[Encyclopedia Mysenvaria/Geography/Topics/Stars|star]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Mitosis Star System|Mitosis Star System]]. Created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Peroxide|God of Hydrogen Peroxide]] the star documents their creation of basic [[Encyclopedia Mysenvaria/Biology/Animal|animal]] [[Encyclopedia Mysenvaria/Biology/Organisms|organisms]].

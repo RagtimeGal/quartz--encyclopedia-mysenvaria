@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 The Plane is the infinite and nearly-flat expanse which the known world resides upon. The exact vastness of the Plane is unknown, but it is presumed by many scholars to be infinite. 
 

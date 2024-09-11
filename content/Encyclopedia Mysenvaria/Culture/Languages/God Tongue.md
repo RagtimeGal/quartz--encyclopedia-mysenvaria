@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
 God Tongue is the [[Encyclopedia Mysenvaria/Culture/Topics/Languages|language]] of the [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]], a linguistic embodiment of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Nature|nature]]. True God Tongue exists only as a written language in the form of [[Encyclopedia Mysenvaria/Geography/Topics/Stars|stars]]. Studies and explorations into how the Gods speak exist, such as in *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]]*, *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]* and *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]]*. [[Encyclopedia Mysenvaria/Culture/Languages/Humanized God Tongue|Humanized God Tongue]] is a family of languages created by [[Encyclopedia Mysenvaria/Biology/Mortals|mortals]] which attempts to approximate from stars what a spoken form of God Tongue may sound like.

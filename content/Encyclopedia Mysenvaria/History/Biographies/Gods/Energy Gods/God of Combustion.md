@@ -9,7 +9,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
 The God of Combustion is a [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Perennial Classification|lesser]]-[[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|God]] created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chemical Energy|God of Chemical Energy]]. Created during the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], alongside the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Bond|God of Bond]], Combustion was [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Natural Subdivision|created]] to control a great deal of Chemical Energies territory, but despite this shares a deal of their power between Bonds and Chemical Energy.

@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
 The Plant Star System was created following the creation of the first [[Encyclopedia Mysenvaria/Biology/Organisms|organism]]. The host [[Encyclopedia Mysenvaria/Geography/Topics/Stars|star]], [[Encyclopedia Mysenvaria/Geography/Stars/Plant Star System/Hydrogen Cyanide's Plants|Hydrogen Cyanide's Plants]], created in 523bt, documents the creation of a simple [[Encyclopedia Mysenvaria/Biology/Taxa/Aseminifer|asexual]] species of [[Encyclopedia Mysenvaria/Biology/Plants/Fragmantative/Algae|algae]]-like [[Encyclopedia Mysenvaria/Biology/Plant|plant]] created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]]. It is used to mark the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]], a minor period of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]] which is notable for the creation of most organisms.

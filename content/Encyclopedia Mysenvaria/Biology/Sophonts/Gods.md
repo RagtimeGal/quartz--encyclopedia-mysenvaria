@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 Gods are beings of varying power and abilities, often primordial in their age and near-infinite in their wisdom. Gods have shifted and often forged history, their names and stories dotted across the sky in the form of [[Encyclopedia Mysenvaria/Geography/Topics/Stars|stars]]. 
 
