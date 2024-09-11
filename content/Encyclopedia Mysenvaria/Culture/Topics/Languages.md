@@ -13,7 +13,9 @@ tags:
 
 # Origin
 
-# [](Meta/Stubs.md)
+# Study
+
+# Diversity
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]

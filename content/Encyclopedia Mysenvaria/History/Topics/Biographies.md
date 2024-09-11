@@ -1,4 +1,4 @@
-[](Meta/Stubs.md)---
+---
 title: Biographies
 enableToc: true
 tags:

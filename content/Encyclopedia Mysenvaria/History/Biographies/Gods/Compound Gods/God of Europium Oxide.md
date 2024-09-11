@@ -12,7 +12,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-> [!summary] [](Meta/Stubs.md)ide
+> [!summary] God of Europium Oxide
 > > [!info] Creator(s)
 > > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Europium|God of Europium]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]], 
 

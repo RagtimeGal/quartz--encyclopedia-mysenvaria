@@ -11,7 +11,10 @@ tags:
 
 
 # History
-[](Meta/Stubs.md)# Consonants
+
+# Phonology
+
+## Consonants
 
 ## Vowels
 

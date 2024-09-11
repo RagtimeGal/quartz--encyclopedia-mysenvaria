@@ -11,7 +11,9 @@ tags:
 
 
 
-# Global Hol[](Meta/Stubs.md) Holidays
+# Global Holidays
+
+# Religious Holidays
 
 # Public Holidays
 

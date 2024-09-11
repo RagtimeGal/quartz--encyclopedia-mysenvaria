@@ -1,4 +1,4 @@
-[](Meta/Stubs.md)---
+---
 title: Gravity
 enableToc: true
 tags:

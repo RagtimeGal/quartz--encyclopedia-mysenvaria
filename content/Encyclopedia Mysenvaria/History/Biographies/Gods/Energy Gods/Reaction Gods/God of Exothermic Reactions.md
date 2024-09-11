@@ -15,7 +15,9 @@ tags:
 
 # History
 
-# [](Meta/Stubs.md)in
+# Appearance
+
+# Domain
 
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]

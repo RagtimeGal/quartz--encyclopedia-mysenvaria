@@ -3,7 +3,11 @@ title: Summoning of Carbon
 enableToc: true
 tags:
   - history/modern_era
+<<<<<<< HEAD
   - stub
+=======
+  - stub/template
+>>>>>>> parent of 16f1284 (Meta stuff)
 ---
 
 > [!note] Stub
@@ -11,7 +15,14 @@ tags:
 
 
 # Overview
+<<<<<<< HEAD
 [](Meta/Stubs.md)Events 
+=======
+
+# Prelude
+
+# Events 
+>>>>>>> parent of 16f1284 (Meta stuff)
 
 > [!note]
 > Add headers or sub-headers as necessary to explain the history of the event.

@@ -1,4 +1,4 @@
-[](Meta/Stubs.md)---
+---
 title: Event Template
 enableToc: true
 tags:

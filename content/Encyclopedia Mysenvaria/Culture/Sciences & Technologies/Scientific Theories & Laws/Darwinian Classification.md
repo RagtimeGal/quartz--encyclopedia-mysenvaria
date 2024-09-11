@@ -1,4 +1,4 @@
-[](Meta/Stubs.md)---
+---
 title: Darwinian Classification
 enableToc: true
 tags:

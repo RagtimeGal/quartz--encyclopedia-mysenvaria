@@ -13,7 +13,7 @@ draft: true
 
 
 > [!warning]
-[](Meta/Stubs.md)emplate. This block, and others like it in the page, should be removed. Tags, page name, TOC, and others should be modified as necessary.
+> This page is a Template. This block, and others like it in the page, should be removed. Tags, page name, TOC, and others should be modified as necessary.
 
 # Etymology
 

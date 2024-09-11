@@ -9,7 +9,7 @@ tags:
 > [!note] Stub
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-The Plane is t[](Meta/Stubs.md)arly-flat expanse which the known world resides upon. The exact vastness of the Plane is unknown, but it is presumed by many scholars to be infinite. 
+The Plane is the infinite and nearly-flat expanse which the known world resides upon. The exact vastness of the Plane is unknown, but it is presumed by many scholars to be infinite. 
 
 Although the Plane may be infinitely vast, only a small portion of it is actually habitable. This portion extends from the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] to around 8757.84km out, to what is known as the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]]. About halfway from the pole to the edge is the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]], an approximation of the average path the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] takes. From the harmony line to the pole is the area known as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Inner Circle|inner circle]], and outwards from the harmony line to the edge is the area known as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Outer Ring|outer ring]].[^figure1]
 

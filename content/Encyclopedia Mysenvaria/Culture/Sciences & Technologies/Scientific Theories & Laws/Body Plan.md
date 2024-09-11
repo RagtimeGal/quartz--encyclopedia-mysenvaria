@@ -12,7 +12,8 @@ tags:
 
 # History
 
-# [](Meta/Stubs.md)
+# Types
+## In Plants
 ## In Animals
 
 # See Also

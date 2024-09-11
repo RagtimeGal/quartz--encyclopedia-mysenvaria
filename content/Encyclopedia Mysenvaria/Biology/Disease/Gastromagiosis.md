@@ -11,7 +11,7 @@ tags:
 
 
 
-Gastromag[](Meta/Stubs.md) Brewer's Disease, is a dangerous illness most commonly found affecting [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor|doctors]]. It is caused by the ingestion of objects which are high in their concentrated nature, most typically [[God Part|God parts]]. The disease comes with many side effects, including [[Encyclopedia Mysenvaria/Biology/Disease/Wild Magic|wild magic]] and [[Encyclopedia Mysenvaria/Biology/Disease/Spell Malfunction|spell malfunction]].
+Gastromagiosis, also called Brewer's Disease, is a dangerous illness most commonly found affecting [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor|doctors]]. It is caused by the ingestion of objects which are high in their concentrated nature, most typically [[God Part|God parts]]. The disease comes with many side effects, including [[Encyclopedia Mysenvaria/Biology/Disease/Wild Magic|wild magic]] and [[Encyclopedia Mysenvaria/Biology/Disease/Spell Malfunction|spell malfunction]].
 
 # Etymology
 The anglicized name, Gastromagiosis, comes from the Greek gastro- meaning 'relating to the stomach', magi- '(art of) a magus', and English's -osis 'denoting a process or condition', culminating in the name Gastromagiosis.

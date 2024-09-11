@@ -10,7 +10,7 @@ tags:
 
 
 
-Astronomy[](Meta/Stubs.md)confused with [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Wizardry|wizardry]]. While many wizards may also practice astronomy it is a separate area of study. Astronomy involves the observation and interpretation of stars to create a better understanding of the [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue]]. 
+Astronomy is a study often confused with [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Wizardry|wizardry]]. While many wizards may also practice astronomy it is a separate area of study. Astronomy involves the observation and interpretation of stars to create a better understanding of the [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue]]. 
 
 To become an astronomer requires a keen eye and great understanding of the natural world, one that anyone can master with years of study and practice. Wizardry can sometimes play a role in easing the process of proper measurements. [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Wizardry#Written Magic|Enchantments]] can be used on astronomical tools to provide more accurate measurements and more recently have even been used to [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Technologies/Printing Press|print]] the proper measurements.
 

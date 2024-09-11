@@ -12,7 +12,7 @@ tags:
 > This page is a [[Meta/Stub|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-> [!summary] [](Meta/Stubs.md)osphide
+> [!summary] God of Hydrogen Phosphide
 > > [!info] Creator(s)
 > > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Phosphorus|God of Phosphorus]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]], 
 

@@ -12,6 +12,8 @@ tags:
 
 # History
 
-# [](Meta/Stubs.md) Carnivore
+# Avore
+# Consumer
+# Carnivore
 
 # See Also
