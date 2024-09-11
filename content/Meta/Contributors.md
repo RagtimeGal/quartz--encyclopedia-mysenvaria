@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Contributors
 enableToc: true
 tags:
   - meta
