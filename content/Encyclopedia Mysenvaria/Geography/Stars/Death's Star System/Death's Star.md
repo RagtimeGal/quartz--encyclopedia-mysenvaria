@@ -12,10 +12,6 @@ tags:
 
 
 Death's Star is the host [[Encyclopedia Mysenvaria/Geography/Topics/Stars|star]] of [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's Star System]]. Created by an unknown God the star documents their fight with and the ensuing death of another unknown God. The star marks the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]].
-# Etymology
-
-> [!note]
-> Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
 # History
 
 # Famous Translations

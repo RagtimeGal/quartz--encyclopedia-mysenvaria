@@ -18,15 +18,15 @@ Air at the harmony line is heated more than air at the pole or edge and this cau
 
 Air travelling towards the edge of the Plane becomes less dense as it fills more space, cooling quicker. On the inverse, air travelling towards the pole of the Plane becomes more dense as it fills less space, cooling slower. This causes a discrepancy between the number of atmospheric cells of the inner circle and outer ring. Headed towards the pole, in the inner circle, there are 3 cells of increasingly larger diameter. Headed towards the edge, in the outer ring, there are 4 cells of increasingly smaller diameter.[^figure2]
 # Starward Circulation
-Poleward circulation may account for the majority of atmospheric circulation, but there is another more minor effect that the Treaty has on the atmosphere. As previously mentioned the Treaty orbits eccentrically, but it also orbits with a 23° tilt off of its central rotational axis. This tilt changes throughout the year, with the lowest point in the summer months being at the furthest westward side of its orbit and during winter months being at the furthest eastward side of its orbit.
+Poleward circulation may account for the majority of atmospheric circulation, but there is another more minor effect that the Treaty has on the atmosphere. As previously mentioned the Treaty orbits eccentrically, but it also orbits with a 23° tilt off of its central rotational axis. This tilt changes throughout the year, with the lowest point in the summer months being at the furthest westward side of its orbit and during winter months being at the furthest eastward side of its orbit.[^figure3]
 
 At all points of the year the Treaty exerts this gravitational pull, causing prevailing winds to most generally move starward[^clockwise] across the Plane. However, during the height of summer when the Treaty is at its closest, this pull becomes most noticeable and causes more powerful storms, warmer temperatures, and stronger starward winds. 
 
-On the contrary sometime between its summer extreme and winter extreme the Treaty hits a goldilocks zone where winds may be pulled counter-starward. This is a temporary effect, as it continues its orbit throughout the autumn months winds return to their normal pattern, but during the months where the Treaty is in this zone winds may bring strong colder temperatures to normally warm areas.[^figure3]
+On the contrary, sometime between its summer extreme and winter extreme, the Treaty hits a goldilocks zone where winds may be pulled counter-starward. This is a temporary effect, as it continues its orbit throughout the autumn months winds return to their normal pattern, but during the months where the Treaty is in this zone winds may bring strong colder temperatures to normally warm areas.
 # See Also
 - [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Ocean Circulation|Ocean Circulation]]
 
 [^figure1]: ![[Meta/Images/Maps/Pixelart/world_diagram.png]]
 [^figure2]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]
 [^clockwise]: Counterclockwise
-[^figure3]: Figure three: Pictures a model of the Treaties axial tilt and the effects it has on atmospheric circulation.
+[^figure3]: ![[Meta/Videos/10-year-from-creation-simulation.mp4]]

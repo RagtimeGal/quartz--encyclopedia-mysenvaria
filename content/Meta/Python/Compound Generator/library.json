@@ -130,7 +130,6 @@
         "Calcium Chloride",
         "Calcium Hydroxide",
         "Calcium Nitrate",
-        "Calcium Oxide",
         "Carbon Dioxide",
         "Carbon Disulfide",
         "Carbon Monoxide",
@@ -256,6 +255,9 @@
         "Fructose",
         "Orotidylic Acid",
         "Hydrogen Phosphide",
-        "Thorium Sulphate"
+        "Molybdenum Bromide",
+        "Sodium Formate",
+        "Cinnamic Acid",
+        "Rubidium Perchlorate"
     ]
 }
