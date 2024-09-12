@@ -1,9 +1,10 @@
 ---
-title: Immunology
+title: Lamp
 enableToc: true
 tags:
-  - culture/science
-  - stub
+  - culture/technology
+  - stub/template
+draft: true
 ---
 
 > [!note] Stub
@@ -12,11 +13,9 @@ tags:
 
 # History
 
-# Stuff Here
+# Function
 
-> [!note]
-> Add headers and sub-headers as necessary to explain different parts of the science.
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Scientific Branches|List of Scientific Branches]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Technologies|List of Technologies]]

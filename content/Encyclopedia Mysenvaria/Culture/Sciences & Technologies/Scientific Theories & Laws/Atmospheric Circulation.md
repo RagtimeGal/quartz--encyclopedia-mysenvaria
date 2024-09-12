@@ -25,6 +25,8 @@ At all points of the year the Treaty exerts this gravitational pull, causing pre
 On the contrary, sometime between its summer extreme and winter extreme, the Treaty hits a goldilocks zone where winds may be pulled counter-starward. This is a temporary effect, as it continues its orbit throughout the autumn months winds return to their normal pattern, but during the months where the Treaty is in this zone winds may bring strong colder temperatures to normally warm areas.
 # See Also
 - [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Ocean Circulation|Ocean Circulation]]
+- [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Day & Night|Day & Night]]
+- [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Tides|Tides]]
 
 [^figure1]: ![[Meta/Images/Maps/Pixelart/world_diagram.png]]
 [^figure2]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]
