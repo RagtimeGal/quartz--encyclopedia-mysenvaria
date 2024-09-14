@@ -3,6 +3,7 @@ title: Wizardry
 enableToc: true
 tags:
 - culture/science
+- stub
 ---
 
 Wizardry is the study and performance of magic, the manipulation of nature by Godly means. [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] gifted the mortals the ability to manipulate nature during the [[God-War Era|God-War]] as a means to improve their ability to fight and give some an even match against lower Gods.

@@ -3,6 +3,7 @@ title: Astronomy
 enableToc: true
 tags:
 - culture/science
+- stub
 ---
 
 > [!note] Stub

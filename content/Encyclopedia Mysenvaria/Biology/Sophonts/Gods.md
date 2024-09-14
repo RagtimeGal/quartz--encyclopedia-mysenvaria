@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - biology/sophont
 - god
+- stub
 ---
 
 > [!note] Stub

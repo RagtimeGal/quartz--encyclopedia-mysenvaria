@@ -4,6 +4,7 @@ enableToc: true
 tags:
 - history/biography
 - god/higher-god
+- stub
 ---
 
 > [!note] Stub
