@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!abstract] Meta
-> This page is incomplete and needs a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery! This callout serves a future reminder!
+> This page is incomplete and needs a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery and its impact on cultures! This callout serves a future reminder!
 
 Atmospheric cells are complex and chaotic natural phenomena that occur as a result of many other factors across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Atmospheric cells are critical to the theory of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Atmospheric Circulation|atmospheric circulation]] and are responsible for the proper movement of air through the atmosphere. Cells develop because of interactions between the heating and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Gravity|gravitational pull]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and the friction caused by the Plane's rotation.
 
