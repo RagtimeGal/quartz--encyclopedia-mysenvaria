@@ -7,8 +7,6 @@ tags:
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Geography/Topics/Resources|resources]] sorted alphabetically. 
-# G
-- [[Encyclopedia Mysenvaria/Geography/Resources/God Part|God Part]]
 # M
 - [[Encyclopedia Mysenvaria/Geography/Resources/Mythril|Mythril]]
 # See also

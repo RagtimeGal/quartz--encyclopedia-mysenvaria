@@ -8,7 +8,7 @@ tags:
 
 This page serves as an index of energy [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] sorted alphabetically.
 # A
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Acidity|God of Acidity]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Acids|God of Acids]]
 # B
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Bond|God of Bond]]
 # C
