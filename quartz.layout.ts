@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Home": "https://mysenvaria.ragno.wiki/",
       "Meta": "https://mysenvaria.ragno.wiki/Meta/Meta",
+      "Contributors": "https://mysenvaria.ragno.wiki/Meta/Contributors",
       "GitHub": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria",
       "Discord": "https://discord.gg/2yUDZ5j",
       "Blog": "https://ragnois.gay/",
