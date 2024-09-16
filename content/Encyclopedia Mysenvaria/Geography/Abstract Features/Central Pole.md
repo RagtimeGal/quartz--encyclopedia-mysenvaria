@@ -3,18 +3,27 @@ title: Central Pole
 enableToc: true
 tags:
   - geography/abstract
-  - stub
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+>[!abstract] [[Meta/Meta|Meta]]
+>This page is incomplete and could use further elaboration on its [[Encyclopedia Mysenvaria/History/History|historical]] impact and story! This callout serves as a future reminder!
 
-
-# History
-
+The central pole, usually referred to as just the pole, is an abstract geographic feature serving as the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]][^figure1]. The central pole is not necessarily an important landmark on its own but does serve as a reference point due to its roll in a number of natural phenomena.
 # Geography
+The central pole serves as the exact center of the Plane, positioned equidistant from all points of the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]]. The pole happens to lie directly above the Plane's [[Encyclopedia Mysenvaria/Geography/Natural Features/Ocean|ocean]] and also serves as the central point of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Ocean Circulation|oceanic circulation]][^figure2]. As the ocean's waters spiral towards the pole they quickly cool and sink, this process creates violent and volatile waters forming [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Whirlpool|whirlpools]]. The area around the pole where these whirlpools form is known as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea|Deadman's Sea]].
+# History
+Before the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]] the pole was not located in a body of water. Outside of this knowledge, information on the exact geography of the pole during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] remain largely unknown. The pole did not play a significant role in the war and had no particular importance to the world. [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Technologies/Maps|Maps]] depicting territories from the war give ideas of which [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] may have owned the pole at what points during the war, but these maps are generally created by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]] and [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|cartographers]] based on incomplete information and speculation. 
 
+Until the end of the God-War the pole would remain unimportant, the conditions necessary for the start of the Deadman's Sea would not exist until the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and the beginning of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. The passing of the Harmonic Treaty would redefine the importance of the central pole, turning it into the central point of the Treaty's orbit.
+
+Early into the Post-War period the pole would become a focal point for scientific study, becoming vital to [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Astronomy|astronomical]] studies. The position of the pole would become vital to the creation of early [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Technologies/Clock|clocks]]. Despite the importance however the pole remains uninhabitable and maintains a reputation of death.
 # Climate & Ecology
+The pole also serves as the central point of the Harmonic Treaty's orbit and the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]][^figure3]. This has the side effect of making the pole's average distance from the Treaty relatively stable throughout the year. Because of this, the pole does not experience the same levels of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Seasons|seasonal]] variation that other portions of the Plane experience.
 
+The Deadman's Sea creates a relatively uninhabitable environment around the pole, the violent whirlpools creating turbulent conditions uninhabitable for most marine [[Encyclopedia Mysenvaria/Biology/Organisms|organisms]]. The corpses of some marine animals are known to float with the ocean's currents and end up in the sea around the pole. These temporary bodies create conditions appealing enough for some sea birds to congregate in the waters, but their visits are often short lived.
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]
+
+[^figure1]: ![[Meta/Images/Maps/Pixelart/world_diagram.png]]
+[^figure2]: ![[Meta/Images/Maps/Pixelart/ocean_currents.png]]
+[^figure3]: ![[Meta/Videos/10-day-modern-simulation.mp4]]
