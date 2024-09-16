@@ -3,8 +3,7 @@ title: Lamp
 enableToc: true
 tags:
   - culture/technology
-  - stub/template
-draft: true
+  - stub
 ---
 
 > [!note] Stub

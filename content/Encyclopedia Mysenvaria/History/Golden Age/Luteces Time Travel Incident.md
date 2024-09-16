@@ -3,7 +3,7 @@ title: Luteces Time Travel Incident
 enableToc: true
 tags:
   - history/golden_age
-  - stub/template
+  - stub
 ---
 
 > [!note] Stub

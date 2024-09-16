@@ -3,7 +3,7 @@ title: Psychology
 enableToc: true
 tags:
   - culture/science
-  - stub/template
+  - stub
 ---
 
 > [!note] Stub

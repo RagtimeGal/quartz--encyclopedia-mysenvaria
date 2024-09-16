@@ -3,7 +3,7 @@ title: Holding back of Sozins Comet
 enableToc: true
 tags:
   - history/golden_age
-  - stub/template
+  - stub
 ---
 
 > [!note] Stub

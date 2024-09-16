@@ -3,7 +3,7 @@ title: Cracked Star Incident
 enableToc: true
 tags:
   - history/modern_era
-  - stub/template
+  - stub
 ---
 
 > [!note] Stub

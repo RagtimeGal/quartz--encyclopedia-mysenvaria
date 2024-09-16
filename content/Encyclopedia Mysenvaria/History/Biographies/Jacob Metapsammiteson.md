@@ -3,7 +3,7 @@ title: Jacob Metapsammiteson
 enableToc: true
 tags:
   - history/biography
-  - stub/template
+  - stub
 ---
 
 > [!note] Stub
