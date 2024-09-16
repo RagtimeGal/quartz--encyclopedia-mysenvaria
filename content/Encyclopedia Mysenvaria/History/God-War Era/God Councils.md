@@ -6,6 +6,9 @@ tags:
 - stub
 ---
 
+> [!note] Stub
+> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+
 The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|God]] Councils were a series of related gatherings of a majority of the Gods during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Initiated by [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|higher-Gods]] each of the councils were highly important and changed the tides of the war. The councils are each recorded in their own [[Encyclopedia Mysenvaria/Geography/Topics/Stars|stars]] created by the initiators. 
 
 The councils would prove necessary multiple times throughout the war and would be influential in creating the [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Natural Laws|laws of nature]] which are known today. Laws like the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]] and [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]] would only come into existence because of the councils. 
@@ -16,7 +19,7 @@ Watching the aftermath of the event in 587bt the [[Encyclopedia Mysenvaria/Histo
 
 The first council would be massively influential to the future of the war, not because it caused any truces or agreements to form between Gods, but because it would lead to important inventions, the most notable being [[Encyclopedia Mysenvaria/Biology/Organisms|life]].
 # Second Council
-The creation of organisms like [[Encyclopedia Mysenvaria/Biology/Plant|plants]] and [[Encyclopedia Mysenvaria/Biology/Animal|animals]] would prove unfathomably important in the war, and later creations like [[Encyclopedia Mysenvaria/Biology/Animals/Organisms of Mass Destruction|organisms of mass destruction]] and [[Encyclopedia Mysenvaria/Biology/Sophonts|sapients]] would serve only to further these inventions. The second council would be held to discuss these inventions.
+The creation of organisms like [[Encyclopedia Mysenvaria/Biology/Plant|plants]] and [[Encyclopedia Mysenvaria/Biology/Animal|animals]] would prove unfathomably important in the war, and later creations like organisms of mass destruction and [[Encyclopedia Mysenvaria/Biology/Sophonts|sapients]] would serve only to further these inventions. The second council would be held to discuss these inventions.
 
 Once again held by Life and Death the second council would end in the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. Fearing for the balance of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] the God duo would bring up prevailing issues with these new organisms to the other Gods. Their words would not be taken lightly and a majority of Gods would agree something would need to be done, leading to the passing of the Creations Act in 440bt.
 
