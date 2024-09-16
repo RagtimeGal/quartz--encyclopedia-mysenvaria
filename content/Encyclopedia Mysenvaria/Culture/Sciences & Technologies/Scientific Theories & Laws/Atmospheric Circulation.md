@@ -5,7 +5,7 @@ tags:
   - culture/science
 ---
 
-> [!abstract] Meta
+> [!abstract] [[Meta/Meta|Meta]]
 > This page is incomplete and needs a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery! This callout serves a future reminder!
 
 Atmospheric circulation is the processes by which air in the atmosphere of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] moves from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] or [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]]. Understanding these processes are vital to research into weather and climate and is the primary focus of [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Meteorology|meteorological]] studies.
