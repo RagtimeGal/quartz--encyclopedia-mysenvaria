@@ -9,6 +9,9 @@ tags:
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
+> [!abstract] [[Meta/Meta|Meta]]
+> The names presented on this page are temporary placeholders. Until conlangs are made for creating better names this will remain unchanged.
+
 
 # Early Life & Education
 
