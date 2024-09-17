@@ -1,8 +1,8 @@
 ---
-title: Index Stars
+title: Seasons
 enableToc: true
 tags:
-  - culture/science
+  - geography/phenomena
   - stub
 ---
 
@@ -19,5 +19,3 @@ tags:
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/Lists of Stars|Lists of Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars by Star System|List of Stars by Star System]]

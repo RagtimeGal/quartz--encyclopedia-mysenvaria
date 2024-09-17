@@ -1,9 +1,9 @@
 ---
-title: Mythril
+title: Fog
 enableToc: true
 tags:
-- geography/resource
-- stub
+  - geography/phenomena
+  - stub
 ---
 
 > [!note] Stub
@@ -12,13 +12,8 @@ tags:
 
 # History
 
-# Characteristics
-
 # Occurrence
 
-# Production & Application
-
-# Cultural Significance
+# Great Fog
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/List of Resources|List of Resources]]

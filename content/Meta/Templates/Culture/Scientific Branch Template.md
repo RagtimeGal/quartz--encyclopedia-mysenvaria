@@ -2,7 +2,7 @@
 title: Scientific Branch Template
 enableToc: true
 tags:
-- culture/science
+- geography/phenomena
 - stub/template
 draft: true
 ---

@@ -1,26 +1,20 @@
 ---
-title: Music
+title: Longitude & Latitude
 enableToc: true
 tags:
-- art/music
-- stub
+  - geography/abstract
+  - stub
 ---
 
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-
-# Overview
-
 # History
 
-# Forms
+# Geography
 
-# Purpose
+# Climate & Ecology
 
-# Controversy
-
-# Theory
-
-# Law
+# See also
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]

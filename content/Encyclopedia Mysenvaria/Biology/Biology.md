@@ -3,7 +3,7 @@ title: Biology
 enableToc: true
 tags:
 - biology
-- culture/science
+- geography/phenomena
 - stub
 ---
 

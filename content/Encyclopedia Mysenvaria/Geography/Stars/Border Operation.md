@@ -1,18 +1,18 @@
 ---
-title: Occupations & Trades
+title: Border Operation
 enableToc: true
 tags:
-- culture/occupation
-- stub
+  - geography/astrography
+  - star
+  - stub
 ---
 
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-
-
 # History
 
-# Workers
+# Famous Translations
 
-# In Society
+# Also see
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/Lists of Stars|Lists of Stars]]

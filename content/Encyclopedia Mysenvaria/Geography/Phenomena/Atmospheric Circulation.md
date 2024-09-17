@@ -2,7 +2,7 @@
 title: Atmospheric Circulation
 enableToc: true
 tags:
-  - culture/science
+  - geography/phenomena
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
@@ -12,11 +12,11 @@ Atmospheric circulation is the processes by which air in the atmosphere of the [
 
 Atmospheric circulation differs slightly from year-to-year and even month-to-month as the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] moves farther or closer to the surface of the Plane. Not only this, but the interactions between bands of wind in the atmosphere can be chaotic. Because of this, properly modelling the exact movements and interactions of the whole atmosphere are impossible.
 
-The Harmonic Treaty can be described as the fuel source for atmospheric circulation, heating and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Gravity|gravitationally pulling]] on air in the atmosphere. The Harmonic Treaty moves across the sky with a slightly eccentric orbit at a slight tilt which changes throughout the year. At its furthest point the Treaty transfers the least amount of energy to the atmosphere, and at its closest transfers the most. This is what causes the [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Seasons|seasons]].
+The Harmonic Treaty can be described as the fuel source for atmospheric circulation, heating and [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Gravity|gravitationally pulling]] on air in the atmosphere. The Harmonic Treaty moves across the sky with a slightly eccentric orbit at a slight tilt which changes throughout the year. At its furthest point the Treaty transfers the least amount of energy to the atmosphere, and at its closest transfers the most. This is what causes the [[Encyclopedia Mysenvaria/Geography/Phenomena/Seasons|seasons]].
 # Poleward Circulation
-When the orbit of the Treaty is transposed onto the surface of the Plane the line created is known as the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]]. The harmony line is where the most energy is transferred from the Treaty to the atmosphere, because it is the closest point from the atmosphere to the Treaty at any given time. The harmony line divides the Plane into two parts, the [[Encyclopedia Mysenvaria/Geography/Natural Features/Inner Circle|inner circle]] and [[Encyclopedia Mysenvaria/Geography/Natural Features/Outer Ring|outer ring]][^figure1].
+When the orbit of the Treaty is transposed onto the surface of the Plane the line created is known as the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]]. The harmony line is where the most energy is transferred from the Treaty to the atmosphere, because it is the closest point from the atmosphere to the Treaty at any given time. The harmony line divides the Plane into two parts, the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|inner circle]] and [[Encyclopedia Mysenvaria/Geography/Abstract Features/Outer Ring|outer ring]][^figure1].
 
-Air at the harmony line is heated more than air at the pole or edge and this causes a circulating effect wherein air from the harmony line becomes less dense and floats upwards, creating a low-pressure zone on the surface which pulls in more dense cold air. This warm air then travels outwards and starward[^clockwise], pulled by the orbit of the Treaty. This warm air cools as it moves away from the harmonic line, sinking back down and creating a high-pressure zone which pushes air away. This process creates what are referred to as [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Atmospheric Cells|atmospheric cells]].
+Air at the harmony line is heated more than air at the pole or edge and this causes a circulating effect wherein air from the harmony line becomes less dense and floats upwards, creating a low-pressure zone on the surface which pulls in more dense cold air. This warm air then travels outwards and starward[^clockwise], pulled by the orbit of the Treaty. This warm air cools as it moves away from the harmonic line, sinking back down and creating a high-pressure zone which pushes air away. This process creates what are referred to as [[Encyclopedia Mysenvaria/Geography/Phenomena/Atmospheric Cells|atmospheric cells]].
 
 Air travelling towards the edge of the Plane becomes less dense as it fills more space, cooling quicker. On the inverse, air travelling towards the pole of the Plane becomes more dense as it fills less space, cooling slower. This causes a discrepancy between the number of atmospheric cells of the inner circle and outer ring. Headed towards the pole, in the inner circle, there are 3 cells of increasingly larger diameter. Headed towards the edge, in the outer ring, there are 4 cells of increasingly smaller diameter[^figure2].
 # Starward Circulation
@@ -26,9 +26,9 @@ At all points of the year the Treaty exerts a gravitational pull, causing prevai
 
 On the contrary, at some points of the year when it is in its transitionary period between its high and low, the Treaty hits a goldilocks zone where winds may be pulled counter-starward. This is a temporary effect, as it continues its transition winds return to their normal pattern, but during the months where the Treaty is in this zone winds may bring strong colder temperatures to normally warm areas.
 # See Also
-- [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Ocean Circulation|Ocean Circulation]]
-- [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Day & Night|Day & Night]]
-- [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Phenomena/Tides|Tides]]
+- [[Encyclopedia Mysenvaria/Geography/Phenomena/Ocean Circulation|Ocean Circulation]]
+- [[Encyclopedia Mysenvaria/Geography/Phenomena/Day & Night|Day & Night]]
+- [[Encyclopedia Mysenvaria/Geography/Phenomena/Tides|Tides]]
 
 [^figure1]: ![[Meta/Images/Maps/Pixelart/world_diagram.png]]
 [^figure2]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]

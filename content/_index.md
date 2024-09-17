@@ -34,7 +34,7 @@ Geography encompasses everything related to the physicality of the [[Encyclopedi
 - [[Encyclopedia Mysenvaria/Geography/Topics/Abstract Features|Abstract Features]], non-physical geographical features and includes national borders;
 - [[Encyclopedia Mysenvaria/Geography/Topics/Artificial Features|Artificial Features]], created geographical features, like settlements or monuments;
 - [[Encyclopedia Mysenvaria/Geography/Topics/Natural Features|Natural Features]], naturally formed geographical features, like mountains and rivers;
-- [[Encyclopedia Mysenvaria/Geography/Topics/Stars|Stars]], celestial objects disconnected yet intrinsic to the world;
+- [[Encyclopedia Mysenvaria/Geography/Phenomena/Stars|Stars]], celestial objects disconnected yet intrinsic to the world;
 - and [[Encyclopedia Mysenvaria/Geography/Topics/Resources|resources]], the available materials of the world used by societies and organisms in production.
 ## [[Encyclopedia Mysenvaria/History/History|History]]
 History is the whole of the worlds past and present and works to document people and events.

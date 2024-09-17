@@ -3,7 +3,7 @@ title: List of Scientific Branches
 enableToc: true
 tags:
 - meta/index
-- culture/science
+- geography/phenomena
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Topics/Science & Technology|scientific branches]] sorted in alphabetical order.

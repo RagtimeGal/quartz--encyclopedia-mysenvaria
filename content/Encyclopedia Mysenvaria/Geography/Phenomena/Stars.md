@@ -2,7 +2,7 @@
 title: Stars
 enableToc: true
 tags:
-- culture/science
+- geography/phenomena
 - stub
 ---
 

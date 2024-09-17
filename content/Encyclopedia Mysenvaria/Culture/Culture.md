@@ -10,15 +10,23 @@ tags:
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
+# Beliefs
 
-# Overview
+# Ethnic & Cultural Groups
 
-# History
+# Events & Holidays
 
-# Forms
+# Languages
 
-# Purpose
+# Occupations & Crafts
 
-# Controversy
+# Organizations
 
-# Theory
+# Sciences & Technologies
+## Scientific Branches
+
+## Scientific Theories
+
+## Technologies
+
+# See Also
