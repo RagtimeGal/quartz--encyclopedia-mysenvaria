@@ -10,7 +10,6 @@ tags:
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-
 The Human Minds System is a small system of [[Encyclopedia Mysenvaria/Geography/Topics/Stars|stars]] whose host star, the [[Encyclopedia Mysenvaria/Geography/Stars/Human Minds System/Human Minds|Human Minds]] star, was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] as a way
 # History
 
