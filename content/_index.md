@@ -46,7 +46,7 @@ History is the whole of the worlds past and present and works to document people
 # Our Mission
 The Academy Publishing Company, since its inception, has sworn to provide nothing but utmost unbiased fact. We work with credited scholars from across the plane in an attempt to uphold that oath. Founded by [[Encyclopedia Mysenvaria/History/Biographies/Sir David Attenborough|Sir David Attenborough]] nearly two-hundred years ago, Academy Publishing was founded on a pursuit of knowledge, to allow anyone, regardless of [[Encyclopedia Mysenvaria/Culture/Topics/Ethnic & Cultural Groups|nationality]], [[Encyclopedia Mysenvaria/Culture/Topics/Ethnic & Cultural Groups|race]], or [[Encyclopedia Mysenvaria/Biology/Sophonts|species]], to explore and discover their world through paper.
 
-> [!abstract] Meta
+> [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are uncommon throughout the encyclopedia but serve as non-canon fourth wall-breaking mentions of ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta page]].
 > 
-> If you see errors like improper information, inconsistencies, or misspellings please help the writers! The back-end of the encyclopedia is ran off of [Github](https://github.com). Visit the [issue page](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) of the encyclopedia and create an issue if you see any errors to help us keep our facts true!
+> If you see errors such as incorrect information, inconsistencies, or misspellings please help! The back-end of the encyclopedia is ran off of [Github](https://github.com). Visit the [issue page](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) of the encyclopedia and create an issue if you see any errors to help us keep our facts true!
