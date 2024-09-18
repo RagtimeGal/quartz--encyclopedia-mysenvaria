@@ -2,11 +2,11 @@
 title: Lists of Animals
 enableToc: true
 tags:
-- meta/index
+- index
 - biology/animals
 ---
 
-This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Animal|animals]], organisms defined as being capable of locomotion.
+This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]], organisms defined as being capable of locomotion.
 
 # By Name
 
@@ -18,5 +18,5 @@ This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Anima
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/List of Domesticated Animals|List of Domesticated Animals]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/List of Extinct Animals|List of Extinct Animals]]
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/List of Lists|List of Lists]]
+- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Plants/Lists of Plants|Lists of Plants]]

@@ -2,7 +2,7 @@
 title: Greater God Conspiracy
 enableToc: true
 tags:
-  - culture/religion
+  - culture/belief
   - stub
 ---
 

@@ -10,7 +10,7 @@ tags:
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-The [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] of Life and Death, also sometimes referred to as the fog, are the two oldest and most powerful Gods. Life and Death preside over the natural divisions of life and death; since everything lives and everything dies the duo are considered the most powerful of the Gods.
+The [[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]] of Life and Death, also sometimes referred to as the fog, are the two oldest and most powerful Gods. Life and Death preside over the natural divisions of life and death; since everything lives and everything dies the duo are considered the most powerful of the Gods.
 
 Life and Death are responsible for the creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|plane]] and the first higher-Gods, the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]. Life and Death are also indirectly responsible for the creation of all other Gods. Like many higher-Gods Life and Death operate in tune with one another, often in sync and as one.
 # History

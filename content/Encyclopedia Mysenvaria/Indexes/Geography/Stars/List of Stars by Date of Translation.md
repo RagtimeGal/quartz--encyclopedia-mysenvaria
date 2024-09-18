@@ -2,7 +2,7 @@
 title: List of Stars bt Date of Translation
 enableToc: true
 tags:
-- meta/index
+- index
 - star
 - star_system
 ---

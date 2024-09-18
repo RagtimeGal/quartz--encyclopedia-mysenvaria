@@ -2,7 +2,7 @@
 title: Lists of Stars
 enableToc: true
 tags:
-- meta/index
+- index
 - star
 - star_system
 ---
@@ -26,6 +26,6 @@ This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Ph
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars Written by Lesser-Gods|List of Stars Written by Lesser-Gods]]
 
 # See also
-- [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Branches/Astronomy|Astronomy]]
+- [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomy]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|Astronomer]]
-- [[Encyclopedia Mysenvaria/Indexes/List of Lists|List of Lists]]
+- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]

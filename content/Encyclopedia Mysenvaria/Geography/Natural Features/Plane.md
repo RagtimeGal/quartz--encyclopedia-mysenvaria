@@ -21,7 +21,7 @@ It is unknown whether or not the Plane was created by the Gods of Life and Death
 
 The Plane would be shaped into how we know it today through the events of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]; the corpses and battles of the Gods forming and sculpting the terrain. The first of such events, a dispute between the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] and [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|God of Calcium]], would create the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater|Great Oceanic Crater]].
 
-The creation of [[Encyclopedia Mysenvaria/Biology/Plant|plants]], in the year 523bt, would also be a turning point in the geologic history of the Plane. Plants would inadvertently work to break up the top layer of earth and create [[Encyclopedia Mysenvaria/Culture/Sciences & Technologies/Scientific Theories & Laws/Soil Theory|soil]]. While plants had already established ecosystems across the Plane they moved incredibly slow, the creation of [[Encyclopedia Mysenvaria/Biology/Animal|animals]] would speed up these ecosystems.
+The creation of [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|plants]], in the year 523bt, would also be a turning point in the geologic history of the Plane. Plants would inadvertently work to break up the top layer of earth and create [[Encyclopedia Mysenvaria/Science/Principles/Soil Theory|soil]]. While plants had already established ecosystems across the Plane they moved incredibly slow, the creation of [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]] would speed up these ecosystems.
 # Characteristics
 ## Hydrosphere
 

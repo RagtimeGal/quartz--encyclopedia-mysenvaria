@@ -2,7 +2,7 @@
 title: God's Afterlife
 enableToc: true
 tags:
-  - culture/religion
+  - culture/belief
   - stub
 ---
 

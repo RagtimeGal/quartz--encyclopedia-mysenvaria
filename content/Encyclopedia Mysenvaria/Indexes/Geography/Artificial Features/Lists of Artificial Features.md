@@ -2,7 +2,7 @@
 title: Lists of Artificial Features
 enableToc: true
 tags:
-- meta/index
+- index
 - geography/artificial
 ---
 
@@ -12,4 +12,4 @@ This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/To
 # By Location
 
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/List of Lists|List of Lists]]
+- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]

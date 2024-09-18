@@ -2,7 +2,7 @@
 title: List of Holidays
 enableToc: true
 tags:
-- meta/index
+- index
 - culture/holiday
 ---
 

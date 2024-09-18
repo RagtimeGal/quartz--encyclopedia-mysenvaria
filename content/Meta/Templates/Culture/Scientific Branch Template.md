@@ -23,4 +23,4 @@ draft: true
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Scientific Branches|List of Scientific Branches]]
+- [[Encyclopedia Mysenvaria/Indexes/Science/List of Scientific Branches|List of Scientific Branches]]

@@ -2,7 +2,7 @@
 title: Technology Template
 enableToc: true
 tags:
-- culture/technology
+- science/technology
 - stub/template
 draft: true
 ---
@@ -21,4 +21,4 @@ draft: true
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Science & Technology/List of Technologies|List of Technologies]]
+- [[Encyclopedia Mysenvaria/Indexes/Science/List of Technologies|List of Technologies]]

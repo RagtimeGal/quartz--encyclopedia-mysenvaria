@@ -2,7 +2,7 @@
 title: List of Stars Named After People and Places
 enableToc: true
 tags:
-- meta/index
+- index
 - star
 - star_system
 ---

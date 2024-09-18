@@ -2,13 +2,13 @@
 title: List of Stars Written by Lesser-Gods
 enableToc: true
 tags:
-- meta/index
+- index
 - star
 - star_system
 - god/lesser-god
 ---
 
-This page serves as an index of [[Encyclopedia Mysenvaria/Geography/Phenomena/Stars|stars]] written by higher-[[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] sorted in alphabetical order.
+This page serves as an index of [[Encyclopedia Mysenvaria/Geography/Phenomena/Stars|stars]] written by higher-[[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]] sorted in alphabetical order.
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/Lists of Stars|Lists of Stars]]

@@ -2,14 +2,14 @@
 title: Lists of Abstract Features
 enableToc: true
 tags:
-- meta/index
+- index
 - geography/abstract
 ---
 
-This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Topics/Abstract Features|abstract features]]. 
+This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract features]]. 
 # By Name
 
 # By Location
 
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/List of Lists|List of Lists]]
+- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]

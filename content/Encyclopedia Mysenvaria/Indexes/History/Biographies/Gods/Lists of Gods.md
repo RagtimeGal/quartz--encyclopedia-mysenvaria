@@ -2,11 +2,11 @@
 title: Lists of Gods
 enableToc: true
 tags:
-- meta/index
+- index
 - god
 ---
 
-This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]]. 
+This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]]. 
 
 # By Classification
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]

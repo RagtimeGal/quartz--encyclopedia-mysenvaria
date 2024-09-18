@@ -15,6 +15,8 @@ tags:
 > > [!info] Relation
 > > ### Succeeds:
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Placentalia|Placentalia]]
+> > ### Supersedes 
+> > [[Encyclopedia Mysenvaria/Biology/Species/Dwarf|Dwarf]] c. BT 426
 >
 > > [!info] Creation Date
 > > c. BT 458

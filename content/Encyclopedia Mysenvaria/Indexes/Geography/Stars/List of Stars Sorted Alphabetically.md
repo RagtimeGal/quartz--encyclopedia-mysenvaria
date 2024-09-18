@@ -2,7 +2,7 @@
 title: List of Stars Sorted Alphabetically
 enableToc: true
 tags:
-- meta/index
+- index
 - star
 - star_system
 ---

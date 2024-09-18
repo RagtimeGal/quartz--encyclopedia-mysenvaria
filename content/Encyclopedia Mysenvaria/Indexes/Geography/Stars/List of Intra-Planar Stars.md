@@ -2,7 +2,7 @@
 title: List of Intra-Planar Stars
 enableToc: true
 tags:
-- meta/index
+- index
 - star
 - star_system
 ---

@@ -2,7 +2,7 @@
 title: List of Biomes
 enableToc: true
 tags:
-- meta/index
+- index
 - geography/natural
 ---
 

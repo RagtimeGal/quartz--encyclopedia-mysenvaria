@@ -1375,7 +1375,13 @@
                                                                     "name": "Moles",
                                                                     "date": 458,
                                                                     "body": "Placentalia with large claws, often for subterraneous digging.",
-                                                                    "successors": []
+                                                                    "successors": [
+                                                                        {
+                                                                            "name": "Dwarf",
+                                                                            "date": 426,
+                                                                            "body": ""
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 {
                                                                     "name": "Lagomorphs",

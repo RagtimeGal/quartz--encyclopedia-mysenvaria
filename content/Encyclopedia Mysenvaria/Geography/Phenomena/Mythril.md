@@ -21,4 +21,3 @@ tags:
 # Cultural Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/List of Resources|List of Resources]]

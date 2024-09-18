@@ -2,11 +2,11 @@
 title: Lists of Natural Features
 enableToc: true
 tags:
-- meta/index
+- index
 - geography/natural
 ---
 
-This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Topics/Natural Features|natural features]]. 
+This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Geography#Natural Features|natural features]]. 
 # By Name
 
 # By Location
@@ -15,4 +15,4 @@ This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/To
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Biomes|List of Biomes]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Climates|List of Climates]]
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/List of Lists|List of Lists]]
+- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]

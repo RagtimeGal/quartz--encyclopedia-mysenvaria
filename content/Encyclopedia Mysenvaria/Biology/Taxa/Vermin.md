@@ -13,7 +13,7 @@ tags:
 > [!summary] Vermin
 > > [!info] Relation
 > > ### Succeeds:
-> > [[Encyclopedia Mysenvaria/Biology/Animal|Animal]]
+> > [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animal]]
 > > ### Supersedes 
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Worm|Worm]] c. BT 498
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Gastropod|Gastropod]] c. BT 498

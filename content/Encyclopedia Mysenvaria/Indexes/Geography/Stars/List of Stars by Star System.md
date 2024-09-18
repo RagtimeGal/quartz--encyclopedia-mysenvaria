@@ -2,7 +2,7 @@
 title: List of Star Systems
 enableToc: true
 tags:
-- meta/index
+- index
 - star_system
 ---
 

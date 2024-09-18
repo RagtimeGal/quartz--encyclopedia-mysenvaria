@@ -2,11 +2,11 @@
 title: List of Energy Gods
 enableToc: true
 tags:
-- meta/index
+- index
 - god
 ---
 
-This page serves as an index of energy [[Encyclopedia Mysenvaria/Biology/Sophonts/Gods|Gods]] sorted alphabetically.
+This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]] sorted alphabetically.
 # A
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Acids|God of Acids]]
 # B
