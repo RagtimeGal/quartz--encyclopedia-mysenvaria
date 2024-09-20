@@ -6,7 +6,7 @@ tags:
 - biology/disease
 ---
 
-This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Disease|diseases]], ailments which impair living organisms.
+This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Biology#Disease|disease]], ailments which impair living organisms.
 # By Name
 
 # By Effect

@@ -8,7 +8,7 @@ tags:
 - god/lesser-god
 ---
 
-This page serves as an index of [[Encyclopedia Mysenvaria/Geography/Phenomena/Stars|stars]] written by higher-[[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]] sorted in alphabetical order.
+This page serves as an index of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] written by higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] sorted in alphabetical order.
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/Lists of Stars|Lists of Stars]]

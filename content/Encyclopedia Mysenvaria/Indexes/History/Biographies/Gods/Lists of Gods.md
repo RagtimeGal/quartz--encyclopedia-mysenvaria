@@ -6,7 +6,7 @@ tags:
 - god
 ---
 
-This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]]. 
+This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. 
 
 # By Classification
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]

@@ -1,8 +1,8 @@
 ---
-title: Soil Theory
+title: Soils
 enableToc: true
 tags:
-  - science/principle
+  - geography/phenomena
   - stub
 ---
 

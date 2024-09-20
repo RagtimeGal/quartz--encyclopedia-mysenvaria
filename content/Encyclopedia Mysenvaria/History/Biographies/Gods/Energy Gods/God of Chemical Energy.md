@@ -12,7 +12,7 @@ tags:
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-The [[Encyclopedia Mysenvaria/Science/Principles/Gods|God]] of Chemical Energy is a higher-God created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Gods of Kinetic & Potential Energy|God of Potential Energy]] during the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] and would also create the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Bond|God of Bond]] and [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Combustion|God of Combustion]]. 
+The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] of Chemical Energy is a higher-God created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Gods of Kinetic & Potential Energy|God of Potential Energy]] during the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] and would also create the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Bond|God of Bond]] and [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Combustion|God of Combustion]]. 
 # History
 
 # Appearance

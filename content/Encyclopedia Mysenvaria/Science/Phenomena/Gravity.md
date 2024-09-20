@@ -2,8 +2,8 @@
 title: Gravity
 enableToc: true
 tags:
-- science/principle
-- stub
+  - geography/phenomena
+  - stub
 ---
 
 > [!note] Stub

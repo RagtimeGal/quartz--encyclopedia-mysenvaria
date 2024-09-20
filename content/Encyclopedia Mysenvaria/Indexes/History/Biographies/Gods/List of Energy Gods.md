@@ -6,7 +6,7 @@ tags:
 - god
 ---
 
-This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]] sorted alphabetically.
+This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] sorted alphabetically.
 # A
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Acids|God of Acids]]
 # B

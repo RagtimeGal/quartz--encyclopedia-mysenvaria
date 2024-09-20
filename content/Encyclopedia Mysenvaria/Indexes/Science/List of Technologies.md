@@ -6,7 +6,7 @@ tags:
 - geography/phenomena
 ---
 
-This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Topics/Science & Technology|technologies]] sorted in alphabetical order.
+This page serves as an index of [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]] sorted in alphabetical order.
 
 # A
 - [[Encyclopedia Mysenvaria/Science/Technologies/Agriculture|Agriculture]]

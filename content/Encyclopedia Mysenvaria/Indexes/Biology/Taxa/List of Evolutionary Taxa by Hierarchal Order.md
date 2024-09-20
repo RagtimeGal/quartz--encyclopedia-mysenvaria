@@ -6,7 +6,7 @@ tags:
 - biology/animals
 ---
 
-A list of taxa from [[Encyclopedia Mysenvaria/Science/Principles/Evolutionary Classification|Evolutionary Classification]] sorted by hierarchal order.
+A list of taxa from [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|Evolutionary Classification]] sorted by hierarchal order.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]

@@ -6,7 +6,7 @@ tags:
  - god
  - history
 ---
-[[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]] are natural phenomena given form and are created through a process known as [[Encyclopedia Mysenvaria/Science/Principles/Natural Subdivision|natural subdivision]]. This page serves to document the natural lineage of Gods, information on this page has been derived by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] using [[Encyclopedia Mysenvaria/Geography/Phenomena/Stars|stars]]. [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Life and Death|Life and Death]] always serve as the first two Gods, being responsible for the creation of all other Gods.
+[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are natural phenomena given form and are created through a process known as [[Encyclopedia Mysenvaria/Science/Models/Natural Subdivision|natural subdivision]]. This page serves to document the natural lineage of Gods, information on this page has been derived by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] using [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Life and Death|Life and Death]] always serve as the first two Gods, being responsible for the creation of all other Gods.
 # Overview
 This graph gives a general overview of the Godly lineage, showing what groups of Gods are connected to other groups.
 

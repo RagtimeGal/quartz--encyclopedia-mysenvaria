@@ -8,7 +8,7 @@ tags:
 > [!abstract] [[Meta/Meta|Meta]]
 > This page is incomplete and needs a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery and its impact on [[Encyclopedia Mysenvaria/Culture/Culture|cultures]]! This callout serves a future reminder!
 
-Atmospheric cells are complex and chaotic natural phenomena that occur as a result of many other factors across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Atmospheric cells are critical to the theory of [[Encyclopedia Mysenvaria/Geography/Phenomena/Atmospheric Circulation|atmospheric circulation]] and are responsible for the proper movement of air through the atmosphere. Cells develop because of interactions between the heating and [[Encyclopedia Mysenvaria/Science/Principles/Gravity|gravitational pull]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and the friction caused by the Plane's rotation.
+Atmospheric cells are complex and chaotic natural phenomena that occur as a result of many other factors across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Atmospheric cells are critical to the theory of [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]] and are responsible for the proper movement of air through the atmosphere. Cells develop because of interactions between the heating and [[Encyclopedia Mysenvaria/Science/Phenomena/Gravity|gravitational pull]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and the friction caused by the Plane's rotation.
 
 As the Harmonic Treaty makes its trip around the Plane the gravity it exerts pulls the air in the atmosphere along with itself. Alongside this, as the Treaty exerts heat it warms the nearby air, causing it to rise. This effect creates a vortex which pulls more cold air in to replace the rising warm air and is what circulates warm air throughout the entire Plane.
 # The Cells
@@ -26,9 +26,9 @@ Starting at the harmony line and moving outwards towards the edge:
 - The Edge Cell goes from the outer edge of the Outer Cell to 8,319km from the pole.
 # See Also
 - [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|Meteorology]]
-- [[Encyclopedia Mysenvaria/Geography/Phenomena/Day & Night|Day & Night]]
-- [[Encyclopedia Mysenvaria/Geography/Phenomena/Seasons|Seasons]]
-- [[Encyclopedia Mysenvaria/Geography/Phenomena/Ocean Circulation|Ocean Circulation]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Ocean Circulation|Ocean Circulation]]
 
 
 [^figure1]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]

@@ -19,7 +19,7 @@ tags:
 > > [!info] Creation Date
 > > c. BT 442
 
-Humans were the first highly intelligent fully autonomous conscious [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]] to be created by the [[Encyclopedia Mysenvaria/Science/Principles/Gods|Gods]]. Designed by a small group of Gods and eventually created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] humans would go on to become fundamental to the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]], changing the tide of the war and become one of the most successful organisms ever.
+Humans were the first highly intelligent fully autonomous conscious [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]] to be created by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. Designed by a small group of Gods and eventually created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]] humans would go on to become fundamental to the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]], changing the tide of the war and become one of the most successful organisms ever.
 
 Humans are responsible for the creation of the [[Encyclopedia Mysenvaria/Biology/Species/Dwarf|dwarves]].
 # History

@@ -15,7 +15,7 @@ tags:
 - 527bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#First Council|First God Council Held]]
 - 523bt: [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|Plants Invented]], [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Beginning of the Iteration Period]]
 - 498bt: [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|Animals Invented]]
-- 476bt: [[Encyclopedia Mysenvaria/Science/Principles/Classification of Organisms|First Organism of Mass Destruction Invented]]
+- 476bt: [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|First Organism of Mass Destruction Invented]]
 - 442bt: [[Encyclopedia Mysenvaria/Biology/Species/Human|Humanity Invented]]
 - 440bt: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Second Council|Second God Council Held]], [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act Passed]]
 - 426bt: [[Encyclopedia Mysenvaria/Biology/Species/Dwarf|Dwarves Invented]]

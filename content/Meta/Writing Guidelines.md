@@ -14,7 +14,7 @@ This page serves to cover all guidelines which editors are expected to follow, i
 # Thematic Guidelines
 Mysenvar is a low-magic dark fantasy setting intended for a mature audience intended to explore complex themes with moral ambiguity. The world is grounded in reality, with magic serving as a tool for delivering messages to the audience.
 
-Magic is powerful but limited. For detailed descriptions on the magic system, see pages like [[Encyclopedia Mysenvaria/Geography/Phenomena/Stars|stars]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]]. Magic is expected to adhere to the rules described in these pages.
+Magic is powerful but limited. For detailed descriptions on the magic system, see pages like [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]]. Magic is expected to adhere to the rules described in these pages.
 
 Violence and gore are inevitable in a setting like Mysenvar, however they must serve narrative purpose and be explored through the professional and academic tone of the Encyclopedia. Obscenely offensive, profane, or sexual content are not permitted in the Encyclopedia and will be denied.
 # Page Structure

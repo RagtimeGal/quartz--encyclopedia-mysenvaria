@@ -10,12 +10,12 @@ tags:
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-Gods are beings of varying power and abilities, often primordial in their age and near-infinite in their wisdom. Gods have shifted and often forged history, their names and stories dotted across the sky in the form of [[Encyclopedia Mysenvaria/Geography/Phenomena/Stars|stars]]. 
+Gods are beings of varying power and abilities, often primordial in their age and near-infinite in their wisdom. Gods have shifted and often forged history, their names and stories dotted across the sky in the form of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. 
 
 Gods can be created and, due to the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]], are only capable of controlling the element of nature they are delegated to. Before the signing of the Harmonic Treaty Gods were capable of controlling any element of nature they had wished, which is partially part of the reason for the God-War.
 
 # History
-The history of Gods is also the history of the Plane, see the [[Encyclopedia Mysenvaria/Timeline|timeline]] for a comprehensive overview of history, or see [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|respective pages]] for Gods for their singular histories.
+The history of Gods is also the history of the Plane, see the [[Encyclopedia Mysenvaria/History/Timeline|timeline]] for a comprehensive overview of history, or see [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|respective pages]] for Gods for their singular histories.
 
 # Creation
 There are two ways Gods can be created; delegation of another Gods domain, or the creation of a new element in nature. Both of these are rare events in the modern day, but the former was quite common in the past.
@@ -39,9 +39,9 @@ Grafting is a more grotesque form of magic, often considered to be a banned prac
 The act of grafting is often performed by wizards in an attempt to further their manipulation and power over nature. However, grafting is known to have greatly disadvantageous effects on its host. Often grafters replaced limbs will act separate from their mind and grafters can even begin to have disillusion and spouts of psychosis and hallucinations.
 
 # Classification
-The importance of Gods to nature is often measured using [[Encyclopedia Mysenvaria/Science/Principles/Perennial Classification|Perennial Classification]] which groups Gods into two categories, Lesser and Higher Gods. These groups are simply defined. Lesser Gods are Gods who, when killed, would not have an effect on nature. Higher Gods, alternatively, are Gods who when killed would have an effect on nature.
+The importance of Gods to nature is often measured using [[Encyclopedia Mysenvaria/Science/Models/Perennial Classification|Perennial Classification]] which groups Gods into two categories, Lesser and Higher Gods. These groups are simply defined. Lesser Gods are Gods who, when killed, would not have an effect on nature. Higher Gods, alternatively, are Gods who when killed would have an effect on nature.
 
-Another popular method of importance classification is the [[Encyclopedia Mysenvaria/Science/Principles/(Name)'s Index|(Name)'s Index]], which classifies Gods importance by how many Gods they are related to. This index is often used by historians studying the God-War Era and the relations between Gods during that time.
+Another popular method of importance classification is the [[Encyclopedia Mysenvaria/Science/Models/(Name)'s Index|(Name)'s Index]], which classifies Gods importance by how many Gods they are related to. This index is often used by historians studying the God-War Era and the relations between Gods during that time.
 
 Other methods for classification of Gods exist but are not used as often as either of the two mentioned previously.
 
