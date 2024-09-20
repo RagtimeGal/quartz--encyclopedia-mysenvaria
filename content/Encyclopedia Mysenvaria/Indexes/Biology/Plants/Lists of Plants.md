@@ -3,7 +3,7 @@ title: Lists of Plants
 enableToc: true
 tags:
 - index
-- biology/plants
+- biology/plant
 ---
 
 This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|plants]], organisms defined as being incapable of locomotion.

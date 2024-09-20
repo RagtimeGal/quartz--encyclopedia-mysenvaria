@@ -2,7 +2,7 @@
 title: Phenomena Template
 enableToc: true
 tags:
-- geography/phenomena
+- science/phenomena
 - stub/template
 draft: true
 ---

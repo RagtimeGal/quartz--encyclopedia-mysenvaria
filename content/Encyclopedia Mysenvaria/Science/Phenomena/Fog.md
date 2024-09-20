@@ -2,7 +2,7 @@
 title: Fog
 enableToc: true
 tags:
-  - geography/phenomena
+  - science/phenomena
   - stub
 ---
 

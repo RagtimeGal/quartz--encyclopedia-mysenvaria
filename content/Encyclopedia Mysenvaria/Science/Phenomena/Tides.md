@@ -2,7 +2,7 @@
 title: Tides
 enableToc: true
 tags:
-  - geography/phenomena
+  - science/phenomena
   - stub
 ---
 

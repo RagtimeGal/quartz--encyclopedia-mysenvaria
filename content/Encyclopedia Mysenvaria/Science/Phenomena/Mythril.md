@@ -2,7 +2,7 @@
 title: Mythril
 enableToc: true
 tags:
-  - geography/phenomena
+  - science/phenomena
   - stub
 ---
 

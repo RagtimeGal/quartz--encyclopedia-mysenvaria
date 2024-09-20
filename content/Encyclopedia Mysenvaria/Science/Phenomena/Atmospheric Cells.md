@@ -2,7 +2,7 @@
 title: Atmospheric Cells
 enableToc: true
 tags:
-  - geography/phenomena
+  - science/phenomena
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

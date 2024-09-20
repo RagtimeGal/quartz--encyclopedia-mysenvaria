@@ -2,7 +2,7 @@
 title: Soils
 enableToc: true
 tags:
-  - geography/phenomena
+  - science/phenomena
   - stub
 ---
 

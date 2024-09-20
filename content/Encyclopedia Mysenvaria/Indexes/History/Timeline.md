@@ -3,7 +3,7 @@ title: Timeline
 enableToc: true
 tags:
   - history
-  - meta/timeline
+  - index/timeline
 ---
 # Prehistory
 - 690bt: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space Created]]

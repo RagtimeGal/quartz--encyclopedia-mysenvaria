@@ -3,7 +3,7 @@ title: List of Evolutionary Taxa by Hierarchal Order
 enableToc: true
 tags:
 - index
-- biology/animals
+- biology/animal
 ---
 
 A list of taxa from [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|Evolutionary Classification]] sorted by hierarchal order.

@@ -2,7 +2,7 @@
 title: Ocean Circulation
 enableToc: true
 tags:
-  - geography/phenomena
+  - science/phenomena
   - stub
 ---
 

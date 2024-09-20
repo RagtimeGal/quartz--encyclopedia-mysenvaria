@@ -2,7 +2,7 @@
 title: Weather
 enableToc: true
 tags:
-  - geography/phenomena
+  - science/phenomena
   - stub
 ---
 

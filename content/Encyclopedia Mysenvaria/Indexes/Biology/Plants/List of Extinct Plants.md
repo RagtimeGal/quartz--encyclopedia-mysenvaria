@@ -3,7 +3,7 @@ title: List of Extinct Plants
 enableToc: true
 tags:
 - index
-- biology/animals
+- biology/plant
 ---
 
 This page serves as an index of extinct [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|plants]].
