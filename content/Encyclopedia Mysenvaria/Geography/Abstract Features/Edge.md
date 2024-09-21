@@ -10,7 +10,7 @@ tags:
 
 The Edge is an abstract geographic feature which represents the furthest habitable regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The edge serves as an important reference point for [[Encyclopedia Mysenvaria/Science/Science|scientific]] research thanks to its role in a number of natural phenomena.
 # Geography
-The edge represents the furthest habitable region of the Plane, positioned equidistant in all directions from the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]]. About 60% of the edge occupies land, the other remaining area lying over the oceans. The actual geography of the land beyond the edge is unknown, the [[Encyclopedia Mysenvaria/Science/Phenomena/Fog|fog]] obstructing the Plane beyond.
+The edge represents the furthest habitable region of the Plane, positioned equidistant in all directions from the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]]. About 60% of the edge occupies land, the other remaining area lying over the oceans. The actual geography of the land beyond the edge is unknown, the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] obstructing the Plane beyond.
 
 The land before the edge primarily consists of flat arctic landscapes, and the oceans consist of [[Encyclopedia Mysenvaria/Science/Phenomena/Glaciers|glaciers]] and mixes of [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|seasonal]] and non-seasonal [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|ice sheets]].
 # History

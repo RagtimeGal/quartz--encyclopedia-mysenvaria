@@ -1,8 +1,8 @@
 ---
-title: The Heavens
+title: Great Fog
 enableToc: true
 tags:
-  - geography/abstract
+  - geography/natural
   - stub
 ---
 
@@ -14,7 +14,11 @@ tags:
 
 # Geography
 
-# Climate & Ecology
+# Geology
+
+# Ecology & Climate
+
+# Cultural Significance
 
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/Lists of Natural Features|Lists of Natural Features]]
