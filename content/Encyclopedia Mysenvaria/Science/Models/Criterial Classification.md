@@ -2,7 +2,7 @@
 title: Criterial Classification
 enableToc: true
 tags:
-  - science/principle
+  - science/model
   - stub
 ---
 

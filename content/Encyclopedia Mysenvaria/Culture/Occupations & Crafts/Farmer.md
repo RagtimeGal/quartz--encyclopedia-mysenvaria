@@ -1,5 +1,5 @@
 ---
-title: Wizard
+title: Farmer
 enableToc: true
 tags:
   - culture/occupation

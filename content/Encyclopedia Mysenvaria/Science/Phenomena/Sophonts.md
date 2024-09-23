@@ -2,7 +2,7 @@
 title: Sophonts
 enableToc: true
 tags:
-- science/principle
+- science/model
 - stub
 ---
 

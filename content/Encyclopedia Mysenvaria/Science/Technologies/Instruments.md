@@ -1,8 +1,8 @@
 ---
-title: Wizard
+title: Instruments
 enableToc: true
 tags:
-  - culture/occupation
+  - science/technology
   - stub
 ---
 
@@ -12,13 +12,9 @@ tags:
 
 # History
 
-# Processes
-> [!note]
-> Ad headers and sub-headers as necessary to this section. Go over the occupations crafts, terminologies, and more.
+# Function
 
 # Significance
 
-# Notable Figures
-
-# Also see
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Occupations|List of Occupations]]
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Science/List of Technologies|List of Technologies]]

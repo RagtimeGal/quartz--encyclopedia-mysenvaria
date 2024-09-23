@@ -1,8 +1,8 @@
 ---
-title: Common Ancestors
+title: Wrestling
 enableToc: true
 tags:
-  - science/model
+  - art/games
   - stub
 ---
 
@@ -12,10 +12,10 @@ tags:
 
 # History
 
-# Stuff Here
+# Teams
 
-> [!note]
-> Add headers and sub-headers as necessary to explain different parts of the science.
-# Significance
+# Rules
+
+# Cultural Significance
 
 # See Also

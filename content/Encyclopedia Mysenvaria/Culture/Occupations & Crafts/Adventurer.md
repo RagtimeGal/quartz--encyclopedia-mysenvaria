@@ -13,10 +13,8 @@ tags:
 # History
 
 # Processes
-
 > [!note]
 > Ad headers and sub-headers as necessary to this section. Go over the occupations crafts, terminologies, and more.
-
 
 # Significance
 

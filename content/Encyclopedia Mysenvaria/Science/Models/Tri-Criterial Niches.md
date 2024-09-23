@@ -2,7 +2,7 @@
 title: Tri-Criterial Niches
 enableToc: true
 tags:
-- science/principle
+- science/model
 - stub
 ---
 

@@ -3,15 +3,11 @@ title: God Councils
 enableToc: true
 tags:
 - history/god-war_era
-- stub
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] Councils were a series of related gatherings of a majority of the Gods during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Initiated by [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|higher-Gods]] each of the councils were deeply important and had major impacts on the war. The councils are each recorded in their own [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] and systems, created by the initiators of the meetings. 
 
-The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] Councils were a series of related gatherings of a majority of the Gods during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Initiated by [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|higher-Gods]] each of the councils were highly important and changed the tides of the war. The councils are each recorded in their own [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] created by the initiators. 
-
-The councils would prove necessary multiple times throughout the war and would be influential in creating the [[Encyclopedia Mysenvaria/Science/Models/Natural Laws|laws of nature]] which are known today. Laws like the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]] and [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]] would only come into existence because of the councils. 
+The councils would prove necessary multiple times throughout the war and would be influential in creating many the [[Encyclopedia Mysenvaria/Science/Models/Nature|natural laws]] which govern the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] in the [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|modern day]]. Laws like the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]] and [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]] would only come into existence because of the councils. 
 # First Council
 The first council would be held following the first major battle of the war. A dispute between the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] and [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|God of Calcium]] would lead to the creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater|Great Oceanic Crater]]. Neither of the Gods would come out of the fight mortally wounded, but other neighboring lesser-Gods would not have the same luck. A great local migration would begin, with many Gods seeking refuge in local friendly territories where they could rest.
 

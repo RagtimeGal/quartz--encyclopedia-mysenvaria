@@ -1,8 +1,8 @@
 ---
-title: Natural Laws
+title: Linguistic Evolution
 enableToc: true
 tags:
-  - science/principle
+  - science/model
   - stub
 ---
 
@@ -11,11 +11,5 @@ tags:
 
 
 # History
-
-# Stuff Here
-
-> [!note]
-> Add headers and sub-headers as necessary to explain different parts of the science.
-# Significance
 
 # See Also

@@ -3,10 +3,11 @@ title: Harmony Line
 enableToc: true
 tags:
   - geography/abstract
+  - touch-up
 ---
 
->[!abstract] [[Meta/Meta|Meta]]
->This page is incomplete and could use further elaboration on its impact on [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorological]] [[Encyclopedia Mysenvaria/Science/Science|sciences]] in the [[Encyclopedia Mysenvaria/History/History|History]] section! This callout serves as a future reminder!
+>[!abstract] [[Meta/Touch-ups|Touch-up]]
+>This page could use further elaboration on its impact on [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorological]] [[Encyclopedia Mysenvaria/Science/Science|sciences]] in the [[Encyclopedia Mysenvaria/History/History|History]] section!
 
 The harmony line is a representation of the orbital pattern of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line model is a useful tool for predicting the effects of the Harmonic Treaty at any given time. Despite often being depicted as directly between the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]] and [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] the Treaty has a slightly eccentric orbit which rotates over time, making the common depiction inaccurate.
 

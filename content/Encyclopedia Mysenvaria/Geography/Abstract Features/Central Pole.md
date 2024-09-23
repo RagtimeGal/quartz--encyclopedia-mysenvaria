@@ -3,10 +3,11 @@ title: Central Pole
 enableToc: true
 tags:
   - geography/abstract
+  - touch-up
 ---
 
->[!abstract] [[Meta/Meta|Meta]]
->This page is incomplete and could use further elaboration on its [[Encyclopedia Mysenvaria/History/History|historical]] impact and story! This callout serves as a future reminder!
+>[!abstract] [[Meta/Touch-ups|Touch-ups]]
+>This page could use further elaboration on its [[Encyclopedia Mysenvaria/History/History|historical]] impact and story!
 
 The central pole, usually referred to as just the pole, is an abstract geographic feature serving as the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]][^figure1]. The central pole is not necessarily an important landmark on its own but does serve as a reference point due to its role in a number of natural phenomena.
 # Geography

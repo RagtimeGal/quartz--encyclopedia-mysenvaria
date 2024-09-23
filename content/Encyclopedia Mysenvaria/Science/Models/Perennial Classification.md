@@ -2,7 +2,7 @@
 title: Perennial Classification
 enableToc: true
 tags:
-- science/principle
+- science/model
 - stub
 ---
 

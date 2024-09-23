@@ -1,5 +1,5 @@
 ---
-title: Holiday Template
+title: Solstice
 enableToc: true
 tags:
   - culture/holiday

@@ -3,12 +3,13 @@ title: Heavens
 enableToc: true
 tags:
   - geography/abstract
+  - touch-up
 ---
 
-> [!abstract] [[Meta/Meta|Meta]]
-> This page is incomplete and could use more information on its impact [[Encyclopedia Mysenvaria/Culture/Culture|cultural]] impact! This callout serves a future reminder!
+> [!abstract] [[Meta/Touch-ups|Touch-up]]
+> This page could use more information on its [[Encyclopedia Mysenvaria/Culture/Culture|cultural]] impact!
 
-The Heavens is an [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract]] geographical feature used to refer to the space above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]]. The heavens are devoid of air and are where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside in orbit. While the heavens itself does not have a major impact on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] the stars greatly impact the [[Encyclopedia Mysenvaria/Science/Models/Natural Laws|natural laws]] of the world.
+The Heavens is an [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract]] geographical feature used to refer to the space above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]]. The heavens are devoid of air and are where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside in orbit. While the heavens itself does not have a major impact on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] the stars greatly impact the [[Encyclopedia Mysenvaria/Science/Models/Nature|natural laws]] of the world.
 # History
 The heavens have existed since the creation of the Plane by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Life and Death|Gods of Life and Death]]. According to most translations of the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]], when creating the Plane Life and Death would divide it into infinitely inequal thirds, creating the earth, atmosphere, and heavens.
 

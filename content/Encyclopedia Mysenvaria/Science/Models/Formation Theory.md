@@ -2,7 +2,7 @@
 title: Formation Theory
 enableToc: true
 tags:
-- science/principle
+- science/model
 - stub
 ---
 

@@ -2,7 +2,7 @@
 title: (Name)'s Index
 enableToc: true
 tags:
-- science/principle
+- science/model
 - stub
 ---
 
