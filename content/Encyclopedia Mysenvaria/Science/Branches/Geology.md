@@ -1,8 +1,8 @@
 ---
-title: Longitude & Latitude
+title: Geology
 enableToc: true
 tags:
-  - geography/abstract
+  - science/branch
   - stub
 ---
 
@@ -12,9 +12,11 @@ tags:
 
 # History
 
-# Geography
+# Stuff Here
 
-# Climate & Ecology
+> [!note]
+> Add headers and sub-headers as necessary to explain different parts of the science.
+# Significance
 
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]
+# See Also
+- [[Encyclopedia Mysenvaria/Indexes/Science/List of Scientific Branches|List of Scientific Branches]]

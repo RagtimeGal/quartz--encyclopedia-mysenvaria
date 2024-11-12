@@ -2,8 +2,8 @@
 title: Formation Theory
 enableToc: true
 tags:
-- science/model
-- stub
+  - science/model
+  - stub
 ---
 
 > [!note] Stub

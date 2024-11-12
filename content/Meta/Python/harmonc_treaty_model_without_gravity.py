@@ -8,8 +8,8 @@ from matplotlib.widgets import Slider
 plane_radius = 8757.84
 treaty_radius = 0.53 * plane_radius
 initial_treaty_tilt_angle = np.radians(7.25)
-treaty_height, treaty_eccentricity = 3844, 0.017
-years_per_rotation, total_days_in_year, minutes_in_day, start_day, start_year, current_frame = 2.7, 360, 24 * 60, 0, 0, 0
+treaty_height, treaty_eccentricity = 3844, 0.8
+years_per_rotation, total_days_in_year, minutes_in_day, start_day, start_year, current_frame = 2, 360, 24 * 60, 0, 0, 0
 # Calc
 R = np.sqrt(0.27 * plane_radius**2 + treaty_height**2)
 theta = np.linspace(0, 2 * np.pi, 1000)
@@ -22,7 +22,7 @@ plt.subplots_adjust(bottom=0.25)
 figManager = plt.get_current_fig_manager()
 figManager.window.state('zoomed')
 # Slider setup
-speed_slider = Slider(plt.axes([0.2, 0.05, 0.65, 0.03], facecolor='lightgoldenrodyellow'), 'Speed', 0.1, 20.0, valinit=7.5, valstep=0.1)
+speed_slider = Slider(plt.axes([0.2, 0.05, 0.65, 0.03], facecolor='lightgoldenrodyellow'), 'Speed', 0.1, 20.0, valinit=0.1, valstep=0.1)
 # Setup helper function to set limits and labels
 def set_limits_labels(ax, title, xlabel, ylabel, legend_location='best'):
     ax.set_xlim(-plane_radius * 1.3, plane_radius * 1.3)

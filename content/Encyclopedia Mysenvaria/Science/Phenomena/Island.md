@@ -1,5 +1,5 @@
 ---
-title: Tectonics
+title: Island
 enableToc: true
 tags:
   - science/phenomena

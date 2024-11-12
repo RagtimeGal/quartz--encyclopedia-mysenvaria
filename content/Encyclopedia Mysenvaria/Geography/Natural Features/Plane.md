@@ -24,7 +24,7 @@ The Plane would be shaped into how we know it today through the events of the [[
 The creation of [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|plants]], in the year 523bt, would also be a turning point in the geologic history of the Plane. Plants would inadvertently work to break up the top layer of earth and create [[Encyclopedia Mysenvaria/Science/Phenomena/Soils|soil]]. While plants had already established ecosystems across the Plane they moved incredibly slow, the creation of [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]] would speed up these ecosystems.
 # Characteristics
 ## Hydrosphere
-
+The surface of the Plane consists of 47% water.
 ## Atmosphere
 
 # Geology

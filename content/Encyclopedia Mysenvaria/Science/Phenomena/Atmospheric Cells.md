@@ -22,14 +22,14 @@ Starting at the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Li
 
 Starting at the harmony line and moving outwards towards the edge:
 - The outer Harmonic Cell lasts from the harmony line to 5,692km from the pole;
-- The Inner Cell goes from the outer edge of the Harmonic Cell to 5,692km from the pole;
-- The Outer Cell goes from the outer edge of the Inner Cell to 7,006km out from the pole;
-- The Edge Cell goes from the outer edge of the Outer Cell to 8,319km from the pole.
+- The Inner Cell goes from the outer edge of the Harmonic Cell to 7,006km from the pole;
+- The Outer Cell goes from the outer edge of the Inner Cell to 8,319km out from the pole;
+- The Edge Cell goes from the outer edge of the Outer Cell to the edge of the pole.
 # See Also
 - [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|Meteorology]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Ocean Circulation|Ocean Circulation]]
+- [[Oceanic Circulation|Oceanic Circulation]]
 
 
 [^figure1]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]

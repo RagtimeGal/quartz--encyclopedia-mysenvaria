@@ -2,8 +2,8 @@
 title: (Name)'s Index
 enableToc: true
 tags:
-- science/model
-- stub
+  - science/model
+  - stub
 ---
 
 > [!note] Stub
