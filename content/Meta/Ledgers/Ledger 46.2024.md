@@ -15,7 +15,14 @@ This is the very first Lore Ledger for the Encyclopedia Mysenvaria. Lore Ledgers
 # Project Updates
 Projects are a way to keep track of the aforementioned goals! Projects are intended to be clear and concise objectives paired with soft deadlines to encourage myself to finish them. Projects have clear end objectives, an overview of the pages and steps needed to reach that objective, and like mentioned a deadline to meet that objective.
 
-Currently the only active project is *[[Meta/Ledgers/Projects/Project-Climate|Climate]]*, with the deadline of the 48th week. This project's objective is to complete the climate of the Plane. At the moment I am on track to have this Project complete by the deadline.
+> [!important] Climate
+> > [!info] Dates
+> > **Started:** 46/2024
+> > **Deadline:** 48/2024
+> 
+> Complete a map of the climate in unison with the completion of pages regarding the climate of the Plane. This should include various scientific phenomena, models, and geographical features. Pages like tectonics, atmospheric and oceanic circulation, climate classifications, etc.
+> 
+> At the moment the project is on track for completion.
 # Changelog
 Besides projects Lore Ledgers also include a changelog of pages which have been removed, added, and edited in the past week.
 ## Added
