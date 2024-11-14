@@ -8,7 +8,9 @@ tags:
 
 > [!summary] Lore Ledger #1
 > 46/2024
+> 
 > **Previous Ledger:** N/A
+> 
 > **Next Ledger:** Upcoming
 
 This is the very first Lore Ledger for the Encyclopedia Mysenvaria. Lore Ledgers are [[Meta/Meta|meta]] pages, intended to be weekly overviews of the Encyclopedia's progress and update readers on the current focus. Ledgers are meant to create clear and concise goals which I work towards over one or more weeks, with the intention of improving the quality of the Encyclopedia over time by encouraging myself to work on it weekly!
@@ -45,6 +47,6 @@ Besides projects Lore Ledgers also include a changelog of pages which have been 
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]; Minor change to add a small factoid regarding the water:land ratio of the Plane.
 - [[Encyclopedia Mysenvaria/Geography/Stars/Birth Star|Birth Star]] & [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]]; Birth Star was incorrectly called the first star, this was fixed and now the First Epoch Star page is correct.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]; Now lists the correct distances from the pole.
-- [[Meta/Ledgers/Projects/Project-Climate|Project-Climate]]; Has been updated from a stub to a touch-up.
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Climate|Climate]]; Has been updated from a stub to a touch-up.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Oceanic Circulation|Oceanic Circulation]]; Renamed from ocean circulation.
 - [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]; Moved from phenomena to models, updated from a stub to a touch-up.
