@@ -17,7 +17,9 @@ Projects are a way to keep track of the aforementioned goals! Projects are inten
 
 > [!important] Climate
 > > [!info] Dates
+> > 
 > > **Started:** 46/2024
+> > 
 > > **Deadline:** 48/2024
 > 
 > Complete a map of the climate in unison with the completion of pages regarding the climate of the Plane. This should include various scientific phenomena, models, and geographical features. Pages like tectonics, atmospheric and oceanic circulation, climate classifications, etc.
