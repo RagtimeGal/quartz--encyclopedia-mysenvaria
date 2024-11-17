@@ -9,7 +9,7 @@ tags:
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-Stars are [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavenly]] objects, made of [[Encyclopedia Mysenvaria/Science/Phenomena/Mythril|mythril]] and created by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. Stars are the true written form of [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]] and have been used by Gods throughout history as tools for communication. Stars also hold true power over the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], responsible for creating and enforcing the [[Encyclopedia Mysenvaria/Science/Models/Nature|natural laws]].
+Stars are [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavenly]] objects, made of [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]] and created by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. Stars are the true written form of [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]] and have been used by Gods throughout history as tools for communication. Stars also hold true power over the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], responsible for creating and enforcing the [[Encyclopedia Mysenvaria/Science/Models/Nature|natural laws]].
 
 Like Gods, stars are a part of [[Encyclopedia Mysenvaria/Science/Models/Nature|nature]] which manifests itself physically.
 # History

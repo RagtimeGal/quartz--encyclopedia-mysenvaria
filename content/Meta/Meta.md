@@ -7,7 +7,7 @@ tags:
 
 Meta, short for metatext or metatextual, refers to self-referential commentative text. Meta, when used across this encyclopedia, refers to articles, notes, or references across the encyclopedia with have to do with non-canon material.
 
-Meta pages serve as a repositories of non-canon information regarding the encyclopedia, including [[Meta/Writing Guidelines|writing guidelines]] for pages, how pages like [[Meta/Stubs|stubs]] work, and how information in the encyclopedia is allowed to be used. For anyone looking to help contribute to the encyclopedia it is highly recommended that the meta pages are read and appreciated that they are followed.
+Meta pages serve as repositories of non-canon information regarding the encyclopedia, including [[Meta/Writing Guidelines|writing guidelines]] for pages, how pages like [[Meta/Stubs|stubs]] work, and how information in the encyclopedia is allowed to be used. For anyone looking to help contribute to the encyclopedia it is highly recommended that the meta pages are read and appreciated that they are followed.
 
 This page in particular is meant to serve as a starting place for those looking to explore how the encyclopedia works, what its meant for, how to use it, and how to help if you so wish!
 

@@ -19,7 +19,7 @@ tags:
 > > [!info] Creation Date
 > > c. BT 446
 
-Moths which lay dormant across much of the Plane. When a star falls heaps of these moth emmerge from the ground to follow the star, consuming mythril which forms around it. In the modern day they are close to extinction.
+Moths which lay dormant across much of the Plane. When a star falls heaps of these moth emmerge from the ground to follow the star, consuming limn which forms around it. In the modern day they are close to extinction.
 
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Biology/Taxa/Lists of Taxa|Lists of Taxa]]

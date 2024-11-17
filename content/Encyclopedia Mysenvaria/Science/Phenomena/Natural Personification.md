@@ -9,7 +9,7 @@ tags:
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-Natural personification is the tendency of [[Encyclopedia Mysenvaria/Science/Models/Nature|nature]] to turn its laws, processes, and materials into physical things. This process creates [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], [[Encyclopedia Mysenvaria/Science/Phenomena/Mythril|mythril]], and [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]].
+Natural personification is the tendency of [[Encyclopedia Mysenvaria/Science/Models/Nature|nature]] to turn its laws, processes, and materials into physical things. This process creates [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]], and [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]].
 # History
 
 # Stuff Here
