@@ -1,5 +1,5 @@
 ---
-title: Lore Ledger #1
+title: "Lore Ledger 46.24"
 enableToc: true
 tags:
   - meta
@@ -11,7 +11,7 @@ tags:
 > 
 > **Previous Ledger:** N/A
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 47.2024|Ledger 47.2024]]
 
 This is the very first Lore Ledger for the Encyclopedia Mysenvaria. Lore Ledgers are [[Meta/Meta|meta]] pages, intended to be weekly overviews of the Encyclopedia's progress and update readers on the current focus. Ledgers are meant to create clear and concise goals which I work towards over one or more weeks, with the intention of improving the quality of the Encyclopedia over time by encouraging myself to work on it weekly!
 # Project Updates
