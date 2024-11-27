@@ -11,7 +11,7 @@ tags:
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 46.2024|Ledger 46.2024]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 48.2024|Ledger 48.2024]]
 
 Another week another Lore Ledger for the Encyclopedia! This week didnt see many edits to the text across the Encyclopedia, though there was plenty of progress regarding the foundational aspects of the setting. A notable change across the Encyclopedia is the renaming of mythril, now known as [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]]. Mythril was always a temporary name, and I believe limn fits the material much better.
 # Project Updates
@@ -34,5 +34,5 @@ At the moment the only project remains climate. Progress is moving smoothly on t
 
 ## Updated
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]; renamed from Mythril.
-- [[Encyclopedia Mysenvaria/Biology/Species/Starmoth|Starmoth]], [[Encyclopedia Mysenvaria/Science/Models/Nature|Nature]], [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]; Changed instances of mythril to limn.
+- [[Encyclopedia Mysenvaria/Biology/Species/Starmoth|Starmoth]], [[Encyclopedia Mysenvaria/Science/Models/Universal Strata|Universal Strata]], [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]; Changed instances of mythril to limn.
 - [[Meta/Meta|Meta]]; Grammar fix.
