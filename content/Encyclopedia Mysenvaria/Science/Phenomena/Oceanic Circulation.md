@@ -21,5 +21,5 @@ Deep circulation comes in the form of the thermohaline[^figure2]. Believed to be
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|Ice Sheets]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Rivers|Rivers]]
 
-[^figure1]: ![[Meta/Images/Maps/Pixelart/ocean_currents.png]]
-[^figure2]: ![[Meta/Images/Maps/Pixelart/thermohaline.png]]
+[^figure1]: ![[Meta/Images/Infographics/ocean_currents.png]]
+[^figure2]: ![[Meta/Images/Infographics/thermohaline.png]]

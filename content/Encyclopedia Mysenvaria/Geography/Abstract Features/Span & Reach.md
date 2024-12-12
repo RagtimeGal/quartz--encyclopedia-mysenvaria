@@ -17,5 +17,5 @@ Most often on world [[Encyclopedia Mysenvaria/Science/Technologies/Maps|maps]] s
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]
 
-[^figure1]: ![[Meta/Images/Maps/Pixelart/coordinate_map.png]]
+[^figure1]: ![[Meta/Images/Maps/contour.png]]
 [^starward]: Counterclockwise

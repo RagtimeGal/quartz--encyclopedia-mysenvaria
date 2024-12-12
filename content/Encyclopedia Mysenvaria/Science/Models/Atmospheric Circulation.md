@@ -31,7 +31,7 @@ On the contrary, at some points of the year when it is in its transitionary peri
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Tides|Tides]]
 
-[^figure1]: ![[Meta/Images/Maps/Pixelart/world_diagram.png]]
-[^figure2]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]
+[^figure1]: ![[Meta/Images/Infographics/world_diagram.png]]
+[^figure2]: ![[Meta/Images/Infographics/atmospheric_cells.png]]
 [^clockwise]: Counterclockwise
 [^figure3]: ![[Meta/Videos/10-year-from-creation-simulation.mp4]]

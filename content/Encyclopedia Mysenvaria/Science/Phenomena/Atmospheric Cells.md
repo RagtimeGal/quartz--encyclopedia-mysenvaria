@@ -32,4 +32,4 @@ Starting at the harmony line and moving outwards towards the edge:
 - [[Oceanic Circulation|Oceanic Circulation]]
 
 
-[^figure1]: ![[Meta/Images/Maps/Pixelart/atmospheric_cells.png]]
+[^figure1]: ![[Meta/Images/Infographics/atmospheric_cells.png]]

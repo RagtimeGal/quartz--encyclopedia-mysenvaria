@@ -11,7 +11,7 @@ tags:
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 47.2024|Ledger 47.2024]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 50.2024|Ledger 50.2024]]
 
 Welcome to the third Lore Ledger. Not many changes have been made to the encyclopedia, though there has been progress on the climate. Unfortunately, due to limited free time, the climate project has not met its deadline. Though it should be done some time in the following week.
 # Project Updates
@@ -28,7 +28,7 @@ At the moment the only project remains climate. Despite some setbacks the projec
 > 
 > The previously expected deadline was not reached. However, it is expected to still be completed soon. Here are the maps as they stand. There is only a little more work to go until everything is complete!
 > 
-> ![[Meta/Images/Maps/Pixelart/temperature.gif]] ![[Meta/Images/Maps/Pixelart/precipitation.gif]]
+> ![[Meta/Images/Maps/temperature_wo_contour.gif]] ![[Meta/Images/Maps/precipitation_wo_contour.gif]]
 # Changelog
 ## Added
 

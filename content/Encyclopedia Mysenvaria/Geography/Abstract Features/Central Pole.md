@@ -25,6 +25,6 @@ The Deadman's Sea creates a relatively uninhabitable environment around the pole
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]
 
-[^figure1]: ![[Meta/Images/Maps/Pixelart/world_diagram.png]]
-[^figure2]: ![[Meta/Images/Maps/Pixelart/ocean_currents.png]]
+[^figure1]: ![[Meta/Images/Infographics/world_diagram.png]]
+[^figure2]: ![[Meta/Images/Infographics/ocean_currents.png]]
 [^figure3]: ![[Meta/Videos/10-day-modern-simulation.mp4]]
