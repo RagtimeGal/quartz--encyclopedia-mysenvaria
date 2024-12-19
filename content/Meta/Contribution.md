@@ -14,9 +14,9 @@ Contribution to the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encycl
 
 The encyclopedia is hosted through GitHub and uses Quartz to generate the site! Because of this, it is very easy to suggest changes to the project using GitHub's suite of features!
 # Ownership, Acknowledgement, and Monetization
-As the original creator, owner, and primary author of the Encyclopedia Mysenvaria, I, Ragno, retain ownership of all content across the site. By submitting any text, images, or other content to the Encyclopedia you agree that those contributions will become the property of the project, and thus myself.
+As the original creator, owner, editor, and primary author of the Encyclopedia Mysenvaria, I, Ragno, retain ownership of all content across the site. By submitting any text, images, or other content to the Encyclopedia you agree that those contributions will become the property of the project, and thus myself.
 
-It is important to acknowledge that the Encyclopedia Mysenvaria is my own project and story. While contributions are welcomed and appreciated, the Encyclopedia is a single part of a much larger vision that has been constructed since I was a child. By contributing you can add to that vision, but it is essential to me that the project remains cohesive and aligned with my creative vision.
+The Encyclopedia Mysenvaria is my own project and story. While contributions are welcomed and appreciated, the Encyclopedia is a single part of a much larger vision that has been constructed since I was a child. By contributing you can add to that vision, but it is essential to me that the project remains cohesive and aligned with my original creative vision.
 
 To ensure this, I retain ownership of all contributions made to the project so that they may be properly managed and modified to fit the direction of the project. ***If a contributor wishes they may have their name and a link to their personal site added to the [[Meta/Contributors|Contributors]] page, which is linked to from all points of the site.*** You must reach out to myself or submit a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) for the contributor page if you wish to have your name added, please provide proof of your contribution.
 

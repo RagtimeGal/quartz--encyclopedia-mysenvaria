@@ -147,7 +147,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>People &amp; Characters</category>
-      <description>The death of an unknown God marks the first time a God has ever been shown to be mortal, kickstarting the God-War.</description>
+      <description>The death of an unknown God marks the first time a God has ever been shown to be mortal, kickstarting the God-War as Gods begin to fight to protect their own lives.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -317,7 +317,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Star documenting the creation of the Gods of Matter, Energy, Time, and Space by Life and Death. The star is also responsible for many of the laws of reality still present today.</description>
+      <description>Published by Life and Death, the First Epoch Star documents their creation of the Creation Quadrinity, the Gods of Matter, Energy, Time, and Space. The star is responsible for most of the foundation of unreality.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -331,7 +331,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>History</category>
-      <description>The quickening begins, with every god being created in this time.</description>
+      <description>Matter creates the Elemental Gods, and the Quickening begins. Natural Subdivision creates all known and unknown Gods.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -345,7 +345,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Published by the God of Carbon, documents the creation of many carbon compound Gods.</description>
+      <description>Named after the original translator of the host star. A system consisting of 217 stars, the host star was published by the God of Matter, documenting their own creation of the Gods of Elements. Subsequent stars would be created by lesser-Gods documenting their own natural subdivisions. These stars are often organized by what kinds of Gods published them.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -359,7 +359,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Host star created by an unknown God but revived by Death themself. Star was made documenting the first fights of the war.</description>
+      <description>Host star created by an unknown God but revived by Death themself. Star was made documenting the first fights of the war. The system would be flooded with stars by other Gods retelling their own version of the events, but also by others discussing the philosophical aspects of what has begun. A system of nearly 300 stars, though most belong to unknown or otherwise obscure Gods, many have been revived by other Gods.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -373,7 +373,8 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>History</category>
-      <description>The first convening is held, a gathering of 17 Gods each of whom had witnessed the first death, organized by the God of Fulgurite, to discuss what they had seen.</description>
+      <description>The first convening is held, a gathering of 17 Gods each of whom had witnessed the first death, organized by the God of Fulgurite, to discuss what they had seen. Each of the 17 members goes on to be instrumental in the war.
+The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xanthate, Porous Rock, Hydrogen Cyanide, Rubidium Perchlorate, Ethionamide, Penguinone, Sound, Diethyl Dixanthogen Disulfide, Water, Tectonics, Past, Transformation, Roll, Nickel, Weather.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -387,7 +388,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Created by the God of Chromodynamic Energy following the First Convening. They would conclude that there must be an afterlife and would, with Fulgurite, found the first religion.</description>
+      <description>Published by the God of Chromodynamic Energy, based off of material discussed at the First Convening they would conclude that there must be an afterlife for the Gods.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -499,7 +500,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Biology</category>
-      <description>Fungi are invented by an unknown God.</description>
+      <description>Fungi are invented by Rubidium Perchlorate and Hydrogen Cyanide.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -630,7 +631,7 @@
     <event>
       <start>-170</start>
       <end>-170</end>
-      <text>Fire Reigns Star</text>
+      <text>Fire Rains Star</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -770,7 +771,7 @@
     <event>
       <start>-56</start>
       <end>-56</end>
-      <text>Alex's System</text>
+      <text>Humanity System</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -838,8 +839,8 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-51</start>
-      <end>-51</end>
+      <start>-49</start>
+      <end>-49</end>
       <text>Elves Invented</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -852,8 +853,8 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-51</start>
-      <end>-51</end>
+      <start>-49</start>
+      <end>-49</end>
       <text>Elven System</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -966,7 +967,7 @@
     <event>
       <start>-160</start>
       <end>-160</end>
-      <text>Half of all Gods to Ever Exist Have Passed</text>
+      <text>Three Quarters of all Gods to Ever Exist Have Passed</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -974,7 +975,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Culture &amp; Society</category>
-      <description>Half of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
+      <description>Three quarters of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1128,7 +1129,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Star created by the God of Sodium Ethyl Xandthate to document the rooting of the first elven elder.</description>
+      <description>Star created by the God of Sodium Ethyl Xanthate to document the rooting of the first elven elder.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1202,8 +1203,8 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-165</start>
-      <end>-165</end>
+      <start>-175</start>
+      <end>-175</end>
       <text>Spatial Act Passed</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -1212,12 +1213,12 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Fighting between Gods and the abuse of space and time would lead to the passing of the spatial act by Time and Space.</description>
+      <description>Abuse of their ability to manipulate time and space leads to the Gods of Time and Space passing the Spatial Act, severly limiting Gods abilities to do so. Gods had begun to develop tactics of folding in time to trap an opponent inside of a kind of bubble.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-169</start>
-      <end>-169</end>
+      <start>-173</start>
+      <end>-173</end>
       <text>Material Limits Act Passed</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -1226,12 +1227,12 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Fighting between Gods would lead Matter and Energy to limit God's abilities to manipulate and create matter.</description>
+      <description>Abuse of the ability to manipulate and create matter would lead to the God of Matter passing the Material Limits Act, severely limiting Gods abilities to do so.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-174</start>
-      <end>-174</end>
+      <start>-171</start>
+      <end>-171</end>
       <text>Energy Act Passed</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -1240,7 +1241,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Gods use of energy to atomize large populations causes the passing of the Energy Act, which limited their abilities to use these kinds of tactics.</description>
+      <description>Gods abuse of infinite energy causes the passing of the Energy Act, limiting their abilities to manipulate and create energy. The act is refuted by many Gods, forming a small system of stars around itself, but the God of Energy does not back down from their stance and maintains the act.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1342,8 +1343,8 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-104</start>
-      <end>-104</end>
+      <start>-53</start>
+      <end>-53</end>
       <text>Sodium Ethyl Xanthate battles Fulgurite</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -1356,8 +1357,8 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-24</start>
-      <end>-24</end>
+      <start>-23</start>
+      <end>-23</end>
       <text>Sodium Ethyl Xanthate Returns</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -1369,11 +1370,339 @@
       <description>After their reclusive era SEX returns to the political scene.</description>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-176</start>
+      <end>-176</end>
+      <text>Convening Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Published by Fulgurite, later revived by Sodium Ethyl Xanthate, the star details the First Convening, its organizing, those who arrived, the discussions held therein, and the conclusions drawn.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-169</start>
+      <end>-169</end>
+      <text>Cost of War Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-172</start>
+      <end>-172</end>
+      <text>Upper Limits Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-167</start>
+      <end>-167</end>
+      <text>Bloodletting Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-164</start>
+      <end>-164</end>
+      <text>Growing Territory Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-162</start>
+      <end>-162</end>
+      <text>Shrinking Population Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-166</start>
+      <end>-166</end>
+      <text>Old Tension Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-166</start>
+      <end>-166</end>
+      <text>Ironclad Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-164</start>
+      <end>-164</end>
+      <text>Red Sky Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-163</start>
+      <end>-163</end>
+      <text>Breaking Point Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-165</start>
+      <end>-165</end>
+      <text>Falling Breath Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-170</start>
+      <end>-170</end>
+      <text>Shattered Piece Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-166</start>
+      <end>-166</end>
+      <text>Shattered Peace Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-171</start>
+      <end>-171</end>
+      <text>Shattered Sky Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-174</start>
+      <end>-174</end>
+      <text>Starfall Epoch Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-161</start>
+      <end>-161</end>
+      <text>Vanishing Lights Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-168</start>
+      <end>-168</end>
+      <text>Skyward Inferno Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-173</start>
+      <end>-173</end>
+      <text>Stolen Ground Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-167</start>
+      <end>-167</end>
+      <text>Dominion Broken Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-175</start>
+      <end>-175</end>
+      <text>Waning Strength Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-177</start>
+      <end>-160</end>
+      <text>Dying Period</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Period of time classified by Historians as the time before three quarters of all Gods to ever exist passed away.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-127</start>
+      <end>-127</end>
+      <text>Mycelia System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-5</start>
+      <end>-5</end>
+      <text>Human Protections Act</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Passed by Sodium Ethyl Xanthate and Diethyl Dixanthogen Disulfide, would be signed by many of the southern Gods which had been rallied to the cause by SEX.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-41</start>
+      <end>-41</end>
+      <text>Tectonics Passes</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-51</start>
+      <end>-51</end>
+      <text>Founding of Sextown</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture &amp; Society</category>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-216</start>
-      <end>36</end>
+      <start>-180</start>
+      <end>-165</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
