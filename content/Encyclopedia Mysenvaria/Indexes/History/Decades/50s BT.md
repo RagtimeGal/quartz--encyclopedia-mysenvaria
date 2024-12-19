@@ -12,10 +12,12 @@ tags:
 
 > [!summary] 50s BT
 > > [!summary] Decades
+> >
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT|60s BT]], **50s BT**, [[Encyclopedia Mysenvaria/Indexes/History/Decades/40s BT|40s BT]] ...
 > 
 > 
 > > [!summary] Centuries
+> >
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century BT|1st Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century AT|1st Century AT]] ...
 
 # Events

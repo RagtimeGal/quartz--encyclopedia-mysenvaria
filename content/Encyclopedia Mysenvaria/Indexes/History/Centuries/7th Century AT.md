@@ -12,10 +12,12 @@ tags:
 
 > [!summary] 7th Century AT
 > > [!summary] Decades
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Decades/590s AT|590s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/600s AT|600s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/610s AT|610s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/620s AT|620s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/630s AT|630s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/640s AT|640s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/650s AT|650s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/660s AT|660s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/670s AT|670s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/680s AT|680s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/690s AT|690s AT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/700s AT|700s AT]] ...
 > 
 > 
 > > [!summary] Centuries
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Centuries/6th Century AT|6th Century AT]], **7th Century AT**, [[Encyclopedia Mysenvaria/Indexes/History/Centuries/8th Century AT|8th Century AT]] ...
 
 # Events
