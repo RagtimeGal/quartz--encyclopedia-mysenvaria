@@ -1,5 +1,5 @@
 ---
-title: God's Afterlife
+title: Deities
 enableToc: true
 tags:
   - culture/belief

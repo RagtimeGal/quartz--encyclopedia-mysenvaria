@@ -19,10 +19,6 @@ tags:
 > > ... **2nd Century BT**, [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century BT|1st Century BT]] ...
 
 # Events
-## 200s BT
-
-## 190s BT
-
 ## 180s BT
 
 ## 170s BT

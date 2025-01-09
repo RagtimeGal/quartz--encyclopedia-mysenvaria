@@ -939,7 +939,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
     <event>
       <start>-36</start>
       <end>-36</end>
-      <text>36.212,9104.2 Born</text>
+      <text>Metapsammiteson Born</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -965,20 +965,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-160</start>
-      <end>-160</end>
-      <text>Three Quarters of all Gods to Ever Exist Have Passed</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
-      <description>Three quarters of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-15</start>
       <end>-15</end>
       <text>Northern Mountains Created</text>
@@ -995,7 +981,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
     <event>
       <start>-12</start>
       <end>-12</end>
-      <text>12.345,6989.3 Born</text>
+      <text>Lightningson Born</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -1247,7 +1233,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
     <event>
       <start>-6</start>
       <end>-6</end>
-      <text>39.63,6394.1 Passes</text>
+      <text>Lightningson Passes</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -1698,11 +1684,51 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <category>Culture &amp; Society</category>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-135</start>
+      <end>-135</end>
+      <text>Sexual Reproduction Invented</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Biology</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-135</start>
+      <end>-135</end>
+      <text>Sex Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-160</start>
+      <end>-160</end>
+      <text>3/4 of Gods have Passed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture &amp; Society</category>
+      <description>Three quarters of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-180</start>
-      <end>-165</end>
+      <start>-179</start>
+      <end>-160</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
