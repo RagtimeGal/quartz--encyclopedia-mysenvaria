@@ -9,7 +9,7 @@ tags:
 > [!summary] Lore Ledger #6
 > 2/2025
 > 
-> **Previous Ledger:** [[Meta/Ledgers/Ledger 50.2024|Ledger 51.2024]]
+> **Previous Ledger:** [[Meta/Ledgers/Ledger 51.2024|Ledger 51.2024]]
 > 
 > **Next Ledger:** Upcoming
 
