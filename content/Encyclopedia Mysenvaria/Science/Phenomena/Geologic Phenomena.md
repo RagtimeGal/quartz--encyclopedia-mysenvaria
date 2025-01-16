@@ -1,27 +1,23 @@
 ---
-title: God Councils
+title: Rift
 enableToc: true
 tags:
-- history/god-war_era
-- stub
+  - science/phenomena
+  - stub
 ---
 
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-# First Council
+# Strata
 
-# Second Council
+# Layers
 
-# Third Council
+# Tectonics
 
-# Fourth Council
+## Convergent
 
-# Fifth Council
+## Divergent
 
-# Sixth Council
-
-# Seventh Council
-
-# See Also
+## Transform

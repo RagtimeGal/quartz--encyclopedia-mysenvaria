@@ -11,7 +11,7 @@ tags:
 
 | Star Name                                                                                                                                                                                          | Publish Date | Description |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------- |
-| [[Encyclopedia Mysenvaria/Geography/Stars/Bernie's Star System/Bernie's Star\|Bernie's Star]], [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Bernie's Star System\|Bernie's Star System]] | 178 BT       |             |
+| [[Encyclopedia Mysenvaria/Geography/Stars/Bernie's Star System/Quickening Star\|Bernie's Star]], [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System\|Bernie's Star System]] | 178 BT       |             |
 | [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star\|Death's Star]], [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System\|Death's Star System]]      | 177 BT       |             |
 | [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Afterlife Star\|Afterlife Star]]                                                                                                        | 176 BT       |             |
 | [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star\|Convening Star]]                                                                                                                         | 176 BT       |             |

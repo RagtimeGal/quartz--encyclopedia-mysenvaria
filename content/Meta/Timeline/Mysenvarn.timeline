@@ -337,7 +337,7 @@
     <event>
       <start>-178</start>
       <end>-178</end>
-      <text>Bernie's System</text>
+      <text>Quickening System</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -345,7 +345,7 @@
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Named after the original translator of the host star. A system consisting of 217 stars, the host star was published by the God of Matter, documenting their own creation of the Gods of Elements. Subsequent stars would be created by lesser-Gods documenting their own natural subdivisions. These stars are often organized by what kinds of Gods published them.</description>
+      <description>A system consisting of 217 stars, the host star was published by the God of Matter, documenting their own creation of the Gods of Elements. Subsequent stars would be created by lesser-Gods documenting their own natural subdivisions. These stars are often organized by what kinds of Gods published them.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1724,11 +1724,25 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <description>Three quarters of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>0</start>
+      <end>20</end>
+      <text>Great Dying</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The period of time after the war where the massive changes across the Plane caused by the Harmonic Treaty led to mass extinction of many organisms.</description>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-179</start>
-      <end>-160</end>
+      <start>-198</start>
+      <end>-98</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>

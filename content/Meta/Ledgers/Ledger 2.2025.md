@@ -11,11 +11,11 @@ tags:
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 51.2024|Ledger 51.2024]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 3.2025|Ledger 3.2025]]
 
 Welcome to the sixth Lore Ledger. This time around we do have a lot to cover, though not much has happened on the pages front. I have pushed the deadline date for the current God-War project back because I am a master procrastinator, but also because the scope was larger than I had initially hoped for, including a rewrite of the entire [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] page.
 # Project Updates
-The God-War project is absolutely not going to be finished by the previous date thanks to a number of factors. I've pushed it back by another two weeks. My goal is to have the [[Encyclopedia Mysenvaria/History/God-War Era/Topographical History of the Plane|Topographical History of the Plane]] page finished by this week, and then use that as a foundation to start bouncing around to other pages.
+The God-War project is absolutely not going to be finished by the previous date thanks to a number of factors. I've pushed it back by another two weeks. My goal is to have the [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]] page finished by this week, and then use that as a foundation to start bouncing around to other pages.
 
 > [!important] God-War History
 > > [!info] Dates
@@ -28,7 +28,7 @@ The God-War project is absolutely not going to be finished by the previous date 
 # Changelog
 ## Added
 - [[Encyclopedia Mysenvaria/Culture/Beliefs/Deities|Deities]]; Covering the belief in deities across the setting.
-- [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]], [[Encyclopedia Mysenvaria/History/God-War Era/Topographical History of the Plane|Topographical History of the Plane]]; Specific history topic pages.
+- [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]], [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]; Specific history topic pages.
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/By Year/List of Stars Made in the 2nd Century BT|List of Stars Made in the 2nd Century BT]]; May be removed later? Currently testing different ways of organizing the pages on stars because I'm a little unhappy with it.
 ## Removed
 - God-War Era Rewrite; Removed in favor of just doing the rewrite directly on the God-War Era page.

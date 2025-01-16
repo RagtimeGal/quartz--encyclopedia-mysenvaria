@@ -1,27 +1,24 @@
 ---
-title: God Councils
+title: Pangaea
 enableToc: true
 tags:
-- history/god-war_era
-- stub
+  - geography/natural
+  - stub
 ---
 
 > [!note] Stub
 > This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
-# First Council
+# History
 
-# Second Council
+# Geography
 
-# Third Council
+# Geology
 
-# Fourth Council
+# Ecology & Climate
 
-# Fifth Council
+# Cultural Significance
 
-# Sixth Council
-
-# Seventh Council
-
-# See Also
+# See also
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/Lists of Natural Features|Lists of Natural Features]]
