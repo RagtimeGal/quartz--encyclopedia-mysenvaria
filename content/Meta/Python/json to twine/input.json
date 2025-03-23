@@ -1,0 +1,30 @@
+{
+    "contexts": [
+        {
+            "name": "you",
+            "background": "you.png",
+            "replies": [
+                {
+                    "player": "ping",
+                    "reply": "Pong. Ichor.",
+                    "context_change": "ichor"
+                }
+            ]
+        },
+        {
+            "name": "ichor",
+            "background": "ichor.png",
+            "replies": [
+                {
+                    "player": "ping",
+                    "reply": "Pong. Overseer.",
+                    "context_change": "you"
+                }
+            ]
+        }
+    ],
+    "special words": [
+        "ichor",
+        "overseer"
+    ]
+}
