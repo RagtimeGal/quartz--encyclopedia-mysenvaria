@@ -1,8 +1,8 @@
-import { GlobalConfiguration } from "../cfg"
-import { QuartzPluginData } from "../plugins/vfile"
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
+import { QuartzPluginData } from "../plugins/vfile"
 import { Date, getDate } from "./Date"
 import { QuartzComponent, QuartzComponentProps } from "./types"
+import { GlobalConfiguration } from "../cfg"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -77,14 +77,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                 {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
               </p>
               <div class="desc">
-              <h3>
-                  {isFolderPath(page.slug ?? "") ? (
-                    <span class="internal">{title}</span>
-                  ) : (
-                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                      {title}
-                    </a>
-                  )}
+                <h3>
+                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                    {title}
+                  </a>
                 </h3>
               </div>
               <ul class="tags">
