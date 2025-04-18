@@ -7,7 +7,9 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
     return (
       <ul class={classNames(displayClass, "tags")}>
         {tags.map((tag) => (
-          <li>{tag}</li>
+          <li>
+            <span class="tag-box">#{tag}</span>
+          </li>
         ))}
       </ul>
     )
@@ -28,6 +30,16 @@ TagList.css = `
 
 .tags > li {
   white-space: nowrap;
+  margin: 0;
+}
+
+.tag-box {
+  display: inline-block;
+  border-radius: 8px;
+  background-color: var(--highlight);
+  padding: 0.2rem 0.4rem;
+  font-size: 0.9em;
+  color: inherit;
 }
 `
 
