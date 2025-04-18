@@ -16,21 +16,27 @@ The origins of Nemein are lost to time, but current theories suggest it originat
 
 
 # Rules
-The most common variation of Nemein is played with two players on a board consisting of hexagons.
+Nemein is a two-player strategy game played on a hexagonal grid. Players compete to control the board through strategic settlement and combat. The game is typically played with two differing currencies, but may be played with the same currency. If using the same currency each player must distinguish their coins by consistently using either heads or tails.
 
-Nemein is played on a simple hexagonal board with 2 players. Its a strategy game where players fight to control more of the board. Players must use coins of different nationalities, starting by choosing a handful of change which adds up to a corresponding whole fraction of their nations currency but which does not exceed a certain number of coins. (I.E. with USD you could choose a quarter, four dimes, six nickels, and five pennies, but you couldn't just choose a hundred pennies.)
-  Heads and tails correspond to units or houses respectively. One of each action may be taken by a player each turn (I.E. you can move a unit and turn a unit into a house in one turn, but you cant move two units in a turn):
-1. Move a unit;
+Each player selects a handful of coins that add up to a whole fraction of their national currency, within a set maximum number of coins. (E.g., in USD: one quarter, four dimes, six nickels, and five pennies is valid; one hundred pennies is not.)
+
+Terminology: All pieces on the board are coins. Coins of the highest denomination are used to construct houses; all others are considered units.
+
+Turn Structure: On their turn a player may perform up to one of each of the following actions, in the order they are listed. Players may skip any action, but once an action is skipped or completed they may not return to it later in the same turn.
+1. Move an unhoused unit;
 2. Split a unit;
-3. Turn a unit into a house.
+3. Upgrade a housed unit.
+4. House a unit;
 
-1. Units may be moved to any adjacent tile as long as it is not occupied by more than one piece. When a player moves their unit if it overlaps with another coin it attacks. If the attacking unit is of a higher fraction of value than the attacked coin then it wins. If they are of equal or less value then a coin flip is made for who wins. The winner goes up to the next available fraction of value, the loser is removed from the board.
+Movement: Unhoused units may move to any adjacent tile containing fewer than three coins. Up to three coins may coexist on a tile. If a unit moves onto a tile with one or more opposing coins, an attack is initiated.
 
-2. A unit which is not of the minimum fraction of value may be divided into two coins of the next fraction of value down (I.E. an American quarter(1/4) would become two dimes(1/10)) if they are on a tile by themselves. These two units exist on the same tile until one is moved.
+Attacking: If a unit moves onto a tile occupied by one or more enemy coins an attack is initiated against the tile. If the attacker's value is greater than the lowest-value enemy coin the attacker wins. If the attacker's value is equal to or less than the lowest-value enemy coin the outcome is decided by a coin flip. If the attacker loses, the attacker is removed and all defenders remain. If the attacker wins, all enemy coins on the tile are removed, the attacker is promoted to the next available coin denomination, and the attacking player may take another turn.
 
-3. If a unit is on a tile which does not already have a house they may be flipped to tails, becoming a house of equal value.
+Splitting: A unit which is not of the minimum fraction of value and exists on a tile with no more than one other friendly unit may be divided into two more units of the next fraction of value down (I.E. an American dime(1/10) would become two nickels(1/20)).
 
-The end objective of the game is to eliminate the enemy or seize a certain number of tiles across the board by turning them into houses.
+Housing: If a unit is alone on a tile it may be housed by placing a coin of the highest denomination beneath it. Houses are not units and cannot move. The unit on top of a house may not move, but may still split. If a tile contains two friendly units and one is housed, their positions may be swapped.
+
+The game is won either by eliminating all opposing units or by claiming a set number of tiles through the placement of houses.
 # Variations
 
 # Cultural Significance
