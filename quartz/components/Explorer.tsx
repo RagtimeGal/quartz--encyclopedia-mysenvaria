@@ -1,13 +1,13 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/explorer.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 // @ts-ignore
-import script from "./scripts/explorer.inline"
-import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { FileTrieNode } from "../util/fileTrie"
-import OverflowListFactory from "./OverflowList"
+import { classNames } from "../util/lang"
 import { concatenateResources } from "../util/resources"
+import OverflowListFactory from "./OverflowList"
+import script from "./scripts/explorer.inline"
 
 type OrderEntries = "sort" | "filter" | "map"
 
@@ -24,7 +24,7 @@ export interface Options {
 
 const defaultOptions: Options = {
   folderDefaultState: "collapsed",
-  folderClickBehavior: "link",
+  folderClickBehavior: "collapse",
   useSavedState: true,
   mapFn: (node) => {
     return node
