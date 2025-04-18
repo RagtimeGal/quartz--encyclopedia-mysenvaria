@@ -14,6 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+    locale: "en-US",
     baseUrl: "mysenvaria.ragno.wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -21,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Helvetica Neue",
-        body: "Arial",
+        header: "Special Gothic Condensed One",
+        body: "Noto Sans",
         code: "IBM Plex Mono",
       },
       colors: {
