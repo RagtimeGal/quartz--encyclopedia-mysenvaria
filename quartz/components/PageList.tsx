@@ -1,4 +1,3 @@
-import { useState } from "react"
 import { GlobalConfiguration } from "../cfg"
 import { QuartzPluginData } from "../plugins/vfile"
 import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
@@ -54,89 +53,46 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     list = list.slice(0, limit)
   }
 
-  const [openFolders, setOpenFolders] = useState<Record<string, boolean>>({})
-
-  const toggleFolder = (slug: string) => {
-    setOpenFolders(prev => ({ ...prev, [slug]: !prev[slug] }))
-  }
-
-  const isChildOf = (childSlug: string, parentSlug: string) => {
-    return childSlug.startsWith(parentSlug) && childSlug !== parentSlug
-  }
-
   return (
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
+
+        // Extract slug for accurate folder detection
         const slug = page.slug ?? ""
         const isFolder = isFolderPath(slug)
 
-        if (isFolder) {
-          const isOpen = openFolders[slug] ?? false
-          const children = allFiles.filter(p => isChildOf(p.slug ?? "", slug))
-
-          return (
-            <li class="section-li" key={slug}>
-              <div class="section">
-                <p class="meta">
-                  {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-                </p>
-                <div class="desc">
-                  <h3>
-                    <button
-                      class="internal folder-name"
-                      onClick={() => toggleFolder(slug)}
-                    >
-                      {title}
-                    </button>
-                  </h3>
-                </div>
-                {isOpen && (
-                  <ul class="child-pages">
-                    {children.map(child => (
-                      <li key={child.slug}>
-                        <a
-                          href={resolveRelative(fileData.slug!, child.slug!)}
-                          class="internal"
-                        >
-                          {child.frontmatter?.title}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </div>
-            </li>
-          )
-        } else {
-          return (
-            <li class="section-li" key={slug}>
-              <div class="section">
-                <p class="meta">
-                  {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-                </p>
-                <div class="desc">
-                  <h3>
+        return (
+          <li class="section-li">
+            <div class="section">
+              <p class="meta">
+                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+              </p>
+              <div class="desc">
+                <h3>
+                  {isFolder ? (
+                    <span class="internal folder-name" role="presentation">{title}</span>
+                  ) : (
                     <a href={resolveRelative(fileData.slug!, slug)} class="internal">{title}</a>
-                  </h3>
-                </div>
-                <ul class="tags">
-                  {tags.map((tag) => (
-                    <li key={tag}>
-                      <a
-                        class="internal tag-link"
-                        href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                      >
-                        {tag}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
+                  )}
+                </h3>
               </div>
-            </li>
-          )
-        }
+              <ul class="tags">
+                {tags.map((tag) => (
+                  <li>
+                    <a
+                      class="internal tag-link"
+                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                    >
+                      {tag}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </li>
+        )
       })}
     </ul>
   )
@@ -152,24 +108,13 @@ PageList.css = `
 }
 
 .folder-name {
-  background: none;
-  border: none;
-  font: inherit;
-  color: inherit;
-  text-align: left;
-  padding: 0;
-  cursor: pointer;
   opacity: 0.85;
   font-style: italic;
+  cursor: default;
+  text-decoration: none;
 }
 
 .folder-name:hover {
-  text-decoration: underline;
-}
-
-.child-pages {
-  margin-left: 1.5rem;
-  margin-top: 0.5rem;
-  list-style-type: disc;
+  text-decoration: none;
 }
 `
