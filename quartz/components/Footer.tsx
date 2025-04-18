@@ -7,7 +7,7 @@ interface Options {
 }
 
 export default ((opts?: Options) => {
-  function Footer({ displayClass }: QuartzComponentProps) {
+  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
@@ -15,7 +15,8 @@ export default ((opts?: Options) => {
         <div class="giscus" style={{ marginTop: "5rem" }}></div>
         <hr />
         <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
+          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
         <p>
           Encyclopedia Mysenvaria © 2024 by Ragno is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
