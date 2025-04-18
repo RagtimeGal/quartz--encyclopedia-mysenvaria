@@ -58,10 +58,8 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       {list.map((page) => {
         const title = page.frontmatter?.title
         const tags = page.frontmatter?.tags ?? []
-
-        // Extract slug for accurate folder detection
-        const slug = page.slug ?? ""
-        const isFolder = isFolderPath(slug)
+        const isFolder = isFolderPath(page.slug ?? "")
+        const href = isFolder ? undefined : resolveRelative(fileData.slug!, page.slug!)
 
         return (
           <li class="section-li">
@@ -71,10 +69,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               </p>
               <div class="desc">
                 <h3>
-                  {isFolder ? (
-                    <span class="internal folder-name" role="presentation">{title}</span>
+                  {href ? (
+                    <a href={href} class="internal">{title}</a>
                   ) : (
-                    <a href={resolveRelative(fileData.slug!, slug)} class="internal">{title}</a>
+                    <span class="internal folder-name" role="presentation">{title}</span>
                   )}
                 </h3>
               </div>
@@ -111,10 +109,5 @@ PageList.css = `
   opacity: 0.85;
   font-style: italic;
   cursor: default;
-  text-decoration: none;
-}
-
-.folder-name:hover {
-  text-decoration: none;
 }
 `
