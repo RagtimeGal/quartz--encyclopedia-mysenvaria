@@ -78,14 +78,14 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               </p>
               <div class="desc">
               <h3>
-                  {isFolderPath(page.slug ?? "") ? (
-                    <span class="internal">{title}</span>
-                  ) : (
-                    <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
-                      {title}
-                    </a>
-                  )}
-                </h3>
+                {isFolderPath(page.slug ?? "") ? (
+                  <span class="internal folder-name">{title}</span>
+                ) : (
+                  <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                    {title}
+                  </a>
+                )}
+              </h3>
               </div>
               <ul class="tags">
                 {tags.map((tag) => (
