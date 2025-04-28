@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!summary] Lore Ledger #7
-> 2/2025
+> 3/2025
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 2.2025|Ledger 2.2025]]
 > 

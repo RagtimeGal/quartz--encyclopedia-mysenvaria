@@ -16,3 +16,4 @@ The following page serves as an index of the [[Encyclopedia Mysenvaria/Arts/Lite
 # 2025
 - [[Meta/Ledgers/Ledger 2.2025|Ledger 2.2025]]
 - [[Meta/Ledgers/Ledger 3.2025|Ledger 3.2025]]
+- [[Meta/Ledgers/Ledger 17.2025|Ledger 17.2025]]
