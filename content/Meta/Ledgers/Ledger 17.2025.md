@@ -1,5 +1,5 @@
 ---
-title: "Lore Ledger 3.25"
+title: "Lore Ledger 17.25"
 enableToc: true
 tags:
   - meta
