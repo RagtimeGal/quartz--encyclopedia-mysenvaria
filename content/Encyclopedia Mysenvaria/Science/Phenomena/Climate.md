@@ -17,5 +17,5 @@ The Great Dying would force organisms to adapt to environmental conditions which
 # Classification
 Climates are divided and organized in a variety of models, each mapping climates based on several key meteorological and geographical factors. The most widely used model is that of the [[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen system]] which uses seasonal precipitation and temperature to model and classify climates. Older models, like the [[Encyclopedia Mysenvaria/Science/Models/Cline Climate|Cline system]] use distance from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]] and the availability of water.
 # See Also
-- [[Encyclopedia Mysenvaria/Science/Models/Universal Strata|Universal Strata]]
+- [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]]
 - [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]

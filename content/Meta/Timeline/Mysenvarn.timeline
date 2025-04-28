@@ -1738,11 +1738,25 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <description>The period of time after the war where the massive changes across the Plane caused by the Harmonic Treaty led to mass extinction of many organisms.</description>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-55</start>
+      <end>-55</end>
+      <text>Prototype Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Published b the God of Hydrogen Cranide, detailing their use of humans as an assassination tool. Served as a pitch to other Gods ,enticing them to use humans themselves.</description>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-164</start>
-      <end>-128</end>
+      <start>-151</start>
+      <end>-122</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>

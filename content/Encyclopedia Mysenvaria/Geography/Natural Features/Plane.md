@@ -15,9 +15,9 @@ Although the Plane may be infinitely vast, only a small portion of it is actuall
 
 Prior to the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]] the habitable Plane is believed to have been larger than it stands in the present day. The reasons for the change are unknown, but following the signing of the Harmonic Treaty, the extent of the habitable Plane would shrink to the size seen in the present day.
 
-At the edge of the Plane resides a thick fog which, as referenced in the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]], is believed to be the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Life and Death|Gods of Life and Death]].
+At the edge of the Plane resides a thick fog which, as referenced in the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]], is believed to be the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]].
 # History
-It is unknown whether or not the Plane was created by the Gods of Life and Death or whether it too has existed since the beginning. It is believed too that when initially created the Plane was truly flat, with no imperfections. It would not be until early into the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|quickening]] when the first imperfections would appear in its surface.
+It is unknown whether or not the Plane was created by the Gods of What Is and Is Not or whether it too has existed since the beginning. It is believed too that when initially created the Plane was truly flat, with no imperfections. It would not be until early into the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|quickening]] when the first imperfections would appear in its surface.
 
 The Plane would be shaped into how we know it today through the events of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]; the corpses and battles of the Gods forming and sculpting the terrain. The first of such events, a dispute between the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] and [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|God of Calcium]], would create the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater|Great Oceanic Crater]].
 

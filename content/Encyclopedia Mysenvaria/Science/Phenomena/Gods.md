@@ -4,49 +4,42 @@ enableToc: true
 tags:
 - science/model
 - god
-- stub
+- touch-up
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> [!abstract] [[Meta/Touch-ups|Touch-up]]
+> This page needs some refined writing, could use more information in its [[Encyclopedia Mysenvaria/History/History|History]] and [[Encyclopedia Mysenvaria/Culture/Culture|Culture]] sections.
 
-Gods are beings of varying power and abilities, often primordial in their age and near-infinite in their wisdom. Gods have shifted and often forged history, their names and stories dotted across the sky in the form of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. 
-
-Gods can be created and, due to the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]], are only capable of controlling the element of nature they are delegated to. Before the signing of the Harmonic Treaty Gods were capable of controlling any element of nature they had wished, which is partially part of the reason for the God-War.
-
-# History
-The history of Gods is also the history of the Plane, see the [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]] for a comprehensive overview of history, or see [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|respective pages]] for Gods for their singular histories.
-
+Gods are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|natural personification]], like [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]] and [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. The [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] suggests that Gods result from the Unreal's inability to manage the Real. As Real interacts with Unreal to make Reality, there are situations where the Unreal must improvise laws to govern all the Real. As a result Gods exist in Reality as [[Encyclopedia Mysenvaria/Science/Phenomena/Entities|entities]] made of Real substance that do not obey the same Unreal laws. Instead, Gods are subject to unique rules imposed on them by the altered and improvised form of Unreal that governs them. Despite this, Gods interact and exist in Reality like all other entities.
 # Creation
-There are two ways Gods can be created; delegation of another Gods domain, or the creation of a new element in nature. Both of these are rare events in the modern day, but the former was quite common in the past.
+Gods come into existence by two means: natural personification or [[Encyclopedia Mysenvaria/Science/Models/Natural Subdivision|natural subdivision]]. Only two Gods are known to have come from personification, those being the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. All other Gods were created through subdivision.
 
-There are only two examples of the latter, having been the creation of Life and Death and the creation of Harmony. Life and Death were the first Gods to be created, meaning they could not have come into existence by subdivision of an existing domain. Harmony came into existence with the signing of the Harmonic Treaty and the creation of the element of harmony within nature.
+Natural subdivision is the ability of one or more Gods to divide their domains into two or more sections, creating new and unique Gods to preside over those portions of their domains. If performed by multiple Gods all parties must be in agreement with one another. Natural subdivision is an ability laid out in the laws of the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]]. It appears that as domains are divided further and together a pattern arises where domains tend to become more based upon emergent properties of Reality.
 
-On the contrary, the former method of creation is seen throughout history quite often. Every God besides the formerly mentioned were created through this method, the subdivision or existing Gods domains.
+The [[Encyclopedia Mysenvaria/Science/Models/Heavenly Lineage Model|Heavenly Lineage Model]] attempts to classify Gods based on their lineages. Especially based on the relationships of these Gods and the significance of their domains. HLM is used by [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] to gauge the significance and potency of a Gods power over Reality.
+# Behavior
+Gods are capable of undergoing a process known as dematerialization, wherein they forego their existence as Real entities. It is unclear how this works or where the Gods go, works such as *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]]* and *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]* have attempted to address this question through studies of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] and historical accounts. Dematerialization can be a voluntary act under certain circumstances, but in most scenarios occurs as an involuntary phenomenon as a result of outside factors.
 
-# Summoning
-Gods are often summoned to areas of natural concentration, when their respective element of nature becomes thick in an area the God of that element may be summoned. Purposefully summoning Gods is an ongoing area of research and debate by scholars, but could prove to have practical effects. 
+[[Encyclopedia Mysenvaria/Science/Phenomena/Natural Concentration|Natural concentration]] is one such factor, a phenomenon which appears to alter a Gods physical significance in Reality based on the presence of their domain. Natural concentration is not the only phenomenon which can cause a God's level of materialization to fluctuate, though it does have a significant impact. Gods may also undergo a negative feedback loop wherein they may become more materialized because of emotional bonds.
 
-There are few recorded instances of people summoning Gods and nearly all of them happened by accident. One of the most notable and well-known instances is the case of [[Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man|Time Wizard Man]] who, during an experiment, manipulated time and summoned the time trinity, Past, Present, and Future.
+Gods who are very materialized but hold a weak presence in Reality are fragile and susceptible to death. As conscious beings Gods do not want to die, and so will assume defensive and offensive capabilities to sustain their survival. To do so, however, the God must further materialize and become more physical. Thus a loop forms, making it difficult or impossible for some Gods to dematerialize.
 
-# Magic
-Gods are inherently tied to [[Encyclopedia Mysenvaria/Science/Branches/Wizardry|magic]] across the Plane, being the source of [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]] and grafting.
+If dematerialization was voluntary and the conditions are right a God may willfully reenter Reality at their own command. Through natural concentration they may also be rematerialized without their input. The exact mechanisms and mathematical modelling behind dematerialization and natural concentration are not well understood and are an active subject of research by theogenists.
 
-God Tongue is the language of nature, spoken only fluently by Gods. Many animals, including Humans and Elves, can understand simplified versions of God Tongue allowing them to cast spells and write enchantments. [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|Astronomers]] translate stars, the true form of written God Tongue, in an attempt to further humanities understanding of the language and enhance magic.
+Gods who hold a strong presence in Reality are capable of holding sensual relationships with organisms, although the ability to do so is highly restricted by the [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]]. Godly unions are known to create two phenomena based on their composition, either creating [[Encyclopedia Mysenvaria/Biology/Species/Demi-God|Demi-Gods]] or [[Encyclopedia Mysenvaria/Biology/Species/Womb-God|Womb-Gods]]. Demi-Gods are born to organic mothers, the opposite of Womb-Gods. These phenomena are not well understood either.
+# Appearance
+At the center of a God is their core, a strange invisible structure which constructs their physical body. Gods' cores are described in a multitude of stars, such as [[Encyclopedia Mysenvaria/Geography/Stars/Mortality Revisited|Mortality Revisited]], the [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Afterlife Star|Afterlife Star]], and many stars throughout [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's Star System]]. A God's core grows and shrinks depending on their level of materialization, as previously described.
 
-Grafting is a more grotesque form of magic, often considered to be a banned practice in many places. Grafting is the act of replacing or adding body-parts onto oneself by attachment of a Gods limb, often referred to as God parts. It is unknown of any Gods opinion on grafting.
+A God's core draws in their domain proportionally to their level of materialization. To protect their core Gods who are highly materialized want to be more physically constructed. On the contrary, Gods who are weakly materialized do not need to protect their cores as heavily. This is a major factor in the feedback loop which some Gods may enter, if their domain's presence in Reality is weak.
 
-The act of grafting is often performed by wizards in an attempt to further their manipulation and power over nature. However, grafting is known to have greatly disadvantageous effects on its host. Often grafters replaced limbs will act separate from their mind and grafters can even begin to have disillusion and spouts of psychosis and hallucinations.
+While Gods manifest differently each individual God's bodily shape remains consistent across materializations. The process by which their shape is determined is completely unknown.
+# Death and Consequences
+When Gods are created through natural subdivision the creator God may choose whether to completely or partially pass down sections of their domain to the new Gods. This either creates Higher- or Lesser-Gods, as defined by [[Encyclopedia Mysenvaria/Science/Models/Perennial Classification|perennial classification]]. Higher-Gods are Gods who have complete ownership of their domain, upon death these Gods' domains cease existence. Lesser-Gods are Gods who do not have complete ownership of their domain, upon death these Gods' domains are simply given back to their parent Gods.
 
-# Classification
-The importance of Gods to nature is often measured using [[Encyclopedia Mysenvaria/Science/Models/Perennial Classification|Perennial Classification]] which groups Gods into two categories, Lesser and Higher Gods. These groups are simply defined. Lesser Gods are Gods who, when killed, would not have an effect on nature. Higher Gods, alternatively, are Gods who when killed would have an effect on nature.
+Gods' cores are highly susceptible to disruption by foreign bodies; killing a God requires lodging a foreign object into their core. This process is described across many of the same stars which describe their cores. When a God's core is disrupted the Unreal law which maintained their life is repaired, meaning without intervention that God cannot be brought back.
+# History
 
-Another popular method of importance classification is the [[Encyclopedia Mysenvaria/Science/Models/(Name)'s Index|(Name)'s Index]], which classifies Gods importance by how many Gods they are related to. This index is often used by historians studying the God-War Era and the relations between Gods during that time.
-
-Other methods for classification of Gods exist but are not used as often as either of the two mentioned previously.
-
-# Cultural Significance
-
+# Cultural Importance
 
 # Also See
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]

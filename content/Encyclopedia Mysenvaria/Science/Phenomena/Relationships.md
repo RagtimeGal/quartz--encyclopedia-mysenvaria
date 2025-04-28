@@ -1,5 +1,5 @@
 ---
-title: Tectonic Plates
+title: Relationships
 enableToc: true
 tags:
   - science/phenomena
