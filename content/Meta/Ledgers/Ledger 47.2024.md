@@ -13,7 +13,7 @@ tags:
 > 
 > **Next Ledger:** [[Meta/Ledgers/Ledger 48.2024|Ledger 48.2024]]
 
-Another week another Lore Ledger for the Encyclopedia! This week didnt see many edits to the text across the Encyclopedia, though there was plenty of progress regarding the foundational aspects of the setting. A notable change across the Encyclopedia is the renaming of mythril, now known as [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]]. Mythril was always a temporary name, and I believe limn fits the material much better.
+Another week another Lore Ledger for the Encyclopedia! This week didn't see many edits to the text across the Encyclopedia, though there was plenty of progress regarding the foundational aspects of the setting. A notable change across the Encyclopedia is the renaming of mythril, now known as [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]]. Mythril was always a temporary name, and I believe limn fits the material much better.
 # Project Updates
 At the moment the only project remains climate. Progress is moving smoothly on the project, it is on course for completion by the deadline.
 

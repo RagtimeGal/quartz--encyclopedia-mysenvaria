@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!summary] Lore Ledger #5
-> 48/2024
+> 51/2024
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 50.2024|Ledger 50.2024]]
 > 

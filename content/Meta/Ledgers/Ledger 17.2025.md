@@ -13,16 +13,16 @@ tags:
 > 
 > **Next Ledger:** Upcoming
 
-Long time no see? I've decided to update Lore Ledgers to improve my morale. They now serve simply as weekly changelogs, instead of 'progress trackers'. 
+Long time no see? I've decided to update Lore Ledgers to improve my morale. They now serve simply as weekly changelogs, instead of 'progress trackers'.
 ## Added
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]]; Stub page; New book to reference.
 - [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]]; Stub page; Organ in animals that creates artificial stars from limn.
 - [[Encyclopedia Mysenvaria/Geography/Stars/Prototype Star|Prototype Star]]; Stub page; New star.
 - [[Encyclopedia Mysenvaria/Science/Models/Food Chain|Food Chain]]; Stub page.
-- [[Encyclopedia Mysenvaria/Science/Models/Material Structure|Material Structure]]; Stub page; Like atoms and stuff.
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Entities|Entities]]; Stub page; Like a unitary thing that exists.
+- [[Encyclopedia Mysenvaria/Science/Models/Material|Material]]; Stub page; Like atoms and stuff.
+- [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|Entity (science)]]; Stub page; Like a unitary thing that exists.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Concentration|Natural Concentration]]; Stub page; Phenomena by which Gods materialize.
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Relationships|Relationships]]; Stub page; Like the way two or more things are connected.
+- [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|Relationships (science)]]; Stub page; Like the way two or more things are connected.
 ## Removed
 - Geologic Phenomena; unnecessary page.
 ## Updated
