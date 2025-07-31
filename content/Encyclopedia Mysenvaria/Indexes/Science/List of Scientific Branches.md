@@ -9,7 +9,7 @@ tags:
 This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Scientific Branches|scientific branches]] sorted in alphabetical order.
 # A
 - [[Encyclopedia Mysenvaria/Science/Branches/Anatomy|Anatomy]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Astronomical Sciences|]]
+- [[Encyclopedia Mysenvaria/Science/Branches/Astronomical Sciences|Astronomical Sciences]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomy]]
 # B
 - [[Encyclopedia Mysenvaria/Science/Branches/Bioastronomy|Bioastronomy]]
@@ -34,8 +34,11 @@ This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Scient
 - [[Encyclopedia Mysenvaria/Science/Branches/Philosophy|Philosophy]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Physiology|Physiology]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Psychology|Psychology]]
+# R
+- [[Encyclopedia Mysenvaria/Science/Branches/Relatics|Relatics]]
 # S
 - [[Encyclopedia Mysenvaria/Science/Branches/Sociobiology|Sociobiology]]
+- [[Encyclopedia Mysenvaria/Science/Branches/Starforging|Starforging]]
 # T
 - [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|Taxonomy]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|Theogenesis]]

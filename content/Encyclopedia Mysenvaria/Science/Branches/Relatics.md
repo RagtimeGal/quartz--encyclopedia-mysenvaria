@@ -1,8 +1,8 @@
 ---
-title: Entity
+title: Relatics
 enableToc: true
 tags:
-  - science/phenomena
+  - science/branch
   - stub
 ---
 
@@ -12,8 +12,11 @@ tags:
 
 # History
 
-# Occurrence
+# Stuff Here
 
-# Great Fog
+> [!note]
+> Add headers and sub-headers as necessary to explain different parts of the science.
+# Significance
 
 # See Also
+- [[Encyclopedia Mysenvaria/Indexes/Science/List of Scientific Branches|List of Scientific Branches]]
