@@ -16,7 +16,7 @@ tags:
 > > [[Encyclopedia Mysenvaria/Biology/Taxa/Vertebrate|Vertebrate]] c. BT 497
 
 > [!note] Stub
-> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 Animals are defined by [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|tri-criterial classification]] as any [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organism]] which is capable of powered locomotion, or according to [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|evolutionary classification]] as any second generation laboratorius organism conceptually evolved from the idea of a [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|plant]] which can autonomously move or spread its influence by means other than growth. By either of these definitions 'animal' is an umbrella term which includes a great deal of organisms.
 

@@ -9,4 +9,4 @@ Touch-ups are [[Meta/Meta|meta]] callouts which exist to show that a page was co
 
 Normally a touch-up callout should specify which section of the article could be elaborated on.
 
-Readers can [[Meta/Contribution|contribute]] to touch-ups by leaving comments. Contribution by recommending further development, suggesting additions or revisions, or proposing merges or splits of the articles topics are all appreciated.
+Readers can [[Meta/Contributing|contribute]] to touch-ups by leaving comments. Contribution by recommending further development, suggesting additions or revisions, or proposing merges or splits of the articles topics are all appreciated.

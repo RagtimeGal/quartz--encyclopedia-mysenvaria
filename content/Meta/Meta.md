@@ -5,31 +5,36 @@ tags:
   - meta
 ---
 
-Meta, short for metatext or metatextual, refers to self-referential commentative text. Meta, when used across this encyclopedia, refers to articles, notes, or references across the encyclopedia which have to do with canon material but which are themselves non-canon.
+> [!abstract] [[Meta/Meta|Meta]]
+> This is a meta callout. These appear at the top of every meta page and sometimes throughout non-meta pages as short meta notes.
 
-Meta pages serve as repositories of non-canon information regarding the encyclopedia, including [[Meta/Writing Guidelines|writing guidelines]] for pages, how pages like [[Meta/Stubs|stubs]] work, and how information in the encyclopedia is allowed to be used. For anyone looking to help contribute to the encyclopedia it is highly recommended that the meta pages are read, and appreciated that they are followed.
+Canon is the true lore of a setting which is sourced from authoritative works on the subject. Mysenvar's authoritative source for lore is this website—the Encyclopedia Mysenvaria. Non-meta pages on this site are pages which exist in the fictional canonical setting in the setting's own version of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Meta pages are those which do not exist within the canon of Mysenvar and which provide valuable information on this website's version of the encyclopedia.
 
-This page in particular is meant to serve as a starting place for those looking to explore how the encyclopedia works, what its meant for, how to use it, and how to help if you so wish!
+As an example: The non-meta includes pages like [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]], [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]], or [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|Classification of Organisms]]. These are pages which exist in the canon encyclopedia, they describe the setting and are written as if pulled from the setting. Meta pages includes those like [[Meta/Contributing|Contributing]], [[Meta/Article Types|Article Types]], or [[Meta/Touch-ups|Touch-ups]]. These pages provide information on the website and how it works.
 
-> [!abstract] Meta
-> This is a meta callout. These are uncommon throughout the encyclopedia but serve to provide non-canon information on some subjects.
-# Canon
-Commonly when meta pages are referenced you will see canon mentioned. Canon is text that can be considered true within the setting, text that describes the setting with authoritative fact on the subject. In the case of this encyclopedia, canon refers to text written by characters within the setting. Non-canon text is text that is not part of the in-setting encyclopedia but nevertheless provides important information regarding the encyclopedia.
+This page serves as a starting point for those looking to explore how the encyclopedia works, what it's meant for, how to use it, and how to contribute.
 # The Project
-Mysenvar is a low-magic dark fantasy setting which can be explored through the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Everything in the encyclopedia is designed to be free for others to use as they wish. Whether you're looking to run a TTRPG, need inspiration for your own story, or want a detailed world for your game, this project looks to provide a rich and expansive world for anyone's purposes.
-## Disclaimer
-It is important to recognize that the Encyclopedia Mysenvaria is a work of fiction. The world, characters, and events are a product of the author's imagination. Any resemblance to real persons or events are purely coincidental. 
+Mysenvar is a low-magic realistic fantasy setting which can be explored through the Encyclopedia Mysenvaria website. The website is written through the guise of an encyclopedia which exists in the setting itself (Bar, as previously mentioned, meta pages like this one). The encyclopedia offers users a free resource to use as they wish: running a TTRPG, looking for inspiration for your own story or setting, or wanting a detailed world for a project you're working on. Mysenvar intends to be a rich and expansive world for anyone's purposes—so long as it is not monetized.
 
-This site aims to explore complex themes, but they are not intended to mirror the real-world. Descriptions found across the site are part of a fantasy setting designed for creative use in stories, games, and other personal projects. If you believe anything on the site is written or depicted in bad faith please reach out through [Discord](https://discord.gg/2yUDZ5j) or [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria). 
+As part of my initiative to get readers interested in running TTRPG's in Mysenvar I would like to write a series of meta pages in the future on how to use the encyclopedia to run campaigns in the setting. This won't come for some time, but it would be fun.
+
+> [!warning] Disclaimer
+> The Encyclopedia Mysenvaria and all of its contents are a work of fiction. The world, its people, and events therein, are a product of imagination intended to immerse readers in a world unlike the one we live in. Any resemblance to real people or events is purely coincidental.
+> 
+> The Encyclopedia Mysenvaria covers complex topics and themes, but they are not intended to mirror the real world. Descriptions found across the site are part of a fantasy setting designed for creative use in stories, games, and other projects. If you believe anything on the site is written or depicted in bad faith please contact me (Ragno) by email (contact@ragnois.gay),  [Discord](https://discord.gg/2yUDZ5j), or [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria). 
 # Contribution
-The Encyclopedia Mysenvaria, while my own creative work, welcomes contributions! All contributions are overseen by myself, to ensure they fit with the creative vision of the project.
+*Main article: [[Meta/Contributing|Contributing]]*
+> [!warning] Disclaimer
+> When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 
+> 
+> ***By submitting content you promise that your contribution is your property and agree that it may become part of the project. As such it may be used, modified, or monetized without need for further permission. This does not mean you forfeit your copyright or moral rights.*** You retain ownership, but by contributing you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases.
+> 
+> You also acknowledge that, due to the project's license terms, others may copy, modify, and redistribute your content under the same terms.
+> 
+> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) and [CLA](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CLA.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria)
 
-Each page is fitted with a comment section powered by [giscus](https://giscus.app/), which uses [GitHub discussions](https://docs.github.com/en/discussions), this is the easiest way to contribute your own thoughts. Alternatively, join the [Discord](https://discord.gg/2yUDZ5j) and help brainstorm there! The discord is also friendly for those looking to build their own settings!
+The Encyclopedia Mysenvaria is a personal project by myself—I have a very clear creative vision for the project, with specific set goals in mind. I have set up the encyclopedia in such a way that anyone can contribute very easily, this is both a product of my creative vision and the limitations I have with the tools I work with. I am not asking for contributions, but for anyone who feels inclined the tools are in place.
 
-If you're very interested and would like to see me devote more time to expanding the encyclopedia you can even donate to my [Ko-fi](https://ko-fi.com/W7W4UVZE2)!
-
-For more information on contributing, see the [[Meta/Contribution|contribution]] page.
+Each page on the website, including this one, is fitted with a comment section powered by [giscus](https://giscus.app/), which uses [GitHub discussions](https://docs.github.com/en/discussions), this is the easiest way to contribute your own thoughts. Alternatively, join my [Worldbuilding Discord](https://discord.gg/2yUDZ5j) and help brainstorm there—The discord is also friendly to anyone who may have their own projects or settings. You may also contribute monetarily via [Ko-fi](https://ko-fi.com/W7W4UVZE2)
 # Licensing
-This website is built on [Quartz](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria) which uses the [MIT License](https://opensource.org/license/mit). The MIT License allows users to deal in the software without restriction, including to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the software. For more information, see Quart's [license](https://github.com/jackyzha0/quartz/blob/v4/LICENSE.txt).
-
-All text and image content displayed on the website is property of Myself and the Encyclopedia Mysenvaria, and is not related to Quartz or its creator. Text and image content within the encyclopedia is protected under the [Creative Commons Non-Commercial Share-Alike License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). This license allows for non-commercial distribution and adaptation of any of the work as long as the appropriate credit is given and all derivative material is under the same terms. For more information, see the encyclopedias [license](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/LICENSE.md).
+For inquiry into the Encyclopedia Mysenvaria's license please see the [license](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/LICENSE.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria). For further questions or information please contact me by email (at contact@ragnois.gay) or by [Discord](https://discord.gg/2yUDZ5j).

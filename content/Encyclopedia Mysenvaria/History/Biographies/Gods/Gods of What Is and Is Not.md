@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of What Is and Is Not, also sometimes referred to as the fog, are the two oldest and most powerful Gods. What Is and Is Not preside over the natural divisions of everything and nothing; since everything exists and eventually will not the duo are considered the most powerful of the Gods.
 

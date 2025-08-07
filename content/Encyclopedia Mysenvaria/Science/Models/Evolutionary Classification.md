@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Stubs|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 
 Evolutionary classification is a system of [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomic]] classification of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which poses that organisms may be divided into groups based on history of creation, similarity of concept, and execution by the Gods. This type of classification gives rise to a tree-like structure showing the evolution of concepts Gods had while creating organisms during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The idea of evolutionary classification is opposed to the idea of [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|tri-criterial classification]] which believes that organisms should not be organized by relativity of creation but instead simply by biological factors.

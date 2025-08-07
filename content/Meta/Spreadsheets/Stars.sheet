@@ -1,0 +1,2331 @@
+[
+    {
+        "id": "9673ea48-41c0-408d-adc3-6afd2c318c26",
+        "name": "Stars",
+        "plugin": "divams_spreadsheets_for_obsidian",
+        "config": {
+            "columnlen": {
+                "0": 152,
+                "2": 125,
+                "3": 104,
+                "8": 93
+            },
+            "customWidth": {
+                "0": 1,
+                "2": 1,
+                "3": 1,
+                "8": 1
+            },
+            "merge": {},
+            "rowlen": {
+                "72": 19
+            },
+            "customHeight": {
+                "83": 1
+            },
+            "rowhidden": {},
+            "rowReadOnly": {}
+        },
+        "celldata": [
+            {
+                "r": 0,
+                "c": 0,
+                "v": {
+                    "m": "Star Name",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Star Name",
+                    "bg": "#999999"
+                }
+            },
+            {
+                "r": 0,
+                "c": 1,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Coordinates",
+                    "m": "Coordinates",
+                    "bg": "#999999"
+                }
+            },
+            {
+                "r": 0,
+                "c": 2,
+                "v": {
+                    "m": "Description",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Description",
+                    "bg": "#999999"
+                }
+            },
+            {
+                "r": 0,
+                "c": 3,
+                "v": {
+                    "m": "Date of Creation",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Date of Creation",
+                    "bg": "#999999"
+                }
+            },
+            {
+                "r": 0,
+                "c": 4,
+                "v": {
+                    "m": "Star Type",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Star Type",
+                    "bg": "#999999"
+                }
+            },
+            {
+                "r": 1,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Afterlife System",
+                    "v": "Afterlife System"
+                }
+            },
+            {
+                "r": 1,
+                "c": 3,
+                "v": {
+                    "m": "176 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "176 BT"
+                }
+            },
+            {
+                "r": 2,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Alex's Star System",
+                    "v": "Alex's Star System"
+                }
+            },
+            {
+                "r": 2,
+                "c": 3,
+                "v": {
+                    "m": "56 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "56 BT"
+                }
+            },
+            {
+                "r": 3,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Anti-organics System",
+                    "v": "Anti-organics System"
+                }
+            },
+            {
+                "r": 4,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Apology System",
+                    "v": "Apology System"
+                }
+            },
+            {
+                "r": 4,
+                "c": 3,
+                "v": {
+                    "m": "27 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "27 BT"
+                }
+            },
+            {
+                "r": 4,
+                "c": 8,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 5,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Bernie's Star System",
+                    "v": "Bernie's Star System"
+                }
+            },
+            {
+                "r": 5,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 6,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Birth Star",
+                    "v": "Birth Star"
+                }
+            },
+            {
+                "r": 6,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 7,
+                "c": 0,
+                "v": {
+                    "m": "Bloodletting Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Bloodletting Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 7,
+                "c": 3,
+                "v": {
+                    "m": "167 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "167 BT"
+                }
+            },
+            {
+                "r": 7,
+                "c": 8,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "fc": "#000000",
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 8,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Border Operation",
+                    "v": "Border Operation"
+                }
+            },
+            {
+                "r": 8,
+                "c": 3,
+                "v": {
+                    "m": "156 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "156 BT"
+                }
+            },
+            {
+                "r": 8,
+                "c": 8,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 9,
+                "c": 0,
+                "v": {
+                    "m": "Breaking Point Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Breaking Point Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 9,
+                "c": 3,
+                "v": {
+                    "m": "163 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "163 BT"
+                }
+            },
+            {
+                "r": 9,
+                "c": 8,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 10,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "v": "Carbonprint System",
+                    "m": "Carbonprint System"
+                }
+            },
+            {
+                "r": 10,
+                "c": 3,
+                "v": {
+                    "m": "116 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "116 BT"
+                }
+            },
+            {
+                "r": 10,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 11,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Census System",
+                    "v": "Census System"
+                }
+            },
+            {
+                "r": 11,
+                "c": 3,
+                "v": {
+                    "m": "8 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "8 BT"
+                }
+            },
+            {
+                "r": 11,
+                "c": 8,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 12,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Cilia Star",
+                    "v": "Cilia Star"
+                }
+            },
+            {
+                "r": 12,
+                "c": 3,
+                "v": {
+                    "m": "138 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "138 BT"
+                }
+            },
+            {
+                "r": 12,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 13,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Claim Star",
+                    "v": "Claim Star"
+                }
+            },
+            {
+                "r": 13,
+                "c": 3,
+                "v": {
+                    "m": "136 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "136 BT"
+                }
+            },
+            {
+                "r": 14,
+                "c": 0,
+                "v": {
+                    "m": "Complex Rods Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Complex Rods Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 14,
+                "c": 3,
+                "v": {
+                    "m": "137 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "137 BT"
+                }
+            },
+            {
+                "r": 14,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 15,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Convening Star",
+                    "v": "Convening Star"
+                }
+            },
+            {
+                "r": 15,
+                "c": 3,
+                "v": {
+                    "m": "176 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "176 BT"
+                }
+            },
+            {
+                "r": 15,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 16,
+                "c": 0,
+                "v": {
+                    "m": "Cost of War Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Cost of War Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 16,
+                "c": 3,
+                "v": {
+                    "m": "169 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "169 BT"
+                }
+            },
+            {
+                "r": 17,
+                "c": 0,
+                "v": {
+                    "m": "Counteract System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Counteract System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 17,
+                "c": 3,
+                "v": {
+                    "m": "122 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "122 BT"
+                }
+            },
+            {
+                "r": 17,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 18,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffe599",
+                    "m": "Creations Act",
+                    "v": "Creations Act"
+                }
+            },
+            {
+                "r": 18,
+                "c": 3,
+                "v": {
+                    "m": "55 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "55 BT"
+                }
+            },
+            {
+                "r": 18,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 19,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Death's Star System",
+                    "v": "Death's Star System"
+                }
+            },
+            {
+                "r": 19,
+                "c": 3,
+                "v": {
+                    "m": "177 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "177 BT"
+                }
+            },
+            {
+                "r": 19,
+                "c": 8,
+                "v": {
+                    "v": null,
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 20,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Debris Raining Star",
+                    "v": "Debris Raining Star"
+                }
+            },
+            {
+                "r": 20,
+                "c": 3,
+                "v": {
+                    "m": "144 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "144 BT"
+                }
+            },
+            {
+                "r": 21,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Demi-Human Star",
+                    "v": "Demi-Human Star"
+                }
+            },
+            {
+                "r": 22,
+                "c": 0,
+                "v": {
+                    "m": "Dominion Broken Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Dominion Broken Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 22,
+                "c": 3,
+                "v": {
+                    "m": "167 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "167 BT"
+                }
+            },
+            {
+                "r": 23,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Dwarven Star System",
+                    "v": "Dwarven Star System"
+                }
+            },
+            {
+                "r": 23,
+                "c": 3,
+                "v": {
+                    "m": "54 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "54 BT"
+                }
+            },
+            {
+                "r": 24,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Effigy Star",
+                    "v": "Effigy Star"
+                }
+            },
+            {
+                "r": 25,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Elder's Star",
+                    "v": "Elder's Star"
+                }
+            },
+            {
+                "r": 25,
+                "c": 3,
+                "v": {
+                    "m": "18 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "18 BT"
+                }
+            },
+            {
+                "r": 26,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffe599",
+                    "m": "Elemental Act",
+                    "v": "Elemental Act"
+                }
+            },
+            {
+                "r": 26,
+                "c": 3,
+                "v": {
+                    "m": "24 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "24 BT"
+                }
+            },
+            {
+                "r": 27,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "v": "Elven System",
+                    "m": "Elven System"
+                }
+            },
+            {
+                "r": 27,
+                "c": 3,
+                "v": {
+                    "m": "49 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "49 BT"
+                }
+            },
+            {
+                "r": 28,
+                "c": 0,
+                "v": {
+                    "m": "Ending System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Ending System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 28,
+                "c": 3,
+                "v": {
+                    "m": "0 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "0 BT"
+                }
+            },
+            {
+                "r": 29,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffe599",
+                    "m": "Energy Act",
+                    "v": "Energy Act"
+                }
+            },
+            {
+                "r": 29,
+                "c": 3,
+                "v": {
+                    "m": "171 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "171 BT"
+                }
+            },
+            {
+                "r": 30,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Evacuation Star",
+                    "v": "Evacuation Star"
+                }
+            },
+            {
+                "r": 30,
+                "c": 3,
+                "v": {
+                    "m": "146 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "146 BT"
+                }
+            },
+            {
+                "r": 31,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Failed Love Star",
+                    "v": "Failed Love Star"
+                }
+            },
+            {
+                "r": 32,
+                "c": 0,
+                "v": {
+                    "m": "Falling Breath Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Falling Breath Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 32,
+                "c": 3,
+                "v": {
+                    "m": "165 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "165 BT"
+                }
+            },
+            {
+                "r": 33,
+                "c": 0,
+                "v": {
+                    "m": "Fire Rains Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Fire Rains Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 33,
+                "c": 3,
+                "v": {
+                    "m": "170 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "170 BT"
+                }
+            },
+            {
+                "r": 34,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "First Crater System",
+                    "v": "First Crater System"
+                }
+            },
+            {
+                "r": 34,
+                "c": 3,
+                "v": {
+                    "m": "147 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "147 BT"
+                }
+            },
+            {
+                "r": 35,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "First Epoch Star",
+                    "v": "First Epoch Star"
+                }
+            },
+            {
+                "r": 35,
+                "c": 3,
+                "v": {
+                    "m": "178 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "178 BT"
+                }
+            },
+            {
+                "r": 36,
+                "c": 0,
+                "v": {
+                    "m": "Flood System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Flood System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 36,
+                "c": 3,
+                "v": {
+                    "m": "25 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "25 BT"
+                }
+            },
+            {
+                "r": 37,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Frontier Beyond",
+                    "v": "Frontier Beyond"
+                }
+            },
+            {
+                "r": 37,
+                "c": 3,
+                "v": {
+                    "m": "150 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "150 BT"
+                }
+            },
+            {
+                "r": 38,
+                "c": 0,
+                "v": {
+                    "m": "Growing Territory Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Growing Territory Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 38,
+                "c": 3,
+                "v": {
+                    "m": "164 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "164 BT"
+                }
+            },
+            {
+                "r": 39,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Half-life System",
+                    "v": "Half-life System"
+                }
+            },
+            {
+                "r": 39,
+                "c": 3,
+                "v": {
+                    "m": "7 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "7 BT"
+                }
+            },
+            {
+                "r": 40,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Harmonic Treaty",
+                    "v": "Harmonic Treaty"
+                }
+            },
+            {
+                "r": 40,
+                "c": 3,
+                "v": {
+                    "m": "0 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "0 BT"
+                }
+            },
+            {
+                "r": 41,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Human Minds System",
+                    "v": "Human Minds System"
+                }
+            },
+            {
+                "r": 42,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Human Protection Act",
+                    "v": "Human Protection Act"
+                }
+            },
+            {
+                "r": 42,
+                "c": 3,
+                "v": {
+                    "m": "5 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "5 BT"
+                }
+            },
+            {
+                "r": 43,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Humanity Lost",
+                    "v": "Humanity Lost"
+                }
+            },
+            {
+                "r": 44,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Humanity Recycled",
+                    "v": "Humanity Recycled"
+                }
+            },
+            {
+                "r": 45,
+                "c": 0,
+                "v": {
+                    "m": "Humanity System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Humanity System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 45,
+                "c": 3,
+                "v": {
+                    "m": "56 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "56 BT"
+                }
+            },
+            {
+                "r": 46,
+                "c": 0,
+                "v": {
+                    "m": "Ironclad Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Ironclad Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 46,
+                "c": 3,
+                "v": {
+                    "m": "166 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "166 BT"
+                }
+            },
+            {
+                "r": 47,
+                "c": 0,
+                "v": {
+                    "m": "Lover's Stars",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Lover's Stars",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 47,
+                "c": 3,
+                "v": {
+                    "m": "41 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "41 BT"
+                }
+            },
+            {
+                "r": 48,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "m": "Masked Organics System",
+                    "v": "Masked Organics System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 48,
+                "c": 3,
+                "v": {
+                    "m": "66 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "66 BT"
+                }
+            },
+            {
+                "r": 49,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffe599",
+                    "m": "Material Limits Act",
+                    "v": "Material Limits Act"
+                }
+            },
+            {
+                "r": 49,
+                "c": 3,
+                "v": {
+                    "m": "173 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "173 BT"
+                }
+            },
+            {
+                "r": 50,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Mending Earth Star",
+                    "v": "Mending Earth Star"
+                }
+            },
+            {
+                "r": 50,
+                "c": 3,
+                "v": {
+                    "m": "140 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "140 BT"
+                }
+            },
+            {
+                "r": 51,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "m": "Milk System",
+                    "v": "Milk System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 51,
+                "c": 3,
+                "v": {
+                    "m": "71 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "71 BT"
+                }
+            },
+            {
+                "r": 52,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Mitosis Star System",
+                    "v": "Mitosis Star System"
+                }
+            },
+            {
+                "r": 52,
+                "c": 3,
+                "v": {
+                    "m": "140 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "140 BT"
+                }
+            },
+            {
+                "r": 53,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Mortality Revisited",
+                    "v": "Mortality Revisited"
+                }
+            },
+            {
+                "r": 53,
+                "c": 3,
+                "v": {
+                    "m": "37 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "37 BT"
+                }
+            },
+            {
+                "r": 54,
+                "c": 0,
+                "v": {
+                    "m": "Motion at Large System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Motion at Large System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 54,
+                "c": 3,
+                "v": {
+                    "m": "115 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "115 BT"
+                }
+            },
+            {
+                "r": 55,
+                "c": 0,
+                "v": {
+                    "m": "Mycelia System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Mycelia System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 55,
+                "c": 3,
+                "v": {
+                    "m": "127 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "127 BT"
+                }
+            },
+            {
+                "r": 56,
+                "c": 0,
+                "v": {
+                    "m": "New World System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "New World System",
+                    "fc": "#000000",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 56,
+                "c": 3,
+                "v": {
+                    "m": "10 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "10 BT"
+                }
+            },
+            {
+                "r": 57,
+                "c": 0,
+                "v": {
+                    "m": "Old Tension Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Old Tension Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 57,
+                "c": 3,
+                "v": {
+                    "m": "166 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "166 BT"
+                }
+            },
+            {
+                "r": 58,
+                "c": 0,
+                "v": {
+                    "m": "Plant System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Plant System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 58,
+                "c": 3,
+                "v": {
+                    "m": "125 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "125 BT"
+                }
+            },
+            {
+                "r": 59,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Plea Star",
+                    "v": "Plea Star"
+                }
+            },
+            {
+                "r": 59,
+                "c": 3,
+                "v": {
+                    "m": "1 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "1 BT"
+                }
+            },
+            {
+                "r": 60,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Population, Zero",
+                    "v": "Population, Zero"
+                }
+            },
+            {
+                "r": 60,
+                "c": 3,
+                "v": {
+                    "m": "8 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "8 BT"
+                }
+            },
+            {
+                "r": 61,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Prototype Star",
+                    "v": "Prototype Star"
+                }
+            },
+            {
+                "r": 61,
+                "c": 3,
+                "v": {
+                    "m": "55 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "55 BT"
+                }
+            },
+            {
+                "r": 62,
+                "c": 0,
+                "v": {
+                    "m": "Quickening System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Quickening System",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 62,
+                "c": 3,
+                "v": {
+                    "m": "178 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "178 BT"
+                }
+            },
+            {
+                "r": 63,
+                "c": 0,
+                "v": {
+                    "m": "Red Sky Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Red Sky Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 63,
+                "c": 3,
+                "v": {
+                    "m": "164 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "164 BT"
+                }
+            },
+            {
+                "r": 64,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffe599",
+                    "m": "Relations Act",
+                    "v": "Relations Act"
+                }
+            },
+            {
+                "r": 64,
+                "c": 3,
+                "v": {
+                    "m": "12 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "12 BT"
+                }
+            },
+            {
+                "r": 65,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "m": "Relatives Star System",
+                    "v": "Relatives Star System"
+                }
+            },
+            {
+                "r": 65,
+                "c": 3,
+                "v": {
+                    "m": "33 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "33 BT"
+                }
+            },
+            {
+                "r": 66,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Sex System",
+                    "m": "Sex System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 66,
+                "c": 3,
+                "v": {
+                    "m": "135 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "135 BT"
+                }
+            },
+            {
+                "r": 67,
+                "c": 0,
+                "v": {
+                    "m": "Shattered Peace Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Shattered Peace Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 67,
+                "c": 3,
+                "v": {
+                    "m": "166 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "166 BT"
+                }
+            },
+            {
+                "r": 68,
+                "c": 0,
+                "v": {
+                    "m": "Shattered Piece Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Shattered Piece Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 68,
+                "c": 3,
+                "v": {
+                    "m": "170 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "170 BT"
+                }
+            },
+            {
+                "r": 69,
+                "c": 0,
+                "v": {
+                    "m": "Shattered Sky Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Shattered Sky Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 69,
+                "c": 3,
+                "v": {
+                    "m": "171 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "171 BT"
+                }
+            },
+            {
+                "r": 70,
+                "c": 0,
+                "v": {
+                    "m": "Shrinking Population Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Shrinking Population Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 70,
+                "c": 3,
+                "v": {
+                    "m": "162 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "162 BT"
+                }
+            },
+            {
+                "r": 71,
+                "c": 0,
+                "v": {
+                    "m": "Skyward Inferno Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Skyward Inferno Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 71,
+                "c": 3,
+                "v": {
+                    "m": "168 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "168 BT"
+                }
+            },
+            {
+                "r": 72,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffe599",
+                    "m": "Spatial Act",
+                    "v": "Spatial Act"
+                }
+            },
+            {
+                "r": 72,
+                "c": 2,
+                "v": {
+                    "m": "Passed to stop Gods from manipulating Space and Time.",
+                    "ct": {
+                        "fa": "@",
+                        "t": "s"
+                    },
+                    "v": "Passed to stop Gods from manipulating Space and Time."
+                }
+            },
+            {
+                "r": 72,
+                "c": 3,
+                "v": {
+                    "m": "175 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "175 BT"
+                }
+            },
+            {
+                "r": 73,
+                "c": 0,
+                "v": {
+                    "m": "Starfall Epoch Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Starfall Epoch Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 73,
+                "c": 3,
+                "v": {
+                    "m": "174 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "174 BT"
+                }
+            },
+            {
+                "r": 74,
+                "c": 0,
+                "v": {
+                    "m": "Stolen Ground Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Stolen Ground Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 74,
+                "c": 3,
+                "v": {
+                    "m": "173 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "173 BT"
+                }
+            },
+            {
+                "r": 75,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ea9999",
+                    "v": "Two Breasts Stars",
+                    "m": "Two Breasts Stars"
+                }
+            },
+            {
+                "r": 75,
+                "c": 3,
+                "v": {
+                    "m": "36 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "36 BT"
+                }
+            },
+            {
+                "r": 76,
+                "c": 0,
+                "v": {
+                    "m": "Upper Limits Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Upper Limits Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 76,
+                "c": 3,
+                "v": {
+                    "m": "172 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "172 BT"
+                }
+            },
+            {
+                "r": 77,
+                "c": 0,
+                "v": {
+                    "m": "Vanishing Lights Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Vanishing Lights Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 77,
+                "c": 3,
+                "v": {
+                    "m": "161 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "161 BT"
+                }
+            },
+            {
+                "r": 78,
+                "c": 0,
+                "v": {
+                    "m": "Volatile Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Volatile Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 78,
+                "c": 3,
+                "v": {
+                    "m": "72 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "72 BT"
+                }
+            },
+            {
+                "r": 79,
+                "c": 0,
+                "v": {
+                    "m": "Waning Strength Star",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Waning Strength Star",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 79,
+                "c": 3,
+                "v": {
+                    "m": "175 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "175 BT"
+                }
+            },
+            {
+                "r": 80,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#b6d7a8",
+                    "m": "Watcher's Star",
+                    "v": "Watcher's Star"
+                }
+            },
+            {
+                "r": 80,
+                "c": 3,
+                "v": {
+                    "m": "11 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "11 BT"
+                }
+            },
+            {
+                "r": 81,
+                "c": 0,
+                "v": {
+                    "m": "Zygote System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Zygote System",
+                    "bg": "#ea9999"
+                }
+            },
+            {
+                "r": 81,
+                "c": 3,
+                "v": {
+                    "m": "130 BT",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "130 BT"
+                }
+            },
+            {
+                "r": 82,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffffff",
+                    "fc": "#ffffff"
+                }
+            },
+            {
+                "r": 83,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 84,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "bg": "#ffffff"
+                }
+            },
+            {
+                "r": 84,
+                "c": 1,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            },
+            {
+                "r": 85,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            },
+            {
+                "r": 86,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            },
+            {
+                "r": 87,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            },
+            {
+                "r": 88,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            },
+            {
+                "r": 89,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            }
+        ],
+        "calcChain": []
+    },
+    {
+        "id": "d70e59f9-ddbc-485c-af62-fea33e40869e",
+        "name": "Info",
+        "plugin": "divams_spreadsheets_for_obsidian",
+        "config": {
+            "merge": {},
+            "columnlen": {
+                "0": 98
+            },
+            "customWidth": {
+                "0": 1
+            }
+        },
+        "celldata": [
+            {
+                "r": 0,
+                "c": 0,
+                "v": {
+                    "m": "Types of Stars",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Types of Stars"
+                }
+            },
+            {
+                "r": 1,
+                "c": 0,
+                "v": {
+                    "m": "Legal",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Legal",
+                    "bg": "#ffe599"
+                }
+            },
+            {
+                "r": 2,
+                "c": 0,
+                "v": {
+                    "m": "Document",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Document",
+                    "bg": "#9fc5e8"
+                }
+            },
+            {
+                "r": 3,
+                "c": 0,
+                "v": {
+                    "m": "Index",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "Index",
+                    "bg": "#b6d7a8"
+                }
+            },
+            {
+                "r": 4,
+                "c": 0,
+                "v": {
+                    "v": "System",
+                    "bg": "#f4cccc",
+                    "m": "System",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    }
+                }
+            }
+        ],
+        "calcChain": []
+    }
+]

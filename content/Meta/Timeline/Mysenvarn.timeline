@@ -394,7 +394,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
     <event>
       <start>-147</start>
       <end>-147</end>
-      <text>Great Oceanic Crater Created</text>
+      <text>Great Oceanic Crater Event</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -1700,7 +1700,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
     <event>
       <start>-135</start>
       <end>-135</end>
-      <text>Sex Star</text>
+      <text>Sex System</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -1752,11 +1752,147 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <description>Published b the God of Hydrogen Cranide, detailing their use of humans as an assassination tool. Served as a pitch to other Gods ,enticing them to use humans themselves.</description>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-139</start>
+      <end>-139</end>
+      <text>Debris from Great Oceanic Crater Settles Completely</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-56</start>
+      <end>-56</end>
+      <text>Alex's Star System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>The Host star, published by Igneous Rock, furious at Porous Rock, speaks out against the creation of humans. It would become the hub star for speaking out against humanities creation.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-11</start>
+      <end>-11</end>
+      <text>Watcher's Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star written by an unknown God, talking about their experience watching over humans.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-10</start>
+      <end>-10</end>
+      <text>New World System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>A system of stars by various Gods discussing how societies have changed the world, for better or for worse.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-144</start>
+      <end>-144</end>
+      <text>Debris Raining Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star by an unknown God dicussing the rain of debris.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-140</start>
+      <end>-140</end>
+      <text>Mending Earth Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star by an unknown God discussing how the tectonic plates are mending back together.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-138</start>
+      <end>-138</end>
+      <text>Cilia Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star by the God of Aspartic Acid detailing the creation of their own animals following the publication of the Mitosis System.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-156</start>
+      <end>-156</end>
+      <text>Border Operation</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-150</start>
+      <end>-150</end>
+      <text>Frontier Beyond Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-136</start>
+      <end>-136</end>
+      <text>Claim Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-183</start>
-      <end>-149</end>
+      <start>-185</start>
+      <end>-141</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
