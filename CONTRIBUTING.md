@@ -1,28 +1,26 @@
----
-title: Contributing
-enableToc: true
-tags:
-  - meta
----
+*For a more thoughtfully formatted version of this page, see the official article on the website:* https://mysenvaria.ragno.wiki/Meta/Contributing
 
-> [!warning] Disclaimer
-> When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 
-> 
-> ***By submitting content you promise that your contribution is your property and agree that it may become part of the project. As such it may be used, modified, or monetized without need for further permission. This does not mean you forfeit your copyright or moral rights.*** You retain ownership, but by contributing you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases.
-> 
-> You also acknowledge that, due to the project's license terms, others may copy, modify, and redistribute your content under the same terms.
-> 
-> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) and [CLA](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CLA.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria).
+```
+When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 
 
-> [!danger] Warning
-> Although the Encyclopedia Mysenvaria website will not be monetized, future plans for the project outside of the website may include monetization! 
-> 
-> ***By contributing you agree that any content you submit becomes property of the project, and may be monetized with no need for further permission.***
+By submitting content you promise that your contribution is your property and agree that it may become part of the project. As such it may be used, modified, or monetized without need for further permission. This does not mean you forfeit your copyright or moral rights. You retain ownership, but by contributing you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases.
 
-> [!tip] Info
-> ***Contributors may request to have their name, and a link to a social page of their choosing, added to the [[Meta/Contributors|Contributors]] page. The contributors page is linked at the footer of the website, accessible from all pages.***
-> 
-> If you've contributed to the Encyclopedia Mysenvaria and wish to be listed, please open a new [GitHub Issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) with proof of your prior contribution. Being added to the Contributors page is not automatic and must be requested manually.
+You also acknowledge that, due to the project's license terms, others may copy, modify, and redistribute your content under the same terms.
+
+For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) and [CLA](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CLA.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria).
+```
+
+```
+Although the Encyclopedia Mysenvaria website will not be monetized, future plans for the project outside of the website may include monetization! 
+
+By contributing you agree that any content you submit becomes property of the project, and may be monetized with no need for further permission.
+```
+
+```
+Contributors may request to have their name, and a link to a social page of their choosing, added to the [[Meta/Contributors|Contributors]] page. The contributors page is linked at the footer of the website, accessible from all pages.
+
+If you've contributed to the Encyclopedia Mysenvaria and wish to be listed, please open a new [GitHub Issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) with proof of your prior contribution. Being added to the Contributors page is not automatic and must be requested manually.
+```
 
 By virtue of the way the encyclopedia is built it is very easy to contribute to the project—but before you do, there's some things to understand! 
 - As described by the [license](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/LICENSE.md): the Encyclopedia Mysenvaria's content is **NOT** open-source—It's backend/code, [Quartz](https://quartz.jzhao.xyz/), is.

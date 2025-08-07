@@ -11,9 +11,9 @@ export const sharedPageComponents: SharedLayout = {
       "Home": "https://mysenvaria.ragno.wiki/",
       "Meta": "https://mysenvaria.ragno.wiki/Meta/Meta",
       "Contributors": "https://mysenvaria.ragno.wiki/Meta/Contributors",
+      "Code of Conduct": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CODE_OF_CONDUCT.md",
       "GitHub": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria",
       "Discord": "https://discord.gg/2yUDZ5j",
-      "Blog": "https://ragnois.gay/",
     },
   }),
 }
