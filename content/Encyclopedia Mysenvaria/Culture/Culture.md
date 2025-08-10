@@ -3,11 +3,10 @@ title: Culture
 enableToc: true
 tags:
   - type:overview
-  - status:touchup
+  - topic:culture
+  - status:complete
+  - future:update
 ---
-
->[!abstract] [[Meta/Touch-ups|Touch-up]]
->This page could use examples of each sub-topic.
 
 Culture is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Culture encompasses the beliefs, traditions, systems, and societies of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], exploring how populations organize, the values they hold, how they interact, the languages they speak, and more. The study of culture has significant overlap with the study of [[Encyclopedia Mysenvaria/History/History|history]], offering insight into how societies have evolved over time.
 # Beliefs
@@ -28,3 +27,6 @@ Organizations are groups of people that work with organized structure and a comm
 - [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

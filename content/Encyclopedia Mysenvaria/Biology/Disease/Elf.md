@@ -4,12 +4,9 @@ enableToc: true
 tags:
   - topic:biology/disease
   - status:empty
+  - needs:infobox
 ---
 
-# Etymology
-
-> [!note]
-> Etymology is not necessary. It should detail where the name of the animal in different languages across the Plane comes from.
 # History
 
 # Anatomy

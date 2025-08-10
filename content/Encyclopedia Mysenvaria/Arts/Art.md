@@ -3,11 +3,10 @@ title: Art
 enableToc: true
 tags:
   - type:overview
-  - status:touchup
+  - topic:art
+  - status:complete
+  - future:update
 ---
-
->[!abstract] [[Meta/Touch-ups|Touch-up]]
->This page could use examples of each sub-topic and could possibly link to more pages.
 
 Art is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Art is a diverse aspect of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], defined as the creation and expression of ideas and emotions. Art is intrinsically tied to [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Geography/Geography|geography]], reflecting the values and lives of the people who created and endorsed it. 
 
@@ -28,3 +27,6 @@ Performance is the act of theatrical storytelling performed in front of or for a
 - [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

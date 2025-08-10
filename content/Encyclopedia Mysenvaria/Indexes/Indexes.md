@@ -3,6 +3,7 @@ title: List of Lists
 enableToc: true
 tags:
   - type:index
+  - status:update
 ---
 This page serves as an index of index pages across the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]], sorted by topic and alphabetical order.
 # Arts
@@ -49,3 +50,6 @@ This page serves as an index of index pages across the [[Encyclopedia Mysenvaria
 	- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|List of Energy Gods]]
 	- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]
 	- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]]
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update|Update]]
+> This page is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

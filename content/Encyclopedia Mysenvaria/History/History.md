@@ -3,11 +3,10 @@ title: History
 enableToc: true
 tags:
   - type:overview
-  - status:touchup
+  - topic:history
+  - status:complete
+  - future:update
 ---
-
->[!abstract] [[Meta/Touch-ups|Touch-up]]
->This page could use examples of the sub-topics. It could also use further elaboration into the historic eras and what makes each of them unique.
 
 History is one of the six primary tropics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. History is a record of events, figures, and forces from the past which have shaped the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. By studying history [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] can seek to understand how the past influences the present and will continue to influence the future. History is vital to all other topics of the Encyclopedia, offering 
  insight into [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Science/Science|science]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Geography/Geography|geography]], and [[Encyclopedia Mysenvaria/Arts/Art|art]]. 
@@ -23,3 +22,6 @@ Each of the four historic eras has their own sub-topic, which includes a timelin
 - [[Encyclopedia Mysenvaria/Culture/Culture|Culture]]
 - [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

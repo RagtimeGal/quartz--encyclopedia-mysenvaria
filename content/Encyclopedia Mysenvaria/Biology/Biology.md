@@ -3,11 +3,10 @@ title: Biology
 enableToc: true
 tags:
   - type:overview
-  - status:touchup
+  - topic:biology
+  - status:complete
+  - future:update
 ---
-
->[!abstract] [[Meta/Touch-ups|Touch-up]]
->This page could use examples of each sub-topic and could possibly link to more pages.
 
 Biology is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Biology is a diverse [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branch]] which focuses on the research of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. Biology is an umbrella branch, containing other studies like [[Encyclopedia Mysenvaria/Science/Branches/Biogeography|biogeography]], [[Encyclopedia Mysenvaria/Science/Branches/Bioastronomy|bioastronomy]], [[Encyclopedia Mysenvaria/Science/Branches/Genetics|genetics]], [[Encyclopedia Mysenvaria/Science/Branches/Sociobiology|sociobiology]], and more.
 
@@ -26,3 +25,6 @@ Species are more specific taxon that include populations of highly related organ
 - [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

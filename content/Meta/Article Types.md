@@ -2,21 +2,58 @@
 title: Stubs
 enableToc: true
 tags:
-  - topic:meta
+  - topic:meta:writing_guidelines
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
 > *This page is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
-# Non-Meta Articles
-## Topics
-## Indexes
-## Standard Articles
-# Meta Articles
-## Stubs
+# Article Types
+## Article
 
-## Touch-Ups
-Stubs are [[Meta/Meta|meta]] callouts pointing out that a page is incomplete. Stubs are considered too short to provide complete coverage of their topic, but should strive to at least outline the core ideas and concepts. Stubs should clearly outline their topic in at least a short one-paragraph description. 
+## Index
 
-The existence of stubs ensures the proper linking of articles across the encyclopedia, maintaining the flow and structure of page links. Without stubs it can become difficult to track when a concept is mentioned and retroactively link past mentions. Stubs subvert this by allowing complete pages to link to unfinished concepts which can be returned to at a later date.
+## Table
 
-Readers can [[Meta/Contributing|contribute]] to stubs by leaving comments. Contribution by recommending further development, suggesting additions or revisions, or proposing merges or splits of the articles topics are all appreciated.
+## Overview
+
+## Template
+
+## Ledger
+
+# Article Status'
+## Empty
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]
+> This page is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+## Stub
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> This page is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+## Incomplete
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> This page is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+## Touch-up
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Touch-up|Touch-up Article]]
+> This page is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+# Update
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update|Update]]
+> This page is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+## Complete
+
+
+# Article Reminders
+## Update Needed
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+## Rewrite Needed
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Rewrite Needed|Future Rewrite Needed]]
+> This page is considered complete for the moment, but some finished sections may need to be rewritten as the setting develops! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+## Review Needed
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Review Needed|Future Review Needed]]
+> This page is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

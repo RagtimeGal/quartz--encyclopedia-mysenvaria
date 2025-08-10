@@ -80,6 +80,7 @@ This page serves as a general overview of all tags used throughout the encyclope
 	- `status:incomplete`: This page is partially written and contains significant missing sections.
 	- `status:touchup`: This page provides a complete overview of its given topic, but the clarity could use improvement.
 	- `status:complete`: This page provides a complete and comprehensive overview of its given topic at a level of clarity considered acceptable.
+	- `status:update`: This page requires regular updates as the encyclopedia and setting grows.
 	- `future:update`: This page will require expansion in the future as the setting's lore is developed further.
 	- `future:rewrite`: This page will require revisions as the setting's lore is developed further.
 	- `future:review`: This page will be revisited and judged at a later date when related topics are more developed.

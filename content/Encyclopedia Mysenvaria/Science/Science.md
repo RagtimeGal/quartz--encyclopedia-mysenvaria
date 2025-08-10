@@ -3,6 +3,9 @@ title: Science
 enableToc: true
 tags:
   - type:overview
+  - topic:science
+  - status:complete
+  - future:update
 ---
 
 Science is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Science is a discipline that collects and organizes knowledge about the natural world through reproducible tests and predictions. Collected scientific knowledge is stored throughout the vast majority of the Encyclopedia, instead this section serves primarily to store knowledge regarding the practices, predictions, and applications of science.
@@ -20,3 +23,6 @@ Technology refers to the practical applications and devices which are created wi
 - [[Encyclopedia Mysenvaria/Culture/Culture|Culture]]
 - [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
