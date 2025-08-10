@@ -2,8 +2,8 @@
 title: Lists of Animals
 enableToc: true
 tags:
-- index
-- biology/animal
+  - type:index
+  - topic:biology:animal
 ---
 
 This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]], organisms defined as being capable of locomotion.

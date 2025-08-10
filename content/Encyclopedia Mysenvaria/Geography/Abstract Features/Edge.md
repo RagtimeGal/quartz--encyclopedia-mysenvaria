@@ -2,8 +2,8 @@
 title: Edge
 enableToc: true
 tags:
-  - geography/abstract
-  - touch-up
+  - topic:geography:abstract
+  - status:touchup
 ---
 
 >[!abstract] [[Meta/Touch-ups|Touch-ups]]

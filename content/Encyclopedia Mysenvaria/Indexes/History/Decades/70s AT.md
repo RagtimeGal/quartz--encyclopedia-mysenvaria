@@ -2,9 +2,9 @@
 title: 70s AT
 enableToc: true
 tags:
-  - history/decade
-  - index
-  - stub
+  - topic:history:decade
+  - type:index
+  - status:empty
 ---
 
 > [!note] Stub

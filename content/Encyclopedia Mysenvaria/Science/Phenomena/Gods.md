@@ -2,9 +2,9 @@
 title: Gods
 enableToc: true
 tags:
-- science/phenomena
-- god
-- touch-up
+  - topic:science:phenomenon
+  - subject:god
+  - status:touchup
 ---
 
 > [!abstract] [[Meta/Touch-ups|Touch-up]]

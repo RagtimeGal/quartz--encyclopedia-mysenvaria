@@ -2,11 +2,11 @@
 title: God of Exothermic Reactions
 enableToc: true
 tags:
-- history/biography
-- god/lesser-god
-- god/energy-god
-- god/reaction-god
-- stub
+  - topic:history:biography
+  - subject:god:lesser-god
+  - subject:god:energy_god
+  - subject:god:reaction_god
+  - status:empty
 ---
 
 > [!note] Stub

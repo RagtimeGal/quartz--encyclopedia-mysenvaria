@@ -2,8 +2,8 @@
 title: Surgery
 enableToc: true
 tags:
-  - science/technology
-  - stub
+  - topic:science:technology
+  - status:empty
 ---
 
 > [!note] Stub

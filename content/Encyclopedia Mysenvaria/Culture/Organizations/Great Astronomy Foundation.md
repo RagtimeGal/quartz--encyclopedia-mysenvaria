@@ -2,8 +2,8 @@
 title: Great Astronomy Foundation
 enableToc: true
 tags:
-- culture/organization
-- stub
+  - topic:culture:organization
+  - status:empty
 ---
 
 > [!note] Stub

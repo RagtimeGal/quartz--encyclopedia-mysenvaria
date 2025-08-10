@@ -2,8 +2,8 @@
 title: Tectonics
 enableToc: true
 tags:
-  - science/model
-  - touch-up
+  - topic:science:model
+  - status:touchup
 ---
 
 > [!note] Stub

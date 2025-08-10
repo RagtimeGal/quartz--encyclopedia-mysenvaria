@@ -2,9 +2,9 @@
 title: Three-humped Camel
 enableToc: true
 tags:
-  - biology/taxa
-  - biology/animal
-  - stub
+  - topic:biology:taxon
+  - topic:biology:animal
+  - status:empty
 ---
 
 > [!note] Stub

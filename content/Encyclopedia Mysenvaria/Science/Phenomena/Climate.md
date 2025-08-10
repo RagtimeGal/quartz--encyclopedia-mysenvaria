@@ -2,8 +2,8 @@
 title: Climate
 enableToc: true
 tags:
-  - science/phenomena
-  - touch-up
+  - topic:science:phenomenon
+  - status:touchup
 ---
 
 > [!abstract] [[Meta/Touch-ups|Touch-up]]

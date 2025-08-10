@@ -2,9 +2,9 @@
 title: Geography During the God-War
 enableToc: true
 tags:
-- history/god-war_era
-- geography
-- stub
+  - topic:history:god-war_era
+  - geography
+  - status:empty
 ---
 
 > [!note] Stub

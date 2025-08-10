@@ -2,8 +2,8 @@
 title: Elf
 enableToc: true
 tags:
-  - biology/disease
-  - stub
+  - topic:biology/disease
+  - status:empty
 ---
 
 # Etymology

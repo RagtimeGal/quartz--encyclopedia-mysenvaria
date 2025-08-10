@@ -2,8 +2,8 @@
 title: Games Template
 enableToc: true
 tags:
-- art/games
-- stub/template
+  - topic:art:game
+  - type:template
 draft: true
 ---
 

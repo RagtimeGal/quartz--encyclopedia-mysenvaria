@@ -2,8 +2,8 @@
 title: Technology Template
 enableToc: true
 tags:
-- science/technology
-- stub/template
+  - topic:science:technology
+  - type:template
 draft: true
 ---
 

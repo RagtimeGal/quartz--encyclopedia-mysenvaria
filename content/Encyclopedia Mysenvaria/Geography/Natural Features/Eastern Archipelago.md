@@ -2,8 +2,8 @@
 title: Eastern Archipelago
 enableToc: true
 tags:
-  - geography/natural
-  - stub
+  - topic:geography:natural
+  - status:empty
 ---
 
 > [!note] Stub

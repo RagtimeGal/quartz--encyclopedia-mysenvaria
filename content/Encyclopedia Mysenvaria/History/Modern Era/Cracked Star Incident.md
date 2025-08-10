@@ -2,8 +2,8 @@
 title: Cracked Star Incident
 enableToc: true
 tags:
-  - history/modern_era
-  - stub
+  - topic:history:modern_era
+  - status:empty
 ---
 
 > [!note] Stub

@@ -2,7 +2,7 @@
 title: Writing Guidelines
 enableToc: true
 tags:
-  - meta/writing-guidelines
+  - topic:meta:writing_guidelines
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

@@ -2,8 +2,8 @@
 title: Lists of Artificial Features
 enableToc: true
 tags:
-- index
-- geography/artificial
+  - type:index
+  - topic:geography:artificial
 ---
 
 This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Geography#Artificial Features|artificial features]]. 

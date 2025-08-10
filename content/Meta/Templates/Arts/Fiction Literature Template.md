@@ -2,8 +2,8 @@
 title: Fiction Literature Template
 enableToc: true
 tags:
-- art/literature/fiction
-- stub/template
+  - topic:art:literature:fiction
+  - type:template
 draft: true
 ---
 

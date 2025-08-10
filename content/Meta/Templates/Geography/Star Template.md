@@ -2,9 +2,9 @@
 title: Star Template
 enableToc: true
 tags:
-- geography/astrography
-- star
-- stub/template
+  - topic:geography:astrography
+  - subject:star
+  - type:template
 draft: true
 ---
 

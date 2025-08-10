@@ -2,8 +2,8 @@
 title: Language Template
 enableToc: true
 tags:
-- culture/language
-- stub/template
+  - topic:culture:language
+  - type:template
 draft: true
 ---
 

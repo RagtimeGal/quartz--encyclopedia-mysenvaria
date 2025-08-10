@@ -2,8 +2,8 @@
 title: Dying Period
 enableToc: true
 tags:
-- history/god-war_era
-- touch-up
+  - topic:history:god-war_era
+  - status:touchup
 ---
 
 > [!abstract] [[Meta/Touch-ups|Touch-up]]

@@ -2,8 +2,8 @@
 title: Sextown
 enableToc: true
 tags:
-  - geography/artificial
-  - stub
+  - topic:geography:artificial
+  - status:empty
 ---
 
 > [!note] Stub

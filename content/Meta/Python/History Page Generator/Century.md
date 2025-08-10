@@ -2,9 +2,9 @@
 title: {{title}}
 enableToc: true
 tags:
-  - history/century
-  - index
-  - stub/template
+  - topic:history:century
+  - type:index
+  - type:template
 draft: true
 ---
 

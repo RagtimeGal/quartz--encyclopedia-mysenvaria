@@ -2,8 +2,8 @@
 title: Golden Age
 enableToc: true
 tags:
-- history/golden_age
-- stub
+  - topic:history:golden_age
+  - status:empty
 ---
 
 > [!note] Stub

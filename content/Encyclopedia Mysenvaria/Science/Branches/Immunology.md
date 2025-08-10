@@ -2,8 +2,8 @@
 title: Immunology
 enableToc: true
 tags:
-  - science/branch
-  - stub
+  - topic:science:branch
+  - status:empty
 ---
 
 > [!note] Stub

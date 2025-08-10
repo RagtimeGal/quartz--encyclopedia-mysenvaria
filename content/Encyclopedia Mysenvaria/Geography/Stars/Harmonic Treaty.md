@@ -2,9 +2,9 @@
 title: Harmonic Treaty
 enableToc: true
 tags:
-  - geography/astrography
-  - star
-  - stub
+  - topic:geography:astrography
+  - subject:star
+  - status:empty
 ---
 
 > [!note] Stub

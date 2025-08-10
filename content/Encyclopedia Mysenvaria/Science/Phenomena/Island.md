@@ -2,8 +2,8 @@
 title: Island
 enableToc: true
 tags:
-  - science/phenomena
-  - stub
+  - topic:science:phenomenon
+  - status:empty
 ---
 
 > [!note] Stub

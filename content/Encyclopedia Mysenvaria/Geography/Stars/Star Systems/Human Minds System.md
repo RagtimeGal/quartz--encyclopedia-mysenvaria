@@ -2,9 +2,9 @@
 title: Human Minds System
 enableToc: true
 tags:
-  - geography/astrography
-  - stub
-  - star_system
+  - topic:geography:astrography
+  - status:empty
+  - subject:star_system
 ---
 
 > [!note] Stub

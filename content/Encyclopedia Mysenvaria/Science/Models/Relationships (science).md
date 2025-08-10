@@ -2,8 +2,8 @@
 title: Relationships (science)
 enableToc: true
 tags:
-  - science/model
-  - touch-up
+  - topic:science:model
+  - status:touchup
 ---
 
 *For linguistic relationships, see [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Relationships (linguistics)|Relationships (linguistics)]].*

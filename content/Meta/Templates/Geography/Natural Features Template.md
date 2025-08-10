@@ -2,8 +2,8 @@
 title: Natural Features Template
 enableToc: true
 tags:
-- geography/natural
-- stub/template
+  - topic:geography:natural
+  - type:template
 draft: true
 ---
 

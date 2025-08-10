@@ -2,8 +2,8 @@
 title: List of Domesticated Plants
 enableToc: true
 tags:
-- index
-- biology/animal
+  - type:index
+  - topic:biology:animal
 ---
 
 This page serves as an index of domesticated [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|plants]].

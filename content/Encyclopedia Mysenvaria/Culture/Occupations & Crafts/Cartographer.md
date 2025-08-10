@@ -2,8 +2,8 @@
 title: Cartographer
 enableToc: true
 tags:
-  - culture/occupation
-  - stub
+  - topic:culture:occupation
+  - status:empty
 ---
 
 > [!note] Stub

@@ -2,9 +2,9 @@
 title: Pincushion Moss
 enableToc: true
 tags:
-  - biology/taxa
-  - biology/plant
-  - stub
+  - topic:biology:taxon
+  - topic:biology:plant
+  - status:empty
 ---
 
 > [!note] Stub

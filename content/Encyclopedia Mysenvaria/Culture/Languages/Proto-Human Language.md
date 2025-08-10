@@ -2,8 +2,8 @@
 title: Language Template
 enableToc: true
 tags:
-- culture/language
-- stub
+  - topic:culture:language
+  - status:empty
 ---
 
 > [!note] Stub

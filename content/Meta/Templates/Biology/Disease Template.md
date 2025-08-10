@@ -2,8 +2,8 @@
 title: Disease Template
 enableToc: true
 tags:
-- biology/disease
-- stub/template
+  - topic:biology/disease
+  - type:template
 draft: true
 ---
 

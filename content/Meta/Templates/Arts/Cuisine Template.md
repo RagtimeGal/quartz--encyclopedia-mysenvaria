@@ -2,8 +2,8 @@
 title: Cuisine Template
 enableToc: true
 tags:
-- art/cuisine
-- stub/template
+  - topic:art:cuisine
+  - type:template
 draft: true
 ---
 

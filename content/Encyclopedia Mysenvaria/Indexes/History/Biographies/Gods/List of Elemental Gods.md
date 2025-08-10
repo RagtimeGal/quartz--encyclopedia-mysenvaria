@@ -2,8 +2,8 @@
 title: List of Elemental Gods
 enableToc: true
 tags:
-- index
-- god/elemental_god
+  - type:index
+  - subject:god:elemental_god
 ---
 
 This page serves as an index of elemental [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. Elemental Gods are defined by [[Encyclopedia Mysenvaria/Science/Models/Heavenly Lineage Model|Heavenly Lineage Model]] as third-generation Gods created solely by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter]].

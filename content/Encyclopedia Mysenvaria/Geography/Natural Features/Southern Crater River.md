@@ -2,8 +2,8 @@
 title: Southern Crater River
 enableToc: true
 tags:
-  - geography/natural
-  - stub
+  - topic:geography:natural
+  - status:empty
 ---
 
 > [!note] Stub

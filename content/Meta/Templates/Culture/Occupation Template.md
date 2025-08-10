@@ -2,8 +2,8 @@
 title: Occupation Template
 enableToc: true
 tags:
-- culture/occupation
-- stub/template
+  - topic:culture:occupation
+  - type:template
 draft: true
 
 ---

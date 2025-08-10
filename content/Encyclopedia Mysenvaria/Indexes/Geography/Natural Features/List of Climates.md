@@ -2,8 +2,8 @@
 title: List of Climates
 enableToc: true
 tags:
-- index
-- geography/natural
+  - type:index
+  - topic:geography:natural
 ---
 
 This page serves as an index of climates sorted in alphabetical order.

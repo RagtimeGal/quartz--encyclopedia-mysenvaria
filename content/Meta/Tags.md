@@ -2,7 +2,7 @@
 title: Tags
 enableToc: true
 tags:
-  - meta
+  - topic:meta
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
@@ -16,6 +16,7 @@ This page serves as a general overview of all tags used throughout the encyclope
 	- `type:table`: This page contains a list of articles or items arranged as a table.
 	- `type:overview`: This page describes a given topic of the encyclopedia.
 	- `type:template`: This page is a template for the articles of a given topic.
+	- `type:ledger`: This page contains a list of changed files. 
 - **Article Topics**: These tags differentiate articles based on the topic of the content they contain.
 	- **Topic Categories**: These tags categorize articles based on the most broad topics of information they cover.
 		- `topic:meta`: This page covers a meta topic for the encyclopedia.
@@ -32,9 +33,10 @@ This page serves as a general overview of all tags used throughout the encyclope
 		- `topic:biology`: This page covers a topic relating to biology.
 			- `topic:biology:plant`: This page covers a specific taxon of plant.
 			- `topic:biology:animal`: This page covers a specific taxon of animal.
-			- `topic:biology:taxa`: This page covers a nonspecific taxon.
+			- `topic:biology:taxon`: This page covers a specific taxon.
 			- `topic:biology:family`: This page covers a family taxon.
 			- `topic:biology:disease`: This page covers a specific disease.
+			- `topic:biology:extinct`: This page covers an extinct taxon.
 		- `topic:culture`: This page covers a topic relating to the humanities.
 			- `topic:culture:belief`: This page covers a certain belief system.
 			- `topic:culture:ethnicity`: This page covers a certain ethnic group.
@@ -53,6 +55,8 @@ This page serves as a general overview of all tags used throughout the encyclope
 			- `topic:history:golden_age`: This page covers events which occurred during the Golden Age.
 			- `topic:history:modern_era`: This page covers events which occurred during the Modern Era.
 			- `topic:history:biography`: This page covers the lives of specific people.
+			- `topic:history:decade`: This page covers a specific decade of history.
+			- `topic:history:century`: This page covers a specific century of history.
 		- `topic:science`: This page covers a topic relating to the sciences.
 			- `topic:science:branch`: This page covers a specific scientific branch.
 			- `topic:science:phenomena`: This page covers a specific scientific phenomenon.
@@ -62,6 +66,11 @@ This page serves as a general overview of all tags used throughout the encyclope
 		- `subject:god`: This page covers information regarding Gods.
 			- `subject:god:higher-god`: This page covers information regarding higher-Gods.
 			- `subject:god:lesser-god`: This page covers information regarding lesser-Gods.
+			- `subject:god:compound_god`: This page covers information regarding Gods of chemical compound.
+			- `subject:god:elemental_god`: This page covers information regarding Gods of elements.
+			- `subject:god:energy_god`: This page covers information regarding Gods of energies.
+			- `subject:god:reaction_god`: This page covers information regarding Gods of reactions.
+			- `subject:god:phenomena_god`: This page covers information regarding Gods of phenomenon.
 		- `subject:star`: This page covers information regarding stars.
 			- `subject:star:host`: This page covers information regarding the host star of a specific star system.
 		- `subject:star_system`: This page covers information regarding star systems.

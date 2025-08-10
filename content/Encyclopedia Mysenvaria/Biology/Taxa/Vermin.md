@@ -2,8 +2,8 @@
 title: Vermin
 enableToc: true
 tags:
-  - biology/taxa
-  - stub
+  - topic:biology:taxon
+  - status:empty
 ---
 
 > [!note] Stub

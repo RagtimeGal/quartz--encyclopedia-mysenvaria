@@ -2,8 +2,8 @@
 title: The Phonlogical Directory of Gods Tongues
 enableToc: true
 tags:
-  - art/literature/non-fiction
-  - stub
+  - topic:art:literature:non-fiction
+  - status:empty
 ---
 
 > [!note] Stub

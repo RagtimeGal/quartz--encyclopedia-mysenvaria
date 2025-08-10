@@ -2,8 +2,8 @@
 title: Animal
 enableToc: true
 tags:
-  - biology/taxa
-  - stub
+  - topic:biology:taxon
+  - status:empty
 ---
 
 > [!summary] Animal

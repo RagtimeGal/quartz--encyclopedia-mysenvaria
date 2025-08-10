@@ -2,9 +2,9 @@
 title: 14th Century AT
 enableToc: true
 tags:
-  - history/century
-  - index
-  - stub
+  - topic:history:century
+  - type:index
+  - status:empty
 ---
 
 > [!note] Stub

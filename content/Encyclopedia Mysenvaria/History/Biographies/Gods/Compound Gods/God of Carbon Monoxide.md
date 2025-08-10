@@ -2,10 +2,10 @@
 title: God of Carbon Monoxide
 enableToc: true
 tags:
-- history/biography
-- god/lesser-god
-- god/compound_god
-- stub
+  - topic:history:biography
+  - subject:god:lesser-god
+  - subject:god:compound_god
+  - status:empty
 ---
 
 > [!note] Stub

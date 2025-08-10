@@ -2,8 +2,8 @@
 title: Biography Template
 enableToc: true
 tags:
-- history/biography
-- stub/template
+  - topic:history:biography
+  - type:template
 draft: true
 ---
 

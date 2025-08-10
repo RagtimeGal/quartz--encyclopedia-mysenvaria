@@ -2,8 +2,8 @@
 title: Music Template
 enableToc: true
 tags:
-- art/music
-- stub/template
+  - topic:art:music
+  - type:template
 draft: true
 ---
 

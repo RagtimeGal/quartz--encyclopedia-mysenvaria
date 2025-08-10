@@ -2,8 +2,8 @@
 title: Nemein
 enableToc: true
 tags:
-  - art/games
-  - stub
+  - topic:art:game
+  - status:empty
 ---
 
 > [!note] Stub

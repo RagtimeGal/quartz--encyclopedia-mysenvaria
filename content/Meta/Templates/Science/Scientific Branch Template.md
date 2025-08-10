@@ -2,8 +2,8 @@
 title: Scientific Branch Template
 enableToc: true
 tags:
-- science/branch
-- stub/template
+  - topic:science:branch
+  - type:template
 draft: true
 ---
 

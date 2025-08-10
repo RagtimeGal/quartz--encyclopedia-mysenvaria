@@ -2,10 +2,10 @@
 title: God of Radiant Energy
 enableToc: true
 tags:
-- history/biography
-- god/lesser-god
-- god/energy-god
-- stub
+  - topic:history:biography
+  - subject:god:lesser-god
+  - subject:god:energy_god
+  - status:empty
 ---
 
 > [!note] Stub

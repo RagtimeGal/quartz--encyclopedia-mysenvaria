@@ -2,7 +2,7 @@
 title: Contributors
 enableToc: true
 tags:
-  - meta
+  - topic:meta
 ---
 
 This page serves as an alphabetical index of contributors and links to their personal websites or social pages. For more information on contributing please see the [[Meta/Contributing|contribution]] page.

@@ -2,8 +2,8 @@
 title: Encounters With The Quadrinity
 enableToc: true
 tags:
-  - art/literature/non-fiction
-  - stub
+  - topic:art:literature:non-fiction
+  - status:empty
 ---
 
 > [!note] Stub

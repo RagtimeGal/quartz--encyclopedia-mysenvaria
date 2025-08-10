@@ -2,8 +2,8 @@
 title: Abstract Features Template
 enableToc: true
 tags:
-- geography/abstract
-- stub/template
+  - topic:geography:abstract
+  - type:template
 draft: true
 ---
 

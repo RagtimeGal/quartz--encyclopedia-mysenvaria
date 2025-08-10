@@ -2,7 +2,7 @@
 title: Quickening
 enableToc: true
 tags:
-- history/god-war_era
+  - topic:history:god-war_era
 ---
 
 The Quickening—an event which occurred over the span of less than a [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|season]] in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#178 BT|178 BT]]—is widely considered to be one of the most influential in [[Encyclopedia Mysenvaria/History/History|history]], being the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The event is documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], composed of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published by various [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] documenting their own [[Encyclopedia Mysenvaria/Science/Models/Natural Subdivision|natural subdivisions]]. The host star, the [[Encyclopedia Mysenvaria/Geography/Stars/Bernie's Star System/Quickening Star|Quickening Star]], was published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]] to document their creation of the [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|Elemental Gods]].

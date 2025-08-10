@@ -2,8 +2,8 @@
 title: "Lore Ledger 17.25"
 enableToc: true
 tags:
-  - meta
-  - meta/ledger
+  - topic:meta
+  - type:ledger
 ---
 
 > [!summary] Lore Ledger #8
@@ -29,7 +29,7 @@ Long time no see? I've decided to update Lore Ledgers to improve my morale. They
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]; Completely rewritten, updated to touch-up.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]; Completely rewritten, updated to touch-up.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]; Added little writing.
-- Gods of Life and Death; renamed to [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]].
+- subject:gods of Life and Death; renamed to [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]].
 - (Name)'s Index; renamed to [[Encyclopedia Mysenvaria/Science/Models/Heavenly Lineage Model|Heavenly Lineage Model]].
 - Universal Strata; renamed to [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]].
 - [[Encyclopedia Mysenvaria/Biology/Species/Human|Human]], [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]], [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]], [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]], [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]], [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]], [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]], [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|Territories During the God-War]], [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|List of Elemental Gods]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT|180s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]], [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]], [[Encyclopedia Mysenvaria/Science/Phenomena/Climate|Climate]], [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]], [[Encyclopedia Mysenvaria/Science/Science|Science]]; Updated links.

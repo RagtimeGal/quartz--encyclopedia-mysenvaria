@@ -2,8 +2,8 @@
 title: Non-Fiction Literature Template
 enableToc: true
 tags:
-- art/literature/non-fiction
-- stub/template
+  - topic:art:literature:non-fiction
+  - type:template
 draft: true
 ---
 

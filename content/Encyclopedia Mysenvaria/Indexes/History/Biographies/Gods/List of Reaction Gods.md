@@ -2,8 +2,8 @@
 title: List of Elemental Gods
 enableToc: true
 tags:
-- index
-- god/elemental_god
+  - type:index
+  - subject:god:elemental_god
 ---
 
 This page serves as an index of reaction [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]].

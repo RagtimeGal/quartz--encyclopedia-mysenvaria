@@ -2,10 +2,10 @@
 title: God of Impermeable Rock
 enableToc: true
 tags:
-- history/biography
-- god/lesser-god
-- god/phenomena_god
-- stub
+  - topic:history:biography
+  - subject:god:lesser-god
+  - subject:god:phenomena_god
+  - status:empty
 ---
 
 > [!note] Stub

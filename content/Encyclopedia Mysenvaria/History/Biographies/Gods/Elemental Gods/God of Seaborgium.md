@@ -2,10 +2,10 @@
 title: God of Seaborgium
 enableToc: true
 tags:
-- history/biography
-- god/lesser-god
-- god/elemental_god
-- stub
+  - topic:history:biography
+  - subject:god:lesser-god
+  - subject:god:elemental_god
+  - status:empty
 ---
 
 > [!note] Stub

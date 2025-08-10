@@ -2,9 +2,9 @@
 title: List of Stars bt Date of Translation
 enableToc: true
 tags:
-- index
-- star
-- star_system
+  - type:index
+  - subject:star
+  - subject:star_system
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] sorted in order of translation date.

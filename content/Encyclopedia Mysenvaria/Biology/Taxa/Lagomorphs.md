@@ -2,9 +2,9 @@
 title: Lagomorphs
 enableToc: true
 tags:
-  - biology/taxa
-  - biology/taxa/family
-  - stub
+  - topic:biology:taxon
+  - topic:biology:family
+  - status:empty
 ---
 
 > [!note] Stub

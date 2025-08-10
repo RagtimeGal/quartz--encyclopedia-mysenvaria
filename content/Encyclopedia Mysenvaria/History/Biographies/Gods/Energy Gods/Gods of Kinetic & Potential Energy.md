@@ -2,10 +2,10 @@
 title: Gods of Kinetic & Potential Energy
 enableToc: true
 tags:
-- history/biography
-- god/higher-god
-- god/energy-god
-- stub
+  - topic:history:biography
+  - subject:god:higher-god
+  - subject:god:energy_god
+  - status:empty
 ---
 
 > [!note] Stub

@@ -2,12 +2,12 @@
 title: {{ name }}
 enableToc: true
 tags:
-  - biology/taxa{% if tags == "family" %}
-  - biology/taxa/{{ tags }}{% endif %}{% if tags == "species" and root_ancestor == "Animal" %}
-  - biology/animal{% endif %}{% if tags == "species" and root_ancestor == "Plant" %}
-  - biology/plant{% endif %}{% if extinct %}
-  - biology/extinct{% endif %}
-  - stub
+  - topic:biology:taxon{% if tags == "family" %}
+  - topic:biology:taxon/{{ tags }}{% endif %}{% if tags == "species" and root_ancestor == "Animal" %}
+  - topic:biology:animal{% endif %}{% if tags == "species" and root_ancestor == "Plant" %}
+  - topic:biology:plant{% endif %}{% if extinct %}
+  - topic:biology:extinct{% endif %}
+  - status:empty
 ---
 
 > [!note] Stub

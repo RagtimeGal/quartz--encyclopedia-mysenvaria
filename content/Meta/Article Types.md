@@ -2,7 +2,7 @@
 title: Stubs
 enableToc: true
 tags:
-  - meta
+  - topic:meta
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

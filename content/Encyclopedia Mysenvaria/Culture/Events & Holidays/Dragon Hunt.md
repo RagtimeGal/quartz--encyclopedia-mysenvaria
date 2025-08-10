@@ -2,8 +2,8 @@
 title: Dragon Hunt
 enableToc: true
 tags:
-  - culture/holiday
-  - stub
+  - topic:culture:holiday
+  - status:empty
 ---
 
 > [!note] Stub

@@ -2,9 +2,9 @@
 title: Gods of Past, Present, and Future
 enableToc: true
 tags:
-- history/biography
-- god/lesser-god
-- stub
+  - topic:history:biography
+  - subject:god:lesser-god
+  - status:empty
 ---
 
 > [!note] Stub

@@ -2,8 +2,8 @@
 title: List of Higher-Gods
 enableToc: true
 tags:
-- index
-- god/higher-god
+  - type:index
+  - subject:god:higher-god
 ---
 
 This page serves as an index of higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], defined as Gods whose elements of nature would cease existence upon death.

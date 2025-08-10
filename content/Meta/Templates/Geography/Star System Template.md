@@ -2,9 +2,9 @@
 title: Star System Template
 enableToc: true
 tags:
-- geography/astrography
-- stub/template
-- star_system
+  - topic:geography:astrography
+  - type:template
+  - subject:star_system
 draft: true
 ---
 

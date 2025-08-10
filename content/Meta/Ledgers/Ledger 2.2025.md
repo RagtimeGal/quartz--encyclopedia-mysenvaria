@@ -2,8 +2,8 @@
 title: "Lore Ledger 2.25"
 enableToc: true
 tags:
-  - meta
-  - meta/ledger
+  - topic:meta
+  - type:ledger
 ---
 
 > [!summary] Lore Ledger #6
@@ -31,7 +31,7 @@ The God-War project is absolutely not going to be finished by the previous date 
 - [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]], [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]; Specific history topic pages.
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/By Year/List of Stars Made in the 2nd Century BT|List of Stars Made in the 2nd Century BT]]; May be removed later? Currently testing different ways of organizing the pages on stars because I'm a little unhappy with it.
 ## Removed
-- God-War Era Rewrite; Removed in favor of just doing the rewrite directly on the God-War Era page.
+- subject:god-War Era Rewrite; Removed in favor of just doing the rewrite directly on the God-War Era page.
 ## Updated
 - [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|Afterlife]], [[Encyclopedia Mysenvaria/Culture/Beliefs/Greater God Conspiracy|Greater God Conspiracy]]; Removed etymology section.
 - [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]; Working on rewrite, however at the moment it is just empty.

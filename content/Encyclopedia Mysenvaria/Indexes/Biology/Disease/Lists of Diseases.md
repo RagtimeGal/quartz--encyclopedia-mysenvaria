@@ -2,8 +2,8 @@
 title: Lists of Diseases
 enableToc: true
 tags:
-- index
-- biology/disease
+  - type:index
+  - topic:biology/disease
 ---
 
 This page serves as an index of lists of [[Encyclopedia Mysenvaria/Biology/Biology#Disease|disease]], ailments which impair living organisms.

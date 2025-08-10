@@ -2,8 +2,8 @@
 title: Iteration Period
 enableToc: true
 tags:
-- history/god-war_era
-- stub
+  - topic:history:god-war_era
+  - status:empty
 ---
 
 > [!note] Stub

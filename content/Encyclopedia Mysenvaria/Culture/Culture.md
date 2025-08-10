@@ -2,8 +2,8 @@
 title: Culture
 enableToc: true
 tags:
-  - topic
-  - touch-up
+  - type:overview
+  - status:touchup
 ---
 
 >[!abstract] [[Meta/Touch-ups|Touch-up]]

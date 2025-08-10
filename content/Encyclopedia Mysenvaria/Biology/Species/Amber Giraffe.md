@@ -2,10 +2,10 @@
 title: Amber Giraffe
 enableToc: true
 tags:
-  - biology/taxa
-  - biology/animal
-  - biology/extinct
-  - stub
+  - topic:biology:taxon
+  - topic:biology:animal
+  - topic:biology:extinct
+  - status:empty
 ---
 
 > [!note] Stub

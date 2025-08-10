@@ -2,10 +2,10 @@
 title: List of Stars Written by Higher-Gods
 enableToc: true
 tags:
-- index
-- star
-- star_system
-- god/higher-god
+  - type:index
+  - subject:star
+  - subject:star_system
+  - subject:god:higher-god
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] written by higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] sorted in alphabetical order.

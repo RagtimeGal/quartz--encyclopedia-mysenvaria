@@ -2,8 +2,8 @@
 title: Event Template
 enableToc: true
 tags:
-- history/post-war_era
-- stub
+  - topic:history:post-war_era
+  - status:empty
 ---
 
 > [!note] Stub

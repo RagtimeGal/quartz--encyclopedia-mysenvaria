@@ -2,8 +2,8 @@
 title: Florifer
 enableToc: true
 tags:
-  - biology/taxa
-  - stub
+  - topic:biology:taxon
+  - status:empty
 ---
 
 > [!note] Stub

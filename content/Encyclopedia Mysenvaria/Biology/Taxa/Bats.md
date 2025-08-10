@@ -2,8 +2,8 @@
 title: Bats
 enableToc: true
 tags:
-  - biology/taxa
-  - stub
+  - topic:biology:taxon
+  - status:empty
 ---
 
 > [!note] Stub

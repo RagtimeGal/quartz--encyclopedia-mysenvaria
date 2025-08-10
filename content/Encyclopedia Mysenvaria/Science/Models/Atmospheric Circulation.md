@@ -2,8 +2,8 @@
 title: Atmospheric Circulation
 enableToc: true
 tags:
-  - science/model
-  - touch-up
+  - topic:science:model
+  - status:touchup
 ---
 
 > [!abstract] [[Meta/Touch-ups|Touch-up]]

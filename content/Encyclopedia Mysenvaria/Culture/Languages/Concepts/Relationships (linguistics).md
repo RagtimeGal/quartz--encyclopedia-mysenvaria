@@ -2,8 +2,8 @@
 title: Relationships (linguistics)
 enableToc: true
 tags:
-  - culture/language
-  - stub
+  - topic:culture:language
+  - status:empty
 ---
 
 *For scientific relationships, see [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|Relationships (science)]].*

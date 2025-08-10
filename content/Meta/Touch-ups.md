@@ -2,7 +2,7 @@
 title: Touch-ups
 enableToc: true
 tags:
-  - meta
+  - topic:meta
 ---
 
 Touch-ups are [[Meta/Meta|meta]] callouts which exist to show that a page was considered complete as of its last edit, but the page may have information that could be added or elaborated on in the future as the Encyclopedia develops further. In other words, these are pages which could use touch-ups in the future.

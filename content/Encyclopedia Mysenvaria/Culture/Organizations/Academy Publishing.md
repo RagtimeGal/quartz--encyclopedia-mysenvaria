@@ -2,8 +2,8 @@
 title: Academy Publishing
 enableToc: true
 tags:
-- culture/organization
-- stub
+  - topic:culture:organization
+  - status:empty
 ---
 
 > [!note] Stub

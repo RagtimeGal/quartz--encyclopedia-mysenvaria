@@ -2,8 +2,8 @@
 title: Darwinian Classification
 enableToc: true
 tags:
-  - science/model
-  - stub
+  - topic:science:model
+  - status:empty
 ---
 
 > [!note] Stub

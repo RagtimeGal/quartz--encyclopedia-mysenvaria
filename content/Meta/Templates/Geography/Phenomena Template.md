@@ -2,8 +2,8 @@
 title: Phenomena Template
 enableToc: true
 tags:
-- science/phenomena
-- stub/template
+  - topic:science:phenomenon
+  - type:template
 draft: true
 ---
 

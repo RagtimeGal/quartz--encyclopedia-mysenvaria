@@ -2,8 +2,8 @@
 title: Artificial Features Template
 enableToc: true
 tags:
-- geography/artificial
-- stub/template
+  - topic:geography:artificial
+  - type:template
 draft: true
 ---
 

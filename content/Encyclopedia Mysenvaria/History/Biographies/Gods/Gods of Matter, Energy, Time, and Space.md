@@ -2,9 +2,9 @@
 title: Gods of Matter, Energy, Time, and Space
 enableToc: true
 tags:
-- history/biography
-- god/higher-god
-- stub
+  - topic:history:biography
+  - subject:god:higher-god
+  - status:empty
 ---
 
 > [!note] Stub

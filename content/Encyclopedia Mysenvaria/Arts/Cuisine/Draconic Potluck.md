@@ -2,8 +2,8 @@
 title: Draconic Potluck
 enableToc: true
 tags:
-  - art/cuisine
-  - stub
+  - topic:art:cuisine
+  - status:empty
 ---
 
 > [!note] Stub

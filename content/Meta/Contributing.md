@@ -2,7 +2,7 @@
 title: Contributing
 enableToc: true
 tags:
-  - meta
+  - topic:meta
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

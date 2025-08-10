@@ -3,7 +3,7 @@ title: List of Years
 enableToc: true
 tags:
   - history
-  - index
+  - type:index
 ---
 This page serves as an index of the century and decade pages of the encyclopedia. 
 # [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]]
