@@ -2,7 +2,7 @@
 title: Outer Ring
 enableToc: true
 tags:
-  - geography/natural
+  - geography/abstract
   - stub
 ---
 

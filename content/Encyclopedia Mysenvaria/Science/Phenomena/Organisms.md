@@ -2,7 +2,7 @@
 title: Organisms
 enableToc: true
 tags:
-- science/model
+- science/phenomena
 - stub
 ---
 

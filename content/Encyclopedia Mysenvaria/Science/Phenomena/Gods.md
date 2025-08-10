@@ -2,7 +2,7 @@
 title: Gods
 enableToc: true
 tags:
-- science/model
+- science/phenomena
 - god
 - touch-up
 ---

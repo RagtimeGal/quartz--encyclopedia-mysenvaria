@@ -2,7 +2,7 @@
 title: Inner Circle
 enableToc: true
 tags:
-  - geography/natural
+  - geography/abstract
   - stub
 ---
 

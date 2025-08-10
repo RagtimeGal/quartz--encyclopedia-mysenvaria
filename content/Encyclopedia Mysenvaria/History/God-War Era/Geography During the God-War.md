@@ -3,6 +3,7 @@ title: Geography During the God-War
 enableToc: true
 tags:
 - history/god-war_era
+- geography
 - stub
 ---
 

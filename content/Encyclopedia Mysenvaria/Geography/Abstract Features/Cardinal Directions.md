@@ -2,7 +2,7 @@
 title: Cardinal Directions
 enableToc: true
 tags:
-  - geography/natural
+  - geography/abstract
   - stub
 ---
 

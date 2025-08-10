@@ -5,6 +5,9 @@ tags:
   - meta
 ---
 
+> [!abstract] [[Meta/Meta|Meta]]
+> *This is part of a series of meta pages explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
+
 > [!warning] Disclaimer
 > When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 
 > 
@@ -53,15 +56,17 @@ Expected behavior in the community includes:
 - Constructive disagreements. It's OK to have differing opinions on creative decisions and topics, so long as those disagreements remain civil.
 - Keeping interactions free of personal attacks, passive aggression, and drama.
 - Remaining on topic.
+
 Unacceptable behavior in the community includes, but is not limited to:
 - Harassment, discrimination, or hate speech of any kind.
 - Submitting plagiarized content or passing off others' work as your own.
 - Spam, trolling, or low-effort disruption.
 - Attempting to override or subvert decisions made by moderators.
 ## Enforcement
-Violation of the Code of Conduct are taken very seriously. Violations may result in:
+Violations of the Code of Conduct are taken very seriously. Violations may result in:
 - A single warning.
 - Being blocked from contributing.
+- Having contributed content removed.
 - Being removed from community spaces altogether.
 ## Reporting
 If someone has violated the Code of Conduct, reach out!
@@ -71,11 +76,11 @@ If someone has violated the Code of Conduct, reach out!
 ---
 # Contribution Methods
 Contributing comes in many forms, depending on what you're looking for! Here I label them all:
-- **Direct Contribution**! This is contribution which visibly impacts the encyclopedia, it comes in the form of directly adding text, image, or video content to the encyclopedia. This is the most intensive form of contribution, but also the most scrutinized. While direct contributions are appreciated, to maintain the standards of the encyclopedia they are combed through vigorously!
-	- [GitHub pull requests](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/pulls) are complex. They allow you to directly recommend changes, additions, or deletions across the encyclopedia and its backend.
-	- [GitHub Issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) are easy to make, and a great way to suggest edits across the encyclopedia.
 - **Contribution via Discussion**! This form of contribution does not visibly change the encyclopedia, but it does add content! Joining the discord (even to lurk!), logging into GitHub to discuss articles in comments, or voicing your opinion on direct contribution comment sections are all ways to contribute via discussion!
 	- Every page has a comment section, powered by [giscus]([giscus](https://giscus.app/)), which every user can freely talk in! Giscus uses [GitHub discussions](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/discussions), which you can also use instead of giscus, if you would like!
 	- The [Discord](https://discord.com/invite/2yUDZ5j) is another great place to strike up a discussion regarding the encyclopedia! Though it is not directly related to the Encyclopedia Mysenvaria in the same way GitHub discussions is.
+- **Direct Contribution**! This is contribution which visibly impacts the encyclopedia, it comes in the form of directly adding text, image, or video content to the encyclopedia. This is the most intensive form of contribution, but also the most scrutinized. While direct contributions are appreciated, to maintain the standards of the encyclopedia they are combed through vigorously!
+	- [GitHub pull requests](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/pulls) are complex. They allow you to directly recommend changes, additions, or deletions across the encyclopedia and its backend.
+	- [GitHub Issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) are easy to make, and a great way to suggest edits across the encyclopedia.
 - **Monetary Contribution**! The Encyclopedia Mysenvaria is not monetized: it's a free resource for anyone who can access it! I donate a lot of my time to writing this resource and would love to continue doing so in the future—maybe even expanding into new avenues—and monetary contributions help me do so!
 	- My [Ko-fi](https://ko-fi.com/W7W4UVZE2) is the one and only place you can contribute to the project monetarily!

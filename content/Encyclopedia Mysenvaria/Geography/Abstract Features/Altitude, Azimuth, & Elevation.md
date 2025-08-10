@@ -2,7 +2,7 @@
 title: Altitude, Azimuth, & Elevation
 enableToc: true
 tags:
-  - geography/natural
+  - geography/abstract
   - stub
 ---
 
