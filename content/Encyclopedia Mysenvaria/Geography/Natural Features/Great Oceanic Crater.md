@@ -2,6 +2,7 @@
 title: Great Oceanic Crater
 enableToc: true
 tags:
+  - type/article
   - topic/geography/natural
   - status/empty
 ---

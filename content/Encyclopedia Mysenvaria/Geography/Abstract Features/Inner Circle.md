@@ -2,6 +2,7 @@
 title: Inner Circle
 enableToc: true
 tags:
+  - type/article
   - topic/geography/abstract
   - status/empty
 ---

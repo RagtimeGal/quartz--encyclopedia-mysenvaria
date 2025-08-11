@@ -2,6 +2,7 @@
 title: Tectonics
 enableToc: true
 tags:
+  - type/article
   - topic/science/model
   - status/incomplete
   - future/update

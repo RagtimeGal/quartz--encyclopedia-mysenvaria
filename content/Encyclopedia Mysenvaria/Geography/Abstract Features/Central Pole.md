@@ -2,6 +2,7 @@
 title: Central Pole
 enableToc: true
 tags:
+  - type/article
   - topic/geography/abstract
   - status/complete
   - future/update

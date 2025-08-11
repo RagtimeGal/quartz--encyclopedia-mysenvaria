@@ -2,6 +2,7 @@
 title: Printing Press
 enableToc: true
 tags:
+  - type/article
   - topic/science/technology
   - status/empty
 ---

@@ -2,6 +2,7 @@
 title: Famous Taxonomer
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - status/empty
   - needs/infobox

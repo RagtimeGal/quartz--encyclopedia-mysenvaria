@@ -2,6 +2,7 @@
 title: Gods of What Is and Is Not
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/higher-god
   - status/incomplete

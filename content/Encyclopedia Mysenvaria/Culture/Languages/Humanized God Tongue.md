@@ -2,6 +2,7 @@
 title: Humanized God Tongue
 enableToc: true
 tags:
+  - type/article
   - topic/culture/language
   - status/empty
 ---

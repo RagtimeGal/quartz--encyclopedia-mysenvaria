@@ -2,6 +2,7 @@
 title: Cracked Star Incident
 enableToc: true
 tags:
+  - type/article
   - topic/history/modern_era
   - status/empty
 ---

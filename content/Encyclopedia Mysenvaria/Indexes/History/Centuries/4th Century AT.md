@@ -2,8 +2,8 @@
 title: 4th Century AT
 enableToc: true
 tags:
-  - topic/history/century
   - type/index
+  - topic/history/century
   - status/empty
 ---
 

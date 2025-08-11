@@ -2,6 +2,7 @@
 title: Elven Languages
 enableToc: true
 tags:
+  - type/article
   - topic/culture/language
   - status/empty
 ---

@@ -2,6 +2,7 @@
 title: God of Pyrolite
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/phenomena_god

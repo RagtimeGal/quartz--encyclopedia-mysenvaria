@@ -2,6 +2,7 @@
 title: Plane
 enableToc: true
 tags:
+  - type/article
   - topic/geography/natural
   - status/incomplete
   - has/image

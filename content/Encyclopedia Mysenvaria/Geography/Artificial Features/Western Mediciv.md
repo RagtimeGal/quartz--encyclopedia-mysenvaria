@@ -2,6 +2,7 @@
 title: Western Mediciv
 enableToc: true
 tags:
+  - type/article
   - topic/geography/artificial
   - status/empty
 ---

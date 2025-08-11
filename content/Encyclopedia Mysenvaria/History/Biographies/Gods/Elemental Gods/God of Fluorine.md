@@ -2,6 +2,7 @@
 title: God of Fluorine
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/elemental_god

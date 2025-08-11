@@ -2,8 +2,8 @@
 title: 70s BT
 enableToc: true
 tags:
-  - topic/history/decade
   - type/index
+  - topic/history/decade
   - status/empty
 ---
 

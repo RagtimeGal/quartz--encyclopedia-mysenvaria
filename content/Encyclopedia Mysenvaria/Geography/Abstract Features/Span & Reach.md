@@ -2,6 +2,7 @@
 title: Span & Reach
 enableToc: true
 tags:
+  - type/article
   - topic/geography/abstract
   - status/complete
   - future/review

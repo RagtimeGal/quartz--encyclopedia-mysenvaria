@@ -2,6 +2,7 @@
 title: Starscript
 enableToc: true
 tags:
+  - type/article
   - topic/culture/language
   - subject/.god
   - status/empty

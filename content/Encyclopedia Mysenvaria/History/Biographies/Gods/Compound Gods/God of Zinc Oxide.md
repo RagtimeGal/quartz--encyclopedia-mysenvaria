@@ -2,6 +2,7 @@
 title: God of Zinc Oxide
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/compound_god

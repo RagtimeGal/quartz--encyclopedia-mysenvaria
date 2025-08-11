@@ -2,6 +2,7 @@
 title: Microbat
 enableToc: true
 tags:
+  - type/article
   - topic/biology/taxon
   - status/empty
 ---

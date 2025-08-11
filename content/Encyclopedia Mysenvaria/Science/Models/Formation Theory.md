@@ -2,6 +2,7 @@
 title: Formation Theory
 enableToc: true
 tags:
+  - type/article
   - topic/science/model
   - status/empty
 ---

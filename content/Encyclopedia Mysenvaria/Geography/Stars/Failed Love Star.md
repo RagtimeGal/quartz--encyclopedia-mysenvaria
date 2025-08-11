@@ -2,6 +2,7 @@
 title: Failed Love Star
 enableToc: true
 tags:
+  - type/article
   - topic/geography/astrography
   - subject/.star
   - status/empty

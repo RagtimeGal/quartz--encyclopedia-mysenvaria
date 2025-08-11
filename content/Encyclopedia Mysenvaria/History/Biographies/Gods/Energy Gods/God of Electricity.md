@@ -2,6 +2,7 @@
 title: God of Electricity
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/energy_god

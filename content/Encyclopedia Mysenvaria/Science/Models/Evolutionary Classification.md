@@ -2,6 +2,7 @@
 title: Evolutionary Classification
 enableToc: true
 tags:
+  - type/article
   - topic/science/model
   - status/incomplete
   - needs/graphics

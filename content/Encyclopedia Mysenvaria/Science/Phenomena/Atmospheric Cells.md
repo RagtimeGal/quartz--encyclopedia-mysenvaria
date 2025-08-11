@@ -2,6 +2,7 @@
 title: Atmospheric Cells
 enableToc: true
 tags:
+  - type/article
   - topic/science/phenomenon
   - status/complete
   - future/update

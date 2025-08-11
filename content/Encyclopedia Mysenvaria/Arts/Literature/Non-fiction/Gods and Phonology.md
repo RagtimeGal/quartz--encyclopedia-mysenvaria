@@ -2,6 +2,7 @@
 title: Gods and Phonology
 enableToc: true
 tags:
+  - type/article
   - topic/art/literature/non-fiction
   - status/empty
 ---

@@ -2,6 +2,7 @@
 title: Heavenly Lineage Model
 enableToc: true
 tags:
+  - type/article
   - topic/science/model
   - status/empty
 ---

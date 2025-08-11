@@ -2,6 +2,7 @@
 title: The First Death
 enableToc: true
 tags:
+  - type/article
   - topic/history/god-war_era
   - status/complete
   - future/review

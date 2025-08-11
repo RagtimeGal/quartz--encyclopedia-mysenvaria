@@ -2,6 +2,7 @@
 title: Golden Age
 enableToc: true
 tags:
+  - type/article
   - topic/history/golden_age
   - status/empty
 ---

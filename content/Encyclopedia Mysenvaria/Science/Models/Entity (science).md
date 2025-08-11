@@ -2,6 +2,7 @@
 title: Entity (Science)
 enableToc: true
 tags:
+  - type/article
   - topic/science/model
   - status/complete
   - future/update

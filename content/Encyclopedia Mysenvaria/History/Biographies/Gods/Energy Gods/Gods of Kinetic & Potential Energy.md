@@ -2,6 +2,7 @@
 title: Gods of Kinetic & Potential Energy
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/higher-god
   - subject/god/energy_god

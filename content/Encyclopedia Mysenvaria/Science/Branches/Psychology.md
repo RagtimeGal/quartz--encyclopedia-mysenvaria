@@ -2,6 +2,7 @@
 title: Psychology
 enableToc: true
 tags:
+  - type/article
   - topic/science/branch
   - status/empty
 ---

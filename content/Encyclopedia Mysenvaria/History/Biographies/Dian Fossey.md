@@ -2,6 +2,7 @@
 title: Dian Fossey
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - status/empty
   - needs/infobox

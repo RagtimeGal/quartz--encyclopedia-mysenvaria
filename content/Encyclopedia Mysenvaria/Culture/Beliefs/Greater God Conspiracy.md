@@ -2,6 +2,7 @@
 title: Greater God Conspiracy
 enableToc: true
 tags:
+  - type/article
   - topic/culture/belief
   - status/empty
 ---

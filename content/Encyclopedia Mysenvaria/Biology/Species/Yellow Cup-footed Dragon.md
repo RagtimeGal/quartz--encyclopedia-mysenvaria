@@ -2,6 +2,7 @@
 title: Yellow Cup-footed Dragon
 enableToc: true
 tags:
+  - type/article
   - topic/biology/taxon
   - topic/biology/animal
   - status/empty

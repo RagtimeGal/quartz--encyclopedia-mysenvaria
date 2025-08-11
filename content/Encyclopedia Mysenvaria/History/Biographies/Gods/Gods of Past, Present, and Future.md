@@ -2,6 +2,7 @@
 title: Gods of Past, Present, and Future
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - status/complete

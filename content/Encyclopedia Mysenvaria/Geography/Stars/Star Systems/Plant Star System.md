@@ -2,6 +2,7 @@
 title: Plant Star System
 enableToc: true
 tags:
+  - type/article
   - topic/geography/astrography
   - subject/.star_system
   - status/stub

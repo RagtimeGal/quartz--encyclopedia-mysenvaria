@@ -2,6 +2,7 @@
 title: Seasons
 enableToc: true
 tags:
+  - type/article
   - topic/science/phenomenon
   - status/empty
 ---

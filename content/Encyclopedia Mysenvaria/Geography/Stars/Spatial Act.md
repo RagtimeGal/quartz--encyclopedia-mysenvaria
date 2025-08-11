@@ -2,6 +2,7 @@
 title: Spatial Act
 enableToc: true
 tags:
+  - type/article
   - topic/geography/astrography
   - subject/.star
   - status/stub

@@ -2,6 +2,7 @@
 title: Inner Rainciv
 enableToc: true
 tags:
+  - type/article
   - topic/geography/artificial
   - status/empty
 ---

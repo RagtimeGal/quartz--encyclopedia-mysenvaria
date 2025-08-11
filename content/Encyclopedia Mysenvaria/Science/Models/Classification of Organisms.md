@@ -2,6 +2,7 @@
 title: Classification of Organisms
 enableToc: true
 tags:
+  - type/article
   - topic/science/model
   - status/stub
 ---

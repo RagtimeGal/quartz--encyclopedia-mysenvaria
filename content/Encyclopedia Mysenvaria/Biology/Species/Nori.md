@@ -2,6 +2,7 @@
 title: Nori
 enableToc: true
 tags:
+  - type/article
   - topic/biology/taxon
   - topic/biology/plant
   - status/empty

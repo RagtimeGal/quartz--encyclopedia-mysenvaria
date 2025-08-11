@@ -2,6 +2,7 @@
 title: Academy Publishing
 enableToc: true
 tags:
+  - type/article
   - topic/culture/organization
   - status/empty
 ---

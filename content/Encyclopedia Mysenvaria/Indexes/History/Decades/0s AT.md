@@ -2,8 +2,8 @@
 title: 0s AT
 enableToc: true
 tags:
-  - topic/history/decade
   - type/index
+  - topic/history/decade
   - status/empty
 ---
 

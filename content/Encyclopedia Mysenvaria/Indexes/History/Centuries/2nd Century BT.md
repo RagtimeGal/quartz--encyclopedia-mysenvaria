@@ -2,8 +2,8 @@
 title: 2nd Century BT
 enableToc: true
 tags:
-  - topic/history/century
   - type/index
+  - topic/history/century
   - status/empty
 ---
 

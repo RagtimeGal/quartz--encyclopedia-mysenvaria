@@ -2,6 +2,7 @@
 title: Biologist
 enableToc: true
 tags:
+  - type/article
   - topic/culture/occupation
   - status/empty
 ---

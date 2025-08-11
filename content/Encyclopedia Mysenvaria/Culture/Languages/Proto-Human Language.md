@@ -2,6 +2,7 @@
 title: Language Template
 enableToc: true
 tags:
+  - type/article
   - topic/culture/language
   - status/stub
 ---

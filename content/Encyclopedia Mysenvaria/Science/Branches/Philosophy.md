@@ -2,6 +2,7 @@
 title: Philosophy
 enableToc: true
 tags:
+  - type/article
   - topic/science/branch
   - status/empty
 ---

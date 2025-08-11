@@ -2,6 +2,7 @@
 title: Northern Continent
 enableToc: true
 tags:
+  - type/article
   - topic/geography/natural
   - status/empty
 ---

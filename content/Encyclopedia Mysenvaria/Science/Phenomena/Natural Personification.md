@@ -2,6 +2,7 @@
 title: Natural Personification
 enableToc: true
 tags:
+  - type/article
   - topic/science/phenomenon
   - status/stub
   - needs/graphics

@@ -2,6 +2,7 @@
 title: Astronomical Sciences
 enableToc: true
 tags:
+  - type/article
   - topic/science/branch
   - status/empty
 ---

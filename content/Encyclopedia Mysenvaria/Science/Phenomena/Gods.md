@@ -2,6 +2,7 @@
 title: Gods
 enableToc: true
 tags:
+  - type/article
   - topic/science/phenomenon
   - subject/god
   - status/complete

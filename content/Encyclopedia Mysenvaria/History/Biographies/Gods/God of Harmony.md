@@ -2,6 +2,7 @@
 title: God of Harmony
 enableToc: true
 tags:
+  - type/article
   - topic:history/biography
   - subject:god/higher-god
   - status:empty

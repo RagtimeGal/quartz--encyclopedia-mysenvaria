@@ -2,6 +2,7 @@
 title: Domestic Pigmy Dragon
 enableToc: true
 tags:
+  - type/article
   - topic/biology/taxon
   - topic/biology/animal
   - status/empty

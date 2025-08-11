@@ -2,6 +2,7 @@
 title: Census Star
 enableToc: true
 tags:
+  - type/article
   - topic/geography/astrography
   - subject/.star/host
   - status/stub

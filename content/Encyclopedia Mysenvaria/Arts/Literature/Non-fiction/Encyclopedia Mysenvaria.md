@@ -2,6 +2,7 @@
 title: Encyclopedia Mysenvaria
 enableToc: true
 tags:
+  - type/article
   - topic/art/literature/non-fiction
   - status/stub
 ---

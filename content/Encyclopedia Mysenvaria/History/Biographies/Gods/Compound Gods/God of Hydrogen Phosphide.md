@@ -2,6 +2,7 @@
 title: God of Hydrogen Phosphide
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/compound_god

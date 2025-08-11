@@ -2,6 +2,7 @@
 title: Geography During the God-War
 enableToc: true
 tags:
+  - type/article
   - topic/history/god-war_era
   - topic/geography
   - status/incomplete

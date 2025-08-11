@@ -2,6 +2,7 @@
 title: God of Tectonics
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - subject/god/higher-god
   - subject/god/phenomena_god

@@ -2,6 +2,7 @@
 title: Author of Encounters With The Quadrinity
 enableToc: true
 tags:
+  - type/article
   - topic/history/biography
   - status/empty
   - needs/infobox

@@ -2,6 +2,7 @@
 title: Lesser Red Dragon
 enableToc: true
 tags:
+  - type/article
   - topic/biology/taxon
   - topic/biology/animal
   - status/empty

@@ -2,6 +2,7 @@
 title: Elf
 enableToc: true
 tags:
+  - type/article
   - topic/biology/disease
   - status/empty
   - needs/infobox

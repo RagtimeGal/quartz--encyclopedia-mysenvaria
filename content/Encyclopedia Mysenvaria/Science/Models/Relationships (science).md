@@ -2,6 +2,7 @@
 title: Relationships (science)
 enableToc: true
 tags:
+  - type/article
   - topic/science/model
   - status/complete
   - future/update

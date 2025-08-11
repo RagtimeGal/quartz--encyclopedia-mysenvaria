@@ -2,6 +2,7 @@
 title: Quickening
 enableToc: true
 tags:
+  - type/article
   - topic/history/god-war_era
   - status/touchup
 ---

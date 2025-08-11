@@ -2,6 +2,7 @@
 title: Leaved Worts
 enableToc: true
 tags:
+  - type/article
   - topic/biology/taxon
   - topic/biology/family
   - status/empty
