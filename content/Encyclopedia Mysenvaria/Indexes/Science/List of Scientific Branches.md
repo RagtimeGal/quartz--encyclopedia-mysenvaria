@@ -2,8 +2,8 @@
 title: List of Scientific Branches
 enableToc: true
 tags:
-  - type:index
-  - topic:science/branch
+  - type/index
+  - topic/science/branch
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Scientific Branches|scientific branches]] sorted in alphabetical order.

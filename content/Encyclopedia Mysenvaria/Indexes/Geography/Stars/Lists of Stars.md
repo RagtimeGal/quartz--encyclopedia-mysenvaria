@@ -2,9 +2,9 @@
 title: Lists of Stars
 enableToc: true
 tags:
-  - type:index
-  - subject:star
-  - subject:star_system
+  - type/index
+  - subject/.star
+  - subject/.star_system
 ---
 
 This page serves as an index of lists for [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. 

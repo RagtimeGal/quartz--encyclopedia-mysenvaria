@@ -2,8 +2,8 @@
 title: Dragon Hunt
 enableToc: true
 tags:
-  - topic:culture/holiday
-  - status:empty
+  - topic/culture/holiday
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

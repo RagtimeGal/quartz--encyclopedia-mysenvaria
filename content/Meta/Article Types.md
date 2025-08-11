@@ -2,7 +2,7 @@
 title: Stubs
 enableToc: true
 tags:
-  - topic:meta/writing_guidelines
+  - topic/meta/writing_guidelines
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

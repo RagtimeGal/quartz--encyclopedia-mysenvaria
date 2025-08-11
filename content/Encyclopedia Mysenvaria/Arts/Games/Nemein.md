@@ -2,9 +2,9 @@
 title: Nemein
 enableToc: true
 tags:
-  - type:article
-  - topic:art/game
-  - status:stub
+  - type/article
+  - topic/art/game
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

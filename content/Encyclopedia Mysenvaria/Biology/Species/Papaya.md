@@ -2,9 +2,9 @@
 title: Papaya
 enableToc: true
 tags:
-  - topic:biology/taxon
-  - topic:biology/plant
-  - status:empty
+  - topic/biology/taxon
+  - topic/biology/plant
+  - status/empty
 ---
 
 > [!note] Stub

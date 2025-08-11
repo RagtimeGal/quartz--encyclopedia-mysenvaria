@@ -2,9 +2,9 @@
 title: God Tongue
 enableToc: true
 tags:
-  - topic:culture/language
-  - subject:god
-  - status:incomplete
+  - topic/culture/language
+  - subject/.god
+  - status/incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

@@ -2,8 +2,8 @@
 title: List of Written Works
 enableToc: true
 tags:
-  - type:index
-  - topic:art/literature
+  - type/index
+  - topic/art/literature
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Arts/Art#Literature|written works]] and is organized by fiction and non-fiction works in alphabetical order.

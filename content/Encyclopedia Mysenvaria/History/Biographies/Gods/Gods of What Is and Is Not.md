@@ -2,10 +2,10 @@
 title: Gods of What Is and Is Not
 enableToc: true
 tags:
-  - topic:history/biography
-  - subject:god/higher-god
-  - status:incomplete
-  - needs:infobox
+  - topic/history/biography
+  - subject/god/higher-god
+  - status/incomplete
+  - needs/infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

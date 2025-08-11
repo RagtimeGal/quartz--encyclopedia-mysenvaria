@@ -2,9 +2,9 @@
 title: Material Limits Act
 enableToc: true
 tags:
-  - topic:geography/astrography
-  - subject:star
-  - status:empty
+  - topic/geography/astrography
+  - subject/.star
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

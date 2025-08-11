@@ -2,8 +2,8 @@
 title: Material Structure
 enableToc: true
 tags:
-  - topic:science/model
-  - status:empty
+  - topic/science/model
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

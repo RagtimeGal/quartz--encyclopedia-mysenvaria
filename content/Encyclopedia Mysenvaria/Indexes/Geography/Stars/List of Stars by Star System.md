@@ -2,8 +2,8 @@
 title: List of Star Systems
 enableToc: true
 tags:
-  - type:index
-  - subject:star_system
+  - type/index
+  - subject/:star_system
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star systems]], defined as systems of contextually related stars which normally all orbit around a singular point, sometimes around another primary star.

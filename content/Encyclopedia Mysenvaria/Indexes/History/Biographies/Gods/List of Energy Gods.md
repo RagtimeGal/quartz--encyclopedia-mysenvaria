@@ -2,8 +2,8 @@
 title: List of Energy Gods
 enableToc: true
 tags:
-  - type:index
-  - subject:god
+  - type/index
+  - subject/god
 ---
 
 This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] sorted alphabetically.

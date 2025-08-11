@@ -2,9 +2,9 @@
 title: Cracked Star Man
 enableToc: true
 tags:
-  - topic:history/biography
-  - status:empty
-  - needs:infobox
+  - topic/history/biography
+  - status/empty
+  - needs/infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

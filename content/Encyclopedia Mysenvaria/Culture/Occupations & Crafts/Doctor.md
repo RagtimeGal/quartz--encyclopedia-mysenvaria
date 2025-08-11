@@ -2,8 +2,8 @@
 title: Doctor
 enableToc: true
 tags:
-  - topic:culture/occupation
-  - status:empty
+  - topic/culture/occupation
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

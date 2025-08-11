@@ -2,8 +2,8 @@
 title: List of Occupations
 enableToc: true
 tags:
-  - type:index
-  - topic:culture/occupation
+  - type/index
+  - topic/culture/occupation
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Occupations & Crafts|occupations]] from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] organized in alphabetical order.

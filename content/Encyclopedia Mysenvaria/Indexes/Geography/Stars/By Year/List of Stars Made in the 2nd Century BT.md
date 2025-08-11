@@ -2,10 +2,10 @@
 title: List of Stars Made in the 2nd Century BT
 enableToc: true
 tags:
-  - subject:star
-  - subject:star_system
-  - type:index
-  - status:empty
+  - subject/:star
+  - subject/:star_system
+  - type/index
+  - status/empty
 ---
 
 

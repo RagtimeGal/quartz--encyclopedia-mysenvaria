@@ -2,8 +2,8 @@
 title: God Councils
 enableToc: true
 tags:
-  - topic:history/god-war_era
-  - status:empty
+  - topic/history/god-war_era
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

@@ -2,9 +2,9 @@
 title: 20s BT
 enableToc: true
 tags:
-  - topic:history/decade
-  - type:index
-  - status:empty
+  - topic/history/decade
+  - type/index
+  - status/empty
 ---
 
 > [!note] Stub

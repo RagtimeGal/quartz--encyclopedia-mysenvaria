@@ -2,9 +2,9 @@
 title: Anti-Womb Agreement
 enableToc: true
 tags:
-  - topic:geography/astrography
-  - subject:star
-  - status:stub
+  - topic/geography/astrography
+  - subject/.star
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

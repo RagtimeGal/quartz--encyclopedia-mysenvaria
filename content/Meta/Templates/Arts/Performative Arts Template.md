@@ -2,8 +2,8 @@
 title: Performance Template
 enableToc: true
 tags:
-  - topic:art:performance
-  - type:template
+  - topic/art/performance
+  - type/template
 draft: true
 ---
 

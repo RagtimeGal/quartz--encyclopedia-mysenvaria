@@ -2,8 +2,8 @@
 title: Rift
 enableToc: true
 tags:
-  - topic:science/phenomenon
-  - status:empty
+  - topic/science/phenomenon
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

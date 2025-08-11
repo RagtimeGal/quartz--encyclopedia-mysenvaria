@@ -2,8 +2,8 @@
 title: Ethnicity Template
 enableToc: true
 tags:
-  - topic:culture:ethnicity
-  - type:template
+  - topic/culture/ethnicity
+  - type/template
 draft: true
 ---
 

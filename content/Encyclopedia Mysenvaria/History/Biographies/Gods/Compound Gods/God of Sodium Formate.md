@@ -2,11 +2,11 @@
 title: God of Sodium Formate
 enableToc: true
 tags:
-  - topic:history/biography
-  - subject:god/lesser-god
-  - subject:god/compound_god
-  - status:empty
-  - has:infobox
+  - topic.history/biography
+  - subject.god/lesser-god
+  - subject.god/compound_god
+  - status.empty
+  - has.infobox
 
 draft: true---
 

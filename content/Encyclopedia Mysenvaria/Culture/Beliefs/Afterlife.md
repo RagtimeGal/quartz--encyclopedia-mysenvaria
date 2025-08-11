@@ -2,9 +2,9 @@
 title: God's Afterlife
 enableToc: true
 tags:
-  - topic:culture/belief
-  - subject:god
-  - status:empty
+  - topic/culture/belief
+  - subject/.god
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

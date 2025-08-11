@@ -2,8 +2,8 @@
 title: Stars
 enableToc: true
 tags:
-  - topic:science/phenomenon
-  - status:incomplete
+  - topic/science/phenomenon
+  - status/incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

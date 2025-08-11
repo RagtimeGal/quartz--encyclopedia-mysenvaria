@@ -2,8 +2,8 @@
 title: Southern Crater Scape
 enableToc: true
 tags:
-  - topic:geography/natural
-  - status:empty
+  - topic/geography/natural
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

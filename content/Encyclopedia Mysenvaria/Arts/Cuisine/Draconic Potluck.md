@@ -2,9 +2,9 @@
 title: Draconic Potluck
 enableToc: true
 tags:
-  - type:article
-  - topic:art/cuisine
-  - status:empty
+  - type/article
+  - topic/art/cuisine
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

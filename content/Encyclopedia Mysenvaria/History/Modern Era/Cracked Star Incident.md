@@ -2,8 +2,8 @@
 title: Cracked Star Incident
 enableToc: true
 tags:
-  - topic:history/modern_era
-  - status:empty
+  - topic/history/modern_era
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

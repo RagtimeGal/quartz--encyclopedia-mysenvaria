@@ -2,8 +2,8 @@
 title: Outer Ring
 enableToc: true
 tags:
-  - topic:geography/abstract
-  - status:empty
+  - topic/geography/abstract
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

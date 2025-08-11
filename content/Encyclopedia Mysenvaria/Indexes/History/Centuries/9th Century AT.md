@@ -2,9 +2,9 @@
 title: 9th Century AT
 enableToc: true
 tags:
-  - topic:history/century
-  - type:index
-  - status:empty
+  - topic/history/century
+  - type/index
+  - status/empty
 ---
 
 > [!note] Stub

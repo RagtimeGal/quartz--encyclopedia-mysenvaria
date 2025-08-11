@@ -2,8 +2,8 @@
 title: List of Domesticated Animals
 enableToc: true
 tags:
-  - type:index
-  - topic:biology/animal
+  - type/index
+  - topic/biology/animal
 ---
 
 This page serves as an index of domesticated [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]].

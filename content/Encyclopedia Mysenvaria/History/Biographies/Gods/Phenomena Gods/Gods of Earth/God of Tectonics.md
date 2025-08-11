@@ -2,11 +2,11 @@
 title: God of Tectonics
 enableToc: true
 tags:
-  - topic:history/biography
-  - subject:god/higher-god
-  - subject:god/phenomena_god
-  - status:empty
-  - needs:infobox
+  - topic/history/biography
+  - subject/god/higher-god
+  - subject/god/phenomena_god
+  - status/empty
+  - needs/infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

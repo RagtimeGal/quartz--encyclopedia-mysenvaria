@@ -2,8 +2,8 @@
 title: Entity (linguistics)
 enableToc: true
 tags:
-  - topic:culture/language
-  - status:empty
+  - topic/culture/language
+  - status/empty
 ---
 
 *For scientific entities, see [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|Entity (science)]].*

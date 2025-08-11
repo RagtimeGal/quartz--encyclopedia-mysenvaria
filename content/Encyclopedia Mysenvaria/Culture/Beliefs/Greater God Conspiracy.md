@@ -2,8 +2,8 @@
 title: Greater God Conspiracy
 enableToc: true
 tags:
-  - topic:culture/belief
-  - status:empty
+  - topic/culture/belief
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

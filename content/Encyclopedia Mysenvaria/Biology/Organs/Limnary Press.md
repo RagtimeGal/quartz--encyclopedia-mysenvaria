@@ -2,8 +2,8 @@
 title: Limnary Press
 enableToc: true
 tags:
-  - topic:science/phenomenon
-  - status:empty
+  - topic/science/phenomenon
+  - status/empty
 ---
 
 > [!note] Stub

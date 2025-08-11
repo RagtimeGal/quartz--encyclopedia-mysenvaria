@@ -2,8 +2,8 @@
 title: Astronomy
 enableToc: true
 tags:
-  - topic:science/branch
-  - status:empty
+  - topic/science/branch
+  - status/empty
 ---
 
 > [!note] Stub

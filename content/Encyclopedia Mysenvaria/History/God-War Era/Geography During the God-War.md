@@ -2,9 +2,9 @@
 title: Geography During the God-War
 enableToc: true
 tags:
-  - topic:history/god-war_era
-  - geography
-  - status:incomplete
+  - topic/history/god-war_era
+  - topic/geography
+  - status/incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

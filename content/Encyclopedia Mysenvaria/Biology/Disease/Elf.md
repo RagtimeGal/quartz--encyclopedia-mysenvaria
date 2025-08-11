@@ -2,9 +2,9 @@
 title: Elf
 enableToc: true
 tags:
-  - topic:biology/disease
-  - status:empty
-  - needs:infobox
+  - topic/biology/disease
+  - status/empty
+  - needs/infobox
 ---
 
 # History

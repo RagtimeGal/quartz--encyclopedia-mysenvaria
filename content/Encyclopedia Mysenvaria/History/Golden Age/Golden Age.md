@@ -2,8 +2,8 @@
 title: Golden Age
 enableToc: true
 tags:
-  - topic:history/golden_age
-  - status:empty
+  - topic/history/golden_age
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

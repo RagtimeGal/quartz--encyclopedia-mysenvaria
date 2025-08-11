@@ -2,9 +2,9 @@
 title: List of Stars Sorted Alphabetically
 enableToc: true
 tags:
-  - type:index
-  - subject:star
-  - subject:star_system
+  - type/index
+  - subject/:star
+  - subject/:star_system
 ---
 
 This page serves as an index of all [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] sorted alphabetically.

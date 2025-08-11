@@ -2,8 +2,8 @@
 title: Holiday Template
 enableToc: true
 tags:
-  - topic:culture:holiday
-  - type:template
+  - topic/culture/holiday
+  - type/template
 draft: true
 ---
 

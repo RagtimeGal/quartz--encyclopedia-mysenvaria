@@ -2,9 +2,9 @@
 title: Elven Star System
 enableToc: true
 tags:
-  - topic:geography/astrography
-  - subject:star_system
-  - status:stub
+  - topic/geography/astrography
+  - subject/.star_system
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

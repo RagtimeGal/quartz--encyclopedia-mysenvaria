@@ -2,8 +2,8 @@
 title: Mathematics
 enableToc: true
 tags:
-  - topic:science/branch
-  - status:empty
+  - topic/science/branch
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

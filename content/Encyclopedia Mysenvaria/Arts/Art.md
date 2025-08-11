@@ -2,10 +2,10 @@
 title: Art
 enableToc: true
 tags:
-  - type:overview
-  - topic:art
-  - status:complete
-  - future:update
+  - type/overview
+  - topic/art
+  - status/complete
+  - future/update
 ---
 
 Art is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Art is a diverse aspect of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], defined as the creation and expression of ideas and emotions. Art is intrinsically tied to [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Geography/Geography|geography]], reflecting the values and lives of the people who created and endorsed it. 

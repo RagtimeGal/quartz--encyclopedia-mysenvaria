@@ -2,8 +2,8 @@
 title: Classification of Organisms
 enableToc: true
 tags:
-  - topic:science/model
-  - status:stub
+  - topic/science/model
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

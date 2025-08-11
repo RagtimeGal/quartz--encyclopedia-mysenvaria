@@ -2,8 +2,8 @@
 title: Elven Languages
 enableToc: true
 tags:
-  - topic:culture/language
-  - status:empty
+  - topic/culture/language
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

@@ -2,8 +2,8 @@
 title: Great Dying
 enableToc: true
 tags:
-  - topic:history/post-war_era
-  - status:empty
+  - topic/history/post-war_era
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

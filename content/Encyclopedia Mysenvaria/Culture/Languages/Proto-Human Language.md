@@ -2,8 +2,8 @@
 title: Language Template
 enableToc: true
 tags:
-  - topic:culture/language
-  - status:stub
+  - topic/culture/language
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

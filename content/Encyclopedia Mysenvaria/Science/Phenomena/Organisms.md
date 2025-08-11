@@ -2,9 +2,9 @@
 title: Organisms
 enableToc: true
 tags:
-  - topic:science/phenomenon
-  - status:incomplete
-  - needs:graphics
+  - topic/science/phenomenon
+  - status/incomplete
+  - needs/graphics
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

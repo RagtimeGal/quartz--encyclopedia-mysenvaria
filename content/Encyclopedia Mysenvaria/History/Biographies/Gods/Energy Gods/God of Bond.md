@@ -2,11 +2,11 @@
 title: God of Bond
 enableToc: true
 tags:
-  - topic:history/biography
-  - subject:god/lesser-god
-  - subject:god/energy_god
-  - status:stub
-  - needs:infobox
+  - topic/history/biography
+  - subject/god/lesser-god
+  - subject/god/energy_god
+  - status/stub
+  - needs/infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

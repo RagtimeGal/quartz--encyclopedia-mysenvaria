@@ -2,9 +2,9 @@
 title: Long-tailed Primates
 enableToc: true
 tags:
-  - topic:biology/taxon
-  - topic:biology/family
-  - status:empty
+  - topic/biology/taxon
+  - topic/biology/family
+  - status/empty
 ---
 
 > [!note] Stub

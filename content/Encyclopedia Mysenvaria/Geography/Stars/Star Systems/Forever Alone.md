@@ -2,9 +2,9 @@
 title: Forever Alone
 enableToc: true
 tags:
-  - topic:geography/astrography
-  - subject:star_system
-  - status:empty
+  - topic/geography/astrography
+  - subject/.star_system
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

@@ -2,10 +2,10 @@
 title: Tectonics
 enableToc: true
 tags:
-  - topic:science/model
-  - status:incomplete
-  - future:update
-  - has:image
+  - topic/science/model
+  - status/incomplete
+  - future/update
+  - has/image
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

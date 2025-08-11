@@ -2,8 +2,8 @@
 title: Quickening
 enableToc: true
 tags:
-  - topic:history/god-war_era
-  - status:touchup
+  - topic/history/god-war_era
+  - status/touchup
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Touch-up|Touch-up Article]]

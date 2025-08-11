@@ -2,8 +2,8 @@
 title: The Phonlogical Directory of Gods Tongues
 enableToc: true
 tags:
-  - topic:art/literature/non-fiction
-  - status:empty
+  - topic/art/literature/non-fiction
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

@@ -2,9 +2,9 @@
 title: Natural Personification
 enableToc: true
 tags:
-  - topic:science/phenomenon
-  - status:stub
-  - needs:graphics
+  - topic/science/phenomenon
+  - status/stub
+  - needs/graphics
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

@@ -2,8 +2,8 @@
 title: Natural Subdivision
 enableToc: true
 tags:
-  - topic:science/model
-  - status:stub
+  - topic/science/model
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

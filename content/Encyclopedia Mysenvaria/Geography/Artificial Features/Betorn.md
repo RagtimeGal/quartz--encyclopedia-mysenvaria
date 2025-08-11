@@ -2,8 +2,8 @@
 title: Betorn
 enableToc: true
 tags:
-  - topic:geography/artificial
-  - status:empty
+  - topic/geography/artificial
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

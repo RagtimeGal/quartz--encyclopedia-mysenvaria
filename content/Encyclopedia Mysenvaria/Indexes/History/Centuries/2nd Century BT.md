@@ -2,9 +2,9 @@
 title: 2nd Century BT
 enableToc: true
 tags:
-  - topic:history/century
-  - type:index
-  - status:empty
+  - topic/history/century
+  - type/index
+  - status/empty
 ---
 
 > [!note] Stub

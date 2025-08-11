@@ -2,10 +2,9 @@
 title: Occupation Template
 enableToc: true
 tags:
-  - topic:culture:occupation
-  - type:template
+  - topic/culture/occupation
+  - type/template
 draft: true
-
 ---
 
 > [!note] Stub

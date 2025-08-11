@@ -2,8 +2,8 @@
 title: Territories During the God-War
 enableToc: true
 tags:
-  - topic:history/god-war_era
-  - status:stub
+  - topic/history/god-war_era
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

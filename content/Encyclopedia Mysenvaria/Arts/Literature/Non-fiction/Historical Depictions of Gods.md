@@ -2,8 +2,8 @@
 title: Historical Depictions of Gods
 enableToc: true
 tags:
-  - topic:art/literature/non-fiction
-  - status:empty
+  - topic/art/literature/non-fiction
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

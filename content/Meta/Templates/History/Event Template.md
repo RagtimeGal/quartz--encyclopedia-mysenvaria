@@ -2,11 +2,11 @@
 title: Event Template
 enableToc: true
 tags:
-  - topic:history:god-war_era
-  - topic:history:post-war_era
-  - topic:history:golden_age
-  - topic:history:modern_era
-  - type:template
+  - topic/history/god-war_era
+  - topic/history/post-war_era
+  - topic/history/golden_age
+  - topic/history/modern_era
+  - type/template
 draft: true
 ---
 

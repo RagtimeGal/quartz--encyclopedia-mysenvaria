@@ -2,8 +2,8 @@
 title: Encyclopedia Mysenvaria
 enableToc: true
 tags:
-  - topic:art/literature/non-fiction
-  - status:stub
+  - topic/art/literature/non-fiction
+  - status/stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

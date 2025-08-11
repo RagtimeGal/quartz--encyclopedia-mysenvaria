@@ -2,8 +2,8 @@
 title: Maps
 enableToc: true
 tags:
-  - topic:science/technology
-  - status:empty
+  - topic/science/technology
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

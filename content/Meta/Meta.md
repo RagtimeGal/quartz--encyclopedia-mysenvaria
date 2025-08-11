@@ -2,7 +2,7 @@
 title: Meta
 enableToc: true
 tags:
-  - topic:meta
+  - topic/meta
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

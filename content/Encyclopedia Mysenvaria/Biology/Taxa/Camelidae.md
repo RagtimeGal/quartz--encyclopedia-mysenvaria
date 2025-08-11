@@ -2,9 +2,9 @@
 title: Camelidae
 enableToc: true
 tags:
-  - topic:biology/taxon
-  - topic:biology/family
-  - status:empty
+  - topic/biology/taxon
+  - topic/biology/family
+  - status/empty
 ---
 
 > [!note] Stub

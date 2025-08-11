@@ -2,8 +2,8 @@
 title: Sports Template
 enableToc: true
 tags:
-  - topic:art:sport
-  - type:template
+  - topic/art/sport
+  - type/template
 draft: true
 ---
 

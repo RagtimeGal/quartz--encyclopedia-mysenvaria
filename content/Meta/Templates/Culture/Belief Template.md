@@ -2,8 +2,8 @@
 title: Belief Template
 enableToc: true
 tags:
-  - topic:culture:belief
-  - type:template
+  - topic/culture/belief
+  - type/template
 draft: true
 ---
 

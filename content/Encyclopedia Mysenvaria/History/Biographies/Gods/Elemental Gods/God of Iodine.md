@@ -2,11 +2,11 @@
 title: God of Iodine
 enableToc: true
 tags:
-  - topic:history/biography
-  - subject:god/lesser-god
-  - subject:god/elemental_god
-  - status:empty
-  - needs:infobox
+  - topic/history/biography
+  - subject/god/lesser-god
+  - subject/god/elemental_god
+  - status/empty
+  - needs/infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

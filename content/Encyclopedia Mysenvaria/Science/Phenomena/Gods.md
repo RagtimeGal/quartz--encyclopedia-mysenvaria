@@ -2,16 +2,16 @@
 title: Gods
 enableToc: true
 tags:
-  - topic:science/phenomenon
-  - subject:god
-  - status:complete
-  - future:update
-  - needs:graphics
+  - topic/science/phenomenon
+  - subject/god
+  - status/complete
+  - future/update
+  - needs/graphics
 ---
 
 Gods are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|natural personification]], like [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]] and [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. The [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] suggests that Gods result from the Unreal's inability to manage the Real. As Real interacts with Unreal to make Reality, situations arise where the Unreal must improvise laws to govern all the Real. This improvisation creates a God's core, a result of the warped laws impacting space. God's bodies are made up of the [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|entities]] which their core's physically attract. These entities are related to the God's domain.
 
-Gods are subject to unique rules imposed on them by the altered and improvised form of Unreal that governs them. Despite this, Gods interact and exist in Reality like normal entities.
+Gods are subject. to unique rules imposed on them by the altered and improvised form of Unreal that governs them. Despite this, Gods interact and exist in Reality like normal entities.
 # Creation
 Gods come into existence by two means: natural personification or [[Encyclopedia Mysenvaria/Science/Models/Natural Subdivision|natural subdivision]]. Only two Gods are known to have come from personification, those being the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. All other Gods are known to have been created through subdivision.
 
@@ -25,7 +25,7 @@ Gods are capable of undergoing a process known as dematerialization, wherein the
 
 Gods who are very materialized but hold a weak presence in Reality are fragile and susceptible to death. As conscious beings Gods do not want to die, and so will assume defensive and offensive capabilities to sustain their survival. To do so, however, the God must further materialize and become more physical. Thus, a loop forms, making it difficult or impossible for some Gods to dematerialize.
 
-If dematerialization was voluntary and the conditions are right a God may willfully reenter Reality at their own command. Through natural concentration they may also be rematerialized without their input. The exact mechanisms and mathematical modeling behind dematerialization and natural concentration are not well understood and are an active subject of research by theogenists.
+If dematerialization was voluntary and the conditions are right a God may willfully reenter Reality at their own command. Through natural concentration they may also be rematerialized without their input. The exact mechanisms and mathematical modeling behind dematerialization and natural concentration are not well understood and are an active subject. of research by theogenists.
 
 Gods who hold a strong presence in Reality are capable of holding sensual relationships with organisms, although the ability to do so is highly restricted by the [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]]. Godly unions are known to create two phenomena based on their composition, either creating [[Encyclopedia Mysenvaria/Biology/Species/Demi-God|Demi-Gods]] or [[Encyclopedia Mysenvaria/Science/Phenomena/Womb-God|Womb-Gods]]. Demi-Gods are born to organic mothers, the opposite of Womb-Gods. These phenomena are not well understood either.
 # Appearance

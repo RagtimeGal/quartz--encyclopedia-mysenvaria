@@ -2,8 +2,8 @@
 title: Event Template
 enableToc: true
 tags:
-  - topic:history/god-war_era
-  - status:incomplete
+  - topic/history/god-war_era
+  - status/incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
@@ -13,7 +13,7 @@ The First Convening was a small gathering of Gods led by the [[Encyclopedia Myse
 # Overview
 Fulgurite, having witnessed the first death of a God, would organize a meeting of differently opinionated but equally visionary and embodied Gods. Seventeen figures, including Fulgurite themself, would be hand-picked to attend, each of whom had witnessed the first death and were what Fulgurite would describe as dreamers. Either by complete coincidence, or Fulgurites keen ability to discern the inspired, all seventeen members of the First Covenant would go on to be pivotal figures in the war, shaping it both positively and negatively. 
 
-Following the First Convening, Chromodynamic Energy, a member of the First Covenant, would publish the Afterlife Star, concluding that an afterlife must exist. According to Chromodynamic Energy, a God's consciousness is not subject to the whims of reality and unreality, but is instead tethered only by the greater fabric of nature outside of those concepts. Thus, they concluded, a God's mind cannot truly be lost like materials or laws. Though the claim cannot be proven nor disproven, the Afterlife Star would spark debate and division among Gods, creating believers and deniers. And so, religion was born.
+Following the First Convening, Chromodynamic Energy, a member of the First Covenant, would publish the Afterlife Star, concluding that an afterlife must exist. According to Chromodynamic Energy, a God's consciousness is not subject. to the whims of reality and unreality, but is instead tethered only by the greater fabric of nature outside of those concepts. Thus, they concluded, a God's mind cannot truly be lost like materials or laws. Though the claim cannot be proven nor disproven, the Afterlife Star would spark debate and division among Gods, creating believers and deniers. And so, religion was born.
 
 Gods soon divided into two opposing beliefs: those who argued the afterlife renders life trivial—why fear death if it is no different from life?—and those who claimed the afterlife made living even more precious—why risk life for an afterlife that, even if promised, may pale in comparison? These ideological branches grew rapidly, with many members of the First Covenant becoming vocal advocates for their own beliefs. The invention of organic life would only accelerate the growing divisions. 
 

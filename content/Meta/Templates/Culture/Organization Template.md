@@ -2,8 +2,8 @@
 title: Organization Template
 enableToc: true
 tags:
-  - topic:culture:organization
-  - type:template
+  - topic/culture/organization
+  - type/template
 draft: true
 ---
 

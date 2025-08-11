@@ -2,8 +2,8 @@
 title: Bony Fish
 enableToc: true
 tags:
-  - topic:biology/taxon
-  - status:empty
+  - topic/biology/taxon
+  - status/empty
 ---
 
 > [!note] Stub

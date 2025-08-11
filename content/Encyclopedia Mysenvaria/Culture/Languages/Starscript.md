@@ -2,9 +2,9 @@
 title: Starscript
 enableToc: true
 tags:
-  - topic:culture/language
-  - subject:god
-  - status:empty
+  - topic/culture/language
+  - subject/.god
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

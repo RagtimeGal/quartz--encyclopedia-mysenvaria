@@ -2,9 +2,9 @@
 title: List of Mobile Stars
 enableToc: true
 tags:
-  - type:index
-  - subject:star
-  - subject:star_system
+  - type/index
+  - subject/.star
+  - subject/.star_system
 ---
 
 This page serves as an index of mobile [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], defined as stars which move, often orbiting around a singular point in space, and are not stationary. Orbital stars are often more imporant than their stationary counterparts. This page is sorted by [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Intra-Planar Stars|intra-planar]] and [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Extra-Planar Stars|extra-planar]] stars.

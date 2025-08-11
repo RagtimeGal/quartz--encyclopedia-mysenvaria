@@ -2,8 +2,8 @@
 title: Great Astronomy Foundation
 enableToc: true
 tags:
-  - topic:culture/organization
-  - status:empty
+  - topic/culture/organization
+  - status/empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

@@ -2,9 +2,9 @@
 title: Water Buffalo
 enableToc: true
 tags:
-  - topic:biology/taxon
-  - topic:biology/animal
-  - status:empty
+  - topic/biology/taxon
+  - topic/biology/animal
+  - status/empty
 ---
 
 > [!note] Stub
