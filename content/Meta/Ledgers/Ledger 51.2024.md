@@ -2,8 +2,8 @@
 title: "Lore Ledger 51.24"
 enableToc: true
 tags:
-  - topic:meta
-  - type:ledger
+  - topic/meta
+  - type/ledger
 ---
 
 > [!summary] Lore Ledger #5
