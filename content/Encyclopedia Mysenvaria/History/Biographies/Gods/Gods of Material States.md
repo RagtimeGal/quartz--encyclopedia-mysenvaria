@@ -2,14 +2,14 @@
 title: Gods of Material States
 enableToc: true
 tags:
-  - topic:history:biography
-  - subject:god:higher-god
-  - status:empty
+  - topic:history/biography
+  - subject:god/higher-god
+  - status:stub
+  - needs:infobox
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
-
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of Material States are a group of four Gods created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter and Energy]] to control the material states of matter, those being solids, liquids, gasses, and plasma.
 # History

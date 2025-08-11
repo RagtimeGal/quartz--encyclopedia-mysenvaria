@@ -3,12 +3,19 @@ title: Nemein
 enableToc: true
 tags:
   - type:article
-  - topic:art:game
+  - topic:art/game
   - status:stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
-> This page is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+
+> [!abstract] [[Meta/Meta|Meta]] || Names
+> Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
+> 
+> These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.
+> 
+> The intent is to keep track of these placeholders so that they may be replaced in the future. If you find a name which looks out of place, report it through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Nemein is a strategy board game which uses national currencies as the pieces of the game. It is a game which has permeated nearly all the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|southern]] [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] cultures.
 # History

@@ -2,14 +2,20 @@
 title: Human
 enableToc: true
 tags:
-  - topic:biology:taxon
-  - topic:biology:animal
+  - topic:biology/taxon
+  - topic:biology/animal
   - status:empty
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This article is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
+> [!abstract] [[Meta/Meta|Meta]] || Names
+> Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
+> 
+> These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.
+> 
+> The intent is to keep track of these placeholders so that they may be replaced in the future. If you find a name which looks out of place, report it through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 > [!summary] Human
 > > [!info] Relation

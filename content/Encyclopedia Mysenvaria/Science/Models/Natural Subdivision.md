@@ -2,19 +2,14 @@
 title: Natural Subdivision
 enableToc: true
 tags:
-  - topic:science:model
-  - status:empty
+  - topic:science/model
+  - status:stub
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
-
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Natural subdivision is a process [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] may undergo in which they split their domain over nature and pass it on to two or more new Gods.
 # History
 
-# Stuff Here
-
-> [!note]
-> Add headers and sub-headers as necessary to explain different parts of the science.
 # Significance

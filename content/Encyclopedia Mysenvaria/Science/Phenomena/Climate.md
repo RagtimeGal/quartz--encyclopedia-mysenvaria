@@ -2,12 +2,11 @@
 title: Climate
 enableToc: true
 tags:
-  - topic:science:phenomenon
-  - status:touchup
+  - topic:science/phenomenon
+  - status:complete
+  - future:update
+  - needs:graphics
 ---
-
-> [!abstract] [[Meta/Touch-ups|Touch-up]]
-> This page could use a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery and its impact on [[Encyclopedia Mysenvaria/Culture/Culture|cultures]]!
 
 Climate is the long-term [[Encyclopedia Mysenvaria/Science/Phenomena/Weather|weather]] patterns for a region of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], determined through various [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorological]] variables like precipitation, temperatures, wind speeds, and humidity.
 
@@ -19,3 +18,8 @@ Climates are divided and organized in a variety of models, each mapping climates
 # See Also
 - [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]]
 - [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *This article could use a section on the history of its discovery and impact on cultures.*

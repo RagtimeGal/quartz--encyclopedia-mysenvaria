@@ -2,23 +2,25 @@
 title: Jack Horner
 enableToc: true
 tags:
-  - topic:history:biography
+  - topic:history/biography
   - status:empty
+  - needs:infobox
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]
+> This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-> [!abstract] [[Meta/Meta|Meta]]
-> The names presented on this page are temporary placeholders. Until conlangs are made for creating better names this will remain unchanged.
-
+> [!abstract] [[Meta/Meta|Meta]] || Names
+> Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
+> 
+> These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.
+> 
+> The intent is to keep track of these placeholders so that they may be replaced in the future. If you find a name which looks out of place, report it through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 # Early Life & Education
 
 # Career
 
-> [!note]
-> Career, Personal Life, and Death may be completely forgone in favor of a different way of organizing the page, for instance in order of important events through their life.
 # Personal Life
 
 # Death
@@ -27,8 +29,5 @@ tags:
 ## Legacy
 
 ## Children
-
-> [!note]
-> More titles may be added regarding works of art or other notable things regarding the character.
 
 # See Also

@@ -2,12 +2,13 @@
 title: Organisms
 enableToc: true
 tags:
-  - topic:science:phenomenon
-  - status:empty
+  - topic:science/phenomenon
+  - status:incomplete
+  - needs:graphics
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Organisms are living things, created by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] as a means of autonomous work. The first organism, an unknown algae-like asexual plant, was created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]], documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Plant Star System|Plant Star System]]. This creation would lead to what is known as the [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]], birthing all the organisms known across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] today. [[Encyclopedia Mysenvaria/Biology/Biology|Biology]] is the study of organisms, an umbrella science which covers a host of other sciences like [[Encyclopedia Mysenvaria/Science/Branches/Anatomy|anatomy]], [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomy]], [[Encyclopedia Mysenvaria/Science/Branches/Ecology|ecology]], [[Encyclopedia Mysenvaria/Science/Branches/Paleontology|paleontology]], and [[Encyclopedia Mysenvaria/Science/Branches/Genetics|genetics]].
 

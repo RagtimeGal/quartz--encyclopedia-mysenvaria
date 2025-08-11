@@ -2,13 +2,13 @@
 title: God Tongue
 enableToc: true
 tags:
-  - topic:culture:language
-  - status:empty
+  - topic:culture/language
+  - subject:god
+  - status:incomplete
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
-
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 God Tongue is the [[Encyclopedia Mysenvaria/Culture/Culture#Languages|language]] of the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. True God Tongue exists only as a written language in the form of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. Studies and explorations into how the Gods speak exist, such as in *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]]*, *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]* and *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]]*. [[Encyclopedia Mysenvaria/Culture/Languages/Humanized God Tongue|Humanized God Tongue]] is a family of languages created by [[Encyclopedia Mysenvaria/Biology/Species/Human|humans]] which attempts to approximate from stars what a spoken form of God Tongue may sound like.
 
@@ -44,5 +44,5 @@ In God Tongue tenses may be applied to verbs as participles, defining when an ac
 *The Fourth Edition Natural Lexicon* is the largest and most up-to-date God Tongue dictionary. Consisting of 
 # Writing
 The written form of God Tongue exists in the form of stars.
-# See also
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]

@@ -6,7 +6,7 @@ tags:
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This is part of a series of meta pages explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
+> *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 
 > [!warning] Disclaimer
 > When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 

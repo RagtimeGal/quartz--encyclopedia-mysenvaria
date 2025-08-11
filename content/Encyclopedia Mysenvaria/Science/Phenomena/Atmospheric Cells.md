@@ -2,12 +2,11 @@
 title: Atmospheric Cells
 enableToc: true
 tags:
-  - topic:science:phenomenon
-  - status:touchup
+  - topic:science/phenomenon
+  - status:complete
+  - future:update
+  - has:image
 ---
-
-> [!abstract] [[Meta/Touch-ups|Touch-up]]
-> This page could use a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery and its impact on [[Encyclopedia Mysenvaria/Culture/Culture|cultures]]!
 
 Atmospheric cells are complex and chaotic natural phenomena that occur as a result of many other factors across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Atmospheric cells are critical to the theory of [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]] and are responsible for the proper movement of air through the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]]. Cells develop because of interactions between the heating and [[Encyclopedia Mysenvaria/Science/Phenomena/Gravity|gravitational pull]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and the friction caused by the Plane's rotation.
 
@@ -31,5 +30,9 @@ Starting at the harmony line and moving outwards towards the edge:
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
 - [[Oceanic Circulation|Oceanic Circulation]]
 
-
 [^figure1]: ![[Meta/Images/Infographics/atmospheric_cells.png]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *This article can use a section on how it was discovered.*

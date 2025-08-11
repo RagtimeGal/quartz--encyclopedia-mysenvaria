@@ -2,12 +2,11 @@
 title: Oceanic Circulation
 enableToc: true
 tags:
-  - topic:science:phenomenon
-  - status:touchup
+  - topic:science/phenomenon
+  - status:complete
+  - future:update
+  - has:image
 ---
-
-> [!abstract] [[Meta/Touch-ups|Touch-up]]
-> This page could use a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery!
 
 Oceanic circulation is the physical process by which the water of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] oceans circulates. Oceanic circulation across the Plane is driven by [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]], ocean density, and temperature. Oceanic circulation plays a particularly key role in the Plane's [[Encyclopedia Mysenvaria/Science/Phenomena/Weather|weather]], maintaining the distribution of the Plane's heat.
 
@@ -23,3 +22,8 @@ Deep circulation comes in the form of the thermohaline[^figure2]. Believed to be
 
 [^figure1]: ![[Meta/Images/Infographics/ocean_currents.png]]
 [^figure2]: ![[Meta/Images/Infographics/thermohaline.png]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *This page could use a section on the history of its discovery.*

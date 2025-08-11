@@ -2,11 +2,11 @@
 title: Tags
 enableToc: true
 tags:
-  - topic:meta
+  - topic:meta/writing_guidelines
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This page is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
 
 This page serves as a general overview of all tags used throughout the encyclopedia and the rules which they follow.
 # Tags
@@ -20,59 +20,60 @@ This page serves as a general overview of all tags used throughout the encyclope
 - **Article Topics**: These tags differentiate articles based on the topic of the content they contain.
 	- **Topic Categories**: These tags categorize articles based on the most broad topics of information they cover.
 		- `topic:meta`: This page covers a meta topic for the encyclopedia.
-			- `topic:meta:writing_guidelines`: This page covers the encyclopedia's writing guidelines.
+			- `topic:meta/writing_guidelines`: This page covers the encyclopedia's writing guidelines.
 		- `topic:art`: This page covers a topic relating to the arts.
-			- `topic:art:game`: This page covers a topic relating to games.
-			- `topic:art:music`: This page covers a topic relating to music.
-			- `topic:art:cuisine`: This page covers a topic relating to food.
-			- `topic:art:literature`: This page covers a topic relating to literature.
-				- `topic:art:literature:fiction`: This page covers a piece of fiction literature.
-				- `topic:art:literature:non-fiction`: This page covers a piece of non-fiction literature.
-			- `topic:art:performance`: This page covers a topic relating to performative arts.
-			- `topic:art:sport`: This page covers a topic relating to sports.
+			- `topic:art/game`: This page covers a topic relating to games.
+			- `topic:art/music`: This page covers a topic relating to music.
+			- `topic:art/cuisine`: This page covers a topic relating to food.
+			- `topic:art/literature`: This page covers a topic relating to literature.
+				- `topic:art/literature/fiction`: This page covers a piece of fiction literature.
+				- `topic:art/literature/non-fiction`: This page covers a piece of non-fiction literature.
+			- `topic:art/performance`: This page covers a topic relating to performative arts.
+			- `topic:art/sport`: This page covers a topic relating to sports.
 		- `topic:biology`: This page covers a topic relating to biology.
-			- `topic:biology:plant`: This page covers a specific taxon of plant.
-			- `topic:biology:animal`: This page covers a specific taxon of animal.
-			- `topic:biology:taxon`: This page covers a specific taxon.
-			- `topic:biology:family`: This page covers a family taxon.
-			- `topic:biology:disease`: This page covers a specific disease.
-			- `topic:biology:extinct`: This page covers an extinct taxon.
+			- `topic:biology/plant`: This page covers a specific taxon of plant.
+			- `topic:biology/animal`: This page covers a specific taxon of animal.
+			- `topic:biology/taxon`: This page covers a specific taxon.
+			- `topic:biology/family`: This page covers a family taxon.
+			- `topic:biology/disease`: This page covers a specific disease.
+			- `topic:biology/extinct`: This page covers an extinct taxon.
 		- `topic:culture`: This page covers a topic relating to the humanities.
-			- `topic:culture:belief`: This page covers a certain belief system.
-			- `topic:culture:ethnicity`: This page covers a certain ethnic group.
-			- `topic:culture:holiday`: This page covers a certain holiday or group of holidays.
-			- `topic:culture:language`: This page covers a certain language or language family.
-			- `topic:culture:occupation`: This page covers a certain occupation.
-			- `topic:culture:organization`: This page covers a certain organization.
+			- `topic:culture/belief`: This page covers a certain belief system.
+			- `topic:culture/ethnicity`: This page covers a certain ethnic group.
+			- `topic:culture/holiday`: This page covers a certain holiday or group of holidays.
+			- `topic:culture/language`: This page covers a certain language or language family.
+			- `topic:culture/occupation`: This page covers a certain occupation.
+			- `topic:culture/organization`: This page covers a certain organization.
 		- `topic:geography`: This page covers a topic relating to the Plane's geography.
-			- `topic:geography:natural`: This page covers a certain natural geographical phenomenon.
-			- `topic:geography:abstract`: This page covers a certain abstract geographical phenomenon.
-			- `topic:geography:artificial`: This page covers a certain artificial geographical phenomenon.
-			- `topic:geography:astrography`: This page covers a star or star system.
+			- `topic:geography/natural`: This page covers a certain natural geographical phenomenon.
+			- `topic:geography/abstract`: This page covers a certain abstract geographical phenomenon.
+			- `topic:geography/artificial`: This page covers a certain artificial geographical phenomenon.
+			- `topic:geography/astrography`: This page covers a star or star system.
 		- `topic:history`: This page covers a topic relating to history.
-			- `topic:history:god-war_era`: This page covers events which occurred during the God-War Era.
-			- `topic:history:post-war_era`: This page covers events which occurred during the Post-War Era.
-			- `topic:history:golden_age`: This page covers events which occurred during the Golden Age.
-			- `topic:history:modern_era`: This page covers events which occurred during the Modern Era.
-			- `topic:history:biography`: This page covers the lives of specific people.
-			- `topic:history:decade`: This page covers a specific decade of history.
-			- `topic:history:century`: This page covers a specific century of history.
+			- `topic:history/god-war_era`: This page covers events which occurred during the God-War Era.
+			- `topic:history/post-war_era`: This page covers events which occurred during the Post-War Era.
+			- `topic:history/golden_age`: This page covers events which occurred during the Golden Age.
+			- `topic:history/modern_era`: This page covers events which occurred during the Modern Era.
+			- `topic:history/biography`: This page covers the lives of specific people.
+			- `topic:history/decade`: This page covers a specific decade of history.
+			- `topic:history/century`: This page covers a specific century of history.
 		- `topic:science`: This page covers a topic relating to the sciences.
-			- `topic:science:branch`: This page covers a specific scientific branch.
-			- `topic:science:phenomena`: This page covers a specific scientific phenomenon.
-			- `topic:science:model`: This page covers a specific scientific model.
-			- `topic:science:technology`: This page covers a specific technology.
+			- `topic:science/branch`: This page covers a specific scientific branch.
+			- `topic:science/phenomena`: This page covers a specific scientific phenomenon.
+			- `topic:science/model`: This page covers a specific scientific model.
+			- `topic:science/technology`: This page covers a specific technology.
 	- **Subject Categories**: These tags categorize articles over specific topics of information they cover.
 		- `subject:god`: This page covers information regarding Gods.
-			- `subject:god:higher-god`: This page covers information regarding higher-Gods.
-			- `subject:god:lesser-god`: This page covers information regarding lesser-Gods.
-			- `subject:god:compound_god`: This page covers information regarding Gods of chemical compound.
-			- `subject:god:elemental_god`: This page covers information regarding Gods of elements.
-			- `subject:god:energy_god`: This page covers information regarding Gods of energies.
-			- `subject:god:reaction_god`: This page covers information regarding Gods of reactions.
-			- `subject:god:phenomena_god`: This page covers information regarding Gods of phenomenon.
+			- `subject:god/higher-god`: This page covers information regarding higher-Gods.
+			- `subject:god/lesser-god`: This page covers information regarding lesser-Gods.
+			- `subject:god/compound_god`: This page covers information regarding Gods of chemical compound.
+			- `subject:god/elemental_god`: This page covers information regarding Gods of elements.
+			- `subject:god/energy_god`: This page covers information regarding Gods of energies.
+			- `subject:god/reaction_god`: This page covers information regarding Gods of reactions.
+			- `subject:god/phenomena_god`: This page covers information regarding Gods of phenomenon.
 		- `subject:star`: This page covers information regarding stars.
-			- `subject:star:host`: This page covers information regarding the host star of a specific star system.
+			- `subject:star/host`: This page covers information regarding the host star of a specific star system.
+			- `subject:star/child`: This page covers information regarding a child star of a specific star system.
 		- `subject:star_system`: This page covers information regarding star systems.
 - **Progress Tags**: These tags differentiate articles based on the status of the content they contain.
 	- `status:empty`: This page provides no information on its given topic.
@@ -85,9 +86,8 @@ This page serves as a general overview of all tags used throughout the encyclope
 	- `future:rewrite`: This page will require revisions as the setting's lore is developed further.
 	- `future:review`: This page will be revisited and judged at a later date when related topics are more developed.
 - **Needs & Has Tags**: These tags differentiate articles based on what special content may be needed to improve them or what special content they may already have.
-	- `needs:map`: This page could be improved with the use of a map(s).
-	- `has:map`: This page has a map(s).
-	- `needs:image`: This page could be improved with the use of an illustration(s).
-	- `has:image`: This page has an illustration(s).
+	- `needs:graphics`: This page could be improved with the use of illustrations.
+	- `has:image`: This page has images.
+	- `has:video`: This page has videos.
 	- `needs:infobox`: This page could be improved by the use of an infobox.
 	- `has:infobox`: This page has an infobox.

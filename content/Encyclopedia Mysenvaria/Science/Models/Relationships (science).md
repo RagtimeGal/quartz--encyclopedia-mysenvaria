@@ -2,14 +2,13 @@
 title: Relationships (science)
 enableToc: true
 tags:
-  - topic:science:model
-  - status:touchup
+  - topic:science/model
+  - status:complete
+  - future:update
+  - needs:graphics
 ---
 
 *For linguistic relationships, see [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Relationships (linguistics)|Relationships (linguistics)]].*
-
-> [!abstract] [[Meta/Touch-ups|Touch-up]]
-> This page's [[Encyclopedia Mysenvaria/History/History|history]] section needs to be filled out.
 
 The [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] defines a relationship as, "the interaction between Real [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|entities]] and Unreal laws which creates behavior". Relationships are, at their core, rules which define how entities interact with one another. These rules turn the otherwise inert Real into the active agents of [[Encyclopedia Mysenvaria/Science/Models/Material|material structure]]. This phenomenon comes about as a result of the Real's and Unreal's interaction with one another.
 
@@ -25,8 +24,11 @@ Relationships are complex and hard to understand, but they are made up of a few 
 - **Death Gates**: If *x* and *y*, then not *z*;
 - **Isolation Gates**: If neither *x* nor *y*, then *z*;
 - **Mirror Gates**: If *x* and *y* are equal, then *z*.
-# History
-
 # See Also
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *This article could use a section on the history of its discovery.*

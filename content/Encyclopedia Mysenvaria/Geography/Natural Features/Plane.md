@@ -2,12 +2,13 @@
 title: Plane
 enableToc: true
 tags:
-  - topic:geography:natural
-  - status:empty
+  - topic:geography/natural
+  - status:incomplete
+  - has:image
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The Plane is the infinite and nearly-flat expanse which the known world resides upon. The exact vastness of the Plane is unknown, but it is presumed by many scholars to be infinite. 
 

@@ -2,14 +2,12 @@
 title: Language Template
 enableToc: true
 tags:
-  - topic:culture:language
-  - status:empty
+  - topic:culture/language
+  - status:stub
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
-
-
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Proto-Human is the reconstructed common ancestor of all [[Encyclopedia Mysenvaria/Indexes/Culture/List of Human Languages|Human languages]]. There is no written record of Proto-Human; all of its features are proposed based off of inherited features in all Human languages through the process of the comparative method and internal reconstruction, among other methods.
 
@@ -47,5 +45,5 @@ As speakers of Proto-Human became gradually isolated from eachother, the regiona
 
 # Dialects & Accents
 
-# See also
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]

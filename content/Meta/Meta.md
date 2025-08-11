@@ -6,9 +6,9 @@ tags:
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> This is a meta callout. These appear at the top of every meta page and sometimes throughout non-meta pages as short meta notes.
+> This is a meta callout. These appear at the top of every meta article and sometimes throughout non-meta articles as short meta notes.
 > 
-> *This is part of a series of meta pages explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
+> *This is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 
 Canon is the true lore of a setting which is sourced from authoritative works on the subject. Mysenvar's authoritative source for lore is this website—the Encyclopedia Mysenvaria. Non-meta pages on this site are pages which exist in the fictional canonical setting in the setting's own version of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Meta pages are those which do not exist within the canon of Mysenvar and which provide valuable information on this website's version of the encyclopedia.
 

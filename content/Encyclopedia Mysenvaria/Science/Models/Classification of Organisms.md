@@ -2,9 +2,12 @@
 title: Classification of Organisms
 enableToc: true
 tags:
-  - topic:science:model
-  - status:empty
+  - topic:science/model
+  - status:stub
 ---
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The classification of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] is an on-going discussion amongst [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomers]]. [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|Criterial classification]] was for quite some time the only method used to classify organisms, organizing them by three categories, [[Encyclopedia Mysenvaria/Science/Models/Dietary Classification|diet]], [[Encyclopedia Mysenvaria/Science/Models/Body Plan|body plan]], and [[Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches|historical niche]]. Criterial classification is still used today and still plays an important role in the ideas of [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|conceptual evolution]]. Conceptual evolution is a recent theory proposed by [[Encyclopedia Mysenvaria/History/Biographies/Jack Horner|Jack Horner]] and built upon by [[Encyclopedia Mysenvaria/History/Biographies/Charles Darwin|Charles Darwin]]. 
 
@@ -14,3 +17,5 @@ The idea of modifying existing organisms also gives rise to common ancestors, th
 # History
 # Criterial Classification
 # Conceptual Evolution
+
+# See Also

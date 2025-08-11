@@ -2,13 +2,13 @@
 title: Geography During the God-War
 enableToc: true
 tags:
-  - topic:history:god-war_era
+  - topic:history/god-war_era
   - geography
-  - status:empty
+  - status:incomplete
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 An oft overlooked feature of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] is its impact on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] [[Encyclopedia Mysenvaria/Geography/Geography|geography]] and how that geography can provide [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] a glimpse into its past. Historians and geologists use a number of strategies and tools to extrapolate historical data about the Plane's geography: [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], strata layers, weathering patterns, and more can tell historians a great deal about the Plane's history.
 # Formation & Early Development

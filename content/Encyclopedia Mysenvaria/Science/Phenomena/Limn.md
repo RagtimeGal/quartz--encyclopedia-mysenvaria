@@ -2,12 +2,11 @@
 title: Limn
 enableToc: true
 tags:
-  - topic:science:phenomenon
-  - status:touchup
+  - topic:science/phenomenon
+  - status:complete
+  - future:update
+  - needs:graphics
 ---
-
-> [!abstract] [[Meta/Touch-ups|Touch-up]]
-> This page could use a section on the [[Encyclopedia Mysenvaria/History/History|History]] of its discovery, its impact on [[Encyclopedia Mysenvaria/Culture/Culture|cultures]], and further elaboration on its production and application.
 
 Limn, as modeled in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], is a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|natural personification]]. Limn forms when parts of Nature seep into Reality through the Real's and Unreal's interaction. Limn is a strange substance—one which does not obey the Real nor Unreal. Because of this, it is not a true [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|entities]] as defined by the USM and is not constructed from a normal [[Encyclopedia Mysenvaria/Science/Models/Material|material structure]].
 # Characteristics
@@ -34,3 +33,8 @@ Sophonts do not possess limnary presses—instead, they press their own artifici
 
 # See Also
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *This article could use elaboration on its history and impact on cultures.*

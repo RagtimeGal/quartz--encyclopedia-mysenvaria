@@ -3,7 +3,7 @@ title: List of Extinct Animals
 enableToc: true
 tags:
   - type:index
-  - topic:biology:animal
+  - topic:biology/animal
 ---
 
 This page serves as an index of extinct [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]].

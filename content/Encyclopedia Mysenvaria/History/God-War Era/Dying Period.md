@@ -2,12 +2,14 @@
 title: Dying Period
 enableToc: true
 tags:
-  - topic:history:god-war_era
+  - topic:history/god-war_era
   - status:touchup
+  - future:review
+  - has:image
 ---
 
-> [!abstract] [[Meta/Touch-ups|Touch-up]]
-> This page could possibly use a touch-up in the Mass Causalities & Aftermath section. Importantly, pointing to the researches who propose the theories on why the corpses created the North and South Continents. 
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Touch-up|Touch-up Article]]
+> This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The Dying Period is a 17 year period of time which began with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ended in [[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT#160 BT|160 BT]]. The Dying Period is named for the sheer number of casualties, an estimated 70%-80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished. [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|Historians]] normally use the terminology of "violent" and "peaceful" Gods to explain how the Dying Period came to happen, though these terms are not reflective of the actual behaviors of the Gods.
 # Prelude
@@ -25,3 +27,6 @@ Though Gods had died across the entirety of the [[Encyclopedia Mysenvaria/Geogra
 - [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]
 
 [^graphic]: ![[Meta/Images/Infographics/deaths_during_god_war.png]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Review Needed|Future Review Needed]]
+> This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

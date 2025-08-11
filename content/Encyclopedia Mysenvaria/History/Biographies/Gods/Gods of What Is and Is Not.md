@@ -2,13 +2,14 @@
 title: Gods of What Is and Is Not
 enableToc: true
 tags:
-  - topic:history:biography
-  - subject:god:higher-god
-  - status:empty
+  - topic:history/biography
+  - subject:god/higher-god
+  - status:incomplete
+  - needs:infobox
 ---
 
-> [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of What Is and Is Not, also sometimes referred to as the fog, are the two oldest and most powerful Gods. What Is and Is Not preside over the natural divisions of everything and nothing; since everything exists and eventually will not the duo are considered the most powerful of the Gods.
 
@@ -20,6 +21,6 @@ What Is and Is Not are only known to have written one star, the [[Encyclopedia M
 
 What Is and Is Not are thought to have been primarily hands-off during the God-War, having not interacted besides to be buffers between powerful Gods and in attempts to end the war. The duo were present for each and every of the seven [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]] but were only responsible for calling six of the seven council meetings.
 # Appearance
-As per the Harmonic Treaty What Is and Is Not always exist at the edge of the plane as a thick fog. Few have travelled to the edge of the world to see the duo and those who have explain it as an enlightening journey.
+As per the Harmonic Treaty What Is and Is Not always exist at the edge of the plane as a thick fog. Few have traveled to the edge of the world to see the duo and those who have explain it as an enlightening journey.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]

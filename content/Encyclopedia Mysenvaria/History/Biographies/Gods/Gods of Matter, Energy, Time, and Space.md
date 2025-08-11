@@ -2,13 +2,15 @@
 title: Gods of Matter, Energy, Time, and Space
 enableToc: true
 tags:
-  - topic:history:biography
-  - subject:god:higher-god
-  - status:empty
+  - topic:history/biography
+  - subject:god/higher-god
+  - status:complete
+  - future:update
+  - needs:infobox
 ---
 
 > [!note] Stub
-> This page is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This article is a [[Meta/Article Types|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of Matter, Energy, Time, and Space, also sometimes referred to as the creation quadrinity, were the first higher-Gods to be created, born from [[Encyclopedia Mysenvaria/Science/Models/Natural Subdivision|natural subdivision]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. The creation quadrinity are among the most powerful Gods but often choose to stay out of conflict, sometimes leading to them being called negligent or uncaring. Like other Gods of similar nature the quadrinity often act together in sync and as one.
 # History
@@ -36,3 +38,6 @@ The creation quadrinity are often described differently from description-to-desc
 According to the book the most widespread versions of the quadrinity among [[Encyclopedia Mysenvaria/Biology/Species/Human|humans]] and [[Encyclopedia Mysenvaria/Biology/Species/Dwarf|dwarves]] see Matter as made of surrounding materials, Energy as a bright light, Space as a nearly-invisible being, and Time as a figure moving backwards and forwards at the same time. Among southern [[Encyclopedia Mysenvaria/Biology/Disease/Elf|elves]] the largest difference is often seeing time as a plant growing and wilting.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

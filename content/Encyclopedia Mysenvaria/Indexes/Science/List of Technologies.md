@@ -3,7 +3,7 @@ title: List of Technologies
 enableToc: true
 tags:
   - type:index
-  - topic:science:technology
+  - topic:science/technology
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]] sorted in alphabetical order.

@@ -3,7 +3,7 @@ title: Lists of Natural Features
 enableToc: true
 tags:
   - type:index
-  - topic:geography:natural
+  - topic:geography/natural
 ---
 
 This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Geography#Natural Features|natural features]]. 

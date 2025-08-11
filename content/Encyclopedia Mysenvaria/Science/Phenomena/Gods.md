@@ -2,13 +2,12 @@
 title: Gods
 enableToc: true
 tags:
-  - topic:science:phenomenon
+  - topic:science/phenomenon
   - subject:god
-  - status:touchup
+  - status:complete
+  - future:update
+  - needs:graphics
 ---
-
-> [!abstract] [[Meta/Touch-ups|Touch-up]]
-> This page needs some refined writing, could use more information in its [[Encyclopedia Mysenvaria/History/History|History]] and [[Encyclopedia Mysenvaria/Culture/Culture|Culture]] sections.
 
 Gods are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|natural personification]], like [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]] and [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. The [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] suggests that Gods result from the Unreal's inability to manage the Real. As Real interacts with Unreal to make Reality, situations arise where the Unreal must improvise laws to govern all the Real. This improvisation creates a God's core, a result of the warped laws impacting space. God's bodies are made up of the [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|entities]] which their core's physically attract. These entities are related to the God's domain.
 
@@ -39,9 +38,10 @@ While Gods manifest differently each individual God's bodily shape remains consi
 When Gods are created through natural subdivision the creator God may choose whether to completely or partially pass down sections of their domain to the new Gods. This either creates Higher- or Lesser-Gods, as defined by [[Encyclopedia Mysenvaria/Science/Models/Perennial Classification|perennial classification]]. Higher-Gods are Gods who have complete ownership of their domain, upon death these Gods' domains cease existence. Lesser-Gods are Gods who do not have complete ownership of their domain, upon death these Gods' domains are simply given back to their parent Gods.
 
 Gods' cores are highly susceptible to disruption by foreign bodies; killing a God requires lodging a foreign object into their core. This process is described across many of the same stars which describe their cores. When a God's core is disrupted the Unreal law which maintained their life is repaired, meaning without intervention that God cannot be brought back.
-# History
-
-# Cultural Importance
-
 # Also See
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *This article could use expansion on its history and cultural impact.*
