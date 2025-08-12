@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - type/index
   - topic/science/technology
+  - status/update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]] sorted in alphabetical order.
@@ -27,3 +28,6 @@ This page serves as an index of [[Encyclopedia Mysenvaria/Science/Science#Techno
 # W
 - [[Encyclopedia Mysenvaria/Science/Technologies/Weaving|Weaving]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Writing|Writing]]
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update|Update]]
+> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

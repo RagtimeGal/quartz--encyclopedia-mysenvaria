@@ -3,8 +3,9 @@ title: Godly Lineage
 enableToc: false
 tags:
   - type/index
+  - topic/history
   - subject/god
-  - history
+  - status/update
 ---
 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are natural phenomena given form and are created through a process known as [[Encyclopedia Mysenvaria/Science/Models/Natural Subdivision|natural subdivision]]. This page serves to document the natural lineage of Gods, information on this page has been derived by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] using [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|What Is and Is Not]] always serve as the first two Gods, being responsible for the creation of all other Gods.
 # Overview
@@ -1323,3 +1324,6 @@ Chlorine --> ZincChloride
  ZincChloride[Zinc Chloride]
  end
 ```
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update|Update]]
+> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

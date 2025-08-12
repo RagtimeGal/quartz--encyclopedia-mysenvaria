@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - type/index
   - topic/science/branch
+  - status/update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Scientific Branches|scientific branches]] sorted in alphabetical order.
@@ -47,3 +48,6 @@ This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Scient
 - [[Encyclopedia Mysenvaria/Science/Branches/Wizardry|Wizardry]]
 # Z
 - [[Encyclopedia Mysenvaria/Science/Branches/Zoology|Zoology]]
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update|Update]]
+> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

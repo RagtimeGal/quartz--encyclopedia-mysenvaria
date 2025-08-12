@@ -3,7 +3,9 @@ title: List of Years
 enableToc: true
 tags:
   - type/index
-  - history
+  - topic/history
+  - status/complete
+  - future/review
 ---
 This page serves as an index of the century and decade pages of the encyclopedia. 
 # [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]]
@@ -191,3 +193,6 @@ This page serves as an index of the century and decade pages of the encyclopedia
  - [[Encyclopedia Mysenvaria/Indexes/History/Decades/1470s AT|1470s AT]]
  - [[Encyclopedia Mysenvaria/Indexes/History/Decades/1480s AT|1480s AT]]
  - [[Encyclopedia Mysenvaria/Indexes/History/Decades/1490s AT|1490s AT]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Review Needed|Future Review Needed]]
+> This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

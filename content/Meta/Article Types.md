@@ -2,6 +2,7 @@
 title: Stubs
 enableToc: true
 tags:
+  - type/article
   - topic/meta/writing_guidelines
 ---
 

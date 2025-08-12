@@ -3,43 +3,13 @@ title: List of Star Systems
 enableToc: true
 tags:
   - type/index
-  - subject/:star_system
+  - subject/star_system
+  - status/update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star systems]], defined as systems of contextually related stars which normally all orbit around a singular point, sometimes around another primary star.
-
-# A
-## Apology System
-
-# C
-## Census System
-
-# D
-## Death's Star System
-
-## Dwarven Star System
-
-# E
-## Elven Star System
-
-## Ending Star System
-
-# F
-## First Crater System
-
-# L
-## Lover's Stars
-
-# M
-## Mitosis Star System
-
-# P
-## Plant Star System
-
-# R
-## Relatives Star System
-
-## Repetitive Crystal System
-
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/Lists of Stars|Lists of Stars]]
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update|Update]]
+> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
