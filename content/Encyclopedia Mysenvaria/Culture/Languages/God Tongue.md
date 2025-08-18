@@ -4,7 +4,7 @@ enableToc: true
 tags:
   - type/article
   - topic/culture/language
-  - subject/.god
+  - subject/god
   - status/incomplete
 ---
 

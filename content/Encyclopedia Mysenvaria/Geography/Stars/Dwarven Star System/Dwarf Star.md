@@ -4,7 +4,7 @@ enableToc: true
 tags:
   - type/article
   - topic/geography/astrography
-  - subject/.star/host
+  - subject/star/host
   - status/stub
 ---
 
