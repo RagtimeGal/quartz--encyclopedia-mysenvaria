@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/culture/language
   - status/empty
+type: article
+status: empty
 ---
 
 *For scientific relationships, see [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|Relationships (science)]].*

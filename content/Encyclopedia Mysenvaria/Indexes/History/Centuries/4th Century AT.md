@@ -6,6 +6,8 @@ tags:
   - topic/history/century
   - status/update
   - has/infobox
+type: index
+status: update
 ---
 
 > [!summary] 4th Century AT

@@ -7,6 +7,8 @@ tags:
   - status/complete
   - future/update
   - needs/graphics
+type: article
+status: complete
 ---
 
 *For linguistic entities, see [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Entity (linguistics)|Entity (linguistics)]].*

@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - topic/meta
   - type/index
+type: index
 ---
 
 The following page serves as an index of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|encyclopedia's]] Lore Ledgers. Lore Ledgers are [[Meta/Meta|meta]] pages, intended to be weekly overviews of the Encyclopedia's progress and update readers on the current focus.

@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/art/literature/non-fiction
   - status/stub
+type: article
+status: stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

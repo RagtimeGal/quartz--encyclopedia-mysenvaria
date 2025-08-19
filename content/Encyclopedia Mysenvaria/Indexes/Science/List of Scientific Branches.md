@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/science/branch
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Scientific Branches|scientific branches]] sorted in alphabetical order.

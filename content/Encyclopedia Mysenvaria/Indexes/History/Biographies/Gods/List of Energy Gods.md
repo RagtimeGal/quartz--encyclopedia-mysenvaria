@@ -5,6 +5,8 @@ tags:
   - type/index
   - subject/god
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] sorted alphabetically.

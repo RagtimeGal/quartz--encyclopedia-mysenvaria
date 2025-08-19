@@ -6,6 +6,8 @@ tags:
   - topic/geography/astrography
   - subject/star
   - status/empty
+type: article
+status: empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

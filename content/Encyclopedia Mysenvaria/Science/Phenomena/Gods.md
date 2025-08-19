@@ -8,6 +8,8 @@ tags:
   - status/complete
   - future/update
   - needs/graphics
+type: article
+status: complete
 ---
 
 Gods are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|natural personification]], like [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]] and [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. The [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] suggests that Gods result from the Unreal's inability to manage the Real. As Real interacts with Unreal to make Reality, situations arise where the Unreal must improvise laws to govern all the Real. This improvisation creates a God's core, a result of the warped laws impacting space. God's bodies are made up of the [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|entities]] which their core's physically attract. These entities are related to the God's domain.

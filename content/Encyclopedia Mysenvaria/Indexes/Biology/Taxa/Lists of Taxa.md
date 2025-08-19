@@ -6,6 +6,8 @@ tags:
   - topic/biology/animal
   - topic/biology/plant
   - status/update
+type: index
+status: update
 ---
 
 This page serves as a list of indexes regarding [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxa]] defined by [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|tri-criterial classification]] and [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|evolutionary classification]].

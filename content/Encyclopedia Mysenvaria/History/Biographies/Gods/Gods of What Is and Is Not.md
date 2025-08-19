@@ -7,6 +7,8 @@ tags:
   - subject/god/higher-god
   - status/incomplete
   - needs/infobox
+type: article
+status: incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

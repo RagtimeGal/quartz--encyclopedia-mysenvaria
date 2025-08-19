@@ -6,6 +6,8 @@ tags:
   - topic/history
   - status/complete
   - future/review
+type: index
+status: complete
 ---
 This page serves as an index of the century and decade pages of the encyclopedia. 
 # [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]]

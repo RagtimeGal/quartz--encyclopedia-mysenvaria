@@ -6,6 +6,8 @@ tags:
   - topic/biology/animal
   - topic/biology/plant
   - status/update
+type: index
+status: update
 ---
 
 This page serves as a list of taxa classified as "families". Families are any taxon within [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|Evolutionary Classification]] which have species as their immediate successor.

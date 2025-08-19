@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/history/post-war_era
   - status/empty
+type: article
+status: empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

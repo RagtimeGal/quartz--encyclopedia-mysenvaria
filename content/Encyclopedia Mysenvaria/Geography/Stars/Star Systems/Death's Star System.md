@@ -6,6 +6,8 @@ tags:
   - topic/geography/astrography
   - subject/star_system
   - status/stub
+type: article
+status: stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

@@ -6,6 +6,8 @@ tags:
   - topic/culture/language
   - subject/god
   - status/incomplete
+type: article
+status: incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

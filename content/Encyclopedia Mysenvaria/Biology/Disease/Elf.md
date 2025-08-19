@@ -6,6 +6,8 @@ tags:
   - topic/biology/disease
   - status/empty
   - needs/infobox
+type: article
+status: empty
 ---
 
 # History

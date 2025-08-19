@@ -7,6 +7,8 @@ tags:
   - status/incomplete
   - future/update
   - has/image
+type: article
+status: incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

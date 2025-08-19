@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - topic/meta
   - type/ledger
+type: ledger
 ---
 
 > [!summary] Lore Ledger #4

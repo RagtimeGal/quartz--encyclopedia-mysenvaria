@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/culture/language
   - status/empty
+type: article
+status: empty
 ---
 
 *For scientific entities, see [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|Entity (science)]].*

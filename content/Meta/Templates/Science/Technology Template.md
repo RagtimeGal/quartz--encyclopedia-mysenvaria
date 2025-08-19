@@ -5,6 +5,7 @@ tags:
   - topic/science/technology
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

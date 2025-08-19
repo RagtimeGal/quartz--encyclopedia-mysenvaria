@@ -4,6 +4,8 @@ enableToc: true
 tags:
   - type/index
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of index pages across the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]], sorted by topic and alphabetical order.

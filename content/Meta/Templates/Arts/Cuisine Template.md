@@ -5,6 +5,7 @@ tags:
   - topic/art/cuisine
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

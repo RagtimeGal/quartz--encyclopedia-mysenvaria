@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/science/phenomenon
   - status/incomplete
+type: article
+status: incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

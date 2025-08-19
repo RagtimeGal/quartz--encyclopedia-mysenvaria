@@ -5,6 +5,7 @@ tags:
   - topic/science/phenomenon
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

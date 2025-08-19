@@ -7,6 +7,8 @@ tags:
   - subject/star_system
   - subject/god/higher-god
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] written by higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] sorted in alphabetical order.

@@ -5,6 +5,7 @@ tags:
   - topic/art/sport
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

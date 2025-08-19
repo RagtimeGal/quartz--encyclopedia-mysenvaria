@@ -6,6 +6,7 @@ tags:
   - type/index
   - type/template
 draft: true
+type: index
 ---
 
 > [!note] Stub

@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/biology/animal
   - status/update
+type: index
+status: update
 ---
 
 A list of taxa from [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|Evolutionary Classification]] sorted by hierarchal order.

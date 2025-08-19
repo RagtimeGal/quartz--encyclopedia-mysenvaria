@@ -8,6 +8,8 @@ tags:
   - future/update
   - has/image
   - has/video
+type: article
+status: complete
 ---
 
 Atmospheric circulation is a [[Encyclopedia Mysenvaria/Science/Science#Models|scientific model]] which describes how air in the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] moves from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] or [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]] and vice versa. Understanding atmospheric circulation is vital to research into weather and climate and is the primary focus of [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorological]] studies.

@@ -7,6 +7,8 @@ tags:
   - status/complete
   - future/update
   - needs/graphics
+type: article
+status: complete
 ---
 
 Climate is the long-term [[Encyclopedia Mysenvaria/Science/Phenomena/Weather|weather]] patterns for a region of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], determined through various [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorological]] variables like precipitation, temperatures, wind speeds, and humidity.

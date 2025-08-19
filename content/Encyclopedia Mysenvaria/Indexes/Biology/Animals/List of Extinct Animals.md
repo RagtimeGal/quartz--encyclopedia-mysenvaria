@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/biology/animal
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of extinct [[Encyclopedia Mysenvaria/Biology/Taxa/Animal|animals]].

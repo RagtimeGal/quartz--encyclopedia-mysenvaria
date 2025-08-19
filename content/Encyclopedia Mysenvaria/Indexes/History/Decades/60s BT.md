@@ -6,6 +6,8 @@ tags:
   - topic/history/decade
   - status/update
   - has/infobox
+type: index
+status: update
 ---
 
 > [!summary] 60s BT

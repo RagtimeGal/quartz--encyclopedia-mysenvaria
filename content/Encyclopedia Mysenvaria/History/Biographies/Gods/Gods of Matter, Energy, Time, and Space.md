@@ -8,6 +8,8 @@ tags:
   - status/complete
   - future/update
   - needs/infobox
+type: article
+status: complete
 ---
 
 > [!note] Stub

@@ -6,6 +6,7 @@ tags:
   - type/template
   - subject/star_system
 draft: true
+type: template
 ---
 
 > [!note] Stub

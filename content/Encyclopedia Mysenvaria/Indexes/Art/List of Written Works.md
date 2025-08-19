@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/art/literature
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Arts/Art#Literature|written works]] and is organized by fiction and non-fiction works in alphabetical order.

@@ -5,6 +5,7 @@ tags:
   - topic/art/music
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

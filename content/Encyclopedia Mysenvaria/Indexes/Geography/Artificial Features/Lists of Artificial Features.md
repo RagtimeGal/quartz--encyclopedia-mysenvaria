@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/geography/artificial
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Geography#Artificial Features|artificial features]]. 

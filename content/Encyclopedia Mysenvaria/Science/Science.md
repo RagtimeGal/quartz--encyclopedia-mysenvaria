@@ -6,6 +6,8 @@ tags:
   - topic/science
   - status/complete
   - future/update
+type: overview
+status: complete
 ---
 
 Science is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Science is a discipline that collects and organizes knowledge about the natural world through reproducible tests and predictions. Collected scientific knowledge is stored throughout the vast majority of the Encyclopedia, instead this section serves primarily to store knowledge regarding the practices, predictions, and applications of science.

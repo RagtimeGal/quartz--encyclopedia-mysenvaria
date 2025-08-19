@@ -8,6 +8,8 @@ tags:
   - subject/god/elemental_god
   - status/empty
   - needs/infobox
+type: article
+status: empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

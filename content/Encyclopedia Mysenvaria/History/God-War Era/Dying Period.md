@@ -7,6 +7,8 @@ tags:
   - status/touchup
   - future/review
   - has/image
+type: article
+status: touchup
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Touch-up|Touch-up Article]]

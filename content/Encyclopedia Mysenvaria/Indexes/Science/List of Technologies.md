@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/science/technology
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]] sorted in alphabetical order.

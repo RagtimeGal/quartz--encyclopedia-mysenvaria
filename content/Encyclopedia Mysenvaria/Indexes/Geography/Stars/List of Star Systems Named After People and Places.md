@@ -6,6 +6,8 @@ tags:
   - subject/star
   - subject/star_system
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] named after people, places, and other miscellaneous things. Stars on this page are categorized by what they are named after.

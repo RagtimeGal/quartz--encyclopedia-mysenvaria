@@ -5,6 +5,7 @@ tags:
   - topic/culture/occupation
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

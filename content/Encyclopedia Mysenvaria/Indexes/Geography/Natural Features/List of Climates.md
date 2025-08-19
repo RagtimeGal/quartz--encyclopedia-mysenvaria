@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/geography/natural
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of climates sorted in alphabetical order.

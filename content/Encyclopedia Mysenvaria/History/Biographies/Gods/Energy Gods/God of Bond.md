@@ -8,6 +8,8 @@ tags:
   - subject/god/energy_god
   - status/stub
   - needs/infobox
+type: article
+status: stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

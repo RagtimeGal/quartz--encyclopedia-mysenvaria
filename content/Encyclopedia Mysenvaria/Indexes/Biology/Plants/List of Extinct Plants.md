@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/biology/plant
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of extinct [[Encyclopedia Mysenvaria/Biology/Taxa/Plant|plants]].

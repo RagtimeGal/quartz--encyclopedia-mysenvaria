@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/culture/occupation
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of [[Encyclopedia Mysenvaria/Culture/Culture#Occupations & Crafts|occupations]] from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] organized in alphabetical order.

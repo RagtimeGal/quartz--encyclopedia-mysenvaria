@@ -5,6 +5,7 @@ tags:
   - topic/biology/disease
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

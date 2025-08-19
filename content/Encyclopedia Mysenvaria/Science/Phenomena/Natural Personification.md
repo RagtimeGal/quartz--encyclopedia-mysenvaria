@@ -6,6 +6,8 @@ tags:
   - topic/science/phenomenon
   - status/stub
   - needs/graphics
+type: article
+status: stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

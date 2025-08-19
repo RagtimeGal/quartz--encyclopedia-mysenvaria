@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/history/modern_era
   - status/empty
+type: article
+status: empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

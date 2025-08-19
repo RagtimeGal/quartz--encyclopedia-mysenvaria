@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/history/god-war_era
   - status/touchup
+type: article
+status: touchup
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Touch-up|Touch-up Article]]

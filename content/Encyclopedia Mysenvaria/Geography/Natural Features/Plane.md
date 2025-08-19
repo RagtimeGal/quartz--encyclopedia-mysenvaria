@@ -6,6 +6,8 @@ tags:
   - topic/geography/natural
   - status/incomplete
   - has/image
+type: article
+status: incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

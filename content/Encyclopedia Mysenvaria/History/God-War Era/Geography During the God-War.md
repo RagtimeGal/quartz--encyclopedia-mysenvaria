@@ -6,6 +6,8 @@ tags:
   - topic/history/god-war_era
   - topic/geography
   - status/incomplete
+type: article
+status: incomplete
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

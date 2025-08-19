@@ -7,6 +7,8 @@ tags:
   - status/complete
   - future/update
   - needs/graphics
+type: article
+status: complete
 ---
 
 *For linguistic relationships, see [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Relationships (linguistics)|Relationships (linguistics)]].*

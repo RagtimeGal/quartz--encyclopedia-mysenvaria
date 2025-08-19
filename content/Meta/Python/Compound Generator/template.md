@@ -7,6 +7,7 @@ tags:
   - subject/god/compound_god
   - status/empty
 draft: true
+status: empty
 ---
 
 > [!note] Stub

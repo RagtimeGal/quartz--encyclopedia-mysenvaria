@@ -7,6 +7,8 @@ tags:
   - status/complete
   - future/update
   - needs/image
+type: article
+status: complete
 ---
 
 The Edge is an abstract geographic feature which represents the furthest habitable regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The edge serves as an important reference point for [[Encyclopedia Mysenvaria/Science/Science|scientific]] research thanks to its role in a number of natural phenomena.

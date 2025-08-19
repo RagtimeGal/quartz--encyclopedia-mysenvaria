@@ -5,6 +5,7 @@ tags:
   - topic/history/biography
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

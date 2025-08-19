@@ -5,6 +5,8 @@ tags:
   - type/index
   - topic/geography/abstract
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of lists for [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract features]]. 

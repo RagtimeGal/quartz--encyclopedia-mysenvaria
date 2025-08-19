@@ -7,6 +7,8 @@ tags:
   - status/complete
   - future/review
   - has/image
+type: article
+status: complete
 ---
 
 Span and Reach are coordinate directions used in a multitude of [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branches]] and [[Encyclopedia Mysenvaria/Culture/Culture#Occupations & Crafts|occupations]]. Unlike the three-dimensional spherical system, [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|AAE]], used by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]], span and reach are two-dimensional, tailored to the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] flat landscape centered around the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] and using the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|cardinal directions]].[^figure1]

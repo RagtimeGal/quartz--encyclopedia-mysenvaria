@@ -8,6 +8,8 @@ tags:
   - subject/god/compound_god
   - status/empty
   - has/infobox
+type: article
+status:
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

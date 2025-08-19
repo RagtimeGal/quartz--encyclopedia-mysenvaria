@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/art/game
   - status/stub
+type: article
+status: stub
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

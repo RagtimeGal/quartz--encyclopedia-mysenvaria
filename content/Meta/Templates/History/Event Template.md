@@ -8,6 +8,7 @@ tags:
   - topic/history/modern_era
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

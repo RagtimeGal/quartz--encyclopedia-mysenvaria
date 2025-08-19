@@ -6,6 +6,8 @@ tags:
   - subject/star
   - subject/star_system
   - status/update
+type: table
+status: update
 ---
 
 | Star Name                                                                                                                                                                                              | Publish Date | Description |

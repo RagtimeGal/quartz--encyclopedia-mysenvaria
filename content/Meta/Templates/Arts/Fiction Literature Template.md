@@ -5,6 +5,7 @@ tags:
   - topic/art/literature/fiction
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

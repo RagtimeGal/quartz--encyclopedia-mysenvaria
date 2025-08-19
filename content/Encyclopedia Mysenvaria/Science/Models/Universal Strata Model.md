@@ -7,6 +7,8 @@ tags:
   - status/complete
   - future/update
   - has/image
+type: article
+status: complete
 ---
 
 The Universal Strata Model, or USM, is a scientific model of the universe which attempts to explain its organizational composition[^graphic]. The USM is useful to fields like [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenesis]], [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]], and [[Encyclopedia Mysenvaria/Science/Branches/Philosophy|philosophy]]. The USM is particularly useful to theogenists who can use it to predict the [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|personification]] of certain parts of nature.

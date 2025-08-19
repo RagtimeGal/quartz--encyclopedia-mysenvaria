@@ -6,6 +6,8 @@ tags:
   - topic/culture/belief
   - subject/god
   - status/empty
+type: article
+status: empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

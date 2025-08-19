@@ -5,6 +5,8 @@ tags:
   - type/index
   - subject/god/lesser-god
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of lesser-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], defined as Gods whose elements of nature would continue to exist upon death.

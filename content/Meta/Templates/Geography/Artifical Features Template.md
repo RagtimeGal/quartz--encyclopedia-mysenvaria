@@ -5,6 +5,7 @@ tags:
   - topic/geography/artificial
   - type/template
 draft: true
+type: template
 ---
 
 > [!note] Stub

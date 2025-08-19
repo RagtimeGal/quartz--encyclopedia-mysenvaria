@@ -5,6 +5,8 @@ tags:
   - type/index
   - subject/god/elemental_god
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of reaction [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]].

@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/meta
   - status/complete
+type: article
+status: complete
 ---
 
 The [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is a comprehensive collection of articles written by numerous scholars. Published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]], the Encyclopedia Mysenvaria is only possible thanks to the help of countless scholars from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. In an attempt to diversify our cast of editors and writers we work diligently to collaborate with as many scholars from as many [[Encyclopedia Mysenvaria/Indexes/Science/List of Scientific Branches|studies]] as possible.

@@ -5,6 +5,8 @@ tags:
   - type/index
   - subject/god/compound_god
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of Compound [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], defined as the first generation of Gods created by the [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|Elemental Gods]].

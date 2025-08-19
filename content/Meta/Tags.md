@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - type/article
   - topic/meta/writing_guidelines
+type: article
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

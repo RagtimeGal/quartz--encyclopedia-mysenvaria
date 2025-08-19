@@ -6,6 +6,8 @@ tags:
   - topic/biology
   - status/complete
   - future/update
+type: overview
+status: complete
 ---
 
 Biology is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Biology is a diverse [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branch]] which focuses on the research of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. Biology is an umbrella branch, containing other studies like [[Encyclopedia Mysenvaria/Science/Branches/Biogeography|biogeography]], [[Encyclopedia Mysenvaria/Science/Branches/Bioastronomy|bioastronomy]], [[Encyclopedia Mysenvaria/Science/Branches/Genetics|genetics]], [[Encyclopedia Mysenvaria/Science/Branches/Sociobiology|sociobiology]], and more.

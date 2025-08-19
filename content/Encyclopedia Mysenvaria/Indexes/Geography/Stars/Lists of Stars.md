@@ -6,6 +6,8 @@ tags:
   - subject/star
   - subject/star_system
   - status/update
+type: index
+status: update
 ---
 
 This page serves as an index of lists for [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]. 

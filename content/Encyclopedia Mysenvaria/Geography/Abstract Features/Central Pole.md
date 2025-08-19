@@ -8,6 +8,8 @@ tags:
   - future/update
   - has/image
   - has/video
+type: article
+status: complete
 ---
 
 The central pole, usually referred to as just the pole, is an abstract geographic feature serving as the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]][^figure1]. The central pole is not necessarily an important landmark on its own but does serve as a reference point due to its role in a number of natural phenomena.

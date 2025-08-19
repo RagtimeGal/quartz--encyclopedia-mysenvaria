@@ -5,6 +5,8 @@ tags:
   - type/article
   - topic/art/literature/non-fiction
   - status/empty
+type: article
+status: empty
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]
