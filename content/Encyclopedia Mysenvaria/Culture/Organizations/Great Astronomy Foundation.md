@@ -2,9 +2,7 @@
 title: Great Astronomy Foundation
 enableToc: true
 tags:
-  - type/article
   - topic/culture/organization
-  - status/empty
 type: article
 status: empty
 ---

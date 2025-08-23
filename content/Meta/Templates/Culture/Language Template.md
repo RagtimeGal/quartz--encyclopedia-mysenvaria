@@ -3,7 +3,6 @@ title: Language Template
 enableToc: true
 tags:
   - topic/culture/language
-  - type/template
 draft: true
 type: template
 ---

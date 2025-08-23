@@ -2,13 +2,12 @@
 title: Atmospheric Cells
 enableToc: true
 tags:
-  - type/article
   - topic/science/phenomenon
-  - status/complete
-  - future/update
-  - has/image
 type: article
 status: complete
+future: update
+has:
+  - image
 ---
 
 Atmospheric cells are complex and chaotic natural phenomena that occur as a result of many other factors across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Atmospheric cells are critical to the theory of [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]] and are responsible for the proper movement of air through the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]]. Cells develop because of interactions between the heating and [[Encyclopedia Mysenvaria/Science/Phenomena/Gravity|gravitational pull]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and the friction caused by the Plane's rotation.

@@ -2,9 +2,7 @@
 title: Draconic Potluck
 enableToc: true
 tags:
-  - type/article
   - topic/art/cuisine
-  - status/empty
 type: article
 status: empty
 ---

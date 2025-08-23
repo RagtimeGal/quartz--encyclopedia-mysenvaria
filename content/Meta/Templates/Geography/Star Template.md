@@ -4,7 +4,6 @@ enableToc: true
 tags:
   - topic/geography/astrography
   - subject/star
-  - type/template
 draft: true
 type: template
 ---

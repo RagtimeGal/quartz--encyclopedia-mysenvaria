@@ -2,9 +2,7 @@
 title: Material
 enableToc: true
 tags:
-  - type/article
   - topic/science/model
-  - status/incomplete
 type: article
 status: incomplete
 ---

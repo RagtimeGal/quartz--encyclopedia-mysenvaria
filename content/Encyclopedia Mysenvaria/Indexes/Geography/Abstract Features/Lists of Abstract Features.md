@@ -2,9 +2,7 @@
 title: Lists of Abstract Features
 enableToc: true
 tags:
-  - type/index
   - topic/geography/abstract
-  - status/update
 type: index
 status: update
 ---

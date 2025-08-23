@@ -3,7 +3,6 @@ title: Sports Template
 enableToc: true
 tags:
   - topic/art/sport
-  - type/template
 draft: true
 type: template
 ---

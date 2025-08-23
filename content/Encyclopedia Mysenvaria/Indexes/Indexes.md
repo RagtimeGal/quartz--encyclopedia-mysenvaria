@@ -1,9 +1,6 @@
 ---
 title: List of Lists
 enableToc: true
-tags:
-  - type/index
-  - status/update
 type: index
 status: update
 ---

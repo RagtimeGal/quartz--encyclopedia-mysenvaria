@@ -2,13 +2,12 @@
 title: Oceanic Circulation
 enableToc: true
 tags:
-  - type/article
   - topic/science/phenomenon
-  - status/complete
-  - future/update
-  - has/image
 type: article
 status: complete
+future: update
+has:
+  - image
 ---
 
 Oceanic circulation is the physical process by which the water of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] oceans circulates. Oceanic circulation across the Plane is driven by [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]], ocean density, and temperature. Oceanic circulation plays a particularly key role in the Plane's [[Encyclopedia Mysenvaria/Science/Phenomena/Weather|weather]], maintaining the distribution of the Plane's heat.

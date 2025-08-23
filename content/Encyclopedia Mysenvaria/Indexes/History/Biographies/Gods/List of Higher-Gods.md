@@ -2,9 +2,7 @@
 title: List of Higher-Gods
 enableToc: true
 tags:
-  - type/index
   - subject/god/higher-god
-  - status/update
 type: index
 status: update
 ---

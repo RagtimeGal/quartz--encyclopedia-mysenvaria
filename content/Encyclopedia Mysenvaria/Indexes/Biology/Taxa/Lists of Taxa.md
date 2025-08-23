@@ -2,10 +2,8 @@
 title: List of Taxa
 enableToc: true
 tags:
-  - type/index
   - topic/biology/animal
   - topic/biology/plant
-  - status/update
 type: index
 status: update
 ---

@@ -2,9 +2,7 @@
 title: Athens
 enableToc: true
 tags:
-  - type/article
   - topic/geography/artificial
-  - status/empty
 type: article
 status: empty
 ---

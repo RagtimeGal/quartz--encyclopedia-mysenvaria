@@ -2,13 +2,12 @@
 title: Gods of Material States
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/higher-god
-  - status/stub
-  - needs/infobox
 type: article
 status: stub
+needs:
+  - infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

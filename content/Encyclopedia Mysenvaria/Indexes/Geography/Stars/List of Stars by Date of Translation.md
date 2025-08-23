@@ -2,10 +2,8 @@
 title: List of Stars bt Date of Translation
 enableToc: true
 tags:
-  - type/index
   - subject/star
   - subject/star_system
-  - status/update
 type: index
 status: update
 ---

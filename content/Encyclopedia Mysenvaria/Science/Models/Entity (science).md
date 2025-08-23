@@ -2,13 +2,12 @@
 title: Entity (Science)
 enableToc: true
 tags:
-  - type/article
   - topic/science/model
-  - status/complete
-  - future/update
-  - needs/graphics
 type: article
 status: complete
+future: update
+needs:
+  - graphics
 ---
 
 *For linguistic entities, see [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Entity (linguistics)|Entity (linguistics)]].*

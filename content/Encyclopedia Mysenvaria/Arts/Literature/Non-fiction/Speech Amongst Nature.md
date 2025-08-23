@@ -2,9 +2,7 @@
 title: Speech Amongst Nature
 enableToc: true
 tags:
-  - type/article
   - topic/art/literature/non-fiction
-  - status/empty
 type: article
 status: empty
 ---

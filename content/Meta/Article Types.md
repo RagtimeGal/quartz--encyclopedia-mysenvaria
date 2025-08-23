@@ -2,7 +2,6 @@
 title: Stubs
 enableToc: true
 tags:
-  - type/article
   - topic/meta/writing_guidelines
 type: article
 ---
@@ -22,7 +21,7 @@ type: article
 
 ## Ledger
 
-# Article Status'
+# Article Status
 ## Empty
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

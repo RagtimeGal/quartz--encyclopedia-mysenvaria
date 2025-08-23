@@ -2,14 +2,13 @@
 title: Gods of Kinetic & Potential Energy
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/higher-god
   - subject/god/energy_god
-  - status/stub
-  - needs/infobox
 type: article
 status: stub
+needs:
+  - infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]

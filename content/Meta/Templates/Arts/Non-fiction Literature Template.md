@@ -3,7 +3,6 @@ title: Non-Fiction Literature Template
 enableToc: true
 tags:
   - topic/art/literature/non-fiction
-  - type/template
 draft: true
 type: template
 ---

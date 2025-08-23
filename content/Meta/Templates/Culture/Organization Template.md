@@ -3,7 +3,6 @@ title: Organization Template
 enableToc: true
 tags:
   - topic/culture/organization
-  - type/template
 draft: true
 type: template
 ---

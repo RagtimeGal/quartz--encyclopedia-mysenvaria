@@ -2,9 +2,7 @@
 title: Glaciers
 enableToc: true
 tags:
-  - type/article
   - topic/science/phenomenon
-  - status/empty
 type: article
 status: empty
 ---

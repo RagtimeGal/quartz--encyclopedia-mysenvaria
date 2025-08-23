@@ -2,9 +2,7 @@
 title: Altitude, Azimuth, & Elevation
 enableToc: true
 tags:
-  - type/article
   - topic/geography/abstract
-  - status/empty
 type: article
 status: empty
 ---

@@ -2,12 +2,10 @@
 title: History
 enableToc: true
 tags:
-  - type/overview
   - topic/history
-  - status/complete
-  - future/update
 type: overview
 status: complete
+future: update
 ---
 
 History is one of the six primary tropics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. History is a record of events, figures, and forces from the past which have shaped the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. By studying history [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] can seek to understand how the past influences the present and will continue to influence the future. History is vital to all other topics of the Encyclopedia, offering 

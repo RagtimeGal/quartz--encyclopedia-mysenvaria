@@ -3,7 +3,6 @@ title: Artificial Features Template
 enableToc: true
 tags:
   - topic/geography/artificial
-  - type/template
 draft: true
 type: template
 ---

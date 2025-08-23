@@ -2,9 +2,7 @@
 title: The Phonlogical Directory of Gods Tongues
 enableToc: true
 tags:
-  - type/article
   - topic/art/literature/non-fiction
-  - status/empty
 type: article
 status: empty
 ---

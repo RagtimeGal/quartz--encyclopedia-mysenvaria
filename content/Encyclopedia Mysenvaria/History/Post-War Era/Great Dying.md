@@ -2,9 +2,7 @@
 title: Great Dying
 enableToc: true
 tags:
-  - type/article
   - topic/history/post-war_era
-  - status/empty
 type: article
 status: empty
 ---

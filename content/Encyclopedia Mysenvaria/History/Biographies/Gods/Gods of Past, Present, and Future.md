@@ -2,14 +2,13 @@
 title: Gods of Past, Present, and Future
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/lesser-god
-  - status/complete
-  - future/update
-  - needs/infobox
 type: article
 status: complete
+future: update
+needs:
+  - infobox
 ---
 
 The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of Past, Present, and Future, sometimes referred to as the Time Trinity, are Lesser Gods created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Time]] as a way to subdivide their domain. The three operate very similarly and often appear together rather than apart.

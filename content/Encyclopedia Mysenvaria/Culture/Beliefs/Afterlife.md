@@ -2,10 +2,8 @@
 title: God's Afterlife
 enableToc: true
 tags:
-  - type/article
   - topic/culture/belief
   - subject/god
-  - status/empty
 type: article
 status: empty
 ---

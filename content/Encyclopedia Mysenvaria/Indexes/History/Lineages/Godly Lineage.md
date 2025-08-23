@@ -2,10 +2,8 @@
 title: Godly Lineage
 enableToc: false
 tags:
-  - type/index
   - topic/history
   - subject/god
-  - status/update
 type: index
 status: update
 ---

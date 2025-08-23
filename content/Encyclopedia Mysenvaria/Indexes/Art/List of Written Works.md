@@ -2,9 +2,7 @@
 title: List of Written Works
 enableToc: true
 tags:
-  - type/index
   - topic/art/literature
-  - status/update
 type: index
 status: update
 ---

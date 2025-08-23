@@ -2,9 +2,7 @@
 title: Lists of Plants
 enableToc: true
 tags:
-  - type/index
   - topic/biology/plant
-  - status/update
 type: index
 status: update
 ---

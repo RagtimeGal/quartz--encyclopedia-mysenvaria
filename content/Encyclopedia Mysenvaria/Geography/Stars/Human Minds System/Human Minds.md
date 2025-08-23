@@ -2,10 +2,8 @@
 title: Human Minds
 enableToc: true
 tags:
-  - type/article
   - topic/geography/astrography
   - subject/star/host
-  - status/stub
 type: article
 status: stub
 ---

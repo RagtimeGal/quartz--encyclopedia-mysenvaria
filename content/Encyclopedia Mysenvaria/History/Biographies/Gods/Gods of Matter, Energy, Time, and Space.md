@@ -2,14 +2,13 @@
 title: Gods of Matter, Energy, Time, and Space
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/higher-god
-  - status/complete
-  - future/update
-  - needs/infobox
 type: article
 status: complete
+future: update
+needs:
+  - infobox
 ---
 
 > [!note] Stub

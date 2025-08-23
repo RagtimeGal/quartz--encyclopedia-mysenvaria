@@ -2,12 +2,10 @@
 title: Culture
 enableToc: true
 tags:
-  - type/overview
   - topic/culture
-  - status/complete
-  - future/update
 type: overview
 status: complete
+future: update
 ---
 
 Culture is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Culture encompasses the beliefs, traditions, systems, and societies of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], exploring how populations organize, the values they hold, how they interact, the languages they speak, and more. The study of culture has significant overlap with the study of [[Encyclopedia Mysenvaria/History/History|history]], offering insight into how societies have evolved over time.

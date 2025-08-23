@@ -2,9 +2,7 @@
 title: Eastern Tropical River
 enableToc: true
 tags:
-  - type/article
   - topic/geography/natural
-  - status/empty
 type: article
 status: empty
 ---

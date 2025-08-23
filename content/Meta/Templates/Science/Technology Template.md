@@ -3,7 +3,6 @@ title: Technology Template
 enableToc: true
 tags:
   - topic/science/technology
-  - type/template
 draft: true
 type: template
 ---

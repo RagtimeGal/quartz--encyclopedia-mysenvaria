@@ -2,9 +2,7 @@
 title: List of Scientific Branches
 enableToc: true
 tags:
-  - type/index
   - topic/science/branch
-  - status/update
 type: index
 status: update
 ---

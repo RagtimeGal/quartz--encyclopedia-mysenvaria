@@ -2,12 +2,11 @@
 title: 70s BT
 enableToc: true
 tags:
-  - type/index
   - topic/history/decade
-  - status/update
-  - has/infobox
 type: index
 status: update
+has:
+  - infobox
 ---
 
 > [!summary] 70s BT

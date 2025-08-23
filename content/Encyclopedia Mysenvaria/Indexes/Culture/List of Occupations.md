@@ -2,9 +2,7 @@
 title: List of Occupations
 enableToc: true
 tags:
-  - type/index
   - topic/culture/occupation
-  - status/update
 type: index
 status: update
 ---

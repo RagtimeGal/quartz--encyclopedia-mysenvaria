@@ -2,10 +2,8 @@
 title: List of Stars Sorted Alphabetically
 enableToc: true
 tags:
-  - type/index
   - subject/star
   - subject/star_system
-  - status/update
 type: index
 status: update
 ---

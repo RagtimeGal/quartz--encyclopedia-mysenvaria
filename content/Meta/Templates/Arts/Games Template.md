@@ -3,7 +3,6 @@ title: Games Template
 enableToc: true
 tags:
   - topic/art/game
-  - type/template
 draft: true
 type: template
 ---

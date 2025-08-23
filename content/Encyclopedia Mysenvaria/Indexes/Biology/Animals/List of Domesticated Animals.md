@@ -2,9 +2,7 @@
 title: List of Domesticated Animals
 enableToc: true
 tags:
-  - type/index
   - topic/biology/animal
-  - status/update
 type: index
 status: update
 ---

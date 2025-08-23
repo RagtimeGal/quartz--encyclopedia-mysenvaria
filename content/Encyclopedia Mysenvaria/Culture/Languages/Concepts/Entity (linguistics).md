@@ -2,9 +2,7 @@
 title: Entity (linguistics)
 enableToc: true
 tags:
-  - type/article
   - topic/culture/language
-  - status/empty
 type: article
 status: empty
 ---

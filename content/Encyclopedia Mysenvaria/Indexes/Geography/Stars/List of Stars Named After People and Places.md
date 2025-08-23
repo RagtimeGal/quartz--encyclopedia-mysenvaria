@@ -2,10 +2,8 @@
 title: List of Stars Named After People and Places
 enableToc: true
 tags:
-  - type/index
   - subject/star
   - subject/star_system
-  - status/update
 type: index
 status: update
 ---

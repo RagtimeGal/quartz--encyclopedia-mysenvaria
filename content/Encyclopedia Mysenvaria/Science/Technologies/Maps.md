@@ -2,9 +2,7 @@
 title: Maps
 enableToc: true
 tags:
-  - type/article
   - topic/science/technology
-  - status/empty
 type: article
 status: empty
 ---

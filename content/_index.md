@@ -2,9 +2,7 @@
 title: Home
 enableToc: true
 tags:
-  - type/article
   - topic/meta
-  - status/complete
 type: article
 status: complete
 ---

@@ -3,7 +3,6 @@ title: "Lore Ledger 2.25"
 enableToc: true
 tags:
   - topic/meta
-  - type/ledger
 type: ledger
 ---
 

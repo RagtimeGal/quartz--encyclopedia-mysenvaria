@@ -2,10 +2,8 @@
 title: Elder's Star
 enableToc: true
 tags:
-  - type/article
   - topic/geography/astrography
   - subject/star
-  - status/stub
 type: article
 status: stub
 ---

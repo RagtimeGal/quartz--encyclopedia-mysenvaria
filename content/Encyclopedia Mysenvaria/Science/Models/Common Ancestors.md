@@ -2,9 +2,7 @@
 title: Common Ancestors
 enableToc: true
 tags:
-  - type/article
   - topic/science/model
-  - status/empty
 type: article
 status: empty
 ---

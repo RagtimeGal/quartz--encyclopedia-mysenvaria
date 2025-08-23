@@ -3,7 +3,6 @@ title: Scientific Branch Template
 enableToc: true
 tags:
   - topic/science/branch
-  - type/template
 draft: true
 type: template
 ---

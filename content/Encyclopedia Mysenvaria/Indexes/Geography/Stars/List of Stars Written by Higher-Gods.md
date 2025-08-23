@@ -2,11 +2,9 @@
 title: List of Stars Written by Higher-Gods
 enableToc: true
 tags:
-  - type/index
   - subject/star
   - subject/star_system
   - subject/god/higher-god
-  - status/update
 type: index
 status: update
 ---

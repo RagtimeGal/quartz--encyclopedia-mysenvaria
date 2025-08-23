@@ -2,9 +2,7 @@
 title: Doctor
 enableToc: true
 tags:
-  - type/article
   - topic/culture/occupation
-  - status/empty
 type: article
 status: empty
 ---

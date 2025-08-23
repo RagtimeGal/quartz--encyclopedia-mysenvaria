@@ -2,9 +2,7 @@
 title: Evolutionary Classification In The Modern World
 enableToc: true
 tags:
-  - type/article
   - topic/art/literature/non-fiction
-  - status/empty
 type: article
 status: empty
 ---

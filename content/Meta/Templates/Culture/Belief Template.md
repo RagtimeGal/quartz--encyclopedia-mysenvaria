@@ -3,7 +3,6 @@ title: Belief Template
 enableToc: true
 tags:
   - topic/culture/belief
-  - type/template
 draft: true
 type: template
 ---

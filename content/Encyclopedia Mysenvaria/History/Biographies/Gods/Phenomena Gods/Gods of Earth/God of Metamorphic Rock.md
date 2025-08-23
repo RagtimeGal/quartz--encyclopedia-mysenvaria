@@ -2,14 +2,13 @@
 title: God of Metamorphic Rock
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/phenomena_god
-  - status/empty
-  - needs/infobox
 type: article
 status: empty
+needs:
+  - infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

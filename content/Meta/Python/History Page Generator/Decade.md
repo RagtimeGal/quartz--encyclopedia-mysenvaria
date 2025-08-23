@@ -3,8 +3,6 @@ title: {{title}}
 enableToc: true
 tags:
   - topic/history/decade
-  - type/index
-  - type/template
 draft: true
 type: index
 ---

@@ -3,7 +3,6 @@ title: "Lore Ledger 17.25"
 enableToc: true
 tags:
   - topic/meta
-  - type/ledger
 type: ledger
 ---
 
@@ -12,7 +11,7 @@ type: ledger
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 3.2025|Ledger 3.2025]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 34.2025|Ledger 34.2025]]
 
 Long time no see? I've decided to update Lore Ledgers to improve my morale. They now serve simply as weekly changelogs, instead of 'progress trackers'.
 ## Added

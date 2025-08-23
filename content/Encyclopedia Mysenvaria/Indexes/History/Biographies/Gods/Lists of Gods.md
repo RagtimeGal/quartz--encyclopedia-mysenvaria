@@ -2,9 +2,7 @@
 title: Lists of Gods
 enableToc: true
 tags:
-  - type/index
   - subject/god
-  - status/update
 type: index
 status: update
 ---

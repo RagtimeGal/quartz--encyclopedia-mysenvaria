@@ -2,9 +2,7 @@
 title: List of Climates
 enableToc: true
 tags:
-  - type/index
   - topic/geography/natural
-  - status/update
 type: index
 status: update
 ---

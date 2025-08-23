@@ -3,7 +3,6 @@ title: Natural Features Template
 enableToc: true
 tags:
   - topic/geography/natural
-  - type/template
 draft: true
 type: template
 ---

@@ -2,9 +2,7 @@
 title: Lists of Diseases
 enableToc: true
 tags:
-  - type/index
   - topic/biology/disease
-  - status/update
 type: index
 status: update
 ---

@@ -6,7 +6,6 @@ tags:
   - topic/history/post-war_era
   - topic/history/golden_age
   - topic/history/modern_era
-  - type/template
 draft: true
 type: template
 ---

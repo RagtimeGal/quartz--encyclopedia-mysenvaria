@@ -3,7 +3,6 @@ title: Star System Template
 enableToc: true
 tags:
   - topic/geography/astrography
-  - type/template
   - subject/star_system
 draft: true
 type: template

@@ -2,9 +2,7 @@
 title: List of Lesser-Gods
 enableToc: true
 tags:
-  - type/index
   - subject/god/lesser-god
-  - status/update
 type: index
 status: update
 ---

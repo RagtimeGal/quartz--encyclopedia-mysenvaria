@@ -2,9 +2,7 @@
 title: Ecology
 enableToc: true
 tags:
-  - type/article
   - topic/science/branch
-  - status/empty
 type: article
 status: empty
 ---

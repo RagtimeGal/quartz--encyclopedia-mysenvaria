@@ -2,13 +2,12 @@
 title: God of Harmony
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/higher-god
-  - status/empty
-  - needs/infobox
 type: article
 status: empty
+needs:
+  - infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

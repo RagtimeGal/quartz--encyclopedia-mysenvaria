@@ -2,9 +2,7 @@
 title: Lists of Artificial Features
 enableToc: true
 tags:
-  - type/index
   - topic/geography/artificial
-  - status/update
 type: index
 status: update
 ---

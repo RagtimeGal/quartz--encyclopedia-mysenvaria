@@ -2,12 +2,11 @@
 title: Plane
 enableToc: true
 tags:
-  - type/article
   - topic/geography/natural
-  - status/incomplete
-  - has/image
 type: article
 status: incomplete
+has:
+  - image
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

@@ -2,13 +2,12 @@
 title: Dying Period
 enableToc: true
 tags:
-  - type/article
   - topic/history/god-war_era
-  - status/touchup
-  - future/review
-  - has/image
 type: article
 status: touchup
+future: review
+has:
+  - image
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Touch-up|Touch-up Article]]

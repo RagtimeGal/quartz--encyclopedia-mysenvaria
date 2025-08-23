@@ -2,15 +2,14 @@
 title: God of Strong Acids
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/energy_god
   - subject/god/reaction_god
-  - status/empty
-  - needs/infobox
 type: article
 status: empty
+needs:
+  - infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

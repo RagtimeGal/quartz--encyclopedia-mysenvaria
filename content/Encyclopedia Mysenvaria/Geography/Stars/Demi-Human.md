@@ -2,10 +2,8 @@
 title: Demi-Human
 enableToc: true
 tags:
-  - type/article
   - topic/geography/astrography
   - subject/star
-  - status/empty
 type: article
 status: empty
 ---

@@ -2,7 +2,6 @@
 title: Contributing
 enableToc: true
 tags:
-  - type/article
   - topic/meta
 type: article
 ---

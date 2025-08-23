@@ -2,14 +2,13 @@
 title: God of Hydrogen Cyanide
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
   - subject/god/lesser-god
   - subject/god/compound_god
-  - status/empty
-  - has/infobox
 type: article
 status: empty
+has:
+  - infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

@@ -2,10 +2,8 @@
 title: List of Mobile Stars
 enableToc: true
 tags:
-  - type/index
   - subject/star
   - subject/star_system
-  - status/update
 type: index
 status: update
 ---

@@ -2,12 +2,11 @@
 title: 2nd Century BT
 enableToc: true
 tags:
-  - type/index
   - topic/history/century
-  - status/update
-  - has/infobox
 type: index
 status: update
+has:
+  - infobox
 ---
 
 > [!summary] 2nd Century BT

@@ -2,12 +2,11 @@
 title: 60s AT
 enableToc: true
 tags:
-  - type/index
   - topic/history/decade
-  - status/update
-  - has/infobox
 type: index
 status: update
+has:
+  - infobox
 ---
 
 > [!summary] 60s AT

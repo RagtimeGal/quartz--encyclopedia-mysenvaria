@@ -2,9 +2,7 @@
 title: Outer Ring
 enableToc: true
 tags:
-  - type/article
   - topic/geography/abstract
-  - status/empty
 type: article
 status: empty
 ---

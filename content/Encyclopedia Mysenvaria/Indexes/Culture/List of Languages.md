@@ -2,9 +2,7 @@
 title: List of Languages
 enableToc: true
 tags:
-  - type/index
   - topic/culture/language
-  - status/update
 type: index
 status: update
 ---

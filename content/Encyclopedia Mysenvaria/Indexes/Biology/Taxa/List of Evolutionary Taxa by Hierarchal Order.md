@@ -2,9 +2,7 @@
 title: List of Evolutionary Taxa by Hierarchal Order
 enableToc: true
 tags:
-  - type/index
   - topic/biology/animal
-  - status/update
 type: index
 status: update
 ---

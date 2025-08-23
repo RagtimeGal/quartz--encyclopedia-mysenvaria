@@ -2,9 +2,7 @@
 title: Lists of Natural Features
 enableToc: true
 tags:
-  - type/index
   - topic/geography/natural
-  - status/update
 type: index
 status: update
 ---

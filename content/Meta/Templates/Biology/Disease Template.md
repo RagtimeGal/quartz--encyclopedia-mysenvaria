@@ -3,7 +3,6 @@ title: Disease Template
 enableToc: true
 tags:
   - topic/biology/disease
-  - type/template
 draft: true
 type: template
 ---

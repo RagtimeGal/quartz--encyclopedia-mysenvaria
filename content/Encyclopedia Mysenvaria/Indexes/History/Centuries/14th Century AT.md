@@ -2,12 +2,11 @@
 title: 14th Century AT
 enableToc: true
 tags:
-  - type/index
   - topic/history/century
-  - status/update
-  - has/infobox
 type: index
 status: update
+has:
+  - infobox
 ---
 
 > [!summary] 14th Century AT

@@ -2,9 +2,7 @@
 title: Criterial Classification
 enableToc: true
 tags:
-  - type/article
   - topic/science/model
-  - status/stub
 type: article
 status: stub
 ---

@@ -2,9 +2,7 @@
 title: Great Fog
 enableToc: true
 tags:
-  - type/article
   - topic/geography/natural
-  - status/empty
 type: article
 status: empty
 ---

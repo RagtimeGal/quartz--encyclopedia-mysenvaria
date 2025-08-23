@@ -2,9 +2,7 @@
 title: List of Elemental Gods
 enableToc: true
 tags:
-  - type/index
   - subject/god/elemental_god
-  - status/update
 type: index
 status: update
 ---

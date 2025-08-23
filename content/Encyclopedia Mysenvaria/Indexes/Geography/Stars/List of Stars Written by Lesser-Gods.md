@@ -2,11 +2,9 @@
 title: List of Stars Written by Lesser-Gods
 enableToc: true
 tags:
-  - type/index
   - subject/star
   - subject/star_system
   - subject/god/lesser-god
-  - status/update
 type: index
 status: update
 ---

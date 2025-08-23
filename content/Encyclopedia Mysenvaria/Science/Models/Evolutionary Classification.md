@@ -2,12 +2,11 @@
 title: Evolutionary Classification
 enableToc: true
 tags:
-  - type/article
   - topic/science/model
-  - status/incomplete
-  - needs/graphics
 type: article
 status: incomplete
+needs:
+  - graphics
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]

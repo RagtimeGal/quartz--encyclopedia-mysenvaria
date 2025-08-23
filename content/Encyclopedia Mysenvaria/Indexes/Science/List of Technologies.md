@@ -2,9 +2,7 @@
 title: List of Technologies
 enableToc: true
 tags:
-  - type/index
   - topic/science/technology
-  - status/update
 type: index
 status: update
 ---

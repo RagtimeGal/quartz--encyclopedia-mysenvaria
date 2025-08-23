@@ -2,9 +2,7 @@
 title: Dragon Hunt
 enableToc: true
 tags:
-  - type/article
   - topic/culture/holiday
-  - status/empty
 type: article
 status: empty
 ---

@@ -2,9 +2,7 @@
 title: List of Holidays
 enableToc: true
 tags:
-  - type/index
   - topic/culture/holiday
-  - status/update
 type: index
 status: update
 ---

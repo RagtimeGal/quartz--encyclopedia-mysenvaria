@@ -2,12 +2,11 @@
 title: Sir. Isaac Newton
 enableToc: true
 tags:
-  - type/article
   - topic/history/biography
-  - status/empty
-  - needs/infobox
 type: article
 status: empty
+needs:
+  - infobox
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]

@@ -2,9 +2,7 @@
 title: Event Template
 enableToc: true
 tags:
-  - type/article
   - topic/history/god-war_era
-  - status/incomplete
 type: article
 status: incomplete
 ---

@@ -2,7 +2,6 @@
 title: Tags
 enableToc: true
 tags:
-  - type/article
   - topic/meta/writing_guidelines
 type: article
 ---
