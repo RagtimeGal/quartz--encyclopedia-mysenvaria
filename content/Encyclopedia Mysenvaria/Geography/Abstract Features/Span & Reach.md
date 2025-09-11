@@ -21,5 +21,5 @@ Most often on world [[Encyclopedia Mysenvaria/Science/Technologies/Maps|maps]] s
 [^figure1]: ![[Meta/Images/Maps/contour.png]]
 [^starward]: Counterclockwise
 
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Review Needed|Future Review Needed]]
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Review Needed|Future Review Needed]]
 > This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

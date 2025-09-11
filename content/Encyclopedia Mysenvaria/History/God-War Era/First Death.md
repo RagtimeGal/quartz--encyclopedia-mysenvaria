@@ -19,7 +19,7 @@ The following year as a result of the First Death the [[Encyclopedia Mysenvaria/
 - [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
 
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Review Needed|Future Review Needed]]
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Review Needed|Future Review Needed]]
 > This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This page could maybe use a section detailing the impact of the First Death on history, not just the history of the God-War, but also the history of the more modern time. How has this been interpreted through time? How did it actually impact religion meaningfully?*

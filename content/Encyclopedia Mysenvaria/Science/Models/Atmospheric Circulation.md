@@ -37,7 +37,7 @@ On the contrary, at some points of the year when it is in its transitionary peri
 [^figure2]: ![[Meta/Images/Infographics/atmospheric_cells.png]]
 [^clockwise]: Counterclockwise
 [^figure3]: ![[Meta/Videos/10-year-from-creation-simulation.mp4]]
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use a section on the history of its discovery.*

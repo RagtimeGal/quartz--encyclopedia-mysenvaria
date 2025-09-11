@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - topic/meta
 type: index
+status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
@@ -12,7 +13,7 @@ type: index
 The following is a list of all articles from across the Encyclopedia Mysenvaria, sorted by the article's status.
 
 # Complete
-- [[_index|_index]]
+- [[_index|Home Page]]
 - [[Encyclopedia Mysenvaria/Arts/Art|Art]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
 - [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]
@@ -886,7 +887,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 
 # Unspecified
 - [[Meta/Templates/Geography/Abstract Features Template|Abstract Features Template]]
-- [[Meta/Article Types|Article Types]]
+- [[Meta/Callouts|Callouts]]
 - [[Meta/Templates/Geography/Artifical Features Template|Artifical Features Template]]
 - [[Meta/Templates/Culture/Belief Template|Belief Template]]
 - [[Meta/Templates/History/Biography Template|Biography Template]]
@@ -924,6 +925,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Templates/Arts/Sports Template|Sports Template]]
 - [[Meta/Templates/Geography/Star System Template|Star System Template]]
 - [[Meta/Templates/Geography/Star Template|Star Template]]
-- [[Meta/Tags|Tags]]
+- [[Meta/Metadata|Metadata]]
 - [[Meta/Templates/Science/Technology Template|Technology Template]]
 - [[Meta/Writing Guidelines|Writing Guidelines]]

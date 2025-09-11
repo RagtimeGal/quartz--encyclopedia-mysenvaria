@@ -7,7 +7,7 @@ type: article
 status: incomplete
 ---
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
 > This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The First Convening was a small gathering of Gods led by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]]. Each of the Gods summoned to the event were chosen by Fulgurite for having all seen the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|first death of a God]]. The convening would see the birth in the belief of an [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|afterlife]], a concept brought forth by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]].

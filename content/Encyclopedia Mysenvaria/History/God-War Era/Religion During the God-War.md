@@ -7,7 +7,7 @@ type: article
 status: incomplete
 ---
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
 > This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] is notable for many reasons, among which was the inception of religious beliefs like the [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|afterlife]] and [[Encyclopedia Mysenvaria/Culture/Beliefs/Deities|deities]]. The God-War would not just see their inception, but their evolution and rise to popularity, forming many of the religious institutions still seen today. The foundations of religion would be created by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] long before the existence of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]], though it would be shared with life at its earlies inceptions. One of the major factors which contributed to the spread and development of religion during the War was [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|territories]].

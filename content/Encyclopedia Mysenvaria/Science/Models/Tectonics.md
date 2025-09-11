@@ -10,7 +10,7 @@ has:
   - image
 ---
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
 > This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Tectonics are a scientific model which explains the behavior and interactions of geographic systems across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], primarily those of [[Encyclopedia Mysenvaria/Science/Phenomena/Geologic Phenomena#Tectonics|tectonics]] and the mantle. The model explains the processes which lead to the occurrence of [[Encyclopedia Mysenvaria/Science/Phenomena/Earthquake|earthquakes]], the activity of [[Encyclopedia Mysenvaria/Science/Phenomena/Volcanoes|volcanoes]], and the formation of [[Encyclopedia Mysenvaria/Science/Phenomena/Mountains|mountains]], [[Encyclopedia Mysenvaria/Science/Phenomena/Island|islands]], and more. The model is widely accepted and is the result of many years of research by [[Encyclopedia Mysenvaria/Science/Branches/Geology|geologists]].

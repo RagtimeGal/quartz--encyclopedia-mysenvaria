@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - topic/meta
 type: article
+status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

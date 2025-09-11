@@ -7,7 +7,7 @@ type: article
 status: stub
 ---
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The Encyclopedia Mysenvaria is a collection of non-fiction encyclopedic works written and published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]] since 1313. It is currently on its third edition, the longest and most comprehensive edition thus far, spanning 18 volumes including an index, 7 micro-article volumes, and 10 macro-article volumes. It's predecessors, the first, and second edition, paled in comparison to the grandeur of the most recent publication.

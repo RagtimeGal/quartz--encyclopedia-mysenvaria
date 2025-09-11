@@ -4,14 +4,3 @@ views:
     order:
       - file.name
       - type
-      - title
-      - tags
-      - status
-      - needs
-      - has
-      - future
-    sort:
-      - property: status
-        direction: ASC
-      - property: needs
-        direction: ASC

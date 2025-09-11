@@ -9,7 +9,7 @@ needs:
   - graphics
 ---
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Natural personification is defined as, "the tendency of phenomena in Nature to enter Reality as unique phenomena." Natural personification is not an active metaphysical rule, but rather a result of the way reality exists. According to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] reality is a result of the interaction between the real and unreal. As the real and unreal interact aspects of nature—including aspects already present in the real and unreal—appear to condense into this stream of interaction.

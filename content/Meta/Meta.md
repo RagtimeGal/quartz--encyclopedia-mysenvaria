@@ -4,6 +4,7 @@ enableToc: true
 tags:
   - topic/meta
 type: article
+status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
@@ -13,7 +14,7 @@ type: article
 
 Canon is the true lore of a setting which is sourced from authoritative works on the subject. Mysenvar's authoritative source for lore is this website—the Encyclopedia Mysenvaria. Non-meta pages on this site are pages which exist in the fictional canonical setting in the setting's own version of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Meta pages are those which do not exist within the canon of Mysenvar and which provide valuable information on this website's version of the encyclopedia.
 
-As an example: The non-meta includes pages like [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]], [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]], or [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|Classification of Organisms]]. These are pages which exist in the canon encyclopedia, they describe the setting and are written as if pulled from the setting. Meta pages includes those like [[Meta/Contributing|Contributing]], [[Meta/Article Types|Article Types]], or [[Meta/Touch-ups|Touch-ups]]. These pages provide information on the website and how it works.
+As an example: The non-meta includes pages like [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]], [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]], or [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|Classification of Organisms]]. These are pages which exist in the canon encyclopedia, they describe the setting and are written as if pulled from the setting. Meta pages includes those like [[Meta/Contributing|Contributing]], [[Meta/Callouts|Callouts]], or [[Meta/Writing Guidelines|Writing Guidelines]]. These pages provide information on the website and how it works.
 
 This page serves as a starting point for those looking to explore how the encyclopedia works, what it's meant for, how to use it, and how to contribute.
 # The Project

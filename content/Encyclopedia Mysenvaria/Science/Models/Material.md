@@ -7,7 +7,7 @@ type: article
 status: incomplete
 ---
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
 > This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|Entities]] are physically composed of, or are themselves, materials like elements and molecules—both of which are also entities. Materials are structured in specific patterns, determined by their [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|relationships]], which define their entity's attributes and properties. The most basal entities, and thus most basal materials, are elements. With the sole exception of [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]], everything that exists physically in Reality is made up of elements.

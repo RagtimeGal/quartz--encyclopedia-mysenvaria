@@ -1,60 +1,62 @@
 ---
-title: Stubs
+title: Callouts
 enableToc: true
 tags:
   - topic/meta/writing_guidelines
 type: article
+status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
 > *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
-# Article Types
-## Article
 
-## Index
+This article serves to provide a list of meta callouts that a reader may encounter on canon articles. Callouts already include a short description of what they indicate, and this description is provided on each individual page which the callout appears on. 
 
-## Table
+Callouts work as important tools for communicating to readers information about the article they are preparing to read and providing them with context on that articles progress. This allows readers and editors to decide what pages they invest their time into.
 
-## Overview
-
+Further information regarding a callout may be provided in the sections below if it is deemed necessary or is not elaborated on elsewhere amongst the [[Meta/Meta|meta]] pages.
+# Miscellaneous Warnings
+## Names
+> [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Names|Names]]
+> Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
+> 
+> These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.
+> 
+> The intent is to keep track of these placeholders so that they may be replaced in the future. If you find a name which looks out of place, report it through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 ## Template
-
-## Ledger
-
+> [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Template|Template]]
+> This article is a Template. This callout, and others like it in the page, should be removed. Tags, page name, table of content, and other YAML data should be added, removed, or otherwise modified as necessary.
 # Article Status
 ## Empty
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Empty|Empty Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 ## Stub
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Stub|Stub Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 ## Incomplete
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Incomplete|Incomplete Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
 > This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 ## Touch-up
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Touch-up|Touch-up Article]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
 > This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
-# Update
+## Update
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update|Update]]
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
 > This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
-## Complete
-
-
 # Article Reminders
 ## Update Needed
 
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
 ## Rewrite Needed
 
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Rewrite Needed|Future Rewrite Needed]]
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Rewrite Needed|Future Rewrite Needed]]
 > This article is considered complete for the moment, but some finished sections may need to be rewritten as the setting develops! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
 ## Review Needed
 
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Review Needed|Future Review Needed]]
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Review Needed|Future Review Needed]]
 > This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

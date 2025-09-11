@@ -30,7 +30,7 @@ Relationships are complex and hard to understand, but they are made up of a few 
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
 
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Article Types#Update Needed|Future Update Needed]]
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use a section on the history of its discovery.*
