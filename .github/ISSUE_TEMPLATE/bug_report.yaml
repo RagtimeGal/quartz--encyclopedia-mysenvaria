@@ -1,4 +1,4 @@
-name: "Grammar Report"
+name: Grammar Report
 description: "Report spelling, grammar, and formatting mistakes.""
 title: "[Typo]: "
 labels: [grammar]
