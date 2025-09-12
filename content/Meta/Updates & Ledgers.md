@@ -4,7 +4,7 @@ enableToc: true
 tags:
   - topic/meta/writing_guidelines
 type: article
-status: complete
+status: empty
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

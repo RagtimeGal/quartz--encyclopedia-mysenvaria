@@ -10,13 +10,14 @@ status: complete
 > [!abstract] [[Meta/Meta|Meta]]
 > *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
 
-This article serves to provide a list of meta callouts that a reader may encounter on canon articles. Callouts already include a short description of what they indicate, and this description is provided on each individual page which the callout appears on. 
+This article serves to provide a list of meta callouts that a reader may encounter on canon articles. Callouts include a short description of what they indicate, and this description is provided on each individual page which the callout appears on. 
 
-Callouts work as important tools for communicating to readers information about the article they are preparing to read and providing them with context on that articles progress. This allows readers and editors to decide what pages they invest their time into.
+Callouts work as important tools for communicating information about an article that readers are preparing to read, most importantly providing them with context on that article's progress. This allows readers and editors to decide what pages they invest their time into.
 
 Further information regarding a callout may be provided in the sections below if it is deemed necessary or is not elaborated on elsewhere amongst the [[Meta/Meta|meta]] pages.
 # Miscellaneous Warnings
 ## Names
+*Primary article: [[Meta/Names|Names]]*
 > [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Names|Names]]
 > Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
 > 

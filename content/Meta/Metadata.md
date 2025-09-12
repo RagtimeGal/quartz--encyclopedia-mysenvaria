@@ -10,7 +10,7 @@ status: complete
 > [!abstract] [[Meta/Meta|Meta]]
 > *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
 
-Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the encyclopedia's articles. YAML blocks may also provide optional information that [[Meta/Programs|Programs]] specifically made for the encyclopedia can use.
+Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the encyclopedia's articles. YAML blocks may also provide optional information that [[Meta/Scripts|Scripts]] specifically made for the encyclopedia can use.
 
 The following is a list of all YAML node keys—and examples of their values—used across the encyclopedia:
 - **title**: The title of the article, written as a string.
@@ -22,6 +22,7 @@ The following is a list of all YAML node keys—and examples of their values—u
 - **has**: A list of items[^possible_page_items] which the article has.
 - **needs**: A list of items[^possible_page_items] which could improve the article.
 - **dates**: JSON-style data arrray for any dates regarding the article. For information regarding the formatting of date's see the applicable portion of this article.
+- **uid**: The UID if applicable, determined by the encyclopedia's [[Meta/Names#Name Code|name code]].
 # Tags
 Tags are broken down into two types: topics and subjects. Topics are broad and overarching, every article should have at least one topic tag. These tags are very straightforward and help with finding articles over a broad area of information. Subjects are much more narrow in the topics they discuss. Not every article needs a subject tag. They help with finding very specific articles.
 ## Topics
@@ -85,21 +86,7 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 Dates is an optional JSON-style array of dates which can be included in a files YAML. The following keys should be attached to each node in the array:
 - **name**: The name of the event as a string.
 - **desc**: A description of the event as a string.
-- **date**: A nested array of two more strings, `year` and `day`, where day can be omitted. A range of special features listed here can be applied to the date's year, day, or both:
-	- appending `?` signifies an uncertain date.
-	- appending `~` signifies an approximate date.
-	- appended `–` (en-dash) may be followed by a second date to signify a range.
-	- `..` in the place of a date signifies that it is in the present or still ongoing.
-	- prepending `-` (hyphen) signifies that the event occurred in BT.
-
-Examples of date arrays include:
-```
----
-dates:
- - {name: "The Battle of Years", desc: "A battle which started approximately in the new years of 123 and ended at an uncertain date sometime in the year of 234.", date: {year: "123~–234", day: "001–?"}}
- - {name: "Creation of Boogers", desc: "John Boogers creates the first Booger by picking his nose.", date: {year: "-52~"}}
----
-```
+- **date**: A date string formatted as EDTF.
 
 
 [^possible_page_items]: Possible items listed here include: `infobox`, `image`, `video`, and `graphics`.

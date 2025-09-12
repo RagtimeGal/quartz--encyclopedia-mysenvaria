@@ -1,0 +1,50 @@
+name: Run scripts on push
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "content/**"               # re-run when content changes
+      - "content/Meta/Programs/run_on_push/**"  # re-run when scripts change
+  workflow_dispatch:               # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  run-scripts:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies (optional)
+        run: |
+          if [ -f content/Meta/Programs/run_on_push/requirements.txt ]; then
+            pip install -r content/Meta/Programs/run_on_push/requirements.txt
+          fi
+
+      - name: Run all scripts in run_on_push
+        run: |
+          for f in content/Meta/Programs/run_on_push/*.py; do
+            echo "Running $f"
+            python "$f"
+          done
+
+      - name: Commit changes (if any)
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore(ci): auto-update from run_on_push scripts [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

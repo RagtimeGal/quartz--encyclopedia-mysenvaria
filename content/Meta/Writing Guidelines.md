@@ -54,7 +54,7 @@ The general structure of any article should be organized as thus:
 - **Infobox**: Infoboxes are standardized non-meta callouts which serve to provide readers with a very brief overview of an article's topic.
 - **Body Text**: Articles should start with a lead section which provides a brief overview of the topic and then may be divided into distinct sections via headers. Headers should follow title case.
 - **See Also**: A list of related articles which are not directly mentioned in the body of the article.
-- **Footnotes**: Footnotes provide supplementary content for the main body of the article, including [[Meta/Video & Image Content|images and videos]] and sources.
+- **Footnotes**: Footnotes provide supplementary content for the main body of the article, including images, videos, and sources.
 # Links
 Linking other articles is a very important part of making the encyclopedia easy to navigate, but they can quickly becoming overwhelming if there's too many links in a single article. To help with that there are some basic rules to linking articles:
 - Link to the same article once per article. It doesn't make much sense to link to the article on the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water|God of Water]] three separate times in one article, so only link it once on first mention.
