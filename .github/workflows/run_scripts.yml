@@ -2,7 +2,7 @@ name: Run scripts on push
 
 on:
   push:
-    branches: [ main ]
+    branches: [ v4 ]
     paths:
       - "content/**"               # re-run when content changes
       - "content/Meta/Programs/run_on_push/**"  # re-run when scripts change
