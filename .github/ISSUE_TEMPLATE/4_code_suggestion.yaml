@@ -1,0 +1,26 @@
+name: Code Suggestion
+description: "Make a suggestion to improve the encyclopedia's back-end or ui."
+title: "[Code]: "
+labels: [code]
+body:
+  - type: textarea
+    attributes:
+      label: Suggestion
+      description: What are you suggesting be changed? How will this improve the encyclopedia for users.
+      placeholder: "The spacing of the GlobGlab on each page is odd. Improvements can be made to the spacing which will make it easier for readers to follow."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: The Change
+      description: What code needs to be edited to make this possible, and how should it be edited. Please be as detailed as possible in your description.
+      placeholder: "The GlobGlab Quartz plugin needs to be edited at line `x` to actually be `y`, this will make the spacing larger."
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Submission Agreement
+      description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including that you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
+      options:
+      - label: "I confirm that I have read and agree to follow the Encyclopedia Mysenvaria's contribution policies."
+        required: true

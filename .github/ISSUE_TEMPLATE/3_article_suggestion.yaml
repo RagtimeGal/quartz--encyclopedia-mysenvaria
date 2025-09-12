@@ -1,0 +1,26 @@
+name: Article Suggestion
+description: "Make a suggestion to improve an article."
+title: "[Suggestion]: "
+labels: [sugestion]
+body:
+  - type: input
+    attributes:
+      label: Article Title & Path
+      description: What article are you making a suggestion for?
+      placeholder: "Example: 'content/Encyclopedia Mysenvaria/Geography/Natural Features/Your Mother'"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggestion
+      description: What in the article could use improving, and how would you improve it?
+      placeholder: "The article mentions that Your Mother is large, but has no mention of her actual size. It should clearly state her girth."
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Submission Agreement
+      description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including that you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
+      options:
+      - label: "I confirm that I have read and agree to follow the Encyclopedia Mysenvaria's contribution policies."
+        required: true

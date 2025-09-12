@@ -1,31 +1,33 @@
-name: Grammar Report
+name: Grammar Issue
 description: "Report spelling, grammar, and formatting mistakes."
-title: "[Typo]: "
+title: "[Grammar Error]: "
 labels: [grammar]
 body:
   - type: input
     attributes:
       label: Article Title & Path
       description: Where is the error located?
-      placeholder: "Example: 'content/history/biographies/Adam Sandler'"
+      placeholder: "Example: 'content/Encyclopedia Mysenvaria/History/Biographies/Jack Black'"
     validations:
       required: true
   - type: textarea
     attributes:
       label: Problematic Text
       description: Copy and paste the line(s) with the issue.
+      placeholder: "\"Jack Black is a really bad guy\""
     validations:
       required: true
   - type: textarea
     attributes:
       label: Suggested Fix
       description: How should the text be changed or corrected?
+      placeholder: "The text should read, \"Jack Black is a really awesome guy\""
     validations:
       required: false
   - type: checkboxes
     attributes:
-      label: Contribution Agreement
-      description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including granting the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
+      label: Submission Agreement
+      description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including that you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
       options:
       - label: "I confirm that I have read and agree to follow the Encyclopedia Mysenvaria's contribution policies."
         required: true

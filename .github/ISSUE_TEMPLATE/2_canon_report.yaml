@@ -1,0 +1,33 @@
+name: Canon/Lore Issue
+description: "Report a consistency mistake with the setting's lore or canon."
+title: "[Canon Error]: "
+labels: [canon]
+body:
+  - type: textarea
+    attributes:
+      label: Lore Precedent
+      description: Provide evidence of a precedent for the lore set by prior articles.
+      placeholder: "Article `a` and `b` say that 2 + 2 equals 4."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Problematic Article(s)
+      description: A list of articles which go against the precendent and how they break that precendent.
+      placeholder: "Article `c` and `d` say that 2 + 2 equals 5."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggested Fix
+      description: How should the text be changed or corrected?
+      placeholder: "Change articles `c` and `d` to say that 2 + 2 equals 4."
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: Submission Agreement
+      description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including that you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
+      options:
+      - label: "I confirm that I have read and agree to follow the Encyclopedia Mysenvaria's contribution policies."
+        required: true
