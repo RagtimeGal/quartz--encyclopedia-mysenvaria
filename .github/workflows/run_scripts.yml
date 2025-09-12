@@ -1,12 +1,12 @@
 name: Run scripts on push
 
+name: Run scripts on push
+
 on:
   push:
-    branches: [ v4 ]
-    paths:
-      - "content/**"               # re-run when content changes
-      - "content/Meta/Programs/run_on_push/**"  # re-run when scripts change
-  workflow_dispatch:               # allow manual trigger
+    branches:
+      - v4          # <-- use your real branch name; if it's 'main', put main
+  workflow_dispatch:
 
 permissions:
   contents: write
