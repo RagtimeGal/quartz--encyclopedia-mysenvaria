@@ -21,11 +21,11 @@ body:
       label: Suggested Fix
       description: How should the text be changed or corrected?
     validations:
-      required: true
+      required: false
   - type: checkboxes
     attributes:
-    label: Contribution Agreement
-    description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including granting the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
-    options:
+      label: Contribution Agreement
+      description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including granting the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
+      options:
       - label: "I confirm that I have read and agree to follow the Encyclopedia Mysenvaria's contribution policies."
         required: true
