@@ -1,64 +1,31 @@
-name: Bug Report
-description: File a bug report.
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-assignees:
-  - octocat
+name: Grammar Report
+description: "Report spelling, grammar, and formatting mistakes."
+title: "[Typo]: "
+labels: [grammar]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
-    id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Article Title & Path
+      description: Where is the error located?
+      placeholder: "Example: 'content/history/biographies/Adam Sandler'"
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: textarea
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-      default: 0
+      label: Problematic Text
+      description: Copy and paste the line(s) with the issue.
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: Suggested Fix
+      description: How should the text be changed or corrected?
+    validations:
+      required: true
   - type: checkboxes
-    id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+    label: Contribution Agreement
+    description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including granting the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
+    options:
+      - label: "I confirm that I have read and agree to follow the Encyclopedia Mysenvaria's contribution policies."
+        required: true
