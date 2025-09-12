@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - v4          # <-- use your real branch name; if it's 'main', put main
+    paths:
+      - 'content/**'
+      - 'content/Meta/Programs/run_on_push/**'
   workflow_dispatch:
 
 permissions:
