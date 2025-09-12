@@ -20,7 +20,6 @@ body:
   - type: checkboxes
     attributes:
       label: Submission Agreement
-      description: By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including that you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme).
       options:
-      - label: "I confirm that I have read and agree to follow the Encyclopedia Mysenvaria's contribution policies."
+      - label: "By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including that you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme)."
         required: true
