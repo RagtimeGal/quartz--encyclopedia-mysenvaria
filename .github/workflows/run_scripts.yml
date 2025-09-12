@@ -1,7 +1,5 @@
 name: Run scripts on push
 
-name: Run scripts on push
-
 on:
   push:
     branches:
