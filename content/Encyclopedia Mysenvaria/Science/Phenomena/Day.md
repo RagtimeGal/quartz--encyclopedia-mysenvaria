@@ -26,7 +26,7 @@ In terms of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Tides|Tides]]
 
-[^figure1]: ![[Meta/Videos/10-day-modern-simulation.mp4]]
+[^figure1]: ![[Media/Videos/10-day-modern-simulation.mp4]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

@@ -1,5 +1,5 @@
 ---
-title: Writing Guidelines
+title: "Writing Guidelines"
 enableToc: true
 tags:
   - topic/meta/writing_guidelines
@@ -8,7 +8,7 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 > [!warning] Disclaimer
 > When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 

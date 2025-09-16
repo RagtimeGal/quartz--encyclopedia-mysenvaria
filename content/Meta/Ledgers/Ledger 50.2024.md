@@ -2,9 +2,13 @@
 title: "Lore Ledger 50.24"
 enableToc: true
 tags:
-  - topic/meta
+  - topic/meta/ledger
 type: ledger
+status: complete
 ---
+
+> [!abstract] [[Meta/Meta|Meta]]
+> *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 
 > [!summary] Lore Ledger #4
 > 50/2024

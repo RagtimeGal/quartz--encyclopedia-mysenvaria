@@ -17,7 +17,7 @@ EXCLUDE_DIRS = {
 
 INTRO_TEXT = """\
 ---
-title: Index of Articles by Status
+title: "Index of Articles by Status"
 enableToc: true
 tags:
   - topic/meta

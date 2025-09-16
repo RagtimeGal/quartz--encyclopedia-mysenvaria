@@ -1,5 +1,5 @@
 ---
-title: Callouts
+title: "Callouts"
 enableToc: true
 tags:
   - topic/meta/writing_guidelines
@@ -8,14 +8,14 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 This article serves to provide a list of meta callouts that a reader may encounter on canon articles. Callouts include a short description of what they indicate, and this description is provided on each individual page which the callout appears on. 
 
 Callouts work as important tools for communicating information about an article that readers are preparing to read, most importantly providing them with context on that article's progress. This allows readers and editors to decide what pages they invest their time into.
 
 Further information regarding a callout may be provided in the sections below if it is deemed necessary or is not elaborated on elsewhere amongst the [[Meta/Meta|meta]] pages.
-# Miscellaneous Warnings
+# Miscellaneous
 ## Names
 *Primary article: [[Meta/Names|Names]]*
 > [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Names|Names]]
@@ -27,6 +27,18 @@ Further information regarding a callout may be provided in the sections below if
 ## Template
 > [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Template|Template]]
 > This article is a Template. This callout, and others like it in the page, should be removed. Tags, page name, table of content, and other YAML data should be added, removed, or otherwise modified as necessary.
+## Addenda Article
+> [!hint] [[Meta/Meta|Meta]] || [[Meta/Addenda|Addenda]]
+> This article is the meta addendum of a non-meta article. You can visit the original article [here].
+## Addendum Available
+> [!hint] [[Meta/Meta|Meta]] || [[Meta/Addenda|Addendum Available]]
+> This article has an addendum, with author's notes or TTRPG-related information. Visit the addendum [here].
+## Meta Articles
+> [!abstract] [[Meta/Meta|Meta]]
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* .
+
+> [!abstract] [[Meta/Meta|Meta]]
+> *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 # Article Status
 ## Empty
 

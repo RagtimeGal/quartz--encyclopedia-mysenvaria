@@ -2,9 +2,13 @@
 title: "Lore Ledger 48.24"
 enableToc: true
 tags:
-  - topic/meta
+  - topic/meta/ledger
 type: ledger
+status: complete
 ---
+
+> [!abstract] [[Meta/Meta|Meta]]
+> *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 
 > [!summary] Lore Ledger #3
 > 48/2024
@@ -28,7 +32,7 @@ At the moment the only project remains climate. Despite some setbacks the projec
 > 
 > The previously expected deadline was not reached. However, it is expected to still be completed soon. Here are the maps as they stand. There is only a little more work to go until everything is complete!
 > 
-> ![[Meta/Images/Maps/temperature_wo_contour.gif]] ![[Meta/Images/Maps/precipitation_wo_contour.gif]]
+> ![[Media/Images/Maps/temperature_wo_contour.gif]] ![[Media/Images/Maps/precipitation_wo_contour.gif]]
 # Changelog
 ## Added
 

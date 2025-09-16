@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: "Contributors"
 enableToc: true
 tags:
   - topic/meta

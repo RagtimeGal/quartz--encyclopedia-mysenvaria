@@ -27,8 +27,8 @@ The Deadman's Sea creates a relatively uninhabitable environment around the pole
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]
 
-[^figure1]: ![[Meta/Images/Infographics/world_diagram.png]]
-[^figure2]: ![[Meta/Images/Infographics/ocean_currents.png]]
-[^figure3]: ![[Meta/Videos/10-day-modern-simulation.mp4]]
+[^figure1]: ![[Media/Images/Infographics/world_diagram.png]]
+[^figure2]: ![[Media/Images/Infographics/ocean_currents.png]]
+[^figure3]: ![[Media/Videos/10-day-modern-simulation.mp4]]
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

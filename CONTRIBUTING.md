@@ -27,7 +27,7 @@ By virtue of the way the encyclopedia is built it is very easy to contribute to 
 - Failure to comply with the Code of Conduct may result in your contribution privileges being restricted or removed.
 - The Encyclopedia Mysenvaria is a **personal project** and part of a much larger vision. I am not looking for major writing contributions.
 - Moderators have final authority over all contributions and decisions.
-The most helpful contributions are the most minor ones, like grammar fixes and topical discussions! Creative additions are not off-limits, but they are reviewed under significantly more scrutiny so as to maintain the overarching themes, ideas, and lore that has been constructed for the setting.
+The most helpful contributions are the most minor ones, like grammar fixes and topical discussions! You can also contribute to the addenda and make the encyclopedia easier to use for GMs! Creative additions are not off-limits, but they are reviewed under significantly more scrutiny so as to maintain the overarching themes, ideas, and lore that has been constructed for the setting.
 
 ---
 # Contribution and Submission Policy

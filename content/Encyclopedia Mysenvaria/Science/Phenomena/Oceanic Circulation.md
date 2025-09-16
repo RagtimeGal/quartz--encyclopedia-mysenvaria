@@ -22,8 +22,8 @@ Deep circulation comes in the form of the thermohaline[^figure2]. Believed to be
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|Ice Sheets]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Rivers|Rivers]]
 
-[^figure1]: ![[Meta/Images/Infographics/ocean_currents.png]]
-[^figure2]: ![[Meta/Images/Infographics/thermohaline.png]]
+[^figure1]: ![[Media/Images/Infographics/ocean_currents.png]]
+[^figure2]: ![[Media/Images/Infographics/thermohaline.png]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

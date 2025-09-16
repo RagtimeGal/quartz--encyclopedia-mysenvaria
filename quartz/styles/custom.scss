@@ -1,3 +1,81 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Wikipedia-style links (without purple visited state) */
+.page .center article a,
+.page .center article a:hover,
+.page .center article a:focus {
+  background: none !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  line-height: inherit !important;
+  box-shadow: none !important;
+}
+
+/* Wikipedia-like links (no purple) with reliable hover */
+.page .center article a:link,
+.page .center article a:visited {
+  color: #62d5ffff;              /* default blue */
+}
+
+/* Ensure hover wins even on visited links */
+.page .center article a:hover,
+.page .center article a:visited:hover,
+.page .center article a:focus,
+.page .center article a:visited:focus {
+  color: #62d5ffff;              /* darker on hover/focus */
+  text-decoration: underline;
+}
+
+
+/* Explorer: restore distinct defaults + new states */
+.explorer {
+  /* DEFAULTS */
+  /* Files/notes: dark gray */
+  .explorer-ul a {
+    color: var(--darkgray);
+    transition: color 0.2s ease;
+  }
+  /* Keep visited files from turning purple (optional) */
+  .explorer-ul a:visited {
+    color: var(--darkgray);
+  }
+
+  /* Folders: secondary */
+  .folder-button .folder-title {
+    color: var(--secondary);
+    transition: color 0.2s ease;
+  }
+
+  /* HOVER -> tertiary (both files and folders) */
+  .explorer-ul a:hover,
+  .folder-button:hover .folder-title {
+    color: var(--tertiary);
+  }
+
+  /* CLICK / CURRENT PAGE -> quaternary */
+  /* While pressing a link, and for the current page link (Quartz adds .active) */
+  .explorer-ul a:active,
+  .explorer-ul a.active {
+    color: var(--tertiary);
+  }
+  /* While pressing a folder button (momentary) */
+  .folder-button:active .folder-title {
+    color: var(--tertiary);
+  }
+}
+
+/* Footer link styling */
+.page footer a:link,
+.page footer a:visited {
+  color: var(--secondary);     /* or any hex / CSS variable */
+  text-decoration: underline;  /* optional, for Wikipedia feel */
+}
+
+.page footer a:hover,
+.page footer a:focus {
+  color: var(--tertiary);      /* or a darker shade */
+  text-decoration: underline;
+}

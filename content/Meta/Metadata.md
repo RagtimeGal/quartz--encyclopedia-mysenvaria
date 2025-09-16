@@ -1,5 +1,5 @@
 ---
-title: Metadata
+title: "Metadata"
 enableToc: true
 tags:
   - topic/meta/writing_guidelines
@@ -8,9 +8,9 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
-Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the encyclopedia's articles. YAML blocks may also provide optional information that [[Meta/Scripts|Scripts]] specifically made for the encyclopedia can use.
+Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the encyclopedia's articles. YAML blocks may also provide optional information that scripts made for the encyclopedia can use.
 
 The following is a list of all YAML node keys—and examples of their values—used across the encyclopedia:
 - **title**: The title of the article, written as a string.
@@ -28,6 +28,9 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 ## Topics
 - `topic/meta`: This page covers a meta topic for the encyclopedia.
 	- `topic/meta/writing_guidelines`: This page covers the encyclopedia's writing guidelines.
+	- `topic/meta/ledger`: This page is a Lore Ledger, a changelog for the encyclopedia.
+	- `topic/meta/project`: This page covers an ongoing or complete Project regarding the completion of the encyclopedia.
+	- `topic/meta/addenda`: Addenda are hidden pages which provide meta information, like author's notes and TTRPG stat blocks, for specific articles.
 - `topic/art`: This page covers a topic relating to the arts.
 	- `topic/art/game`: This page covers a topic relating to games.
 	- `topic/art/music`: This page covers a topic relating to music.

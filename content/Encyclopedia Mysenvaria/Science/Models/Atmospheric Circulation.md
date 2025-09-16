@@ -33,10 +33,10 @@ On the contrary, at some points of the year when it is in its transitionary peri
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Tides|Tides]]
 
-[^figure1]: ![[Meta/Images/Infographics/world_diagram.png]]
-[^figure2]: ![[Meta/Images/Infographics/atmospheric_cells.png]]
+[^figure1]: ![[Media/Images/Infographics/world_diagram.png]]
+[^figure2]: ![[Media/Images/Infographics/atmospheric_cells.png]]
 [^clockwise]: Counterclockwise
-[^figure3]: ![[Meta/Videos/10-year-from-creation-simulation.mp4]]
+[^figure3]: ![[Media/Videos/10-year-from-creation-simulation.mp4]]
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
 > 

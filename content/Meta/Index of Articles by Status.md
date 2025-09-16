@@ -1,5 +1,5 @@
 ---
-title: Index of Articles by Status
+title: "Index of Articles by Status"
 enableToc: true
 tags:
   - topic/meta
@@ -8,7 +8,7 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* .
 
 The following is a list of all articles from across the Encyclopedia Mysenvaria, sorted by the article's status.
 
@@ -904,7 +904,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man|Time Wizard Man]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Topography|Topography]]
 - [[Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches|Tri-Criterial Niches]]
-- [[Meta/Updates & Ledgers|Updates & Ledgers]]
+- [[Meta/Ledgers & Projects|Ledgers & Projects]]
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Ur|Ur]]
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Uruk|Uruk]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Volcanoes|Volcanoes]]

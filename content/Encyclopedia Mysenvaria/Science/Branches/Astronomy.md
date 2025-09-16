@@ -18,7 +18,7 @@ To become an astronomer requires a keen eye and great understanding of the natur
 
 # History
 ## God-War Era
-The [[God-War Era]] was an age of few sciences, including a lack of practiced astronomy. However, to ignore this era is ignorant. The God-War is responsible for the creation of a majority of the stars in the sky, and some of the earliest [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]] were highly influential to the modern study.
+The [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era]] was an age of few sciences, including a lack of practiced astronomy. However, to ignore this era is ignorant. The God-War is responsible for the creation of a majority of the stars in the sky, and some of the earliest [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]] were highly influential to the modern study.
 
 ## Post-War Era
 
@@ -46,11 +46,11 @@ Functionally translating a star to an understandable form of written God Tongue 
 
 # Astronomical Phenomena
 ## The Sun
-The Sun is the largest star in the sky and the closest to the Earth. It is one of the most translated stars in astronomy, with hundreds of different transcriptions in both God Tongue and in mortal languages. The Sun was created at the end of the [[God-War Era|God-War]], it is the proposed and signed [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and thus the most influential star in history. The creation of the Sun also created the [[God of Harmony]] and limited each God to their own respective section of nature. Each current living God signed the treaty, and as such all current Gods are forced to abide by its law an~~~~d enforce its law.
+The Sun is the largest star in the sky and the closest to the Earth. It is one of the most translated stars in astronomy, with hundreds of different transcriptions in both God Tongue and in mortal languages. The Sun was created at the end of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]], it is the proposed and signed [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] and thus the most influential star in history. The creation of the Sun also created the [[God of Harmony]] and limited each God to their own respective section of nature. Each current living God signed the treaty, and as such all current Gods are forced to abide by its law an~~~~d enforce its law.
 
 ## Fallen Stars
 When a God dies all stars they have created fall to the Earth as ossified husks; fallen stars. These stars can be studied in great detail by astronomers and on many occasions have proven as incredibly useful tools in learning about the interpretation of stars. The [[Encyclopedia Mysenvaria/Culture/Organizations/Great Astronomy Foundation]] is known for their great collection of fallen stars. Recently, too, a documented case of a fallen star returning into the sky has occurred, the [[Cracked Star Incident]]. Below is a painting of a fallen star:
-![[Meta/Images/fallen_star_small.png]]
+![[Media/Images/fallen_star_small.png]]
 # Cultural Connections
 
 # Famous Astronomers

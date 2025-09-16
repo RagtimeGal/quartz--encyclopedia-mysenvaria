@@ -27,5 +27,5 @@ Plate boundaries[^figure2] are where plates meet and are where geological phenom
 Hotspots are areas where the crust has become exceedingly thin or where the mantle is exceedingly hot, creating an upwelling of magma from the mantle which sometimes breaks through the surface of the crust. This process leads the formation of volcanoes outside of plate boundaries.
 # See Also
 
-[^figure1]: ![[Meta/Images/Infographics/tectonic_diagram.png]]
+[^figure1]: ![[Media/Images/Infographics/tectonic_diagram.png]]
 [^figure2]: ![[Meta/Images/Maps/Pixelart/tectonic_plates.png]]

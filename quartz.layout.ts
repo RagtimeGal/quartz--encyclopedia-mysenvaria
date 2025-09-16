@@ -40,15 +40,20 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        const fm = (node as any)?.data?.frontmatter ?? {}
+        if (fm.draft === true) return false
+        if (fm.hidden === true) return false
+        if ((node as any)?.slugSegment === "tags") return false
+        return true
+      },
+    })
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
     Component.Comments(),
   ],
 }
@@ -68,7 +73,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        const fm = (node as any)?.data?.frontmatter ?? {}
+        if (fm.draft === true) return false
+        if (fm.hidden === true) return false
+        if ((node as any)?.slugSegment === "tags") return false
+        return true
+      },
+    })
   ],
   right: [],
 }

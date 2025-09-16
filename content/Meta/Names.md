@@ -1,5 +1,5 @@
 ---
-title: Names
+title: "Names"
 enableToc: true
 tags:
   - topic/meta
@@ -8,7 +8,7 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 Mysenvar is an ever-evolving setting, and while swathes of its lore remain incomplete there are still articles which cover that lore. Some of this lore needs names, for characters and locations, but names aren't just arbitrary. Names emerge from language, history, and culture, and that's lore which may not be complete yet, and so strategies are employed to temporarily fill those gaps until lore catches up. There's two primary strategies employed:
 - *Name Code* is a standardized placeholder system which ensures consistency, no overlap, and enables easy searching for placeholders;
