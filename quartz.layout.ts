@@ -39,14 +39,14 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        { Component: Component.Darkmode()},
       ],
     }),
     Component.Explorer({
       filterFn: (node) => {
         const fm = (node as any)?.data?.frontmatter ?? {}
         if (fm.draft === true) return false
-        if (fm.hidden === true) return false
+        if (fm.addenda === true) return false
         if ((node as any)?.slugSegment === "tags") return false
         return true
       },
@@ -70,14 +70,14 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        { Component: Component.Darkmode()},
       ],
     }),
     Component.Explorer({
       filterFn: (node) => {
         const fm = (node as any)?.data?.frontmatter ?? {}
         if (fm.draft === true) return false
-        if (fm.hidden === true) return false
+        if (fm.addenda === true) return false
         if ((node as any)?.slugSegment === "tags") return false
         return true
       },

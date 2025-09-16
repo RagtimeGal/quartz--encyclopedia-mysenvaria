@@ -1,0 +1,58 @@
+name: Contributor Opt-In/Opt-Out
+description: "Have your name added or removed from the list of contributors!"
+title: "[Contributor]: "
+labels: [contributor]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The Encyclopedia Mysenvaria's contributor list, available [here](https://mysenvaria.ragno.wiki/Meta/Contributors), is an opt-in list of GitHub users who have contributed to the encyclopedia.
+        By opting in you agree that you have contributed to the project in a meaningful way and would like your name, a link to you GitHub profile, and a short description of yourself added to the Contributors page.
+        At any point while the project is still maintained you may submit another issue to have your listing removed or modified.
+        The contributors page has no strict update schedule, whether you are added is at the discretion of the moderators. Issues will be closed accordingly as the page is updated.
+        I appreciate all contributors, and this page is a way to honor their work. Thank you for contributing!
+  - type: checkboxes
+    attributes:
+      label: Purpose
+      description: "What is the purpose of making this contributor issue?"
+      options:
+      - label: "Add Listing (You are not already listed.)"
+      - label: "Update Listing (You are already listed and would like to remove, add, or edit information.)"
+      - label: "Remove Listing (You are already listed and would like to no longer be listed.)"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Listed Name
+      description: This field is optional. If you are updating or removing your listing please include the name you were previously listed under.
+      placeholder: "Ragnorakkr"
+    validations:
+      required: false
+  - type: input
+    attributes:
+      label: Display Name
+      description: The name you would like to appear on the contributors page. 
+      placeholder: "Ragno"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Description
+      description: A description of yourself, if you would like to provide one. Please keep it to less than three sentences. If you are updating or removing your listing you can leave this blank.
+      placeholder: "Creator of the project!"
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Any additional information you would like to include regarding your contributions or clarification for moderators.
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: Submission Agreement
+      options:
+      - label: "By checking this box you confirm that you are the contributor in question and the account you are submitting this form from is the account responsible for contributions."
+        required: true
+      - label: "By checking this box you confirm and agree that you have read the Encyclopedia Mysenvaria's contribution policies, including that you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases. This is required to submit an issue. You may find the contribution policy [here](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme)."
+        required: true
