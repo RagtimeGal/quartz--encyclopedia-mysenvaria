@@ -11,14 +11,15 @@ body:
         At any point while the project is still maintained you may submit another issue to have your listing removed or modified.
         The contributors page has no strict update schedule, whether you are added is at the discretion of the moderators. Issues will be closed accordingly as the page is updated.
         I appreciate all contributors, and this page is a way to honor their work. Thank you for contributing!
-  - type: checkboxes
+  - type: dropdown
     attributes:
       label: Purpose
-      description: "What is the purpose of making this contributor issue?"
+      description: What is the purpose of making this contributor issue?
       options:
-      - label: "Add Listing (You are not already listed.)"
-      - label: "Update Listing (You are already listed and would like to remove, add, or edit information.)"
-      - label: "Remove Listing (You are already listed and would like to no longer be listed.)"
+        - Add Listing (You are not already listed.)
+        - Update Listing (You are already listed and would like to remove, add, or edit information.)
+        - Remove Listing (You are already listed and would like to no longer be listed.)
+      default: 0
     validations:
       required: true
   - type: input
