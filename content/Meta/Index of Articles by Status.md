@@ -8,12 +8,13 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* .
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
 
 The following is a list of all articles from across the Encyclopedia Mysenvaria, sorted by the article's status.
 
 # Complete
 - [[_index|_index]]
+- [[Meta/Addenda|Addenda]]
 - [[Encyclopedia Mysenvaria/Arts/Art|Art]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
 - [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]
@@ -35,6 +36,15 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
+- [[Meta/Ledgers/Ledger 17.2025|Ledger 17.2025]]
+- [[Meta/Ledgers/Ledger 2.2025|Ledger 2.2025]]
+- [[Meta/Ledgers/Ledger 3.2025|Ledger 3.2025]]
+- [[Meta/Ledgers/Ledger 34.2025|Ledger 34.2025]]
+- [[Meta/Ledgers/Ledger 46.2024|Ledger 46.2024]]
+- [[Meta/Ledgers/Ledger 47.2024|Ledger 47.2024]]
+- [[Meta/Ledgers/Ledger 48.2024|Ledger 48.2024]]
+- [[Meta/Ledgers/Ledger 50.2024|Ledger 50.2024]]
+- [[Meta/Ledgers/Ledger 51.2024|Ledger 51.2024]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
 - [[Meta/Meta|Meta]]
@@ -233,6 +243,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Indexes/History/Decades/980s AT|980s AT]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Decades/990s AT|990s AT]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Centuries/9th Century AT|9th Century AT]]
+- [[Meta/Projects/God-War Project|God-War Project]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Biomes|List of Biomes]]
@@ -820,6 +831,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen Climate]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Lamp|Lamp]]
 - [[Meta/Templates/Culture/Language Template|Language Template]]
+- [[Meta/Ledgers & Projects|Ledgers & Projects]]
 - [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]]
 - [[Encyclopedia Mysenvaria/Science/Models/Linguistic Evolution|Linguistic Evolution]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Loom|Loom]]
@@ -870,7 +882,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Rivers|Rivers]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper|Scalper]]
 - [[Meta/Templates/Science/Scientific Branch Template|Scientific Branch Template]]
-- [[Meta/Scripts|Scripts]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]]
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sidon|Sidon]]
@@ -904,7 +915,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man|Time Wizard Man]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Topography|Topography]]
 - [[Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches|Tri-Criterial Niches]]
-- [[Meta/Ledgers & Projects|Ledgers & Projects]]
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Ur|Ur]]
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Uruk|Uruk]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Volcanoes|Volcanoes]]
@@ -922,13 +932,4 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 # Unspecified
 - [[Meta/Programs/History Page Generator/Century|Century]]
 - [[Meta/Programs/History Page Generator/Decade|Decade]]
-- [[Meta/Ledgers/Ledger 17.2025|Ledger 17.2025]]
-- [[Meta/Ledgers/Ledger 2.2025|Ledger 2.2025]]
-- [[Meta/Ledgers/Ledger 3.2025|Ledger 3.2025]]
-- [[Meta/Ledgers/Ledger 34.2025|Ledger 34.2025]]
-- [[Meta/Ledgers/Ledger 46.2024|Ledger 46.2024]]
-- [[Meta/Ledgers/Ledger 47.2024|Ledger 47.2024]]
-- [[Meta/Ledgers/Ledger 48.2024|Ledger 48.2024]]
-- [[Meta/Ledgers/Ledger 50.2024|Ledger 50.2024]]
-- [[Meta/Ledgers/Ledger 51.2024|Ledger 51.2024]]
 - [[Meta/Ledgers/List of Lore Ledgers|List of Lore Ledgers]]
