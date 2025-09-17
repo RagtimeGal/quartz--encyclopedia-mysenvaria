@@ -8,13 +8,12 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
 
 The following is a list of all articles from across the Encyclopedia Mysenvaria, sorted by the article's status.
 
 # Complete
 - [[_index|_index]]
-- [[Meta/Addenda|Addenda]]
 - [[Encyclopedia Mysenvaria/Arts/Art|Art]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
 - [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]
@@ -40,6 +39,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Ledgers/Ledger 2.2025|Ledger 2.2025]]
 - [[Meta/Ledgers/Ledger 3.2025|Ledger 3.2025]]
 - [[Meta/Ledgers/Ledger 34.2025|Ledger 34.2025]]
+- [[Meta/Ledgers/Ledger 38.2025|Ledger 38.2025]]
 - [[Meta/Ledgers/Ledger 46.2024|Ledger 46.2024]]
 - [[Meta/Ledgers/Ledger 47.2024|Ledger 47.2024]]
 - [[Meta/Ledgers/Ledger 48.2024|Ledger 48.2024]]
@@ -243,7 +243,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Indexes/History/Decades/980s AT|980s AT]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Decades/990s AT|990s AT]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Centuries/9th Century AT|9th Century AT]]
-- [[Meta/Projects/God-War Project|God-War Project]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Biomes|List of Biomes]]
@@ -265,6 +264,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Legally Binding Stars|List of Legally Binding Stars]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]]
+- [[Meta/Ledgers/List of Lore Ledgers|List of Lore Ledgers]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Mobile Stars|List of Mobile Stars]]
 - [[Encyclopedia Mysenvaria/Indexes/Culture/List of Occupations|List of Occupations]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Reaction Gods]]
@@ -403,6 +403,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|Cartographer]]
+- [[Meta/Programs/History Page Generator/Century|Century]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Charles Darwin|Charles Darwin]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson|Charles Lightningson]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Claim Star|Claim Star]]
@@ -417,6 +418,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Models/Darwinian Classification|Darwinian Classification]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea|Deadman's Sea]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Debris Raining Star|Debris Raining Star]]
+- [[Meta/Programs/History Page Generator/Decade|Decade]]
 - [[Encyclopedia Mysenvaria/Culture/Beliefs/Deities|Deities]]
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Deltatown|Deltatown]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Demi-Human|Demi-Human]]
@@ -831,7 +833,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen Climate]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Lamp|Lamp]]
 - [[Meta/Templates/Culture/Language Template|Language Template]]
-- [[Meta/Ledgers & Projects|Ledgers & Projects]]
 - [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]]
 - [[Encyclopedia Mysenvaria/Science/Models/Linguistic Evolution|Linguistic Evolution]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Loom|Loom]]
@@ -928,8 +929,3 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Branches/Wizardry|Wizardry]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Writing|Writing]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Zoology|Zoology]]
-
-# Unspecified
-- [[Meta/Programs/History Page Generator/Century|Century]]
-- [[Meta/Programs/History Page Generator/Decade|Decade]]
-- [[Meta/Ledgers/List of Lore Ledgers|List of Lore Ledgers]]
