@@ -16,7 +16,7 @@ The following is a list of all YAML node keys—and examples of their values—u
 - **title**: The title of the article, written as a string.
 - **enableToc**: Whether or not the article should list a Table of Contents. `true` or `false`.
 - **tags**: For the list of applicable tags see the tags portion of this article.
-- **type**: The type of article. `article`, `index`, `table`, `overview`, `ledger`, or `template`.
+- **type**: The type of article. `article`, `index`, `table`, `overview`, `ledger`, `project`, `addenda`, or `template`.
 - **status**: The current status of the article. `empty`, `stub`, `incomplete`, `touch-up`, `update`, or `complete`.
 - **future**: How this article might fare for the future. `update`, `rewrite`, or `review`.
 - **has**: A list of items[^possible_page_items] which the article has.
@@ -85,6 +85,8 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 	- `subject/star/host`: This page covers information regarding the host star of a specific star system.
 	- `subject/star/child`: This page covers information regarding a child star of a specific star system.
 - `subject/star_system`: This page covers information regarding star systems.
+- `subject/old_world`: This page covers information regarding the old world.
+- `subject/new_world`: This page covers information regarding the new world.
 # Dates
 Dates is an optional JSON-style array of dates which can be included in a files YAML. The following keys should be attached to each node in the array:
 - **name**: The name of the event as a string.
@@ -92,4 +94,4 @@ Dates is an optional JSON-style array of dates which can be included in a files 
 - **date**: A date string formatted as EDTF.
 
 
-[^possible_page_items]: Possible items listed here include: `infobox`, `image`, `video`, and `graphics`.
+[^possible_page_items]: Possible items listed here include: `infobox`, `image`, `video`, `graphics`, and `addenda`.

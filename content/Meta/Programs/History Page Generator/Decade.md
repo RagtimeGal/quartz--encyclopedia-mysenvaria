@@ -5,6 +5,7 @@ tags:
   - topic/history/decade
 draft: true
 type: index
+status: empty
 ---
 
 > [!note] Stub

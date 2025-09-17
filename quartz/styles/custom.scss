@@ -79,3 +79,45 @@
   color: var(--tertiary);      /* or a darker shade */
   text-decoration: underline;
 }
+
+
+
+/* 1) Turn OFF auto-hyphenation and mid-word breaking in article content */
+.page .center article,
+.page .center article p,
+.page .center article li,
+.page .center article td,
+.page .center article th,
+.page .center article a {
+  hyphens: none !important;
+  overflow-wrap: normal !important; /* don’t break inside normal words */
+  word-break: normal !important;
+}
+
+/* 2) Keep safety wrapping for things that can be very long */
+.page .center article pre,
+.page .center article code,
+.page .center article kbd,
+.page .center article samp {
+  /* allow long code/strings to wrap if needed */
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Optional: allow long naked URLs in body text to wrap without hyphenating */
+.page .center article a[href^="http"] {
+  overflow-wrap: anywhere;   /* wraps only huge URLs, leaves normal words alone */
+  hyphens: none;
+}
+
+/* Optional: headings usually shouldn’t hyphenate either */
+.page .center article h1,
+.page .center article h2,
+.page .center article h3,
+.page .center article h4,
+.page .center article h5,
+.page .center article h6 {
+  hyphens: none !important;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+}

@@ -27,18 +27,20 @@ Further information regarding a callout may be provided in the sections below if
 ## Template
 > [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Template|Template]]
 > This article is a Template. This callout, and others like it in the page, should be removed. Tags, page name, table of content, and other YAML data should be added, removed, or otherwise modified as necessary.
-## Addenda Article
-> [!hint] [[Meta/Meta|Meta]] || [[Meta/Addenda|Addenda]]
-> This article is the meta addendum of a non-meta article. You can visit the original article [here].
-## Addendum Available
-> [!hint] [[Meta/Meta|Meta]] || [[Meta/Addenda|Addendum Available]]
-> This article has an addendum, with author's notes or TTRPG-related information. Visit the addendum [here].
+## Addenda
+> [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]
+> This article is or has an addendum. Visit addenda pages by adding `Meta/` to the start of an article's URL path. E.G. `.wiki/Encyclopedia-Mysenvaria` becomes `.wiki/Meta/Encyclopedia-Mysenvaria`.
+
+Addenda are non-canon companion articles written to provide context, behind-the-scene commentary, spoilers, and guidance on adaptation for creative use—like providing TTRPG stat blocks, explaining character portrayal, or giving ideas on story application. Addenda may also be used for meta discussion regarding topics, if the main article is not fitting.
 ## Meta Articles
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* .
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 > [!abstract] [[Meta/Meta|Meta]]
 > *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
+
+> [!abstract] [[Meta/Meta|Meta]]
+> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
 # Article Status
 ## Empty
 

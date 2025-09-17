@@ -8,7 +8,7 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]* 
+> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 The following is a list of all articles from across the Encyclopedia Mysenvaria, sorted by the article's status.
 

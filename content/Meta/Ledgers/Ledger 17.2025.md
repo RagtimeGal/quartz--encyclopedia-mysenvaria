@@ -8,7 +8,7 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
 
 > [!summary] Lore Ledger #8
 > 17/2025

@@ -8,14 +8,14 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
 
 > [!summary] Lore Ledger #9
 > 34/2025
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 17.2025|Ledger 17.2025]]
 > 
-> **Next Ledger:** [[Meta/Ledgers/Ledger 37.2025|Ledger 37.2025]]
+> **Next Ledger:** [[Meta/Ledgers/Ledger 38.2025|Ledger 38.2025]]
 
 I've decided to change the way Ledgers are done henceforth, I'll make a page explaining these changes at a later date. At the moment, this ledger doesn't have much in the way of actual substance regarding newly written articles, but it does detail major refactors to the Encyclopedia Mysenvaria.
 
