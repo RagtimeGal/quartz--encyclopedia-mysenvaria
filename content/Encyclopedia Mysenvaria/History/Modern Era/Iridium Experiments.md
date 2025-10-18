@@ -1,5 +1,5 @@
 ---
-title: Exploitation of Irididum
+title: Irididum Experiments
 enableToc: true
 tags:
   - topic/history/modern_era

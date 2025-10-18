@@ -10,7 +10,7 @@ needs:
   - graphics
 ---
 
-Limn, as modeled in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], is a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|natural personification]]. Limn forms when parts of Nature seep into Reality through the Real's and Unreal's interaction. Limn is a strange substance—one which does not obey the Real nor Unreal. Because of this, it is not a true [[Encyclopedia Mysenvaria/Science/Models/Entity (science)|entities]] as defined by the USM and is not constructed from a normal [[Encyclopedia Mysenvaria/Science/Models/Material|material structure]].
+Limn, as modeled in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], is a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|natural personification]]. Limn forms when parts of Nature seep into Reality through the Real's and Unreal's interaction. Limn is a strange substance—one which does not obey the Real nor Unreal. Because of this, it is not a true [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (science)|entities]] as defined by the USM and is not constructed from a normal [[Encyclopedia Mysenvaria/Science/Models/Material|material structure]].
 # Characteristics
 Limn is observed and [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measured]] easily with the naked eye and basic tools. However, it is under closer examination that its unique composition is revealed. Limn does not resemble other particulate grains, such as salts or sugars. Instead, each grain appears to be constructed from a repeating concentric geometric fractal pattern—best described as claws.
 

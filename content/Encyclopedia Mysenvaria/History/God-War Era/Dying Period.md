@@ -8,6 +8,13 @@ status: touchup
 future: review
 has:
   - image
+date:
+  - name: "Dying Period"
+    desc: "The {{link}} is a 17 year period of time which began following the First Death, ending with the passing of three-quarters of all Gods."
+    date: "-177-1-26/-160-"
+  - name: "Dying Period"
+    desc: "Three quarters of all Gods to ever exist have passsed away, marking the end of the {{link}}."
+    date: "-160"
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
@@ -19,7 +26,7 @@ The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], short
 
 Documented in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]] the First Death would trigger an epiphany among the Gods, realizing their own mortality many would attempt to grasp control of the situation. Some would choose to secure their own lives by any means, including killing those who threatened them. On the contrary some would look to cement their legacy, publishing the stars which would form [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]]. These are referred to by historians as "violent" and "peaceful" Gods respectively.
 # Mass Casualties & Aftermath
-Over the course of the Dying Period an estimated 11.2 billion Gods would pass away[^graphic]. Each year, with the space between [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|territories]] growing and the number of "violent" Gods decreasing, a descent in the number of deaths would begin, though it would only drop off to the numbers seen through the rest of the war after the end of the Dying Period.
+Over the course of the Dying Period an estimated 11.2 billion Gods would pass away[^graphic]. As the space between [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|territories]] grew and the number of "violent" Gods decreased, a descent in the number of deaths would begin. Though it would only drop off to the numbers seen through the rest of the war after the end of the Dying Period.
 
 The Dying Period would see the introduction of [[Encyclopedia Mysenvaria/Culture/Culture#Beliefs|religion]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]] following the [[Encyclopedia Mysenvaria/History/God-War Era/The First Convening|First Convening]], though it would only be as the population of Gods stabilized into the [[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT|160s BT]] that religious institutions would be able to settle and develop.
 

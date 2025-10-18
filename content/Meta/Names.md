@@ -34,4 +34,4 @@ Name code is a standardized string of characters constructed using information r
 - `CTY`: for cities, towns, or villages. Places where people live. `DATE` is the founding of the locality.
 - `FTR`: for geographical features. `DATE` is the creation of the locality.
 
-`UID` is a custom ID generated using the UID Generator [[Meta/Scripts|program]], seeded using the incomplete name code string.
+`UID` is a custom ID generated using the UID Generator, seeded using the incomplete name code string.

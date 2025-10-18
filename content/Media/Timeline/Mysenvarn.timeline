@@ -1888,11 +1888,24 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <category>Star</category>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-169</start>
+      <end>-169</end>
+      <text>Lost Elements Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-164</start>
-      <end>-140</end>
+      <start>-64</start>
+      <end>-40</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>
