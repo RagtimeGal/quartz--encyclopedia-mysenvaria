@@ -5,6 +5,7 @@ tags:
   - topic/meta/addenda
 type: article
 status: complete
+addenda: true
 ---
 
 > [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]
