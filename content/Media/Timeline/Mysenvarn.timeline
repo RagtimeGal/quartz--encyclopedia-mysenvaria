@@ -19,14 +19,14 @@
       <parent>Geography</parent>
     </category>
     <category>
-      <name>Culture &amp; Society</name>
+      <name>Culture</name>
       <color>255,0,0</color>
       <progress_color>255,153,153</progress_color>
       <done_color>255,153,153</done_color>
       <font_color>255,255,255</font_color>
     </category>
     <category>
-      <name>Science &amp; Magic</name>
+      <name>Science</name>
       <color>255,128,64</color>
       <progress_color>128,255,255</progress_color>
       <done_color>128,255,255</done_color>
@@ -133,7 +133,7 @@
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Science &amp; Magic</category>
+      <category>Science</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -238,7 +238,7 @@
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Science &amp; Magic</category>
+      <category>Science</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -276,7 +276,7 @@
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
+      <category>Culture</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -834,7 +834,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
+      <category>Culture</category>
       <description>The Afterlife System would see a minor rebirth as Gods discuss the meaning of life and the possibility of an afterlife. This would also see the creation of the Greater God Conspiracy.</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -1065,7 +1065,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
     <event>
       <start>-25</start>
       <end>-25</end>
-      <text>The Water War</text>
+      <text>The Great Water War</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -1073,7 +1073,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>History</category>
-      <description>On the new years of 490BT Sodium, Calcium, and Iron would take matters into their own hands after being ignored by Matter. They would storm the Hydrogen-Oxygen territories and begin slaughtering. Two of the three main perpetrators, Hydrogen Peroxide and Trioxidane, would pass. Water would make it out alive to begin the flood, releasing the Flood Star to tell those they had planned with to begin.</description>
+      <description>On the new years of 25 BT Sodium, Calcium, and Iron would take matters into their own hands after being ignored by Matter. They would storm the Hydrogen-Oxygen territories and begin slaughtering. Two of the three main perpetrators, Hydrogen Peroxide and Trioxidane, would pass. Water would make it out alive to begin the flood, releasing the Flood Star to tell those they had planned with to begin. This is the Great Water War, and only one of the wars fought in the attempt to stop Water.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1100,7 +1100,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
+      <category>Culture</category>
       <description>The first elven elder roots themselves in the north, documented by the God of Sodium Ethyl Xanthate</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -1681,7 +1681,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
+      <category>Culture</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1720,7 +1720,7 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <fuzzy_end>False</fuzzy_end>
       <locked>False</locked>
       <ends_today>False</ends_today>
-      <category>Culture &amp; Society</category>
+      <category>Culture</category>
       <description>Three quarters of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
       <default_color>192,192,192</default_color>
     </event>
@@ -1904,8 +1904,8 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
   </events>
   <view>
     <displayed_period>
-      <start>-177</start>
-      <end>-159</end>
+      <start>-15</start>
+      <end>9</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>

@@ -42,15 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode()},
       ],
     }),
-    Component.Explorer({
-      filterFn: (node) => {
-        const fm = (node as any)?.data?.frontmatter ?? {}
-        if (fm.draft === true) return false
-        if (fm.addenda === true) return false
-        if ((node as any)?.slugSegment === "tags") return false
-        return true
-      },
-    })
+    Component.Explorer()
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -73,15 +65,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode()},
       ],
     }),
-    Component.Explorer({
-      filterFn: (node) => {
-        const fm = (node as any)?.data?.frontmatter ?? {}
-        if (fm.draft === true) return false
-        if (fm.addenda === true) return false
-        if ((node as any)?.slugSegment === "tags") return false
-        return true
-      },
-    })
+    Component.Explorer()
   ],
   right: [],
 }

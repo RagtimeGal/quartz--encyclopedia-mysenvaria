@@ -5,6 +5,8 @@ tags:
   - topic/science/model
 type: article
 status: stub
+has:
+  - addenda
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]

@@ -8,7 +8,7 @@ from matplotlib.widgets import Slider
 plane_radius = 8757.84
 treaty_radius = 0.53 * plane_radius
 initial_treaty_tilt_angle = np.radians(7.25)
-treaty_height, treaty_eccentricity = 3844, 0.8
+treaty_height, treaty_eccentricity = 3844, 0.017
 years_per_rotation, total_days_in_year, minutes_in_day, start_day, start_year, current_frame = 2, 360, 24 * 60, 0, 0, 0
 # Calc
 R = np.sqrt(0.27 * plane_radius**2 + treaty_height**2)

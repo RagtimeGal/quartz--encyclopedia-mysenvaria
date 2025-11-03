@@ -16,14 +16,14 @@ Under the following terms:
 - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **NonCommercial**: You may not use the material for commercial purposes.
 - **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-- **No additional restrictions**—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+- **No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 For more information on the content's license see the [Creative Commons License page](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
 ## 2. Code
 
-The Project's code is licensed under the **MIT License**.
+The Project's code is licensed under the **MIT License**, the same as Quartz.
 
 ```
 Copyright (c) 2021 jackyzha0
