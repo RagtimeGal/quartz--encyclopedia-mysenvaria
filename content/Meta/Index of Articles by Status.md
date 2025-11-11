@@ -945,4 +945,4 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]
 
 # Unspecified
-- [[Meta/Derived/extraction_warnings|extraction_warnings]]
+- [[Meta/Programs/debug/decade_article_generator/extraction_warnings|extraction_warnings]]
