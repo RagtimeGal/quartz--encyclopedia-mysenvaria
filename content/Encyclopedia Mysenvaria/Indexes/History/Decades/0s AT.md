@@ -17,10 +17,6 @@ status: complete
 > > [!summary] Centuries
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century BT|1st Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century AT|1st Century AT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century AT|2nd Century AT]] ...
 
-
-# Events
-## 0 AT
-- Sixth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
