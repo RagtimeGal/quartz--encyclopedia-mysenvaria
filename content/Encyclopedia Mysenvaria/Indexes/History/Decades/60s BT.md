@@ -20,7 +20,10 @@ status: complete
 
 # Events
 ## 55 BT
+- Second [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
 - The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] ends following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. 99% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which will ever exist were created since the start of the period.
+## 53 BT
+- Following [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|Fulgurite's]] passing at the hands of [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|Sodium Ethyl Xanthate]] they would republish many of Fulgurite's stars, including the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]].
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
