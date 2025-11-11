@@ -64,8 +64,6 @@ def find_content_root() -> pathlib.Path:
     print(f"[ROOT] Fallback content root: {fallback}")
     return fallback
 
-
-
 # ----------------- Extraction -----------------
 FM_RE   = re.compile(r"^---\r?\n(.*?)(?:\r?\n)---\r?\n?", re.S)
 DATE_RE = re.compile(r"^\s*([+-]?\d+)(?:-([0-9]{1,3}))?\s*$")

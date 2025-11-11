@@ -13,8 +13,9 @@ jobs:
   run-scripts:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v5
 
       - name: Set up Python
@@ -22,22 +23,32 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies (optional)
+      - name: Install required Python packages
         run: |
+          python -m pip install --upgrade pip
+          # Ensure PyYAML is always available for YAML parsing
+          pip install pyyaml
+          # Optionally install anything else if a requirements file exists
           if [ -f content/Meta/Programs/run_on_push/requirements.txt ]; then
             pip install -r content/Meta/Programs/run_on_push/requirements.txt
           fi
 
       - name: Run all scripts in run_on_push
         run: |
+          echo "=== Starting run_on_push scripts ==="
           for f in content/Meta/Programs/run_on_push/*.py; do
-            echo "Running $f"
+            echo "------------------------------------------------------------"
+            echo "Running: $f"
+            echo "------------------------------------------------------------"
             python "$f"
+            echo ""
           done
+          echo "=== All scripts completed ==="
 
-      - name: Commit changes (if any)
+      - name: Commit and push changes (if any)
         run: |
           if [ -n "$(git status --porcelain)" ]; then
+            echo "Committing updates..."
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -A
