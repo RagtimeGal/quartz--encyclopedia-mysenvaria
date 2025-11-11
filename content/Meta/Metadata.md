@@ -12,6 +12,8 @@ status: complete
 
 Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the encyclopedia's articles. YAML blocks may also provide optional information that scripts made for the encyclopedia can use.
 
+Anytime a `date` is asked for it is written as \[year]\["-"]\[day], where day can be omitted for less precision. Day is any number between 1 and 360 (As a single year in Mysenvar consists of 360 days) and year can be any number, including negatives. For example, "-360-56" means the 56th day of the year 360 BT (Before Treaty), whereas "360-56" means the 56th day of the year 360 AT (After Treaty).
+
 The following is a list of all YAML node keys—and examples of their values—used across the encyclopedia:
 - **title**: The title of the article, written as a string.
 - **enableToc**: Whether or not the article should list a Table of Contents. `true` or `false`.
@@ -21,8 +23,10 @@ The following is a list of all YAML node keys—and examples of their values—u
 - **future**: How this article might fare for the future. `update`, `rewrite`, or `review`.
 - **has**: A list of items[^possible_page_items] which the article has.
 - **needs**: A list of items[^possible_page_items] which could improve the article.
-- **dates**: JSON-style data array for any dates regarding the article. For information regarding the formatting of date's see the applicable portion of this article.
 - **animal**: JSON-style data for pages regarding animals. Used by scripts to format infoboxes on specific pages.
+- **event**: Data for any event dates regarding the article. For information regarding the formatting of dates see the applicable portion of this article.
+- **star**: Data for pages regarding stars. Used by scripts to generate certain pages.
+- **person**: Data for pages regarding specific characters or people. Used by scripts to generate certain pages.
 - **uid**: The UID if applicable, determined by the encyclopedia's [[Meta/Names#Name Code|name code]].
 # Tags
 Tags are broken down into two types: topics and subjects. Topics are broad and overarching, every article should have at least one topic tag. These tags are very straightforward and help with finding articles over a broad area of information. Subjects are much more narrow in the topics they discuss. Not every article needs a subject tag. They help with finding very specific articles.
@@ -91,11 +95,42 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 	- `subject/sophont/human`: This page covers information regarding an aspect of humans.
 	- `subject/sophont/elf`: This page covers information regarding an aspect of elves.
 	- `subject/sophont/dwarf`: This page covers information regarding an aspect of dwarves.
-# Dates
-Dates is an optional JSON-style array of dates which can be included in a files YAML. The following keys should be attached to each node in the array:
-- **name**: The name of the event as a string.
-- **desc**: A description of the event as a string. `{{name}}` may be included in the description, any scripts which build information will link back to the page with the date, using the name as the display for the wiki-link.
-- **date**: A date string formatted as level 2 [EDTF](https://www.loc.gov/standards/datetime/). Quarters are used in the place of months.
+# Event
+- **start_desc**: This is not optional, it provides a description of the event as a string. Wikilinks may be included.
+- **end_desc**: This is optional, it provides a description of the event as a string. Wikilinks may be included.
+- **start_date**: The date the event began, this is not optional.
+- **end_date**: If the event has a defined end it may be included as a date here.
+- **major_event**: Boolean. True means the event is listed on certain major pages.
+# Star
+- **name**: The name of the star, not optional.
+- **publications**: An array of data detailing each publication of the star. Stars can fall and be republished, which is why this is an array. It is not optional.
+	- **publishers**: This can be an array of strings, or simply just one. It accepts wiki-links too. It is not optional, there must be at least one string.
+	- **date**: The date that this publication took place. This is not optional.
+	- **desc**: This is not optional, it provides a description of the publication event as a string. Wikilinks may be included.
+	- **major_event**: Boolean. True means the event is listed on certain major pages.
+- **desc**: A short non-optional description of the star. May include wiki-links.
+- **coordinates**: The coordinates of the star in Altitude, Azimuth, & Elevation as a string. Optional.
+- **translations**: An array of data detailing each translation of the star. Multiple people over history may translate the star at different times, and so this is an array. This is optional.
+	- **translators**: This can be an array of strings, or simply just one. It accepts wiki-links too. It is not optional, there must be at least one string.
+	- **date**: The date that this translation was published. This is not optional.
+	- **desc**: Optionally provides a description of the translation event as a string. Wikilinks may be included.
+	- **major_event**: Boolean. True means the event is listed on certain major pages.
+- **parent**: A string which names the parent to this star, it is optional and may include a wiki-link.
+# Person
+- **name**: The name of the character, not optional.
+- **birthday**: The date of the character's birth, this is optional if the date of their birth is unknown.
+- **birth_location**: The location of the characters birth as a string, this accepts wiki-links and is optional.
+- **death_date**: The date of the character's passing, this is optional if the character has not passed away or if the date of their death is unknown.
+- **spouses**: An array of data detailing each spouse the character has ever had. This is optional data.
+	- **name**: The name of the character, not optional. It accepts wiki-links.
+	- **married**: The date the characters married. Optional if unknown.
+	- **divorced**: The date the characters divorced. Optional if this never occurred or is unknown.
+	- **desc**: Optionally provides a description of the marriage as a string. Wikilinks may be included.
+	- **major_event**: Boolean. True means the event is listed on certain major pages.
+- **children**: An array of strings, or simply just one. It accepts wiki-links too. It is optional.
+- **parents**: An array of strings, or simply just one. It accepts wiki-links too. It is optional.
+- **desc**: Optionally provides a description of the persons birth as a string. Wikilinks may be included.
+- **major_event**: Boolean. True means the event is listed on certain major pages.
 # Animal
 - ****
 

@@ -5,8 +5,11 @@ tags:
   - topic/history/god-war_era
 type: article
 status: empty
+event:
+  - start_desc: "On New Years the [[Encyclopedia Mysenvaria/History/God-War Era/Water Wars|Great Water War]] takes place in the Oxygen-Hydrogen territories as [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|Sodium]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|Calcium]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|Iron]], and various allies attempt to stop the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]."
+    start_date: "-25-1"
+    major_event: true
 ---
-
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 

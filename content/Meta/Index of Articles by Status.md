@@ -307,7 +307,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]
 - [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]
-- [[Encyclopedia Mysenvaria/History/God-War Era/The First Convening|The First Convening]]
+- [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]
 
 # Stub
 - [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Afterlife Star|Afterlife Star]]

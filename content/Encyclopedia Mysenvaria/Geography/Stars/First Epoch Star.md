@@ -6,6 +6,13 @@ tags:
   - subject/star
 type: article
 status: stub
+star:
+  - name: "First Epoch Star"
+    publications:
+    - publishers: ["[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]"]
+      date: "-178"
+      major_event: true
+    desc: "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the first other [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]."
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]

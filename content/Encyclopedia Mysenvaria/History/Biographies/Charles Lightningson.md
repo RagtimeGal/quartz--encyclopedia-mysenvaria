@@ -7,6 +7,11 @@ type: article
 status: empty
 needs:
   - infobox
+person:
+  - name: "Charles Lightningson"
+    birthday: "-12"
+    death_date: "-6"
+    major_event: true
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]

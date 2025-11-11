@@ -7,6 +7,10 @@ type: article
 status: empty
 needs:
   - infobox
+person:
+  - name: "Josh Soundson"
+    birthday: "-39"
+    major_event: true
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]

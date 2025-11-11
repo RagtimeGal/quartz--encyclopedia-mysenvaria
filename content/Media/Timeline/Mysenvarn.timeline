@@ -56,19 +56,6 @@
   </categories>
   <events>
     <event>
-      <start>-177</start>
-      <end>0</end>
-      <text>The God War Era</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>0</start>
       <end>609</end>
       <text>Post-War Era</text>
@@ -111,6 +98,19 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
+      <start>-177</start>
+      <end>0</end>
+      <text>The God War Era</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
       <start>1496</start>
       <end>1496</end>
       <text>Distress Signal Sent</text>
@@ -148,162 +148,6 @@
       <ends_today>False</ends_today>
       <category>People &amp; Characters</category>
       <description>The death of an unknown God marks the first time a God has ever been shown to be mortal, kickstarting the God-War as Gods begin to fight to protect their own lives.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>296</start>
-      <end>587</end>
-      <text>civil uprest</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>920</start>
-      <end>1196</end>
-      <text>lots of inventions</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-55</start>
-      <end>0</end>
-      <text>End War Epoch</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Begins with the passing of the creations act, ends with the passing of the harmonic treaty.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-116</start>
-      <end>-55</end>
-      <text>Mid War Epoch</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Begins with the invention of animals. Ends with the passing of the creations act.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>1336</start>
-      <end>1496</end>
-      <text>colonization</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-177</start>
-      <end>-116</end>
-      <text>Early War Epoch</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Begins with the start of the God War and ends with the invention of animals.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>1309</start>
-      <end>1309</end>
-      <text>Guns Invented</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Science</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>575</start>
-      <end>772</end>
-      <text>lots of philosophical and ethical changes in societies</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>1313</start>
-      <end>1313</end>
-      <text>Academy Publishing Company founded</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>1393</start>
-      <end>1393</end>
-      <text>Second Edition Encyclopedia Mysenvaria published</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>1494</start>
-      <end>1494</end>
-      <text>Moon Appears</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-41</start>
-      <end>-12</end>
-      <text>Lover's Period</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>A period of the God-War which historians note for the increase in mortal-God relations at the time. It is responsible for the birth of many Demi-Gods and Womb-Gods which are still alive today, and many more of whom are lost to history.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -363,24 +207,9 @@
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-176</start>
-      <end>-176</end>
-      <text>The First Convening</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>The first convening is held, a gathering of 17 Gods each of whom had witnessed the first death, organized by the God of Fulgurite, to discuss what they had seen. Each of the 17 members goes on to be instrumental in the war.
-The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xanthate, Porous Rock, Hydrogen Cyanide, Rubidium Perchlorate, Ethionamide, Penguinone, Sound, Diethyl Dixanthogen Disulfide, Water, Tectonics, Past, Transformation, Roll, Nickel, Weather.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-176</start>
-      <end>-176</end>
-      <text>Afterlife Star</text>
+      <start>0</start>
+      <end>0</end>
+      <text>Ending System</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -388,7 +217,153 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <description>Published by the God of Chromodynamic Energy, based off of material discussed at the First Convening they would conclude that there must be an afterlife for the Gods.</description>
+      <description>The host star was created by the God of Death and asked for an end to the war. The system would be flooded by sympathetic Gods also wishing to end the war.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>0</start>
+      <end>0</end>
+      <text>Sixth God Council Held</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The sixth council is held, and a conclusion is reached, a majority vote ends the war.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>0</start>
+      <end>0</end>
+      <text>Harmonic Treaty Passed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Harmonic Treaty is passed and ends the war.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>296</start>
+      <end>587</end>
+      <text>civil uprest</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>920</start>
+      <end>1196</end>
+      <text>lots of inventions</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1336</start>
+      <end>1496</end>
+      <text>colonization</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-140</start>
+      <end>-55</end>
+      <text>Iteration Period</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>A period of history which historians account the invention of most organisms to. It is hypothesized that 90% of all species were created by Gods during this period of time.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-55</start>
+      <end>0</end>
+      <text>End War Epoch</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Begins with the passing of the creations act, ends with the passing of the harmonic treaty.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>0</start>
+      <end>20</end>
+      <text>Great Dying</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The period of time after the war where the massive changes across the Plane caused by the Harmonic Treaty led to mass extinction of many organisms.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-177</start>
+      <end>-160</end>
+      <text>Dying Period</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Period of time classified by Historians as the time before three quarters of all Gods to ever exist passed away.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1309</start>
+      <end>1309</end>
+      <text>Guns Invented</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Science</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1313</start>
+      <end>1313</end>
+      <text>Academy Publishing Company founded</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -448,6 +423,238 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
+      <start>-140</start>
+      <end>-140</end>
+      <text>Organisms Invented</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Biology</category>
+      <description>Inspired by material discussed during the first council, the God of Hydrogen Cyanide invents the first organisms as a means of autonomous warfare, putting Gods in less danger. These organisms would be incredibly complex, but also simultaneously very basal compared to the forms they would soon begin to spread out and adapt into.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-146</start>
+      <end>-146</end>
+      <text>Evacuation Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star published by an unknown God but revived by the God of Calcium, found in the aftermath of the Great Oceanic Crater.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-55</start>
+      <end>-55</end>
+      <text>Second God Council Held</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>In an attempt to end the war once again Life and Death organize the second God Council. Though the war is not ended the Creations Act is passed, greatly limiting what Gods are allowed to create.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-55</start>
+      <end>-55</end>
+      <text>Creations Act Passed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>The Creations Act is passed following the invention of humans, greatly limiting what Gods are and are not allowed to create.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-160</start>
+      <end>-160</end>
+      <text>3/4 of Gods have Passed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture</category>
+      <description>Three quarters of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-55</start>
+      <end>-55</end>
+      <text>Prototype Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Published b the God of Hydrogen Cranide, detailing their use of humans as an assassination tool. Served as a pitch to other Gods ,enticing them to use humans themselves.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-144</start>
+      <end>-144</end>
+      <text>Debris Raining Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star by an unknown God dicussing the rain of debris.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-140</start>
+      <end>-140</end>
+      <text>Mending Earth Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star by an unknown God discussing how the tectonic plates are mending back together.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-156</start>
+      <end>-156</end>
+      <text>Border Operation</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-150</start>
+      <end>-150</end>
+      <text>Frontier Beyond Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>194</start>
+      <end>194</end>
+      <text>Humanity Discovers Unique Artificial Stars</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Science</category>
+      <description>An astronomer discovers the ability to craft their own unique artificial stars based on the principles and language of other stars. The art of astronomy and starforging changes significantly and forever.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>575</start>
+      <end>772</end>
+      <text>lots of philosophical and ethical changes in societies</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-116</start>
+      <end>-55</end>
+      <text>Mid War Epoch</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Begins with the invention of animals. Ends with the passing of the creations act.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-177</start>
+      <end>-116</end>
+      <text>Early War Epoch</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Begins with the start of the God War and ends with the invention of animals.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-41</start>
+      <end>-12</end>
+      <text>Lover's Period</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>A period of the God-War which historians note for the increase in mortal-God relations at the time. It is responsible for the birth of many Demi-Gods and Womb-Gods which are still alive today, and many more of whom are lost to history.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1393</start>
+      <end>1393</end>
+      <text>Second Edition Encyclopedia Mysenvaria published</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1494</start>
+      <end>1494</end>
+      <text>Moon Appears</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
       <start>-116</start>
       <end>-116</end>
       <text>Carbonprint System</text>
@@ -462,9 +669,9 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-140</start>
-      <end>-140</end>
-      <text>Organisms Invented</text>
+      <start>-116</start>
+      <end>-116</end>
+      <text>Animals Invented</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -472,7 +679,384 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Biology</category>
-      <description>Inspired by material discussed during the first council, the God of Hydrogen Cyanide invents the first organisms as a means of autonomous warfare, putting Gods in less danger. These organisms would be incredibly complex, but also simultaneously very basal compared to the forms they would soon begin to spread out and adapt into.</description>
+      <description>Searching for a way to effectively combat the territorial spread of plants, animals would be invented by an unknown God, they would release no star detailing their invention. Though these first forms would be simple.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-54</start>
+      <end>-54</end>
+      <text>Dwarves Invented</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Biology</category>
+      <description>Dwarves are invented by humanity as a tool for more quickly completing tasks, primarily production but also construction jobs were pushed onto the dwarves.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-54</start>
+      <end>-54</end>
+      <text>Dwarven System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star system discussing the legality of the creation of the dwarves by the humans and the possible loop holes this may create in law.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-54</start>
+      <end>-54</end>
+      <text>Greater God Conspiracy</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture</category>
+      <description>The Afterlife System would see a minor rebirth as Gods discuss the meaning of life and the possibility of an afterlife. This would also see the creation of the Greater God Conspiracy.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-49</start>
+      <end>-49</end>
+      <text>Elves Invented</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Biology</category>
+      <description>Following all the proper channels to legal creation, the God of Penguinone would create Elves.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-49</start>
+      <end>-49</end>
+      <text>Elven System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>The host star, the Elf Star, published by the God of Penguinone, would detail their creation of Elves. The star would be flooded with debate, despite having followed the Creations Act.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-41</start>
+      <end>-41</end>
+      <text>Lover's Stars</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>The binary Lover's Stars are created in a fight between Tectonics and Water. Tectonics would die in the fight.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-12</start>
+      <end>-12</end>
+      <text>Lightningson Born</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>The first Womb-God, born between a human and the corpse of the God of Lightning.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-12</start>
+      <end>-12</end>
+      <text>Fourth God Council Held</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The fourth god council is held following the birth of the first Womb-God, not consensus on ending the war is reached, but the relations act is passed.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-12</start>
+      <end>-12</end>
+      <text>Relations Act Passed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Following the fifth God Council the relations act is passed, limiting Gods abilities to feel emotions towards mortals. Though loop holes in the star are later found, even before the end of the war. Though it was too late to patch by the time of their discovery.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-10</start>
+      <end>-10</end>
+      <text>Eastern Archipelago Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>A fight between Matter and Energy creates the eastern archipelago.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-8</start>
+      <end>-8</end>
+      <text>Population, Zero Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Created by an unknown God, but released again by the God of Iodine, the star discusses the increasingly low population of Gods towards the end of the war.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-8</start>
+      <end>-8</end>
+      <text>Census System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>A small system of stars created to document the ever-decreasing number of Gods towards the end of the war. The host star was created by the God of Present Time, and the system consists of only 9 stars.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-7</start>
+      <end>-7</end>
+      <text>Southern Crater Scape Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>A disagreement between Plutonium and Time would lead to the creation of the Southern Craters.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-7</start>
+      <end>-7</end>
+      <text>Half-life System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>System documenting the fight between the God of Plutonium and Time.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-6</start>
+      <end>-6</end>
+      <text>Lightningson Passes</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>The son of lightning and a dwarf passses away.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-6</start>
+      <end>-6</end>
+      <text>Fifth God Council Held</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>Organized by Life and Death in a desperate attempt to end the war again, it would be another fruitless effort.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1</start>
+      <end>-1</end>
+      <text>Great Tear Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>A spell cast by a powerful wizard in the south would create the Great Tear, killing many thousands of people and a handfull of the remaining Gods. It would also inadvertently kill the God of Sodium Ethyl Xanthate.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-1</start>
+      <end>-1</end>
+      <text>Plea Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Created by the God of Sodium Ethyl Xanthate it would be released back into the sky by Death themself. Created moments before their passing, it begged for an end to the war.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-53</start>
+      <end>-53</end>
+      <text>Sodium Ethyl Xanthate battles Fulgurite</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>SEX and Fulgurite get into a battle over religion. SEX becomes reclusive after the battle.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-5</start>
+      <end>-5</end>
+      <text>Human Protections Act</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Passed by Sodium Ethyl Xanthate and Diethyl Dixanthogen Disulfide, would be signed by many of the southern Gods which had been rallied to the cause by SEX.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-41</start>
+      <end>-41</end>
+      <text>Tectonics Passes</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-51</start>
+      <end>-51</end>
+      <text>Founding of Sextown</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-11</start>
+      <end>-11</end>
+      <text>Watcher's Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star written by an unknown God, talking about their experience watching over humans.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-10</start>
+      <end>-10</end>
+      <text>New World System</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>A system of stars by various Gods discussing how societies have changed the world, for better or for worse.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-25</start>
+      <end>-11</end>
+      <text>Great Flood</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>The Great Flood takes place, flooding a majority of the world in water, creating the oceans as they are known today.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-176</start>
+      <end>-176</end>
+      <text>The First Convening</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <description>The first convening is held, a gathering of 17 Gods each of whom had witnessed the first death, organized by the God of Fulgurite, to discuss what they had seen. Each of the 17 members goes on to be instrumental in the war.
+The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xanthate, Porous Rock, Hydrogen Cyanide, Rubidium Perchlorate, Ethionamide, Penguinone, Sound, Diethyl Dixanthogen Disulfide, Water, Tectonics, Past, Transformation, Roll, Nickel, Weather.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-176</start>
+      <end>-176</end>
+      <text>Afterlife Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Published by the God of Chromodynamic Energy, based off of material discussed at the First Convening they would conclude that there must be an afterlife for the Gods.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -518,20 +1102,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-116</start>
-      <end>-116</end>
-      <text>Animals Invented</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Biology</category>
-      <description>Searching for a way to effectively combat the territorial spread of plants, animals would be invented by an unknown God, they would release no star detailing their invention. Though these first forms would be simple.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-108</start>
       <end>-108</end>
       <text>Flowering Plants Invented</text>
@@ -556,20 +1126,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <ends_today>False</ends_today>
       <category>Biology</category>
       <description>The God of Porous Rock invents humanity, the first highly intelligent organisms, though by this point it is unknown if they are truly conscious.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-140</start>
-      <end>-55</end>
-      <text>Iteration Period</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>A period of history which historians account the invention of most organisms to. It is hypothesized that 90% of all species were created by Gods during this period of time.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -741,34 +1297,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-146</start>
-      <end>-146</end>
-      <text>Evacuation Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Star published by an unknown God but revived by the God of Calcium, found in the aftermath of the Great Oceanic Crater.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-54</start>
-      <end>-54</end>
-      <text>Dwarves Invented</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Biology</category>
-      <description>Dwarves are invented by humanity as a tool for more quickly completing tasks, primarily production but also construction jobs were pushed onto the dwarves.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-56</start>
       <end>-56</end>
       <text>Humanity System</text>
@@ -783,107 +1311,9 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-55</start>
-      <end>-55</end>
-      <text>Second God Council Held</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>In an attempt to end the war once again Life and Death organize the second God Council. Though the war is not ended the Creations Act is passed, greatly limiting what Gods are allowed to create.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-55</start>
-      <end>-55</end>
-      <text>Creations Act Passed</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>The Creations Act is passed following the invention of humans, greatly limiting what Gods are and are not allowed to create.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-54</start>
-      <end>-54</end>
-      <text>Dwarven System</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Star system discussing the legality of the creation of the dwarves by the humans and the possible loop holes this may create in law.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-54</start>
-      <end>-54</end>
-      <text>Greater God Conspiracy</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture</category>
-      <description>The Afterlife System would see a minor rebirth as Gods discuss the meaning of life and the possibility of an afterlife. This would also see the creation of the Greater God Conspiracy.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-49</start>
-      <end>-49</end>
-      <text>Elves Invented</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Biology</category>
-      <description>Following all the proper channels to legal creation, the God of Penguinone would create Elves.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-49</start>
-      <end>-49</end>
-      <text>Elven System</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>The host star, the Elf Star, published by the God of Penguinone, would detail their creation of Elves. The star would be flooded with debate, despite having followed the Creations Act.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-41</start>
-      <end>-41</end>
-      <text>Lover's Stars</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>The binary Lover's Stars are created in a fight between Tectonics and Water. Tectonics would die in the fight.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-39</start>
       <end>-39</end>
-      <text>39.63,6394.1 Born</text>
+      <text>Soundson Born</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
       <fuzzy_start>False</fuzzy_start>
@@ -965,90 +1395,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-15</start>
-      <end>-15</end>
-      <text>Northern Mountains Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>In a dispute between the God of Weather and Lightning the northern mountains are created.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-12</start>
-      <end>-12</end>
-      <text>Lightningson Born</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>The first Womb-God, born between a human and the corpse of the God of Lightning.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-12</start>
-      <end>-12</end>
-      <text>Fourth God Council Held</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>The fourth god council is held following the birth of the first Womb-God, not consensus on ending the war is reached, but the relations act is passed.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-12</start>
-      <end>-12</end>
-      <text>Relations Act Passed</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Following the fifth God Council the relations act is passed, limiting Gods abilities to feel emotions towards mortals. Though loop holes in the star are later found, even before the end of the war. Though it was too late to patch by the time of their discovery.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-25</start>
-      <end>-11</end>
-      <text>Great Flood</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>The Great Flood takes place, flooding a majority of the world in water, creating the oceans as they are known today.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-24</start>
-      <end>-24</end>
-      <text>Elemental Act Passed</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Following the start of the flood the Elemental Act is forced to pass by matter, though it does not fix the already existant problem of the flood.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-27</start>
       <end>-27</end>
       <text>Apology System</text>
@@ -1091,104 +1437,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-18</start>
-      <end>-18</end>
-      <text>First Elven Elder</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture</category>
-      <description>The first elven elder roots themselves in the north, documented by the God of Sodium Ethyl Xanthate</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-18</start>
-      <end>-18</end>
-      <text>Elder's Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Star created by the God of Sodium Ethyl Xanthate to document the rooting of the first elven elder.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-10</start>
-      <end>-10</end>
-      <text>Eastern Archipelago Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>A fight between Matter and Energy creates the eastern archipelago.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-8</start>
-      <end>-8</end>
-      <text>Population, Zero Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Created by an unknown God, but released again by the God of Iodine, the star discusses the increasingly low population of Gods towards the end of the war.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-8</start>
-      <end>-8</end>
-      <text>Census System</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>A small system of stars created to document the ever-decreasing number of Gods towards the end of the war. The host star was created by the God of Present Time, and the system consists of only 9 stars.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-7</start>
-      <end>-7</end>
-      <text>Southern Crater Scape Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>A disagreement between Plutonium and Time would lead to the creation of the Southern Craters.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-7</start>
-      <end>-7</end>
-      <text>Half-life System</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>System documenting the fight between the God of Plutonium and Time.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-175</start>
       <end>-175</end>
       <text>Spatial Act Passed</text>
@@ -1228,132 +1476,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <ends_today>False</ends_today>
       <category>Star</category>
       <description>Gods abuse of infinite energy causes the passing of the Energy Act, limiting their abilities to manipulate and create energy. The act is refuted by many Gods, forming a small system of stars around itself, but the God of Energy does not back down from their stance and maintains the act.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-6</start>
-      <end>-6</end>
-      <text>Lightningson Passes</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>The son of lightning and a dwarf passses away.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-6</start>
-      <end>-6</end>
-      <text>Fifth God Council Held</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Organized by Life and Death in a desperate attempt to end the war again, it would be another fruitless effort.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-1</start>
-      <end>-1</end>
-      <text>Great Tear Created</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Geography</category>
-      <description>A spell cast by a powerful wizard in the south would create the Great Tear, killing many thousands of people and a handfull of the remaining Gods. It would also inadvertently kill the God of Sodium Ethyl Xanthate.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-1</start>
-      <end>-1</end>
-      <text>Plea Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Created by the God of Sodium Ethyl Xanthate it would be released back into the sky by Death themself. Created moments before their passing, it begged for an end to the war.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>0</start>
-      <end>0</end>
-      <text>Ending System</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>The host star was created by the God of Death and asked for an end to the war. The system would be flooded by sympathetic Gods also wishing to end the war.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>0</start>
-      <end>0</end>
-      <text>Sixth God Council Held</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>The sixth council is held, and a conclusion is reached, a majority vote ends the war.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>0</start>
-      <end>0</end>
-      <text>Harmonic Treaty Passed</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Harmonic Treaty is passed and ends the war.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-53</start>
-      <end>-53</end>
-      <text>Sodium Ethyl Xanthate battles Fulgurite</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>SEX and Fulgurite get into a battle over religion. SEX becomes reclusive after the battle.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-23</start>
-      <end>-23</end>
-      <text>Sodium Ethyl Xanthate Returns</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <description>After their reclusive era SEX returns to the political scene.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1618,20 +1740,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-177</start>
-      <end>-160</end>
-      <text>Dying Period</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>Period of time classified by Historians as the time before three quarters of all Gods to ever exist passed away.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-127</start>
       <end>-127</end>
       <text>Mycelia System</text>
@@ -1642,46 +1750,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-5</start>
-      <end>-5</end>
-      <text>Human Protections Act</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Passed by Sodium Ethyl Xanthate and Diethyl Dixanthogen Disulfide, would be signed by many of the southern Gods which had been rallied to the cause by SEX.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-41</start>
-      <end>-41</end>
-      <text>Tectonics Passes</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>People &amp; Characters</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-51</start>
-      <end>-51</end>
-      <text>Founding of Sextown</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1708,48 +1776,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <locked>False</locked>
       <ends_today>False</ends_today>
       <category>Star</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-160</start>
-      <end>-160</end>
-      <text>3/4 of Gods have Passed</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Culture</category>
-      <description>Three quarters of all Gods to ever exist have passed away as casualties to the war, the ever-decreasing population of Gods has become a talking point for many.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>0</start>
-      <end>20</end>
-      <text>Great Dying</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>History</category>
-      <description>The period of time after the war where the massive changes across the Plane caused by the Harmonic Treaty led to mass extinction of many organisms.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-55</start>
-      <end>-55</end>
-      <text>Prototype Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Published b the God of Hydrogen Cranide, detailing their use of humans as an assassination tool. Served as a pitch to other Gods ,enticing them to use humans themselves.</description>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1780,62 +1806,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <default_color>192,192,192</default_color>
     </event>
     <event>
-      <start>-11</start>
-      <end>-11</end>
-      <text>Watcher's Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Star written by an unknown God, talking about their experience watching over humans.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-10</start>
-      <end>-10</end>
-      <text>New World System</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>A system of stars by various Gods discussing how societies have changed the world, for better or for worse.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-144</start>
-      <end>-144</end>
-      <text>Debris Raining Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Star by an unknown God dicussing the rain of debris.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-140</start>
-      <end>-140</end>
-      <text>Mending Earth Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <description>Star by an unknown God discussing how the tectonic plates are mending back together.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
       <start>-138</start>
       <end>-138</end>
       <text>Cilia Star</text>
@@ -1847,32 +1817,6 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <ends_today>False</ends_today>
       <category>Star</category>
       <description>Star by the God of Aspartic Acid detailing the creation of their own animals following the publication of the Mitosis System.</description>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-156</start>
-      <end>-156</end>
-      <text>Border Operation</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
-      <default_color>192,192,192</default_color>
-    </event>
-    <event>
-      <start>-150</start>
-      <end>-150</end>
-      <text>Frontier Beyond Star</text>
-      <progress>0</progress>
-      <fuzzy>False</fuzzy>
-      <fuzzy_start>False</fuzzy_start>
-      <fuzzy_end>False</fuzzy_end>
-      <locked>False</locked>
-      <ends_today>False</ends_today>
-      <category>Star</category>
       <default_color>192,192,192</default_color>
     </event>
     <event>
@@ -1901,11 +1845,81 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <category>Star</category>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-15</start>
+      <end>-15</end>
+      <text>Northern Mountains Created</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Geography</category>
+      <description>In a dispute between the God of Weather and Lightning the northern mountains are created.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-24</start>
+      <end>-24</end>
+      <text>Elemental Act Passed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Following the start of the flood the Elemental Act is forced to pass by matter, though it does not fix the already existant problem of the flood.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-18</start>
+      <end>-18</end>
+      <text>First Elven Elder</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Culture</category>
+      <description>The first elven elder roots themselves in the north, documented by the God of Sodium Ethyl Xanthate</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-18</start>
+      <end>-18</end>
+      <text>Elder's Star</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Star</category>
+      <description>Star created by the God of Sodium Ethyl Xanthate to document the rooting of the first elven elder.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>-23</start>
+      <end>-23</end>
+      <text>Sodium Ethyl Xanthate Returns</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>People &amp; Characters</category>
+      <description>After their reclusive era SEX returns to the political scene.</description>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-15</start>
-      <end>9</end>
+      <start>-30</start>
+      <end>-8</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>

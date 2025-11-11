@@ -1,29 +1,25 @@
 ---
-title: Great Flood
+title: God of Roll
 enableToc: true
 tags:
-  - topic/history/god-war_era
+  - topic/history/biography
+  - subject/god/lesser-god
+  - subject/god/energy_god
 type: article
 status: empty
-event:
-  - start_desc: "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]."
-    end_desc: "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]."
-    start_date: "-25"
-    end_date: "-11"
-    major_event: true
+needs:
+  - infobox
 ---
-
-
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-# Overview
+# History
 
-# Prelude
+# Appearance
 
-# Aftermath
-
-# Timeline
+# Domain
 
 # See Also
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|List of Energy Gods]]

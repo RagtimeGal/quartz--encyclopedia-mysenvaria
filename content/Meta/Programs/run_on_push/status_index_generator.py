@@ -79,7 +79,7 @@ def read_file(p: pathlib.Path) -> str:
 
 
 def extract_kv(fm: str, key: str) -> Optional[str]:
-    """Extract a scalar YAML value on a single line like 'status: complete'."""
+    """Extract a scalar YAML value on a single line like 'status: complete' or 'title: Foo'."""
     for line in fm.splitlines():
         m = KV_RE.match(line)
         if not m:
@@ -125,16 +125,17 @@ def main():
     for md in iter_markdown_files(ROOT):
         text = read_file(md)
         fm, _ = parse_front_matter(text)
-        status = None
+        status = title = None
         if fm is not None:
             status = extract_kv(fm, "status")
+            title = extract_kv(fm, "title")
 
         norm_status = (status or "").strip().lower() or (UNSPECIFIED_LABEL if INCLUDE_UNSPECIFIED else None)
         if norm_status is None:
             continue
 
         target = wiki_target(ROOT, md)
-        display = md.stem  # always use filename (without .md) as display text
+        display = title.strip() if title else md.stem  # <- use title if present, else filename
         groups[norm_status].append((display, target))
 
     # Sort items in each group by display text
@@ -160,6 +161,7 @@ def main():
         header = status_key if status_key != UNSPECIFIED_LABEL else UNSPECIFIED_LABEL
         lines.append(f"# {header.capitalize() if header != UNSPECIFIED_LABEL else header}")
         for display, target in items:
+            # Always write explicit [[path|display]]
             lines.append(f"- [[{target}|{display}]]")
         lines.append("")
 

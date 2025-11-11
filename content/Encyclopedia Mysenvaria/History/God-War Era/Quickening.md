@@ -5,6 +5,11 @@ tags:
   - topic/history/god-war_era
 type: article
 status: touchup
+event:
+  - start_desc: "The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] begins shortly after the first domain subdivisions by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. An estimated 15 billion [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] would be created over less than a single [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|season]]."
+    start_date: "-178-294"
+    end_date: ""
+    major_event: true
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]

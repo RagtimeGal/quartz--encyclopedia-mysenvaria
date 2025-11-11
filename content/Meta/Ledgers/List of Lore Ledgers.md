@@ -12,6 +12,7 @@ status: update
 
 The following article serves as an index of the encyclopedia's Lore Ledgers. Lore Ledgers are [[Meta/Meta|meta]] overviews of recent progress and updates across the encyclopedia, intended to help readers explore and understand how the encyclopedia is updated.
 # 2025
+- [[Meta/Ledgers/Ledger 46.2025|Ledger 46.2025]]
 - [[Meta/Ledgers/Ledger 45.2025|Ledger 45.2025]]
 - [[Meta/Ledgers/Ledger 38.2025|Ledger 38.2025]]
 - [[Meta/Ledgers/Ledger 34.2025|Ledger 34.2025]]
