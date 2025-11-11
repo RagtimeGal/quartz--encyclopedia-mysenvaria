@@ -402,8 +402,26 @@ def centuries_dir(root: pathlib.Path) -> pathlib.Path:
     return (root / CENTURIES_DIR_REL).resolve()
 
 def wiki_target(root: pathlib.Path, file_path: pathlib.Path) -> str:
-    rel = file_path.relative_to(root).with_suffix("")
+    """
+    Build a vault-style wikilink target from a filesystem path that is
+    inside the vault. (Used only for decade/century link rows we generate.)
+    """
+    rel = file_path.resolve().relative_to(root.resolve()).with_suffix("")
     return rel.as_posix()
+
+def wiki_target_from_source(root: pathlib.Path, source_field: str) -> str:
+    """
+    Convert the 'source' string saved in extracted_data into a vault-style
+    wikilink target. Works even if source_field is absolute and outside root.
+    """
+    s = str(source_field).replace("\\", "/")
+    # strip any leading .../content/ if present
+    root_norm = str(root).replace("\\", "/")
+    if s.lower().startswith(root_norm.lower() + "/"):
+        s = s[len(root_norm) + 1:]
+    if s.endswith(".md"):
+        s = s[:-3]
+    return s
 
 # ----------------- Template & rendering -----------------
 DEFAULT_TEMPLATE = """---
@@ -510,8 +528,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         if not pe.get("major_event", False):
             continue
         title = pe.get("title") or pathlib.Path(pe["source"]).stem
-        src = (root / pe["source"]).resolve()
-        target = wiki_target(root, src)
+        target = wiki_target_from_source(root, pe["source"])
 
         b = pe.get("birthday"); d = pe.get("death_date")
         by = int(b["year"]) if isinstance(b, dict) and "year" in b else None
@@ -602,8 +619,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         d = int(first_pub["date"].get("day", 0)) or None
         dstart = (y // 10) * 10
 
-        src = (root / base["source"]).resolve()
-        target = wiki_target(root, src)
+        target = wiki_target_from_source(root, base["source"])
         name  = base.get("star_name") or pathlib.Path(base["source"]).stem
         coords = base.get("coordinates", "") or ""
         star_desc = base.get("desc", "") or ""

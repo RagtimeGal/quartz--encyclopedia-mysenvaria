@@ -19,8 +19,14 @@ status: complete
 
 
 # Events
+## 12 BT
+- Fourth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
 ## 11 BT
 - End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].
+# Significant People
+## Births
+### 12 BT
+- [[Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson|Charles Lightningson]] (d. 6 BT)
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
