@@ -11,7 +11,7 @@ from typing import Any, Dict, List, Tuple, Optional
 CONTENT_DIRNAME = "content"
 
 # Extraction outputs
-DERIVED_DIR_REL = pathlib.Path("Meta/Derived")
+DERIVED_DIR_REL = pathlib.Path("Meta/Programs/debug/decade_article_generator")
 EXTRACTED_JSON = "extracted_data.json"
 WARNINGS_MD  = "extraction_warnings.md"
 
@@ -27,7 +27,7 @@ END_YEAR   = 1499   # 1499 AT (will produce up to the 1490s AT page)
 DECADE_TEMPLATE_PATH: Optional[pathlib.Path] = None
 
 # Write mode
-DRY_RUN = False  # flip to False to actually write pages
+DRY_RUN = False
 
 # Skip scanning these dirs during extraction
 EXCLUDE_DIRS = {
@@ -36,7 +36,16 @@ EXCLUDE_DIRS = {
 }
 # ==================================================
 
+# Optional explicit override (great for CI)
+# Set DECADE_GEN_CONTENT_ROOT to an absolute path ending with .../content
+ENV_CONTENT_ROOT = os.getenv("DECADE_GEN_CONTENT_ROOT")
+
 def find_content_root() -> pathlib.Path:
+    if ENV_CONTENT_ROOT:
+        p = pathlib.Path(ENV_CONTENT_ROOT)
+        print(f"[ROOT] Using ENV DECADE_GEN_CONTENT_ROOT = {p}")
+        return p
+
     candidates = []
     ws = os.getenv("GITHUB_WORKSPACE")
     if ws:
@@ -44,11 +53,17 @@ def find_content_root() -> pathlib.Path:
     here = pathlib.Path(__file__).resolve()
     candidates.extend(here.parents)
     candidates.append(pathlib.Path.cwd())
+
     for base in candidates:
         p = base / CONTENT_DIRNAME
         if p.is_dir():
+            print(f"[ROOT] Using discovered content root: {p}")
             return p
-    return here.parent / CONTENT_DIRNAME
+
+    fallback = here.parent / CONTENT_DIRNAME
+    print(f"[ROOT] Fallback content root: {fallback}")
+    return fallback
+
 
 
 # ----------------- Extraction -----------------
@@ -845,6 +860,11 @@ def build_decade_page_content(root: pathlib.Path,
 
 def main():
     root = find_content_root()
+
+    # How many markdowns are we scanning?
+    md_count = sum(1 for _ in iter_markdown(root))
+    print(f"[SCAN] content root = {root}")
+    print(f"[SCAN] markdown files under root = {md_count}")
 
     # 1) Extract fresh JSON (events/people/stars, list-aware)
     data = ensure_extracted_json(root)
