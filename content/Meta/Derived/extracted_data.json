@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "front_matters": 919,
+    "parsed_events": 12,
+    "parsed_people": 0,
+    "parsed_star_bases": 0,
+    "parsed_star_publications": 0,
+    "parsed_star_translations": 0,
+    "yaml_loader_usage": {
+      "pyyaml": 0,
+      "fallback": 919
+    }
+  },
+  "event": [
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
+      "kind": "event",
+      "start_date": {
+        "year": -145,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
+      "kind": "event",
+      "start_date": {
+        "year": -55,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
+      "kind": "event",
+      "start_date": {
+        "year": -39,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
+      "kind": "event",
+      "start_date": {
+        "year": -12,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
+      "kind": "event",
+      "start_date": {
+        "year": -6,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Convening.md",
+      "kind": "event",
+      "start_date": {
+        "year": -176,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Iteration Period.md",
+      "kind": "event",
+      "start_date": {
+        "year": -140,
+        "day": 0
+      },
+      "end_date": {
+        "year": -55,
+        "day": 0
+      },
+      "start_desc": null,
+      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] ends following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. 99% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which will ever exist were created since the start of the period.",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Death.md",
+      "kind": "event",
+      "start_date": {
+        "year": -177,
+        "day": 26
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Dying Period.md",
+      "kind": "event",
+      "start_date": {
+        "year": -177,
+        "day": 26
+      },
+      "end_date": {
+        "year": -160,
+        "day": 267
+      },
+      "start_desc": null,
+      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Quickening.md",
+      "kind": "event",
+      "start_date": {
+        "year": -178,
+        "day": 294
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Water Wars.md",
+      "kind": "event",
+      "start_date": {
+        "year": -25,
+        "day": 1
+      },
+      "end_date": null,
+      "start_desc": null,
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md",
+      "kind": "event",
+      "start_date": {
+        "year": -25,
+        "day": 0
+      },
+      "end_date": {
+        "year": -11,
+        "day": 0
+      },
+      "start_desc": null,
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
+      "major_event": true
+    }
+  ],
+  "person": [],
+  "star": {
+    "bases": [],
+    "publications": [],
+    "translations": []
+  }
+}
