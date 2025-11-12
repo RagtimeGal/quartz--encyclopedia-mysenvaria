@@ -109,6 +109,7 @@ POINTER_POLICY = {
     "person[].death_desc": "desc_strict",
     "person[].parents[]":  "name_lenient_wikilink",
     "person[].children[]": "name_lenient_wikilink",
+    "person[].spouses[].name": "name_lenient_wikilink",
 
     # Stars
     "star.bases[].desc":                 "desc_strict",

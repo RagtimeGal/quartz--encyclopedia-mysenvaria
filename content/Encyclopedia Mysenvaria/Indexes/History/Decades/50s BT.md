@@ -21,7 +21,7 @@ status: complete
 # Significant People
 ## Relationships
 ### 42 BT
-- [[Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife|Dwarf Soundwife]] marries spouse1 (d. 12 BT)
+- [[Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife|Dwarf Soundwife]] marries [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Sound|God of Sound]] (d. 12 BT)
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
