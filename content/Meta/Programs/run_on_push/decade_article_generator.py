@@ -68,6 +68,184 @@ def find_content_root() -> pathlib.Path:
 FM_RE   = re.compile(r"^---\r?\n(.*?)(?:\r?\n)---\r?\n?", re.S)
 DATE_RE = re.compile(r"^\s*([+-]?\d+)(?:-([0-9]{1,3}))?\s*$")
 
+# --- Generic pointer resolution (post-normalization) ---
+
+def _is_pointer_id(s: str) -> bool:
+    return bool(isinstance(s, str) and POINTER_RE.match(s))
+
+def _is_wikilink(s: str) -> bool:
+    return isinstance(s, str) and s.strip().startswith("[[")
+
+def resolve_desc_strict(value, desc_map, warnings, src_rel):
+    """For prose/desc fields. ID required to exist; warn if missing."""
+    if isinstance(value, str) and _is_pointer_id(value):
+        if value in desc_map:
+            return desc_map[value]
+        warnings.append(f"- Missing desc pointer '{value}' in {src_rel}")
+        return ""  # strict
+    return value
+
+def resolve_name_lenient_wikilink(value, desc_map, _warnings, _src_rel):
+    """For name-ish fields that may contain wikilinks."""
+    if isinstance(value, str):
+        if _is_wikilink(value):
+            return value
+        if _is_pointer_id(value):
+            return desc_map.get(value, value)  # lenient: keep original if missing
+    return value
+
+# Registry: path -> resolver kind
+# Path syntax:
+#   - Dict keys joined by dots, e.g. "event[].start_desc"
+#   - Use [] after a key to indicate a list at that level.
+#   - Works inside nested objects.
+POINTER_POLICY = {
+    # Events
+    "event[].start_desc": "desc_strict",
+    "event[].end_desc":   "desc_strict",
+
+    # People
+    "person[].birth_desc": "desc_strict",
+    "person[].death_desc": "desc_strict",
+    "person[].parents[]":  "name_lenient_wikilink",
+    "person[].children[]": "name_lenient_wikilink",
+
+    # Stars
+    "star.bases[].desc":                 "desc_strict",
+    "star.publications[].desc":          "desc_strict",
+    "star.publications[].publishers[]":  "name_lenient_wikilink",
+    "star.translations[].desc":          "desc_strict",
+    "star.translations[].translators[]": "name_lenient_wikilink",
+}
+
+RESOLVER_FUNCS = {
+    "desc_strict": resolve_desc_strict,
+    "name_lenient_wikilink": resolve_name_lenient_wikilink,
+}
+
+def _apply_policy_to_node(node, path_parts, resolver, desc_map, warnings, src_rel):
+    """
+    Recursively apply resolver to node at the given path.
+    path_parts items can be "key" or "key[]" for list.
+    """
+    if not path_parts:
+        # leaf: apply resolver to scalar or list elements
+        if isinstance(node, list):
+            return [resolver(v, desc_map, warnings, src_rel) for v in node]
+        else:
+            return resolver(node, desc_map, warnings, src_rel)
+
+    head = path_parts[0]
+    is_list = head.endswith("[]")
+    key = head[:-2] if is_list else head
+
+    if not isinstance(node, dict) or key not in node:
+        return node  # path not present
+
+    if is_list:
+        lst = node.get(key)
+        if isinstance(lst, list):
+            node[key] = [
+                _apply_policy_to_node(elem, path_parts[1:], resolver, desc_map, warnings, src_rel)
+                for elem in lst
+            ]
+        return node
+    else:
+        node[key] = _apply_policy_to_node(node[key], path_parts[1:], resolver, desc_map, warnings, src_rel)
+        return node
+
+def apply_pointer_policy(payload, desc_maps_by_source, warnings):
+    """
+    Walk the extracted payload and apply the pointer policy.
+    We need a desc_map per source file. To keep it simple, this function expects
+    each top-level row to carry 'source' so we can pick the right desc_map.
+    """
+    def get_desc_map_for_row(row):
+        src_rel = row.get("source", "")
+        return desc_maps_by_source.get(src_rel, {}), src_rel
+
+    # helper to iterate over rows at a given top-level path
+    def iter_rows(path):
+        # e.g., "event[]" or "person[]" or "star.publications[]"
+        parts = path.split(".")
+        cur = payload
+        for p in parts:
+            if p.endswith("[]"):
+                key = p[:-2]
+                cur = cur.get(key, [])
+                for row in cur:
+                    yield row
+                return
+            else:
+                cur = cur.get(p, {})
+        # if we land on a list directly without [] in path (unlikely), no-op
+
+    for policy_path, resolver_name in POINTER_POLICY.items():
+        resolver = RESOLVER_FUNCS[resolver_name]
+        # We need to apply per-row with its own desc_map (per source)
+        # So: split path into head collection and the rest
+        parts = policy_path.split(".")
+        # Find the first list boundary to iterate rows
+        try:
+            first_list_idx = next(i for i, p in enumerate(parts) if p.endswith("[]"))
+        except StopIteration:
+            # No list in the path ⇒ single object (like star), apply once with empty desc_map
+            _apply_policy_to_node(payload, parts, resolver, {}, warnings, "")
+            continue
+
+        head_path = ".".join(parts[:first_list_idx + 1])  # e.g., "event[]"
+        tail_parts = parts[first_list_idx + 1:]
+
+        for row in iter_rows(head_path):
+            desc_map, src_rel = get_desc_map_for_row(row)
+            _apply_policy_to_node(row, tail_parts, resolver, desc_map, warnings, src_rel)
+
+# --- Desc-pointer helpers (hidden block right after front matter) ---
+HIDDEN_BLOCK_RE = re.compile(r"%%(.*?)%%", re.S)           # first hidden block
+POINTER_RE      = re.compile(r"^[A-Za-z0-9_-]+$")          # id-only strings
+
+def parse_desc_dict(block_text: str) -> Dict[str, str]:
+    """
+    Parse a simple 'key: value' mapping with optional multi-line continuations.
+    Continuations are any non 'key:' lines following a key.
+    Blank lines are preserved inside a value.
+    """
+    descs: Dict[str, str] = {}
+    cur_key = None
+    cur_lines: List[str] = []
+    for raw in (block_text or "").splitlines():
+        if not raw.strip():
+            if cur_key is not None:
+                cur_lines.append("")  # keep empty line inside value
+            continue
+        m = re.match(r"^\s*([A-Za-z0-9_-]+)\s*:\s*(.*)$", raw)
+        if m:
+            # flush previous
+            if cur_key is not None:
+                descs[cur_key] = "\n".join(cur_lines).rstrip()
+            cur_key = m.group(1)
+            first = m.group(2).rstrip()
+            cur_lines = [first] if first else []
+        else:
+            if cur_key is not None:
+                cur_lines.append(raw)
+    if cur_key is not None:
+        descs[cur_key] = "\n".join(cur_lines).rstrip()
+    return descs
+
+def resolve_desc(value: Any, desc_map: Dict[str, str], warnings: List[str], src_rel: str) -> str:
+    """
+    If 'value' looks like a pointer id (^[A-Za-z0-9_-]+$), resolve from desc_map.
+    Otherwise, return as-is (string) or "".
+    Emits a warning if an id is missing.
+    """
+    if isinstance(value, str) and POINTER_RE.match(value):
+        resolved = desc_map.get(value, "")
+        if not resolved:
+            warnings.append(f"- Missing desc pointer '{value}' in {src_rel}")
+        return resolved
+    return value.strip() if isinstance(value, str) else ""
+
 def try_load_yaml(text: str) -> Optional[Dict[str, Any]]:
     try:
         import yaml  # type: ignore
@@ -186,6 +364,7 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
     out_dir = (root / DERIVED_DIR_REL); out_dir.mkdir(parents=True, exist_ok=True)
     json_path = out_dir / EXTRACTED_JSON
     warn_path = out_dir / WARNINGS_MD
+    desc_maps_by_source: Dict[str, Dict[str, str]] = {}
 
     WRITE_JSON_WHEN_DRY = False  # set True if you want the JSON even in DRY runs
 
@@ -205,8 +384,14 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
         "parsed_star_translations": 0,
         "yaml_loader_usage": {"pyyaml": 0, "fallback": 0},
     }
+    warnings_list: List[str] = []
 
-    def normalize_event_block(block: Dict[str, Any], src_rel: str) -> Optional[Dict[str, Any]]:
+    def normalize_event_block(
+        block: Dict[str, Any],
+        src_rel: str,
+        desc_map: Dict[str, str],
+        warnings_list: List[str],
+    ) -> Optional[Dict[str, Any]]:
         # REQUIRED start date
         sd = parse_mysenvar_date(
             block.get("start_date") or block.get("start") or block.get("date") or block.get("when")
@@ -217,14 +402,13 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
         # Descriptions (new schema) + fallback for old 'desc' into start_desc
         start_desc = block.get("start_desc")
         end_desc   = block.get("end_desc")
+
         if not isinstance(start_desc, str) or not start_desc.strip():
-            # fallback for old schema
-            legacy = block.get("desc")
+            legacy = block.get("desc")  # backward-compat
             start_desc = legacy if isinstance(legacy, str) else None
-        if isinstance(start_desc, str):
-            start_desc = start_desc.strip()
-        if isinstance(end_desc, str):
-            end_desc = end_desc.strip()
+
+        start_desc_resolved = resolve_desc(start_desc, desc_map, warnings_list, src_rel) if start_desc else ""
+        end_desc_resolved   = resolve_desc(end_desc,   desc_map, warnings_list, src_rel) if end_desc   else ""
 
         # Optional end date
         ed_raw = block.get("end_date") or block.get("end")
@@ -233,33 +417,73 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
         return {
             "source": src_rel,
             "kind": "event",
-            "start_date": sd,          # {year, day}
-            "end_date": ed,            # {year, day} or None
-            "start_desc": start_desc,  # str | None
-            "end_desc": end_desc,      # str | None
+            "start_date": sd,
+            "end_date": ed,
+            "start_desc": (start_desc_resolved or None),
+            "end_desc":   (end_desc_resolved or None),
             "major_event": bool(block.get("major_event", False)),
         }
 
-    def normalize_person_block(block: Dict[str, Any], src_rel: str, fm_title: Optional[str]) -> Optional[Dict[str, Any]]:
+    def normalize_person_block(block: Dict[str, Any], src_rel: str, fm_title: Optional[str],
+                           desc_map: Dict[str, str], warnings_list: List[str]) -> Optional[Dict[str, Any]]:
         nm = block.get("name")
-        if not isinstance(nm, str) or not nm.strip(): return None
+        if not isinstance(nm, str) or not nm.strip():
+            return None
+
         out: Dict[str, Any] = {
-            "source": src_rel, "kind": "person", "name": nm.strip(),
+            "source": src_rel,
+            "kind": "person",
+            "name": nm.strip(),
             "major_event": bool(block.get("major_event", False)),
         }
+
+        # birth / death
         b = block.get("birthday")
         if b is not None:
             bp = parse_mysenvar_date(b)
-            if bp is not None: out["birthday"] = bp
+            if bp is not None:
+                out["birthday"] = bp
         d = block.get("death_date") or block.get("death")
         if d is not None:
             dp = parse_mysenvar_date(d)
-            if dp is not None: out["death_date"] = dp
+            if dp is not None:
+                out["death_date"] = dp
+
+        # inside normalize_person_block(...)
+        if isinstance(block.get("birth_desc"), str):
+            out["birth_desc"] = resolve_desc(block["birth_desc"], desc_map, warnings_list, src_rel)
+        if isinstance(block.get("death_desc"), str):
+            out["death_desc"] = resolve_desc(block["death_desc"], desc_map, warnings_list, src_rel)
+
+        # spouses (unchanged)
+        # spouses (relationships only; ignore desc/major_event if present)
+        sp = block.get("spouses") or []
+        if isinstance(sp, dict):
+            sp = [sp]
+        spouses_out: List[Dict[str, Any]] = []
+        if isinstance(sp, list):
+            for item in sp:
+                if not isinstance(item, dict):
+                    continue
+                name2 = item.get("name")
+                if not isinstance(name2, str) or not name2.strip():
+                    continue
+                sp_start = parse_mysenvar_date(item.get("start_date")) if item.get("start_date") is not None else None
+                sp_end   = parse_mysenvar_date(item.get("end_date"))   if item.get("end_date")   is not None else None
+                spouses_out.append({
+                    "name": name2.strip(),
+                    "start_date": sp_start,
+                    "end_date": sp_end,
+                })
+        if spouses_out:
+            out["spouses"] = spouses_out
+
         if isinstance(fm_title, str) and fm_title.strip():
             out["title"] = fm_title.strip()
         return out
 
-    def normalize_star_block(block: Dict[str, Any], src_rel: str, fm_title: Optional[str]) -> Tuple[Optional[Dict], List[Dict], List[Dict]]:
+    def normalize_star_block(block: Dict[str, Any], src_rel: str, fm_title: Optional[str],
+                         desc_map: Dict[str, str], warnings_list: List[str]) -> Tuple[Optional[Dict], List[Dict], List[Dict]]:
         """Return (base, pubs, trns)."""
         name = block.get("name")
         if not isinstance(name, str) or not name.strip():
@@ -268,7 +492,7 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
             "source": src_rel,
             "star_name": name.strip(),
             "coordinates": block.get("coordinates", "") if isinstance(block.get("coordinates"), str) else "",
-            "desc": (block.get("desc") or "").strip(),  # star-level description
+            "desc": resolve_desc((block.get("desc") or ""), desc_map, warnings_list, src_rel),
             "fm_title": fm_title,
         }
         pubs_out = []
@@ -283,7 +507,7 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
                     "source": src_rel,
                     "star_name": base["star_name"],
                     "date": sd,
-                    "desc": (item.get("desc") or "").strip(),  # publication desc
+                    "desc": resolve_desc((item.get("desc") or ""), desc_map, warnings_list, src_rel),
                     "publishers": item.get("publishers"),
                     "major_event": bool(item.get("major_event", False)),
                     "fm_title": fm_title,
@@ -300,7 +524,7 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
                     "source": src_rel,
                     "star_name": base["star_name"],
                     "date": sd,
-                    "desc": (item.get("desc") or "").strip(),  # translation desc (optional upstream)
+                    "desc": resolve_desc((item.get("desc") or ""), desc_map, warnings_list, src_rel),
                     "translators": item.get("translators"),
                     "major_event": bool(item.get("major_event", False)),
                     "fm_title": fm_title,
@@ -308,48 +532,53 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
         return (base, pubs_out, trn_out)
 
     for md in iter_markdown(root):
-        fm, _, used = read_front_matter(md)
+        fm, body, used = read_front_matter(md)
+        desc_map = {}
+        m_hidden = HIDDEN_BLOCK_RE.search(body or "")
+        if m_hidden:
+            desc_map = parse_desc_dict(m_hidden.group(1) or "")
         if used in meta["yaml_loader_usage"]:
             meta["yaml_loader_usage"][used] += 1
         if not isinstance(fm, dict):
             continue
         meta["front_matters"] += 1
         src_rel = md.relative_to(root).as_posix()
+        desc_maps_by_source[src_rel] = desc_map
         fm_title = fm.get("title") if isinstance(fm.get("title"), str) else None
 
         # events
         ev_block = fm.get("event")
         if isinstance(ev_block, dict):
-            ev = normalize_event_block(ev_block, src_rel)
+            ev = normalize_event_block(ev_block, src_rel, desc_map, warnings_list)
             if ev: extracted["event"].append(ev); meta["parsed_events"] += 1
         elif isinstance(ev_block, list):
             for item in ev_block:
                 if isinstance(item, dict):
-                    ev = normalize_event_block(item, src_rel)
+                    ev = normalize_event_block(item, src_rel, desc_map, warnings_list)
                     if ev: extracted["event"].append(ev); meta["parsed_events"] += 1
 
         # people
         pe_block = fm.get("person")
         if isinstance(pe_block, dict):
-            pe = normalize_person_block(pe_block, src_rel, fm_title)
+            pe = normalize_person_block(pe_block, src_rel, fm_title, desc_map, warnings_list)
             if pe: extracted["person"].append(pe); meta["parsed_people"] += 1
         elif isinstance(pe_block, list):
             for item in pe_block:
                 if isinstance(item, dict):
-                    pe = normalize_person_block(item, src_rel, fm_title)
+                    pe = normalize_person_block(item, src_rel, fm_title, desc_map, warnings_list)
                     if pe: extracted["person"].append(pe); meta["parsed_people"] += 1
 
         # stars
         st_block = fm.get("star")
         if isinstance(st_block, dict):
-            base, pubs, trns = normalize_star_block(st_block, src_rel, fm_title)
+            base, pubs, trns = normalize_star_block(st_block, src_rel, fm_title, desc_map, warnings_list)
             if base: extracted["star_base"].append(base); meta["parsed_star_bases"] += 1
             extracted["star_pub"].extend(pubs); meta["parsed_star_publications"] += len(pubs)
             extracted["star_trn"].extend(trns); meta["parsed_star_translations"] += len(trns)
         elif isinstance(st_block, list):
             for item in st_block:
                 if isinstance(item, dict):
-                    base, pubs, trns = normalize_star_block(item, src_rel, fm_title)
+                    base, pubs, trns = normalize_star_block(item, src_rel, fm_title, desc_map, warnings_list)
                     if base: extracted["star_base"].append(base); meta["parsed_star_bases"] += 1
                     extracted["star_pub"].extend(pubs); meta["parsed_star_publications"] += len(pubs)
                     extracted["star_trn"].extend(trns); meta["parsed_star_translations"] += len(trns)
@@ -365,17 +594,41 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
         },
     }
 
+    # Apply declarative pointer policy across the whole payload
+    apply_pointer_policy(payload, desc_maps_by_source, warnings_list)
     if DRY_RUN and not WRITE_JSON_WHEN_DRY:
         print(f"[DRY] Would write extracted JSON -> {json_path}")
         print(json.dumps(meta, indent=2))
     else:
         json_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-        warn_path.write_text("# Extraction Warnings\n\n_Auto-extractor run completed._\n", encoding="utf-8")
+        warn_lines = ["# Extraction Warnings", "", "_Auto-extractor run completed._", ""]
+        if warnings_list:
+            warn_lines.append("## Missing desc pointers")
+            warn_lines.extend(warnings_list)
+            warn_lines.append("")
+        (out_dir / WARNINGS_MD).write_text("\n".join(warn_lines), encoding="utf-8")
         print(f"[WROTE] {json_path} and {warn_path}")
 
     return payload
 
 # ----------------- Decade/Century helpers -----------------
+def _fmt_event_line(desc: str, day: Optional[int]) -> str:
+    """Return '- (3rd) something' if day given, else '- something'."""
+    return f"- ({ordinal(day)}) {desc}" if day else f"- {desc}"
+
+def _dedupe_records_by_text(records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    seen = set()
+    out = []
+    for rec in records:
+        key = (rec.get("text") or "").strip().lower()
+        if not key:
+            continue
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(rec)
+    return out
+
 def ordinal(n: int) -> str:
     """Return an ordinal string for an integer day, e.g., 1 -> '1st'."""
     if 10 <= n % 100 <= 20:
@@ -394,13 +647,6 @@ def year_suffix(year: int) -> str:
 def decade_title(decade_start: int) -> str:
     # Full absolute, e.g., -170 -> "170s BT", 20 -> "20s AT"
     return f"{abs(decade_start)}s {'BT' if decade_start < 0 else 'AT'}"
-
-def ordinal(n: int) -> str:
-    if 10 <= (n % 100) <= 20:
-        suf = "th"
-    else:
-        suf = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
-    return f"{n}{suf}"
 
 def century_title_from_start(century_start: int) -> str:
     if century_start == 0:
@@ -496,11 +742,13 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
       events_by_decade: dict[decade] -> dict[year] -> list[{"day": int|None, "alpha": str, "text": str}]
       births_by_decade: dict[decade] -> dict[year] -> list[...]
       deaths_by_decade: dict[decade] -> dict[year] -> list[...]
+      relationships_by_decade: dict[decade] -> dict[year] -> list[...]
       stars_by_decade:  dict[decade] -> list[{"year": int, "day": int|None, "alpha": str, "row": dict}]
     """
     events_by_decade: Dict[int, Dict[int, List[Dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
     births_by_decade: Dict[int, Dict[int, List[Dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
     deaths_by_decade: Dict[int, Dict[int, List[Dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
+    relationships_by_decade: Dict[int, Dict[int, List[Dict[str, Any]]]] = defaultdict(lambda: defaultdict(list))
     stars_by_decade:  Dict[int, List[Dict[str, Any]]] = defaultdict(list)
 
     # --- Normal events (major only) ---
@@ -519,10 +767,10 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
             events_by_decade[dstart][y].append({
                 "day": d,
                 "alpha": sdesc_clean,
-                "text": f"- {sdesc_clean}",
+                "text": _fmt_event_line(sdesc_clean, d),
             })
 
-        # END marker (only if we have both end_date and end_desc)
+        # END marker
         ed = ev.get("end_date")
         edesc = ev.get("end_desc")
         if isinstance(ed, dict) and "year" in ed and isinstance(edesc, str) and edesc.strip():
@@ -533,57 +781,135 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
             events_by_decade[dstart2][y2].append({
                 "day": d2,
                 "alpha": edesc_clean,
-                "text": f"- {edesc_clean}",
+                "text": _fmt_event_line(edesc_clean, d2),
             })
 
-    # --- People (major only) ---
+    # --- People ---
+    # Births/Deaths: ALWAYS listed (ignore person.major_event)
+    # If person.major_event==True:
+    #   - if birth_desc present -> add as normal Event on birthday
+    #   - if death_desc present -> add as normal Event on death date
+    seen_relationship_keys = set()
+
     for pe in data.get("person", []):
-        if not pe.get("major_event", False):
-            continue
         title = pe.get("title") or pathlib.Path(pe["source"]).stem
         target = wiki_target_from_source(root, pe["source"])
 
-        b = pe.get("birthday"); d = pe.get("death_date")
-        by = int(b["year"]) if isinstance(b, dict) and "year" in b else None
-        bd = int(b.get("day", 0)) if isinstance(b, dict) else 0
-        dy = int(d["year"]) if isinstance(d, dict) and "year" in d else None
-        dd = int(d.get("day", 0)) if isinstance(d, dict) else 0
-
-        # Births
-        if by is not None:
+        # Births list (always)
+        b = pe.get("birthday")
+        if isinstance(b, dict) and "year" in b:
+            by = int(b["year"])
+            bd = int(b.get("day", 0)) or None
             parts = []
-            if bd: parts.append(ordinal(bd))
+            if bd:
+                parts.append(ordinal(bd))
             parts.append(f"[[{target}|{title}]]")
-            if dy is not None:
-                parts.append(f"(d. {year_suffix(dy)})")
+            d_for_suffix = pe.get("death_date")
+            if isinstance(d_for_suffix, dict) and "year" in d_for_suffix:
+                parts.append(f"(d. {year_suffix(int(d_for_suffix['year']))})")
             line = ", ".join([parts[0], " ".join(parts[1:])]) if bd else " ".join(parts)
             births_by_decade[(by // 10) * 10][by].append({
-                "day": (bd or None),
+                "day": bd,
                 "alpha": title,
                 "text": f"- {line}",
             })
 
-        # Deaths
-        if dy is not None:
+        # Deaths list (always)
+        d = pe.get("death_date")
+        if isinstance(d, dict) and "year" in d:
+            dy = int(d["year"])
+            dd = int(d.get("day", 0)) or None
             parts = []
-            if dd: parts.append(ordinal(dd))
+            if dd:
+                parts.append(ordinal(dd))
             parts.append(f"[[{target}|{title}]]")
-            if by is not None:
-                parts.append(f"(b. {year_suffix(by)})")
+            b_for_suffix = pe.get("birthday")
+            if isinstance(b_for_suffix, dict) and "year" in b_for_suffix:
+                parts.append(f"(b. {year_suffix(int(b_for_suffix['year']))})")
             line = ", ".join([parts[0], " ".join(parts[1:])]) if dd else " ".join(parts)
             deaths_by_decade[(dy // 10) * 10][dy].append({
-                "day": (dd or None),
+                "day": dd,
                 "alpha": title,
                 "text": f"- {line}",
             })
 
-    # --- Stars ---
+        # If major_event, add birth_desc/death_desc as Events
+        if pe.get("major_event", False):
+            bdesc = (pe.get("birth_desc") or "").strip()
+            if bdesc and isinstance(b, dict) and "year" in b:
+                y = int(b["year"])
+                day = int(b.get("day", 0)) or None
+                events_by_decade[(y // 10) * 10][y].append({
+                    "day": day,
+                    "alpha": bdesc,
+                    "text": _fmt_event_line(bdesc, day),
+                })
+
+            ddesc = (pe.get("death_desc") or "").strip()
+            if ddesc and isinstance(d, dict) and "year" in d:
+                y = int(d["year"])
+                day = int(d.get("day", 0)) or None
+                events_by_decade[(y // 10) * 10][y].append({
+                    "day": day,
+                    "alpha": ddesc,
+                    "text": _fmt_event_line(ddesc, day),
+                })
+
+
+        # Spouses: relationships only, deduped and with cross-date suffixes
+        for sp in pe.get("spouses", []) if isinstance(pe.get("spouses"), list) else []:
+            partner = sp.get("name")
+
+            # Marriage
+            sdt = sp.get("start_date")
+            edt = sp.get("end_date")
+            if isinstance(sdt, dict) and "year" in sdt:
+                sy, sd = int(sdt["year"]), (int(sdt.get("day", 0)) or None)
+                pair = tuple(sorted([title.lower(), str(partner).lower()]))
+                rel_key = ("marry", sy, sd, pair)
+                if rel_key not in seen_relationship_keys:
+                    seen_relationship_keys.add(rel_key)
+                    parts = []
+                    if sd:
+                        parts.append(ordinal(sd))
+                    parts.append(f"[[{target}|{title}]] marries {partner}")
+                    if isinstance(edt, dict) and "year" in edt:
+                        parts.append(f"(d. {year_suffix(int(edt['year']))})")
+                    line = ", ".join([parts[0], " ".join(parts[1:])]) if sd else " ".join(parts)
+                    relationships_by_decade[(sy // 10) * 10][sy].append({
+                        "day": sd,
+                        "alpha": f"{title} {partner}",
+                        "text": f"- {line}",
+                    })
+
+            # Divorce
+            sdt = sp.get("start_date")
+            edt = sp.get("end_date")
+            if isinstance(edt, dict) and "year" in edt:
+                ey, ed = int(edt["year"]), (int(edt.get("day", 0)) or None)
+                pair = tuple(sorted([title.lower(), str(partner).lower()]))
+                rel_key = ("divorce", ey, ed, pair)
+                if rel_key not in seen_relationship_keys:
+                    seen_relationship_keys.add(rel_key)
+                    parts = []
+                    if ed:
+                        parts.append(ordinal(ed))
+                    parts.append(f"[[{target}|{title}]] divorces {partner}")
+                    if isinstance(sdt, dict) and "year" in sdt:
+                        parts.append(f"(m. {year_suffix(int(sdt['year']))})")
+                    line = ", ".join([parts[0], " ".join(parts[1:])]) if ed else " ".join(parts)
+                    relationships_by_decade[(ey // 10) * 10][ey].append({
+                        "day": ed,
+                        "alpha": f"{title} {partner}",
+                        "text": f"- {line}",
+                    })
+
+    # --- Stars (unchanged, but includes day-aware sorting and table rows) ---
     star_section = data.get("star", {})
     bases = star_section.get("bases", [])
     pubs  = star_section.get("publications", [])
     trns  = star_section.get("translations", [])
 
-    # Add MAJOR pub/trn as events (use their own desc)
     for row in pubs:
         if not row.get("major_event", False):
             continue
@@ -596,7 +922,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         events_by_decade[dstart][y].append({
             "day": d,
             "alpha": desc,
-            "text": f"- {desc}",
+            "text": _fmt_event_line(desc, d),
         })
 
     for row in trns:
@@ -611,10 +937,9 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         events_by_decade[dstart][y].append({
             "day": d,
             "alpha": desc,
-            "text": f"- {desc}",
+            "text": _fmt_event_line(desc, d),
         })
 
-    # Star table rows: first publication per star (always included)
     pubs_by_star: Dict[Tuple[str, str], List[Dict[str, Any]]] = defaultdict(list)
     for p in pubs:
         key = (p.get("source", ""), p.get("star_name", ""))
@@ -626,7 +951,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         key = (base.get("source", ""), base.get("star_name", ""))
         first_pub = pubs_by_star.get(key, [None])[0]
         if not first_pub:
-            continue  # cannot place in a decade without a publication date
+            continue
 
         y = int(first_pub["date"]["year"])
         d = int(first_pub["date"].get("day", 0)) or None
@@ -637,7 +962,8 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         coords = base.get("coordinates", "") or ""
         star_desc = base.get("desc", "") or ""
         actors = first_pub.get("publishers", [])
-        if isinstance(actors, (str, int, float, bool)): actors = [actors]
+        if isinstance(actors, (str, int, float, bool)):
+            actors = [actors]
         actors = [str(a) for a in actors] if isinstance(actors, list) else []
 
         stars_by_decade[dstart].append({
@@ -648,6 +974,8 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
                 "name_link": f"[[{target}|{name}]]",
                 "coordinates": coords,
                 "date": year_suffix(y),
+                "date_year": y,
+                "date_day": d,
                 "actors": ", ".join(actors),
                 "desc": star_desc,
             }
@@ -666,7 +994,23 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         for year in list(deaths_by_decade[dec].keys()):
             _sort_records(deaths_by_decade[dec][year], "day", "alpha")
 
-    # Stars: sort across the whole decade by (year asc, day rule, alpha)
+    for dec in list(relationships_by_decade.keys()):
+        for year in list(relationships_by_decade[dec].keys()):
+            _sort_records(relationships_by_decade[dec][year], "day", "alpha")
+
+    # ---- dedupe identical rendered lines per year ----
+    for dec in list(births_by_decade.keys()):
+        for year in list(births_by_decade[dec].keys()):
+            births_by_decade[dec][year] = _dedupe_records_by_text(births_by_decade[dec][year])
+
+    for dec in list(deaths_by_decade.keys()):
+        for year in list(deaths_by_decade[dec].keys()):
+            deaths_by_decade[dec][year] = _dedupe_records_by_text(deaths_by_decade[dec][year])
+
+    for dec in list(relationships_by_decade.keys()):
+        for year in list(relationships_by_decade[dec].keys()):
+            relationships_by_decade[dec][year] = _dedupe_records_by_text(relationships_by_decade[dec][year])
+
     def star_key(rec):
         y  = rec.get("year", 0)
         d  = rec.get("day", None)
@@ -675,20 +1019,15 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
     for dec in list(stars_by_decade.keys()):
         stars_by_decade[dec].sort(key=star_key)
 
-    # Convert year->list of dicts into year->list of strings for renderers
-    # (renderers expect "text" strings)
-    events_text = {dec: {yr: [rec["text"] for rec in lst]
-                         for yr, lst in years.items()}
+    # Convert to text lists (renderers expect strings)
+    events_text = {dec: {yr: [rec["text"] for rec in lst] for yr, lst in years.items()}
                    for dec, years in events_by_decade.items()}
-    births_text = {dec: {yr: [rec["text"] for rec in lst]
-                         for yr, lst in years.items()}
+    births_text = {dec: {yr: [rec["text"] for rec in lst] for yr, lst in years.items()}
                    for dec, years in births_by_decade.items()}
-    deaths_text = {dec: {yr: [rec["text"] for rec in lst]
-                         for yr, lst in years.items()}
+    deaths_text = {dec: {yr: [rec["text"] for rec in lst] for yr, lst in years.items()}
                    for dec, years in deaths_by_decade.items()}
-
-    # Stars: renderer consumes rows’ "row" dicts
-    stars_rows = {dec: [rec["row"] for rec in rows] for dec, rows in stars_by_decade.items()}
+    relations_text = {dec: {yr: [rec["text"] for rec in lst] for yr, lst in years.items()}
+                      for dec, years in relationships_by_decade.items()}
 
     # Sort year buckets ascending
     def sort_year_keys(d: Dict[int, Any]) -> Dict[int, Any]:
@@ -700,8 +1039,10 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         births_text[k] = sort_year_keys(births_text[k])
     for k in list(deaths_text.keys()):
         deaths_text[k] = sort_year_keys(deaths_text[k])
+    for k in list(relations_text.keys()):
+        relations_text[k] = sort_year_keys(relations_text[k])
 
-    return events_text, births_text, deaths_text, stars_rows
+    return events_text, births_text, deaths_text, relations_text, {dec: [rec["row"] for rec in rows] for dec, rows in stars_by_decade.items()}
 
 # ----------------- Link rows -----------------
 def decade_starts_in_range() -> List[int]:
@@ -758,8 +1099,10 @@ def render_events_by_year(events_for_decade: Dict[int, List[str]]) -> str:
         parts.extend(items)
     return "\n".join(parts) + "\n"
 
-def render_people_grouped(births: Dict[int, List[str]], deaths: Dict[int, List[str]]) -> str:
-    if not births and not deaths:
+def render_people_grouped(births: Dict[int, List[str]],
+                          deaths: Dict[int, List[str]],
+                          relations: Dict[int, List[str]]) -> str:
+    if not births and not deaths and not relations:
         return ""
     parts: List[str] = ["# Significant People"]
     if births:
@@ -772,20 +1115,24 @@ def render_people_grouped(births: Dict[int, List[str]], deaths: Dict[int, List[s
         for year, items in deaths.items():
             parts.append(f"### {year_suffix(year)}")
             parts.extend(items)
+    if relations:
+        parts.append("## Relationships")
+        for year, items in relations.items():
+            parts.append(f"### {year_suffix(year)}")
+            parts.extend(items)
     return "\n".join(parts) + "\n"
 
 def render_stars_table(rows: List[Dict[str, Any]]) -> str:
     """
     Render the Stars table at the end of a decade page.
-    - Each row represents the first publication of a star.
-    - Translations are not included.
-    - Escapes all '|' characters so wikilinks display correctly.
+    - Each row represents the first publication of a star (translations excluded).
+    - If a day is present, date shows as '[day][ordinal] of [year]'.
+    - Escapes all '|' so wikilinks render correctly.
     """
     if not rows:
         return ""
 
     def esc(s: str) -> str:
-        # Escape table pipes inside wikilinks or text
         return (s or "").replace("|", r"\|")
 
     header = (
@@ -797,43 +1144,38 @@ def render_stars_table(rows: List[Dict[str, Any]]) -> str:
 
     lines = []
     for r in rows:
-        # Skip translations — we only want first publications
+        # We only want first publications (no translations here)
         if "translators" in r:
             continue
 
-        name = esc(r.get("name_link", ""))
-        coords = esc(r.get("coordinates", ""))
-        date = esc(r.get("date", ""))
-        actors = esc(r.get("actors", ""))
-        desc = esc(r.get("desc", ""))
+        # Build date string: "[day][ordinal] of [year]" if day present, else just year
+        if isinstance(r.get("date_year"), int) and r.get("date_day"):
+            display_date = f"{ordinal(int(r['date_day']))} of {year_suffix(int(r['date_year']))}"
+        else:
+            # fall back to provided 'date' or just the year if present
+            display_date = r.get("date") or (year_suffix(int(r["date_year"])) if isinstance(r.get("date_year"), int) else "")
 
-        lines.append(f"| {name} | {coords} | {date} | {actors} | {desc} |")
+        name   = esc(r.get("name_link", ""))
+        coords = esc(r.get("coordinates", ""))
+        actors = esc(r.get("actors", ""))
+        desc   = esc(r.get("desc", ""))
+
+        lines.append(f"| {name} | {coords} | {esc(display_date)} | {actors} | {desc} |")
 
     return header + "\n".join(lines) + "\n"
 
 
 # ----------------- Build decade page -----------------
-def load_template() -> str:
-    if DECADE_TEMPLATE_PATH and DECADE_TEMPLATE_PATH.is_file():
-        return DECADE_TEMPLATE_PATH.read_text(encoding="utf-8")
-    return DEFAULT_TEMPLATE
-
-def replace_placeholders(template: str, mapping: Dict[str, str]) -> str:
-    out = template
-    for k, v in mapping.items():
-        out = out.replace(f"{{{{{k}}}}}", v)
-    return out
-
 def build_decade_page_content(root: pathlib.Path,
                               decade_start: int,
                               events_for_decade: Dict[int, List[str]],
                               births_for_decade: Dict[int, List[str]],
                               deaths_for_decade: Dict[int, List[str]],
+                              relations_for_decade: Dict[int, List[str]],
                               stars_rows: List[Dict[str, Any]]) -> str:
     template = load_template()
-
     events_block = render_events_by_year(events_for_decade)
-    people_block = render_people_grouped(births_for_decade, deaths_for_decade)
+    people_block = render_people_grouped(births_for_decade, deaths_for_decade, relations_for_decade)
     stars_block  = render_stars_table(stars_rows)
 
     # If a block exists, prefix with a single blank line to separate from callouts
@@ -868,7 +1210,7 @@ def main():
     data = ensure_extracted_json(root)
 
     # 2) Bucket parsed data
-    events_by_decade, births_by_decade, deaths_by_decade, stars_by_decade = build_events_births_deaths_and_stars(data, root)
+    events_by_decade, births_by_decade, deaths_by_decade, relations_by_decade, stars_by_decade = build_events_births_deaths_and_stars(data, root)
 
     # 3) Build ALL decades in range
     ddir = (root / DECADES_DIR_REL); ddir.mkdir(parents=True, exist_ok=True)
@@ -883,6 +1225,7 @@ def main():
             events_by_decade.get(dec, {}),
             births_by_decade.get(dec, {}),
             deaths_by_decade.get(dec, {}),
+            relations_by_decade.get(dec, {}),
             stars_by_decade.get(dec, []),
         )
         out_path = ddir / f"{decade_title(dec)}.md"

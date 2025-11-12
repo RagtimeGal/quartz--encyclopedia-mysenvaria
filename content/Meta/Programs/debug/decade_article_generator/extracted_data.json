@@ -2,9 +2,9 @@
   "meta": {
     "front_matters": 919,
     "parsed_events": 13,
-    "parsed_people": 2,
-    "parsed_star_bases": 2,
-    "parsed_star_publications": 4,
+    "parsed_people": 4,
+    "parsed_star_bases": 3,
+    "parsed_star_publications": 5,
     "parsed_star_translations": 0,
     "yaml_loader_usage": {
       "pyyaml": 917,
@@ -12,6 +12,45 @@
     }
   },
   "event": [
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Dying Period.md",
+      "kind": "event",
+      "start_date": {
+        "year": -177,
+        "day": 26
+      },
+      "end_date": {
+        "year": -160,
+        "day": 267
+      },
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.",
+      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Convening.md",
+      "kind": "event",
+      "start_date": {
+        "year": -176,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] holds the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. Of the 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] invited only 16 arrive. Each invitee had witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. The event sees the formation of many ideas and theories regarding the beginning war.",
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Death.md",
+      "kind": "event",
+      "start_date": {
+        "year": -177,
+        "day": 26
+      },
+      "end_date": null,
+      "start_desc": "As the number of Gods to ever exist reaches its peak the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] of a God occurs.",
+      "end_desc": null,
+      "major_event": true
+    },
     {
       "source": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
       "kind": "event",
@@ -85,15 +124,18 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Convening.md",
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md",
       "kind": "event",
       "start_date": {
-        "year": -176,
+        "year": -25,
         "day": 0
       },
-      "end_date": null,
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] holds the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. Of the 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] invited only 16 arrive. Each invitee had witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. The event sees the formation of many ideas and theories regarding the beginning war.",
-      "end_desc": null,
+      "end_date": {
+        "year": -11,
+        "day": 0
+      },
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
       "major_event": true
     },
     {
@@ -112,33 +154,6 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Death.md",
-      "kind": "event",
-      "start_date": {
-        "year": -177,
-        "day": 26
-      },
-      "end_date": null,
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] of a God occurs.",
-      "end_desc": null,
-      "major_event": true
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/Dying Period.md",
-      "kind": "event",
-      "start_date": {
-        "year": -177,
-        "day": 26
-      },
-      "end_date": {
-        "year": -160,
-        "day": 267
-      },
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.",
-      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.",
-      "major_event": true
-    },
-    {
       "source": "Encyclopedia Mysenvaria/History/God-War Era/Quickening.md",
       "kind": "event",
       "start_date": {
@@ -146,7 +161,7 @@
         "day": 294
       },
       "end_date": null,
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] begins shortly after the first domain subdivisions by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. An estimated 15 billion [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] would be created over less than a single [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|season]].",
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] begins following the publication of the [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]. An estimated 15 billion [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are created over less than a single [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|season]].",
       "end_desc": null,
       "major_event": true
     },
@@ -160,21 +175,6 @@
       "end_date": null,
       "start_desc": "On New Years the [[Encyclopedia Mysenvaria/History/God-War Era/Water Wars|Great Water War]] takes place in the Oxygen-Hydrogen territories as [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|Sodium]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|Calcium]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|Iron]], and various allies attempt to stop the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
       "end_desc": null,
-      "major_event": true
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md",
-      "kind": "event",
-      "start_date": {
-        "year": -25,
-        "day": 0
-      },
-      "end_date": {
-        "year": -11,
-        "day": 0
-      },
-      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
-      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
       "major_event": true
     }
   ],
@@ -195,6 +195,26 @@
       "title": "Charles Lightningson"
     },
     {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife.md",
+      "kind": "person",
+      "name": "Dwarf Soundwife",
+      "major_event": false,
+      "spouses": [
+        {
+          "name": "spouse1",
+          "start_date": {
+            "year": -42,
+            "day": 0
+          },
+          "end_date": {
+            "year": -12,
+            "day": 0
+          }
+        }
+      ],
+      "title": "Dwarf Soundwife"
+    },
+    {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Josh Soundson.md",
       "kind": "person",
       "name": "Josh Soundson",
@@ -204,40 +224,40 @@
         "day": 0
       },
       "title": "Josh Soundson"
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space.md",
+      "kind": "person",
+      "name": "Gods of Matter, Energy, Time, and Space",
+      "major_event": false,
+      "title": "Gods of Matter, Energy, Time, and Space"
     }
   ],
   "star": {
     "bases": [
       {
-        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
-        "star_name": "First Epoch Star",
-        "coordinates": "",
-        "desc": "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the first other [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]].",
-        "fm_title": "First Epoch Star"
-      },
-      {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md",
         "star_name": "Convening Star",
         "coordinates": "",
-        "desc": "Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] following the Firt Convening. It details the organizing of the event, the attendees, the discussions held, and the conclusions drawn.",
+        "desc": "Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] following the First Convening. It details the organizing of the event, the attendees, the discussions held, and the conclusions drawn.",
         "fm_title": "Convening Star"
-      }
-    ],
-    "publications": [
+      },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
         "star_name": "First Epoch Star",
-        "date": {
-          "year": -178,
-          "day": 0
-        },
-        "desc": "",
-        "publishers": [
-          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]"
-        ],
-        "major_event": true,
+        "coordinates": "",
+        "desc": "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]].",
         "fm_title": "First Epoch Star"
       },
+      {
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star.md",
+        "star_name": "Quickening Star",
+        "coordinates": "",
+        "desc": "The host star of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening System]]. Created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] to document their creation of the Carbon Compound Gods.",
+        "fm_title": "Quickening Star"
+      }
+    ],
+    "publications": [
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md",
         "star_name": "Convening Star",
@@ -245,7 +265,7 @@
           "year": -176,
           "day": 0
         },
-        "desc": "Following the [[Encyclopedia Mysenvaria/History/God-War Era/The First Convening|The First Convening]] the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] would publish the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]], detailing the organizing of the event, the attendees, the discussions held, and the conclusions drawn.",
+        "desc": "Following the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]] the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] would publish the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]], detailing the organizing of the event, the attendees, the discussions held, and the conclusions drawn.",
         "publishers": [
           "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]]"
         ],
@@ -279,6 +299,34 @@
         ],
         "major_event": true,
         "fm_title": "Convening Star"
+      },
+      {
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
+        "star_name": "First Epoch Star",
+        "date": {
+          "year": -178,
+          "day": 282
+        },
+        "desc": "",
+        "publishers": [
+          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]"
+        ],
+        "major_event": true,
+        "fm_title": "First Epoch Star"
+      },
+      {
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star.md",
+        "star_name": "Quickening Star",
+        "date": {
+          "year": -178,
+          "day": 294
+        },
+        "desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] publishes the [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]] to document their creation of the Carbon Compound Gods via domain subdivision. Other [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|Elemental Gods]] follow behind, publishing their own stars and creating the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening System]].",
+        "publishers": [
+          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]]"
+        ],
+        "major_event": true,
+        "fm_title": "Quickening Star"
       }
     ],
     "translations": []

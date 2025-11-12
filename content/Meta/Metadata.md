@@ -96,40 +96,39 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 	- `subject/sophont/elf`: This page covers information regarding an aspect of elves.
 	- `subject/sophont/dwarf`: This page covers information regarding an aspect of dwarves.
 # Event
-- **start_desc**: This is not optional, it provides a description of the event as a string. Wikilinks may be included.
-- **end_desc**: This is optional, it provides a description of the event as a string. Wikilinks may be included.
+- **start_desc**: This is not optional, it provides a description of the event as a string. Wikilinks may be included. May point to hidden text in the article.
+- **end_desc**: This is optional, it provides a description of the event as a string. Wikilinks may be included. May point to hidden text in the article.
 - **start_date**: The date the event began, this is not optional.
 - **end_date**: If the event has a defined end it may be included as a date here.
 - **major_event**: Boolean. True means the event is listed on certain major pages.
 # Star
 - **name**: The name of the star, not optional.
 - **publications**: An array of data detailing each publication of the star. Stars can fall and be republished, which is why this is an array. It is not optional.
-	- **publishers**: This can be an array of strings, or simply just one. It accepts wiki-links too. It is not optional, there must be at least one string.
+	- **publishers**: This can be an array of strings, or simply just one. It accepts wiki-links too. It is not optional, there must be at least one string. May point to hidden text in the article.
 	- **date**: The date that this publication took place. This is not optional.
-	- **desc**: This is not optional, it provides a description of the publication event as a string. Wikilinks may be included.
+	- **desc**: This is not optional, it provides a description of the publication event as a string. Wikilinks may be included. May point to hidden text in the article.
 	- **major_event**: Boolean. True means the event is listed on certain major pages.
-- **desc**: A short non-optional description of the star. May include wiki-links.
+- **desc**: A short non-optional description of the star. May include wiki-links. May point to hidden text in the article.
 - **coordinates**: The coordinates of the star in Altitude, Azimuth, & Elevation as a string. Optional.
 - **translations**: An array of data detailing each translation of the star. Multiple people over history may translate the star at different times, and so this is an array. This is optional.
-	- **translators**: This can be an array of strings, or simply just one. It accepts wiki-links too. It is not optional, there must be at least one string.
+	- **translators**: This can be an array of strings, or simply just one. It accepts wiki-links too. It is not optional, there must be at least one string. May point to hidden text in the article.
 	- **date**: The date that this translation was published. This is not optional.
-	- **desc**: Optionally provides a description of the translation event as a string. Wikilinks may be included.
+	- **desc**: Optionally provides a description of the translation event as a string. Wikilinks may be included. May point to hidden text in the article.
 	- **major_event**: Boolean. True means the event is listed on certain major pages.
-- **parent**: A string which names the parent to this star, it is optional and may include a wiki-link.
+- **parent**: A string which names the parent to this star, it is optional and may include a wiki-link. May point to hidden text in the article.
 # Person
 - **name**: The name of the character, not optional.
 - **birthday**: The date of the character's birth, this is optional if the date of their birth is unknown.
-- **birth_location**: The location of the characters birth as a string, this accepts wiki-links and is optional.
+- **birth_location**: The location of the characters birth as a string, this accepts wiki-links and is optional. May point to hidden text in the article.
 - **death_date**: The date of the character's passing, this is optional if the character has not passed away or if the date of their death is unknown.
 - **spouses**: An array of data detailing each spouse the character has ever had. This is optional data.
-	- **name**: The name of the character, not optional. It accepts wiki-links.
-	- **married**: The date the characters married. Optional if unknown.
-	- **divorced**: The date the characters divorced. Optional if this never occurred or is unknown.
-	- **desc**: Optionally provides a description of the marriage as a string. Wikilinks may be included.
-	- **major_event**: Boolean. True means the event is listed on certain major pages.
-- **children**: An array of strings, or simply just one. It accepts wiki-links too. It is optional.
-- **parents**: An array of strings, or simply just one. It accepts wiki-links too. It is optional.
-- **desc**: Optionally provides a description of the persons birth as a string. Wikilinks may be included.
+	- **name**: The name of the character, not optional. It accepts wiki-links. May point to hidden text in the article.
+	- **start_date**: The date the characters married. Optional if unknown.
+	- **end_date**: The date the characters divorced. Optional if this never occurred or is unknown.
+- **children**: An array of strings, or simply just one. It accepts wiki-links too. It is optional. May point to hidden text in the article.
+- **parents**: An array of strings, or simply just one. It accepts wiki-links too. It is optional. May point to hidden text in the article.
+- **birth_desc**: Optionally provides a description of the persons birth as a string. Wikilinks may be included. May point to hidden text in the article.
+- **death_desc**: Optionally provides a description of the persons birth as a string. Wikilinks may be included. May point to hidden text in the article.
 - **major_event**: Boolean. True means the event is listed on certain major pages.
 # Animal
 - ****

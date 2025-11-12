@@ -7,11 +7,13 @@ type: article
 status: complete
 future: review
 event:
-  - start_desc: "The [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] of a God occurs."
+  - start_desc: "start_desc"
     start_date: "-177-26"
     major_event: true
 ---
-
+%%
+start_desc: As the number of Gods to ever exist reaches its peak the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] of a God occurs.
+%%
 The First Death, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.
 
 Many of the [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published at this time, especially those in Death's System, would fall back to the Plane as their authors passed away. While a few of these stars would be found and republished by other Gods many more have been lost to [[Encyclopedia Mysenvaria/History/History|history]].

@@ -9,6 +9,9 @@ status: incomplete
 future: update
 needs:
   - infobox
+person:
+  - name: "Gods of Matter, Energy, Time, and Space"
+  - birthday: "-178"
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]

@@ -7,8 +7,20 @@ type: article
 status: empty
 needs:
   - infobox
+person:
+  - name: "Dwarf Soundwife"
+    spouses:
+      - name: "spouse1"
+        start_date: "-42"
+        end_date: "-12"
+        major_event: true
+    children: ["child1"]
+    major_event: false
 ---
-
+%%
+spouse1: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Sound|God of Sound]]
+child1: [[Encyclopedia Mysenvaria/History/Biographies/Josh Soundson|Josh Soundson]]
+%%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 

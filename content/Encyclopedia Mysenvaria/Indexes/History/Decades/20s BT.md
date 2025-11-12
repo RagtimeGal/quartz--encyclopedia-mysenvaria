@@ -27,6 +27,9 @@ status: complete
 ## Births
 ### 12 BT
 - [[Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson|Charles Lightningson]] (d. 6 BT)
+## Relationships
+### 12 BT
+- [[Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife|Dwarf Soundwife]] divorces spouse1 (m. 42 BT)
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

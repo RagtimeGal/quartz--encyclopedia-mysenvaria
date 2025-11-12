@@ -1,0 +1,248 @@
+# export_timeline_spreadsheet.py
+# Turn extracted_data.json (from decade_article_generator.py) into tidy CSVs
+# and an optional Excel workbook with separate sheets.
+
+import json
+import csv
+import pathlib
+import re
+from typing import Any, Dict, List, Optional, Tuple
+
+# ----------------- Config -----------------
+CONTENT_ROOT = pathlib.Path("content")
+
+# We’ll try these in order; the first one that exists is used.
+JSON_CANDIDATES = [
+    CONTENT_ROOT / "Meta" / "Programs" / "debug" / "decade_article_generator" / "extracted_data.json",
+]
+
+OUT_DIR = CONTENT_ROOT / "Meta" / "Programs"/ "timeline_to_spreadsheet" / "output"
+OUT_EVENTS_CSV = OUT_DIR / "events.csv"
+OUT_PEOPLE_CSV = OUT_DIR / "people.csv"
+OUT_STARS_CSV = OUT_DIR / "stars.csv"
+OUT_REL_CSV = OUT_DIR / "relationships.csv"
+OUT_XLSX = OUT_DIR / "timeline.xlsx"  # written only if pandas is available
+DAY_IN_YEAR = 360
+
+# ----------------- Utilities -----------------
+def source_title(source: Any) -> str:
+    """Best-effort page title from a 'source' path stored in JSON."""
+    s = str(source or "")
+    try:
+        return pathlib.Path(s).stem
+    except Exception:
+        return strip_wikilinks(s)
+
+def strip_wikilinks(text: Any) -> str:
+    """Return a plain-text version of a string with [[wikilinks|titles]] simplified to titles."""
+    if not isinstance(text, str):
+        return str(text) if text is not None else ""
+    # replace [[page|label]] → label
+    text = re.sub(r"\[\[.*?\|(.*?)\]\]", r"\1", text)
+    # replace [[page]] → last path segment
+    text = re.sub(r"\[\[(.*?)\]\]", lambda m: pathlib.Path(m.group(1)).name, text)
+    return text
+
+def clean_list_field(field: Any) -> str:
+    """Join list into a comma-separated string and strip wiki-links."""
+    if isinstance(field, list):
+        return ", ".join(strip_wikilinks(x) for x in field)
+    return strip_wikilinks(field)
+
+def year_suffix(y: int) -> str:
+    return f"{abs(y)}{' BT' if y < 0 else ' AT'}"
+
+def ordinal(n: int) -> str:
+    if 10 <= (n % 100) <= 20:
+        suf = "th"
+    else:
+        suf = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return f"{n}{suf}"
+
+def date_display(year: Optional[int], day: Optional[int]) -> str:
+    if year is None:
+        return ""
+    if day:
+        return f"{ordinal(int(day))} of {year_suffix(int(year))}"
+    return year_suffix(int(year))
+
+def safe_int(x: Any) -> Optional[int]:
+    try: return int(x)
+    except Exception: return None
+
+def parse_date(d: Any) -> Tuple[Optional[int], Optional[int]]:
+    if isinstance(d, dict) and "year" in d:
+        y = safe_int(d.get("year"))
+        day = safe_int(d.get("day")) or None
+        if day and not (0 < day <= DAY_IN_YEAR): day = None
+        return y, day
+    return (None, None)
+
+# ----------------- Load -----------------
+def load_extracted_json() -> Dict[str, Any]:
+    for p in JSON_CANDIDATES:
+        if p.is_file():
+            print(f"[READ] {p}")
+            return json.loads(p.read_text(encoding="utf-8"))
+    raise FileNotFoundError("Cannot find extracted_data.json")
+
+# ----------------- Builders -----------------
+def build_events_rows(data: Dict[str, Any]) -> List[Dict[str, Any]]:
+    rows=[]
+    # Events
+    for ev in data.get("event", []):
+        if not ev.get("major_event"): 
+            continue
+        syear,sday = parse_date(ev.get("start_date"))
+        edyear,edday = parse_date(ev.get("end_date"))
+        sdesc = strip_wikilinks(ev.get("start_desc") or "")
+        edesc = strip_wikilinks(ev.get("end_desc") or "")
+
+        # 👉 use title instead of full path
+        src = source_title(ev.get("source"))
+
+        if syear is not None and sdesc:
+            rows.append({
+                "category": "event_start",
+                "source": src,
+                "text": sdesc,
+                "year": syear,
+                "day": sday or "",
+                "date_display": date_display(syear, sday)
+            })
+        if edyear is not None and edesc:
+            rows.append({
+                "category": "event_end",
+                "source": src,
+                "text": edesc,
+                "year": edyear,
+                "day": edday or "",
+                "date_display": date_display(edyear, edday)
+            })
+    # Persons (major_event desc)
+    for pe in data.get("person", []):
+        if not pe.get("major_event"): continue
+        title=strip_wikilinks(pe.get("title") or pathlib.Path(pe.get("source","")).stem)
+        src = source_title(pe.get("source"))
+        bdesc=strip_wikilinks(pe.get("birth_desc") or ""); ddesc=strip_wikilinks(pe.get("death_desc") or "")
+        by,bd=parse_date(pe.get("birthday")); dy,dd=parse_date(pe.get("death_date"))
+        if bdesc and by: rows.append({"category":"person_birth_desc","source":src,"text":bdesc,"year":by,"day":bd or "","date_display":date_display(by,bd),"person_title":title})
+        if ddesc and dy: rows.append({"category":"person_death_desc","source":src,"text":ddesc,"year":dy,"day":dd or "","date_display":date_display(dy,dd),"person_title":title})
+    # Stars
+    star = data.get("star", {}) or {}
+    pubs = star.get("publications", []) or []
+    trns = star.get("translations", []) or []
+    for row in pubs + trns:
+        if not row.get("major_event"):
+            continue
+        desc = strip_wikilinks(row.get("desc") or "")
+        if not desc:
+            continue
+        y, d = parse_date(row.get("date"))
+        if y is None:
+            continue
+        actors = clean_list_field(row.get("publishers") or row.get("translators", ""))
+        rows.append({
+            "category": "star_major",
+            "source": source_title(row.get("source")),   # ← title, not path
+            "text": desc,
+            "year": y,
+            "day": d or "",
+            "date_display": date_display(y, d),
+            "star_name": strip_wikilinks(row.get("star_name", "")),
+            "actors": actors,
+        })
+    return rows
+
+def build_people_rows(data: Dict[str, Any])->List[Dict[str,Any]]:
+    rows=[]
+    for pe in data.get("person", []):
+        title=strip_wikilinks(pe.get("title") or pathlib.Path(pe.get("source","")).stem)
+        name=strip_wikilinks(pe.get("name","")); src=strip_wikilinks(pe.get("source",""))
+        by,bd=parse_date(pe.get("birthday")); dy,dd=parse_date(pe.get("death_date"))
+        if by: rows.append({"kind":"birth","name":name,"title":title,"source":src,"year":by,"day":bd or "","date_display":date_display(by,bd),"major_event":pe.get("major_event",False)})
+        if dy: rows.append({"kind":"death","name":name,"title":title,"source":src,"year":dy,"day":dd or "","date_display":date_display(dy,dd),"major_event":pe.get("major_event",False)})
+    rows.sort(key=lambda r:(r.get("year",0),0 if isinstance(r.get("day"),int) else 1,r.get("day") or 0,(r.get("title") or "").lower()))
+    return rows
+
+def build_relationship_rows(data: Dict[str, Any])->List[Dict[str,Any]]:
+    rows=[]; seen=set()
+    for pe in data.get("person", []):
+        person = strip_wikilinks(pe.get("title") or source_title(pe.get("source")))
+        for sp in pe.get("spouses", []) if isinstance(pe.get("spouses"), list) else []:
+            partner=strip_wikilinks(sp.get("name","")); sy,sd=parse_date(sp.get("start_date")); dy,dd=parse_date(sp.get("end_date"))
+            if sy is not None:
+                key=("m",sy,tuple(sorted([person.lower(),partner.lower()])))
+                if key not in seen: seen.add(key); rows.append({"type":"marriage","person":person,"partner":partner,"year":sy,"day":sd or "","date_display":date_display(sy,sd),"counterpart_year":dy or ""})
+            if dy is not None:
+                key=("d",dy,tuple(sorted([person.lower(),partner.lower()])))
+                if key not in seen: seen.add(key); rows.append({"type":"divorce","person":person,"partner":partner,"year":dy,"day":dd or "","date_display":date_display(dy,dd),"counterpart_year":sy or ""})
+    rows.sort(key=lambda r:(r.get("year",0),0 if isinstance(r.get("day"),int) else 1,r.get("day") or 0,(r.get("person","")+r.get("partner","")).lower()))
+    return rows
+
+def build_star_rows(data: Dict[str, Any])->List[Dict[str,Any]]:
+    rows=[]
+    star=data.get("star",{}) or {}; bases=star.get("bases",[]) or []; pubs=star.get("publications",[]) or []
+    from collections import defaultdict
+    pubs_by_key=defaultdict(list)
+    for p in pubs:
+        key=(p.get("source",""),p.get("star_name","")); pubs_by_key[key].append(p)
+    for k in pubs_by_key: pubs_by_key[k].sort(key=lambda r:(safe_int(r["date"]["year"]),safe_int(r["date"].get("day",0)) or 0))
+    base_by_key={(b.get("source",""),b.get("star_name","")):b for b in bases}
+    for key,plist in pubs_by_key.items():
+        first=plist[0]; base=base_by_key.get(key,{})
+        y,d=parse_date(first.get("date")); 
+        if y is None: continue
+        rows.append({
+            "star_name":strip_wikilinks(base.get("star_name","")),
+            "source": source_title(first.get("source")),
+            "first_pub_year":y,
+            "first_pub_day":d or "",
+            "date_display":date_display(y,d),
+            "coordinates":strip_wikilinks(base.get("coordinates","")),
+            "description":strip_wikilinks(base.get("desc","")),
+            "publishers":clean_list_field(first.get("publishers","")),
+        })
+    rows.sort(key=lambda r:(r.get("first_pub_year",0),0 if isinstance(r.get("first_pub_day"),int) else 1,r.get("first_pub_day") or 0,(r.get("star_name") or "").lower()))
+    return rows
+
+# ----------------- Writers -----------------
+def write_csv(path: pathlib.Path, rows: List[Dict[str,Any]], fieldnames: List[str]):
+    path.parent.mkdir(parents=True,exist_ok=True)
+    with path.open("w",encoding="utf-8",newline="") as f:
+        w=csv.DictWriter(f,fieldnames=fieldnames)
+        w.writeheader()
+        for r in rows: w.writerow({k:r.get(k,"") for k in fieldnames})
+    print(f"[WROTE] {path}")
+
+def try_write_xlsx(datasets):
+    try: import pandas as pd
+    except Exception: print("[NOTE] pandas not installed; skipped Excel export."); return
+    OUT_DIR.mkdir(parents=True,exist_ok=True)
+    with pd.ExcelWriter(OUT_XLSX) as xw:
+        for name,rows,fields in datasets:
+            df=pd.DataFrame([{k:r.get(k,"") for k in fields} for r in rows])
+            df.to_excel(xw,index=False,sheet_name=name[:31])
+    print(f"[WROTE] {OUT_XLSX}")
+
+# ----------------- Main -----------------
+def main():
+    data=load_extracted_json()
+    events=build_events_rows(data)
+    people=build_people_rows(data)
+    stars=build_star_rows(data)
+    rels=build_relationship_rows(data)
+
+    write_csv(OUT_DIR/"events.csv",events,["category","source","text","year","day","date_display","person_title","star_name","actors"])
+    write_csv(OUT_DIR/"people.csv",people,["kind","name","title","source","year","day","date_display","major_event"])
+    write_csv(OUT_DIR/"stars.csv",stars,["star_name","source","first_pub_year","first_pub_day","date_display","coordinates","description","publishers"])
+    write_csv(OUT_DIR/"relationships.csv",rels,["type","person","partner","year","day","date_display","counterpart_year"])
+    try_write_xlsx([
+        ("Events",events,["category","source","text","year","day","date_display","person_title","star_name","actors"]),
+        ("People",people,["kind","name","title","source","year","day","date_display","major_event"]),
+        ("Stars",stars,["star_name","source","first_pub_year","first_pub_day","date_display","coordinates","description","publishers"]),
+        ("Relationships",rels,["type","person","partner","year","day","date_display","counterpart_year"]),
+    ])
+
+if __name__=="__main__":
+    main()

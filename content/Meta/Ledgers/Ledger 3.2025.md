@@ -40,7 +40,7 @@ Welcome to the seventh Lore Ledger. This week saw a lot of progress towards the 
 
 ## Updated
 - [[Encyclopedia Mysenvaria/Geography/Stars/Birth Star|Birth Star]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]], [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/By Year/List of Stars Made in the 2nd Century BT|List of Stars Made in the 2nd Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT|180s BT]], [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's Star System]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]], [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]; Updated instances referring to renamed pages.
-- [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], [[Encyclopedia Mysenvaria/Geography/Stars/Bernie's Star System/Quickening Star|Quickening Star]]; Renamed from Bernie's Star System and Bernie's Star.
+- [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]; Renamed from Bernie's Star System and Bernie's Star.
 - [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]; Renamed from "First Death of a God".
 - ; Updated instances referring to First Death of a God page.
 - [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]], [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]]; Emptied pages for later rewrite.

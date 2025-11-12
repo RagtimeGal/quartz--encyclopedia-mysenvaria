@@ -366,7 +366,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Stars/Plea Star|Plea Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Population, Zero|Population, Zero]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Prototype Star|Prototype Star]]
-- [[Encyclopedia Mysenvaria/Geography/Stars/Bernie's Star System/Quickening Star|Quickening Star]]
+- [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Relatives Star System/Relatives Star|Relatives Star]]
