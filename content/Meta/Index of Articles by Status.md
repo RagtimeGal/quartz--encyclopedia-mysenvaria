@@ -938,8 +938,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Branches/Wizardry|Wizardry]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Writing|Writing]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Zoology|Zoology]]
-- [[Meta/Programs/History Page Generator/Century|{{title}}]]
-- [[Meta/Programs/History Page Generator/Decade|{{title}}]]
 
 # Touch-up
 - [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]
