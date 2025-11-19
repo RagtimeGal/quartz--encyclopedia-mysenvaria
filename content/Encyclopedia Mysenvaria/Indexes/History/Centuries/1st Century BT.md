@@ -11,10 +11,12 @@ has:
 
 > [!summary] 1st Century BT
 > > [!summary] Decades
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Decades/110s BT|110s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/100s BT|100s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/90s BT|90s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/80s BT|80s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/70s BT|70s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT|60s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/50s BT|50s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/40s BT|40s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/30s BT|30s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/20s BT|20s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/10s BT|10s BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT|0s AT]] ...
 > 
 > 
 > > [!summary] Centuries
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]], **1st Century BT**, [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century AT|1st Century AT]] ...
 
 # Events
