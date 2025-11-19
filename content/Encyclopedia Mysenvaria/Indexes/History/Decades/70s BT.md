@@ -11,10 +11,12 @@ status: complete
 
 > [!summary] 70s BT
 > > [!summary] Decades
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Decades/80s BT|80s BT]], **70s BT**, [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT|60s BT]] ...
 > 
 > 
 > > [!summary] Centuries
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century BT|1st Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century AT|1st Century AT]] ...
 
 # See Also

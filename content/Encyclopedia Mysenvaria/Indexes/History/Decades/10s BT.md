@@ -11,10 +11,12 @@ status: complete
 
 > [!summary] 10s BT
 > > [!summary] Decades
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Decades/20s BT|20s BT]], **10s BT**, [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT|0s AT]] ...
 > 
 > 
 > > [!summary] Centuries
+> > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century BT|1st Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century AT|1st Century AT]] ...
 
 
