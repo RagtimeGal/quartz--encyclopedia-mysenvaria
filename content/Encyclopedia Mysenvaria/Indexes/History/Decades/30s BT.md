@@ -3,7 +3,6 @@ title: 30s BT
 enableToc: true
 tags:
   - topic/history/decade
-draft: true
 type: index
 future: update
 status: complete
