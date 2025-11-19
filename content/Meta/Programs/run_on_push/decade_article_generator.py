@@ -721,10 +721,12 @@ status: complete
 
 > [!summary] {{title}}
 > > [!summary] Decades
+> > 
 > > ... {{decade_links}} ...
 > 
 > 
 > > [!summary] Centuries
+> > 
 > > ... {{century_links}} ...
 
 {{events_block}}{{people_block}}{{stars_block}}# See Also
