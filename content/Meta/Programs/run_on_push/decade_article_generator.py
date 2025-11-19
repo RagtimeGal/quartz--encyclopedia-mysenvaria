@@ -13,7 +13,6 @@ CONTENT_DIRNAME = "content"
 # Extraction outputs
 DERIVED_DIR_REL = pathlib.Path("Meta/Programs/debug/decade_article_generator")
 EXTRACTED_JSON = "extracted_data.json"
-WARNINGS_MD  = "extraction_warnings.md"
 
 # Where to write decades (final location)
 DECADES_DIR_REL   = pathlib.Path("Encyclopedia Mysenvaria/Indexes/History/Decades")
@@ -364,7 +363,6 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
     """
     out_dir = (root / DERIVED_DIR_REL); out_dir.mkdir(parents=True, exist_ok=True)
     json_path = out_dir / EXTRACTED_JSON
-    warn_path = out_dir / WARNINGS_MD
     desc_maps_by_source: Dict[str, Dict[str, str]] = {}
 
     WRITE_JSON_WHEN_DRY = False  # set True if you want the JSON even in DRY runs
@@ -607,15 +605,18 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
             warn_lines.append("## Missing desc pointers")
             warn_lines.extend(warnings_list)
             warn_lines.append("")
-        (out_dir / WARNINGS_MD).write_text("\n".join(warn_lines), encoding="utf-8")
-        print(f"[WROTE] {json_path} and {warn_path}")
 
     return payload
 
 # ----------------- Decade/Century helpers -----------------
 def _fmt_event_line(desc: str, day: Optional[int]) -> str:
     """Return '- (3rd) something' if day given, else '- something'."""
-    return f"- ({ordinal(day)}) {desc}" if day else f"- {desc}"
+    if day is not None and day != 0:
+        sd = season_day_label(day)
+        return f"- ({sd}) {desc}" if sd else f"- {desc}"
+    else:
+        return f"- {desc}"
+
 
 def _dedupe_records_by_text(records: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     seen = set()
@@ -637,6 +638,29 @@ def ordinal(n: int) -> str:
     else:
         suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
     return f"{n}{suffix}"
+
+def season_day_label(day: Optional[int]) -> Optional[str]:
+    """Return '66th of Autumn' given a 0..360 day index; None if invalid/None."""
+    if day is None:
+        return None
+    try:
+        d = int(day)
+    except Exception:
+        return None
+    if d < 0 or d > 360:
+        return None
+
+    if d <= 90:
+        season, start = "Spring", 0
+    elif d <= 180:
+        season, start = "Summer", 91
+    elif d <= 269:
+        season, start = "Autumn", 181
+    else:
+        season, start = "Winter", 270
+
+    idx = d - start + 1  # 1-based within the season
+    return f"{ordinal(idx)} of {season}"
 
 def decade_floor(year: int) -> int:
     # True floor-division; works for negative years (e.g., -12 -> -20)
@@ -768,7 +792,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
             events_by_decade[dstart][y].append({
                 "day": d,
                 "alpha": sdesc_clean,
-                "text": _fmt_event_line(sdesc_clean, d),
+                "desc": sdesc_clean,
             })
 
         # END marker
@@ -782,7 +806,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
             events_by_decade[dstart2][y2].append({
                 "day": d2,
                 "alpha": edesc_clean,
-                "text": _fmt_event_line(edesc_clean, d2),
+                "desc": edesc_clean,
             })
 
     # --- People ---
@@ -802,8 +826,9 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
             by = int(b["year"])
             bd = int(b.get("day", 0)) or None
             parts = []
-            if bd:
-                parts.append(ordinal(bd))
+            sd = season_day_label(bd)
+            if sd:
+                parts.append(sd)
             parts.append(f"[[{target}|{title}]]")
             d_for_suffix = pe.get("death_date")
             if isinstance(d_for_suffix, dict) and "year" in d_for_suffix:
@@ -821,8 +846,9 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
             dy = int(d["year"])
             dd = int(d.get("day", 0)) or None
             parts = []
-            if dd:
-                parts.append(ordinal(dd))
+            sd = season_day_label(dd)
+            if sd:
+                parts.append(sd)
             parts.append(f"[[{target}|{title}]]")
             b_for_suffix = pe.get("birthday")
             if isinstance(b_for_suffix, dict) and "year" in b_for_suffix:
@@ -843,7 +869,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
                 events_by_decade[(y // 10) * 10][y].append({
                     "day": day,
                     "alpha": bdesc,
-                    "text": _fmt_event_line(bdesc, day),
+                    "desc": bdesc,
                 })
 
             ddesc = (pe.get("death_desc") or "").strip()
@@ -853,9 +879,8 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
                 events_by_decade[(y // 10) * 10][y].append({
                     "day": day,
                     "alpha": ddesc,
-                    "text": _fmt_event_line(ddesc, day),
+                    "desc": ddesc,
                 })
-
 
         # Spouses: relationships only, deduped and with cross-date suffixes
         for sp in pe.get("spouses", []) if isinstance(pe.get("spouses"), list) else []:
@@ -871,11 +896,12 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
                 if rel_key not in seen_relationship_keys:
                     seen_relationship_keys.add(rel_key)
                     parts = []
-                    if sd:
-                        parts.append(ordinal(sd))
+                    sd_label = season_day_label(sd)
+                    if sd_label:
+                        parts.append(sd_label)
                     parts.append(f"[[{target}|{title}]] marries {partner}")
                     if isinstance(edt, dict) and "year" in edt:
-                        parts.append(f"(d. {year_suffix(int(edt['year']))})")
+                        parts.append(f"(div. {year_suffix(int(edt['year']))})")
                     line = ", ".join([parts[0], " ".join(parts[1:])]) if sd else " ".join(parts)
                     relationships_by_decade[(sy // 10) * 10][sy].append({
                         "day": sd,
@@ -893,11 +919,12 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
                 if rel_key not in seen_relationship_keys:
                     seen_relationship_keys.add(rel_key)
                     parts = []
-                    if ed:
-                        parts.append(ordinal(ed))
+                    ed_label = season_day_label(ed)
+                    if ed_label:
+                        parts.append(ed_label)
                     parts.append(f"[[{target}|{title}]] divorces {partner}")
                     if isinstance(sdt, dict) and "year" in sdt:
-                        parts.append(f"(m. {year_suffix(int(sdt['year']))})")
+                        parts.append(f"(mar. {year_suffix(int(sdt['year']))})")
                     line = ", ".join([parts[0], " ".join(parts[1:])]) if ed else " ".join(parts)
                     relationships_by_decade[(ey // 10) * 10][ey].append({
                         "day": ed,
@@ -923,7 +950,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         events_by_decade[dstart][y].append({
             "day": d,
             "alpha": desc,
-            "text": _fmt_event_line(desc, d),
+            "desc": desc,
         })
 
     for row in trns:
@@ -938,7 +965,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         events_by_decade[dstart][y].append({
             "day": d,
             "alpha": desc,
-            "text": _fmt_event_line(desc, d),
+            "desc": desc,
         })
 
     pubs_by_star: Dict[Tuple[str, str], List[Dict[str, Any]]] = defaultdict(list)
@@ -1021,8 +1048,8 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         stars_by_decade[dec].sort(key=star_key)
 
     # Convert to text lists (renderers expect strings)
-    events_text = {dec: {yr: [rec["text"] for rec in lst] for yr, lst in years.items()}
-                   for dec, years in events_by_decade.items()}
+    events_struct = {dec: {yr: lst for yr, lst in years.items()}
+                    for dec, years in events_by_decade.items()}
     births_text = {dec: {yr: [rec["text"] for rec in lst] for yr, lst in years.items()}
                    for dec, years in births_by_decade.items()}
     deaths_text = {dec: {yr: [rec["text"] for rec in lst] for yr, lst in years.items()}
@@ -1034,8 +1061,8 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
     def sort_year_keys(d: Dict[int, Any]) -> Dict[int, Any]:
         return dict(sorted(d.items(), key=lambda kv: kv[0]))
 
-    for k in list(events_text.keys()):
-        events_text[k] = sort_year_keys(events_text[k])
+    for k in list(events_struct.keys()):
+        events_struct[k] = sort_year_keys(events_struct[k])
     for k in list(births_text.keys()):
         births_text[k] = sort_year_keys(births_text[k])
     for k in list(deaths_text.keys()):
@@ -1043,7 +1070,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
     for k in list(relations_text.keys()):
         relations_text[k] = sort_year_keys(relations_text[k])
 
-    return events_text, births_text, deaths_text, relations_text, {dec: [rec["row"] for rec in rows] for dec, rows in stars_by_decade.items()}
+    return events_struct, births_text, deaths_text, relations_text, {dec: [rec["row"] for rec in rows] for dec, rows in stars_by_decade.items()}
 
 # ----------------- Link rows -----------------
 def decade_starts_in_range() -> List[int]:
@@ -1091,13 +1118,58 @@ def century_links_row(root: pathlib.Path, decade_start: int) -> str:
 
 
 # ----------------- Renderers -----------------
-def render_events_by_year(events_for_decade: Dict[int, List[str]]) -> str:
+def render_events_by_year(events_for_decade: Dict[int, List[Dict[str, Any]]]) -> str:
+    """
+    Render Events grouped by year, then grouped by day within the year.
+    - Single event on a day: '- 27th of Spring — As the number ...'
+    - Multiple events same day: day as parent bullet with sub-bullets
+        - 25th of Winter
+          - Event A ...
+          - Event B ...
+    - No day: '- As the number ...'
+    """
     if not events_for_decade:
         return ""
+
     parts: List[str] = ["# Events"]
     for year, items in events_for_decade.items():
         parts.append(f"## {year_suffix(year)}")
-        parts.extend(items)
+
+        # Group by day in the already-sorted order
+        by_day: Dict[Optional[int], List[Dict[str, Any]]] = defaultdict(list)
+        day_order: List[Optional[int]] = []
+        for rec in items:
+            day = rec.get("day", None)
+            if day not in by_day:
+                day_order.append(day)
+            by_day[day].append(rec)
+
+        for day in day_order:
+            rows = by_day[day]
+
+            # No day: simple bullets
+            if day is None:
+                for r in rows:
+                    desc = (r.get("desc") or "").strip()
+                    if desc:
+                        parts.append(f"- {desc}")
+                continue
+
+            # Day present
+            label = season_day_label(day) or ""
+            if len(rows) == 1:
+                r = rows[0]
+                desc = (r.get("desc") or "").strip()
+                if desc:
+                    parts.append(f"- {label} — {desc}")
+            else:
+                # Parent bullet for the day; sub-bullets for each event
+                parts.append(f"- {label}")
+                for r in rows:
+                    desc = (r.get("desc") or "").strip()
+                    if desc:
+                        parts.append(f"     - {desc}")  # 2-space indent for sub-bullet
+
     return "\n".join(parts) + "\n"
 
 def render_people_grouped(births: Dict[int, List[str]],
@@ -1150,14 +1222,17 @@ def render_stars_table(rows: List[Dict[str, Any]]) -> str:
             continue
 
         # Build date string: "[day][ordinal] of [year]" if day present, else just year
-        if isinstance(r.get("date_year"), int) and r.get("date_day"):
-            display_date = f"{ordinal(int(r['date_day']))} of {year_suffix(int(r['date_year']))}"
+        dy = r.get("date_year")
+        dd = r.get("date_day")
+        if isinstance(dy, int) and dd is not None:
+            sd = season_day_label(int(dd))
+            display_date = f"{sd}, {year_suffix(int(dy))}" if sd else year_suffix(int(dy))
         else:
-            # fall back to provided 'date' or just the year if present
-            display_date = r.get("date") or (year_suffix(int(r["date_year"])) if isinstance(r.get("date_year"), int) else "")
+            display_date = r.get("date") or (year_suffix(int(dy)) if isinstance(dy, int) else "")
 
         name   = esc(r.get("name_link", ""))
-        coords = esc(r.get("coordinates", ""))
+        coords_raw = esc(r.get("coordinates", ""))
+        coords = f"({coords_raw})" if coords_raw else ""
         actors = esc(r.get("actors", ""))
         desc   = esc(r.get("desc", ""))
 

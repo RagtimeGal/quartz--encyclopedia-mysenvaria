@@ -6,7 +6,6 @@ tags:
 draft: true
 type: template
 status: empty
-dates: {}
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]

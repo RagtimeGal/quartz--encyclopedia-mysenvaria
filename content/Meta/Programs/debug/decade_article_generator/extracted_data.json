@@ -1,10 +1,10 @@
 {
   "meta": {
     "front_matters": 919,
-    "parsed_events": 13,
+    "parsed_events": 21,
     "parsed_people": 4,
-    "parsed_star_bases": 3,
-    "parsed_star_publications": 5,
+    "parsed_star_bases": 4,
+    "parsed_star_publications": 6,
     "parsed_star_translations": 0,
     "yaml_loader_usage": {
       "pyyaml": 917,
@@ -12,6 +12,45 @@
     }
   },
   "event": [
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Dying Period.md",
+      "kind": "event",
+      "start_date": {
+        "year": -177,
+        "day": 26
+      },
+      "end_date": {
+        "year": -160,
+        "day": 267
+      },
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins (end. 160 BT) following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.",
+      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends (beg. 177 BT) after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] which have ever existed. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Convening.md",
+      "kind": "event",
+      "start_date": {
+        "year": -176,
+        "day": 0
+      },
+      "end_date": null,
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] holds the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. Of the 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] invited only 16 arrive. Each invitee had witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. The event sees the formation of many ideas and theories regarding the beginning war.",
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Death.md",
+      "kind": "event",
+      "start_date": {
+        "year": -177,
+        "day": 26
+      },
+      "end_date": null,
+      "start_desc": "As the number of Gods to ever exist reaches its peak the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] of a God occurs.",
+      "end_desc": null,
+      "major_event": true
+    },
     {
       "source": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
       "kind": "event",
@@ -85,15 +124,78 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Convening.md",
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md",
       "kind": "event",
       "start_date": {
-        "year": -176,
+        "year": -177,
         "day": 0
       },
-      "end_date": null,
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] holds the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. Of the 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] invited only 16 arrive. Each invitee had witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. The event sees the formation of many ideas and theories regarding the beginning war.",
+      "end_date": {
+        "year": 0,
+        "day": 0
+      },
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. (end. 0 AT)",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. (beg. 177 BT)",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md",
+      "kind": "event",
+      "start_date": {
+        "year": -177,
+        "day": 0
+      },
+      "end_date": {
+        "year": -116,
+        "day": 0
+      },
+      "start_desc": "Start of the Early-War Epoch. (end. 116 BT)",
       "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md",
+      "kind": "event",
+      "start_date": {
+        "year": -116,
+        "day": 0
+      },
+      "end_date": {
+        "year": -55,
+        "day": 0
+      },
+      "start_desc": "End of the Early-War Epoch (beg. 116 BT), start of the Mid-War Epoch. (end. 55 BT)",
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md",
+      "kind": "event",
+      "start_date": {
+        "year": -55,
+        "day": 0
+      },
+      "end_date": {
+        "year": 0,
+        "day": 0
+      },
+      "start_desc": "End of the Mid-War Epoch (beg. 55 BT), start of the Late-War Epoch. (end. 0 AT)",
+      "end_desc": null,
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md",
+      "kind": "event",
+      "start_date": {
+        "year": -25,
+        "day": 0
+      },
+      "end_date": {
+        "year": -11,
+        "day": 0
+      },
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]. (end. 11 BT)",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]. (beg. 25 BT)",
       "major_event": true
     },
     {
@@ -112,30 +214,18 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Death.md",
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Lover's Period.md",
       "kind": "event",
       "start_date": {
-        "year": -177,
-        "day": 26
-      },
-      "end_date": null,
-      "start_desc": "As the number of Gods to ever exist reaches its peak the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] of a God occurs.",
-      "end_desc": null,
-      "major_event": true
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/Dying Period.md",
-      "kind": "event",
-      "start_date": {
-        "year": -177,
-        "day": 26
+        "year": -41,
+        "day": 0
       },
       "end_date": {
-        "year": -160,
-        "day": 267
+        "year": -12,
+        "day": 0
       },
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.",
-      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.",
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Lover's Period|Lover's Period]]. (end. 12 BT)",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Lover's Period|Lover's Period]]. (beg. 41 BT)",
       "major_event": true
     },
     {
@@ -163,18 +253,48 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md",
+      "source": "Encyclopedia Mysenvaria/History/Golden Age/Golden Age.md",
       "kind": "event",
       "start_date": {
-        "year": -25,
+        "year": 609,
         "day": 0
       },
       "end_date": {
-        "year": -11,
+        "year": 1214,
         "day": 0
       },
-      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
-      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].",
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]. (end. 1214 AT)",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]. (beg, 609 AT)",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Modern Era/Modern Era.md",
+      "kind": "event",
+      "start_date": {
+        "year": 1214,
+        "day": 0
+      },
+      "end_date": {
+        "year": 1496,
+        "day": 0
+      },
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]]. (ongoing)",
+      "end_desc": "The modern day.",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era.md",
+      "kind": "event",
+      "start_date": {
+        "year": 0,
+        "day": 0
+      },
+      "end_date": {
+        "year": 609,
+        "day": 0
+      },
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (end. 609 AT)",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (beg. 0 AT)",
       "major_event": true
     }
   ],
@@ -193,17 +313,6 @@
         "day": 0
       },
       "title": "Charles Lightningson"
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Josh Soundson.md",
-      "kind": "person",
-      "name": "Josh Soundson",
-      "major_event": true,
-      "birthday": {
-        "year": -39,
-        "day": 0
-      },
-      "title": "Josh Soundson"
     },
     {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife.md",
@@ -226,6 +335,17 @@
       "title": "Dwarf Soundwife"
     },
     {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Josh Soundson.md",
+      "kind": "person",
+      "name": "Josh Soundson",
+      "major_event": true,
+      "birthday": {
+        "year": -39,
+        "day": 0
+      },
+      "title": "Josh Soundson"
+    },
+    {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space.md",
       "kind": "person",
       "name": "Gods of Matter, Energy, Time, and Space",
@@ -236,18 +356,25 @@
   "star": {
     "bases": [
       {
-        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
-        "star_name": "First Epoch Star",
-        "coordinates": "",
-        "desc": "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]].",
-        "fm_title": "First Epoch Star"
-      },
-      {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md",
         "star_name": "Convening Star",
         "coordinates": "",
         "desc": "Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] following the First Convening. It details the organizing of the event, the attendees, the discussions held, and the conclusions drawn.",
         "fm_title": "Convening Star"
+      },
+      {
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
+        "star_name": "First Epoch Star",
+        "coordinates": "0,0,3844",
+        "desc": "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]].",
+        "fm_title": "First Epoch Star"
+      },
+      {
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md",
+        "star_name": "Spatial Act",
+        "coordinates": "",
+        "desc": "Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]] to put an end to Gods' manipulation of time and space as battle strategies.",
+        "fm_title": "Spatial Act"
       },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star.md",
@@ -258,20 +385,6 @@
       }
     ],
     "publications": [
-      {
-        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
-        "star_name": "First Epoch Star",
-        "date": {
-          "year": -178,
-          "day": 282
-        },
-        "desc": "",
-        "publishers": [
-          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]"
-        ],
-        "major_event": true,
-        "fm_title": "First Epoch Star"
-      },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md",
         "star_name": "Convening Star",
@@ -313,6 +426,34 @@
         ],
         "major_event": true,
         "fm_title": "Convening Star"
+      },
+      {
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
+        "star_name": "First Epoch Star",
+        "date": {
+          "year": -178,
+          "day": 282
+        },
+        "desc": "",
+        "publishers": [
+          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]"
+        ],
+        "major_event": true,
+        "fm_title": "First Epoch Star"
+      },
+      {
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md",
+        "star_name": "Spatial Act",
+        "date": {
+          "year": -175,
+          "day": 213
+        },
+        "desc": "As Gods' manipulations of time and space grow more severe the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]] pass the [[Encyclopedia Mysenvaria/Geography/Stars/Spatial Act|Spatial Act]].",
+        "publishers": [
+          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]]"
+        ],
+        "major_event": true,
+        "fm_title": "Spatial Act"
       },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star.md",

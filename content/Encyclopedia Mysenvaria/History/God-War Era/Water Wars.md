@@ -3,6 +3,7 @@ title: Water Wars
 enableToc: true
 tags:
   - topic/history/god-war_era
+  - subject/war
 type: article
 status: empty
 event:

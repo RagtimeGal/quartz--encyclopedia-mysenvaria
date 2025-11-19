@@ -19,30 +19,45 @@ has:
 
 # Events
 ## 100s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/100s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/100s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/100s BT#Stars]]
 ## 90s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/90s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/90s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/90s BT#Stars]]
 ## 80s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/80s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/80s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/80s BT#Stars]]
 ## 70s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/70s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/70s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/70s BT#Stars]]
 ## 60s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#Stars]]
 ## 50s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/50s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/50s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/50s BT#Stars]]
 ## 40s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/40s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/40s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/40s BT#Stars]]
 ## 30s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/30s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/30s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/30s BT#Stars]]
 ## 20s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/20s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/20s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/20s BT#Stars]]
 ## 10s BT
-
-# Significant People
-## Births
-
-## Deaths
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/10s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/10s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/10s BT#Stars]]
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

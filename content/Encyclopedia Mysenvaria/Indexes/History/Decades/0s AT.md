@@ -20,7 +20,9 @@ status: complete
 
 # Events
 ## 0 AT
+- End of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. (beg. 177 BT)
 - Sixth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
+- Start of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (end. 609 AT)
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

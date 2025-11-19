@@ -880,7 +880,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Branches/Paleontology|Paleontology]]
 - [[Encyclopedia Mysenvaria/Science/Models/Perennial Classification|Perennial Classification]]
 - [[Meta/Templates/Arts/Performative Arts Template|Performance Template]]
-- [[Meta/Templates/Geography/Phenomena Template|Phenomena Template]]
+- [[Meta/Templates/Science/Phenomena Template|Phenomena Template]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Philosophy|Philosophy]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Physiology|Physiology]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Pottery|Pottery]]

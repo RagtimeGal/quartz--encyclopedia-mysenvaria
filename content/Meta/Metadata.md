@@ -23,10 +23,10 @@ The following is a list of all YAML node keys—and examples of their values—u
 - **future**: How this article might fare for the future. `update`, `rewrite`, or `review`.
 - **has**: A list of items[^possible_page_items] which the article has.
 - **needs**: A list of items[^possible_page_items] which could improve the article.
-- **animal**: JSON-style data for pages regarding animals. Used by scripts to format infoboxes on specific pages.
 - **event**: Data for any event dates regarding the article. For information regarding the formatting of dates see the applicable portion of this article.
 - **star**: Data for pages regarding stars. Used by scripts to generate certain pages.
 - **person**: Data for pages regarding specific characters or people. Used by scripts to generate certain pages.
+- **animal**: JSON-style data for pages regarding animals. Used by scripts to format infoboxes on specific pages.
 - **uid**: The UID if applicable, determined by the encyclopedia's [[Meta/Names#Name Code|name code]].
 # Tags
 Tags are broken down into two types: topics and subjects. Topics are broad and overarching, every article should have at least one topic tag. These tags are very straightforward and help with finding articles over a broad area of information. Subjects are much more narrow in the topics they discuss. Not every article needs a subject tag. They help with finding very specific articles.
@@ -95,6 +95,7 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 	- `subject/sophont/human`: This page covers information regarding an aspect of humans.
 	- `subject/sophont/elf`: This page covers information regarding an aspect of elves.
 	- `subject/sophont/dwarf`: This page covers information regarding an aspect of dwarves.
+- `subject/war`: This page covers information regarding a war.
 # Event
 - **start_desc**: This is not optional, it provides a description of the event as a string. Wikilinks may be included. May point to hidden text in the article.
 - **end_desc**: This is optional, it provides a description of the event as a string. Wikilinks may be included. May point to hidden text in the article.

@@ -19,26 +19,37 @@ has:
 
 # Events
 ## 180s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#Events|180s BT]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#Significant People|180s BT]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#Stars|180s BT]]
 ## 170s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/170s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/170s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/170s BT#Stars]]
 ## 160s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT#Stars]]
 ## 150s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#Stars]]
 ## 140s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/140s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/140s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/140s BT#Stars]]
 ## 130s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/130s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/130s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/130s BT#Stars]]
 ## 120s BT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT#Stars]]
 ## 110s BT
-
-# Significant People
-## Births
-
-## Deaths
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/110s BT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/110s BT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/110s BT#Stars]]
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

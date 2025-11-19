@@ -20,6 +20,7 @@ status: complete
 
 # Events
 ## 55 BT
+- End of the Mid-War Epoch (beg. 55 BT), start of the Late-War Epoch. (end. 0 AT)
 - Second [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
 - The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] ends following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. 99% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which will ever exist were created since the start of the period.
 ## 53 BT

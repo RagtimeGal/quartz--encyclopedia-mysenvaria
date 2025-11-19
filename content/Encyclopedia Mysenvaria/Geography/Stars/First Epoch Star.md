@@ -13,6 +13,7 @@ star:
       date: "-178-282"
       major_event: true
     desc: "star_desc"
+    coordinates: "0,0,3844"
 ---
 %%
 publisher: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]

@@ -16,8 +16,8 @@ event:
     major_event: true
 ---
 %%
-start_desc: The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.
-end_desc: The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.
+start_desc: The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins (end. 160 BT) following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.
+end_desc: The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends (beg. 177 BT) after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] which have ever existed. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
 > This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
