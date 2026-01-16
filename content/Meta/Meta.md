@@ -18,7 +18,7 @@ As an example: The non-meta includes pages like [[Encyclopedia Mysenvaria/Cultur
 
 This page serves as a starting point for those looking to explore how the encyclopedia works, what it's meant for, how to use it, and how to contribute.
 # The Project
-Mysenvar is a low-magic realistic fantasy setting which can be explored through the Encyclopedia Mysenvaria website. The website is written through the guise of an encyclopedia which exists in the setting itself (Bar, as previously mentioned, meta pages like this one). The encyclopedia offers users a free resource to use as they wish: running a TTRPG, looking for inspiration for your own story or setting, or wanting a detailed world for a project you're working on. Mysenvar intends to be a rich and expansive world for anyone's purposes—so long as it is not monetized.
+Mysenvar is a hard science-fantasy setting which can be explored through the Encyclopedia Mysenvaria website. The website is written through the guise of an encyclopedia which exists in the setting itself (Bar, as previously mentioned, meta pages like this one). The encyclopedia offers users a free resource to use as they wish: running a TTRPG, looking for inspiration for your own story or setting, or wanting a detailed world for a project you're working on. Mysenvar intends to be a rich and expansive world for anyone's purposes—so long as it is not monetized.
 
 As part of my initiative to get readers interested in running TTRPG's in Mysenvar I would like to write a series of meta pages in the future on how to use the encyclopedia to run campaigns in the setting. This won't come for some time, but it would be fun.
 

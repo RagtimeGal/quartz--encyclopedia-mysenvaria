@@ -1915,11 +1915,24 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
       <description>After their reclusive era SEX returns to the political scene.</description>
       <default_color>192,192,192</default_color>
     </event>
+    <event>
+      <start>-145</start>
+      <end>-145</end>
+      <text>The Great Poleward Fog Migration</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>History</category>
+      <default_color>192,192,192</default_color>
+    </event>
   </events>
   <view>
     <displayed_period>
-      <start>-186</start>
-      <end>-36</end>
+      <start>49</start>
+      <end>353</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>

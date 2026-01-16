@@ -8,6 +8,9 @@ type: article
 status: incomplete
 needs:
   - infobox
+person:
+  - name: "Gods of What Is and Is Not"
+    major_event: false
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]

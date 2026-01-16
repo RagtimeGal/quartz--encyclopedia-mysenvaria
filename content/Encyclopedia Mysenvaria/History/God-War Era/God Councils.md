@@ -7,31 +7,31 @@ type: article
 status: empty
 event:
   - start_desc: "start_desc1"
-    start_date: "-145"
+    start_date: "-145-1"
     major_event: true
   - start_desc: "start_desc2"
-    start_date: "-55"
+    start_date: "-55-1"
     major_event: true
   - start_desc: "start_desc3"
-    start_date: "-39"
+    start_date: "-39-1"
     major_event: true
   - start_desc: "start_desc4"
-    start_date: "-12"
+    start_date: "-12-1"
     major_event: true
   - start_desc: "start_desc5"
-    start_date: "-6"
+    start_date: "-6-1"
     major_event: true
   - start_desc: "start_desc6"
-    start_date: "0"
+    start_date: "-1-360"
     major_event: true
 ---
 %%
-start_desc1: First [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
-start_desc2: Second [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
-start_desc3: Third [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
-start_desc4: Fourth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
-start_desc5: Fifth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
-start_desc6: Sixth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
+start_desc1: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#First Council|First God Council]] held.
+start_desc2: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Second Council|Second God Council]] held.
+start_desc3: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Third Council|Third God Council]] held.
+start_desc4: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fourth Council|Fourth God Council]] held.
+start_desc5: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fifth Council|Fifth God Council]] held.
+start_desc6: [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Sixth Council|Sixth God Council]] held.
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

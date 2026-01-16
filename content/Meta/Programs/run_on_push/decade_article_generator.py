@@ -647,17 +647,17 @@ def season_day_label(day: Optional[int]) -> Optional[str]:
         d = int(day)
     except Exception:
         return None
-    if d < 0 or d > 360:
+    if d < 1 or d > 361:
         return None
 
     if d <= 90:
-        season, start = "Spring", 0
+        season, start = "Spring", 1
     elif d <= 180:
         season, start = "Summer", 91
     elif d <= 269:
         season, start = "Autumn", 181
     else:
-        season, start = "Winter", 270
+        season, start = "Winter", 271
 
     idx = d - start + 1  # 1-based within the season
     return f"{ordinal(idx)} of {season}"
