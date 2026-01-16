@@ -21,8 +21,8 @@ status: complete
 
 # Events
 ## 12 BT
+- 1st of Spring — [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fourth Council|Fourth God Council]] held.
 - End of the [[Encyclopedia Mysenvaria/History/God-War Era/Lover's Period|Lover's Period]]. (beg. 41 BT)
-- Fourth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
 ## 11 BT
 - End of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]. (beg. 25 BT)
 # Significant People

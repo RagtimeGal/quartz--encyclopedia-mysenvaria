@@ -21,7 +21,7 @@ status: complete
 
 # Events
 ## 39 BT
-- Third [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
+- 1st of Spring — [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Third Council|Third God Council]] held.
 # Significant People
 ## Births
 ### 39 BT

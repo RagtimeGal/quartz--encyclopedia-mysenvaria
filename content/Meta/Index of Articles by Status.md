@@ -593,7 +593,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Greenschist|God of Greenschist]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hafnium|God of Hafnium]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Hail|God of Hail]]
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/God of Harmony|God of Harmony]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hassium|God of Hassium]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Heat|God of Heat]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Heat Lightning|God of Heat Lightning]]

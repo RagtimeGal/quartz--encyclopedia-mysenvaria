@@ -21,8 +21,9 @@ status: complete
 
 # Events
 ## 6 BT
-- Fifth [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Council]] held.
+- 1st of Spring — [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fifth Council|Fifth God Council]] held.
 ## 1 BT
+- 90th of Winter — [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Sixth Council|Sixth God Council]] held.
 - Following [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|God of Sodium Ethyl Xanthate's]] own passing their close sibling [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Diethyl Dixanthogen Disulfide|God of Diethyl Dixanthogen Disulfide]] would republish many of their stars, including the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]].
 # Significant People
 ## Deaths
