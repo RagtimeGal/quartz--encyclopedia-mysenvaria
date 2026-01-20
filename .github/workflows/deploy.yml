@@ -22,7 +22,7 @@ jobs:
     if: github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           # For workflow_run, explicitly checkout the commit that triggered it
           ref: ${{ github.event.workflow_run.head_sha }}
