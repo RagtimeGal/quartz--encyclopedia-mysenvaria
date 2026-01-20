@@ -15,7 +15,7 @@ status: complete
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 45.2025|Ledger 45.2025]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 4.2026|Ledger 4.2026]]
 
 This week a new push-program has been added to the encyclopedia which fills out the [[Encyclopedia Mysenvaria/Indexes/History/List of Years|decade pages]] based off of year information in the YAML [[Meta/Metadata|metadata]] of pages! This program may see some minor edits in future ledgers.
 

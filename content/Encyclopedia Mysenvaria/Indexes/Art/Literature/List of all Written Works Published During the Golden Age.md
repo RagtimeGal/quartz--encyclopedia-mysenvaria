@@ -28,8 +28,6 @@ index:
 
 The following is an index of all articles across the encyclopedia describing [[Encyclopedia Mysenvaria/Arts/Art#Literature|literary works]] which were published during the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]], organized by decade of publication.
 # Works Published During the Golden Age
-## 1310s AT
-- [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
 > This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
