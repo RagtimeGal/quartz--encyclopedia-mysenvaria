@@ -17,4 +17,4 @@ The Relations Act is a [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of
 # Famous Translations
 
 # Also see
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/Lists of Stars|Lists of Stars]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

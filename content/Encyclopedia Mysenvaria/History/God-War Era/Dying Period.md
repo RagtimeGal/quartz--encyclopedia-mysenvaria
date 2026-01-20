@@ -4,7 +4,7 @@ enableToc: true
 tags:
   - topic/history/god-war_era
 type: article
-status: touchup
+status: touch-up
 future: review
 has:
   - image

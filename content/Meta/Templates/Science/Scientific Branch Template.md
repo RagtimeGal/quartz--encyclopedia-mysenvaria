@@ -19,4 +19,4 @@ status: empty
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Science/List of Scientific Branches|List of Scientific Branches]]
+- [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]

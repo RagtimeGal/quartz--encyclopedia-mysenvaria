@@ -47,4 +47,4 @@ As speakers of Proto-Human became gradually isolated from eachother, the regiona
 # Dialects & Accents
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]

@@ -437,11 +437,11 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
         }
 
         # birth / death
-        b = block.get("birthday")
+        b = block.get("birth_date")
         if b is not None:
             bp = parse_mysenvar_date(b)
             if bp is not None:
-                out["birthday"] = bp
+                out["birth_date"] = bp
         d = block.get("death_date") or block.get("death")
         if d is not None:
             dp = parse_mysenvar_date(d)
@@ -813,7 +813,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
     # --- People ---
     # Births/Deaths: ALWAYS listed (ignore person.major_event)
     # If person.major_event==True:
-    #   - if birth_desc present -> add as normal Event on birthday
+    #   - if birth_desc present -> add as normal Event on birth_date
     #   - if death_desc present -> add as normal Event on death date
     seen_relationship_keys = set()
 
@@ -822,7 +822,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
         target = wiki_target_from_source(root, pe["source"])
 
         # Births list (always)
-        b = pe.get("birthday")
+        b = pe.get("birth_date")
         if isinstance(b, dict) and "year" in b:
             by = int(b["year"])
             bd = int(b.get("day", 0)) or None
@@ -851,7 +851,7 @@ def build_events_births_deaths_and_stars(data: Dict[str, Any], root: pathlib.Pat
             if sd:
                 parts.append(sd)
             parts.append(f"[[{target}|{title}]]")
-            b_for_suffix = pe.get("birthday")
+            b_for_suffix = pe.get("birth_date")
             if isinstance(b_for_suffix, dict) and "year" in b_for_suffix:
                 parts.append(f"(b. {year_suffix(int(b_for_suffix['year']))})")
             line = ", ".join([parts[0], " ".join(parts[1:])]) if dd else " ".join(parts)

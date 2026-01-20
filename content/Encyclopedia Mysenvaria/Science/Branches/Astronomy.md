@@ -56,4 +56,4 @@ When a God dies all stars they have created fall to the Earth as ossified husks;
 # Famous Astronomers
 - [[Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man]] (44-0)
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Science/List of Scientific Branches|List of Scientific Branches]]
+- [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]

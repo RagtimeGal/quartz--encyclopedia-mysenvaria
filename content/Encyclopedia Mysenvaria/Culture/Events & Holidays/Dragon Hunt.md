@@ -15,4 +15,4 @@ status: empty
 # Celebration
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Holidays|List of Holidays]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Events & Holidays/List of Holidays|List of Holidays]]

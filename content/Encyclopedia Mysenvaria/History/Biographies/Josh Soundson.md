@@ -9,7 +9,7 @@ needs:
   - infobox
 person:
   - name: "Josh Soundson"
-    birthday: "-39"
+    birth_date: "-39"
     death_date: ""
     major_event: true
 ---

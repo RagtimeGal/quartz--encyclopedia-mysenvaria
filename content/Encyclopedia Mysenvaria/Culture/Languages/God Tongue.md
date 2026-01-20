@@ -15,4 +15,4 @@ God Tongue is the language in which [[Encyclopedia Mysenvaria/Science/Phenomena/
 
 God Tongue itself consists of glyphs placed in three-dimensional space. Each glyph alters the meaning of every other when written, forming a structure which constantly changes in meaning.
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]

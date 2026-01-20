@@ -28,6 +28,7 @@ The following is a list of all YAML node keys—and examples of their values—u
 - **person**: Data for pages regarding specific characters or people. Used by scripts to generate certain pages.
 - **animal**: JSON-style data for pages regarding animals. Used by scripts to format infoboxes on specific pages.
 - **uid**: The UID if applicable, determined by the encyclopedia's [[Meta/Names#Name Code|name code]].
+- **index**: An array of data for index pages. Used by scripts to automatically generate indexes.
 # Tags
 Tags are broken down into two types: topics and subjects. Topics are broad and overarching, every article should have at least one topic tag. These tags are very straightforward and help with finding articles over a broad area of information. Subjects are much more narrow in the topics they discuss. Not every article needs a subject tag. They help with finding very specific articles.
 ## Topics
@@ -119,7 +120,7 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 - **parent**: A string which names the parent to this star, it is optional and may include a wiki-link. May point to hidden text in the article.
 # Person
 - **name**: The name of the character, not optional.
-- **birthday**: The date of the character's birth, this is optional if the date of their birth is unknown.
+- **birth_date**: The date of the character's birth, this is optional if the date of their birth is unknown.
 - **birth_location**: The location of the characters birth as a string, this accepts wiki-links and is optional. May point to hidden text in the article.
 - **death_date**: The date of the character's passing, this is optional if the character has not passed away or if the date of their death is unknown.
 - **spouses**: An array of data detailing each spouse the character has ever had. This is optional data.
@@ -131,8 +132,18 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 - **birth_desc**: Optionally provides a description of the persons birth as a string. Wikilinks may be included. May point to hidden text in the article.
 - **death_desc**: Optionally provides a description of the persons birth as a string. Wikilinks may be included. May point to hidden text in the article.
 - **major_event**: Boolean. True means the event is listed on certain major pages.
+# Index
+- **header_name**: The name of the header wherein the index will be placed. This is not optional. If a primary header is not found matching the string then the index is not generated. If there is any text between the specified header and the next primary header or callout then the text is replaced in the generation of the index.
+- **included_data**: An array of YAML data which will be compared to all pages across the encyclopedia. Pages which have matching data will be included in this index. Special logic is applied to any data containing the word `date`. Supports `gt`, `lt`, `gte`, and `lte` arguments.
+- **excluded_data**: An array of YAML data which will be compared to all pages included in this index. Pages which have matching data will be excluded from the index. Special logic is applied to any data containing the word `date`. Supports `gt`, `lt`, `gte`, and `lte` arguments.
+- **sort**: An array of data detailing how the program should sort the indexed pages. The program will attempt to use the first entry to sort all data. Any matching data or outliers will then be sorted via the next entry. This repeats until no entries are left. (For instance, if you sort by date first and there are items with matching dates you may then want these matching items to be sorted by name.)
+	- **by:** A pointer to the piece of metadata which the articles should be indexed by.
+	- **method**: The method by which the program should sort the data. Accepts: `standard_forward`, `standard_backward`, `natural_forward`, `natural_backward`, `unique`. 
+	- **subheaders**: Subheader data.
+		- **generate**: Boolean. Whether or not to generate a subheader for this sort.
+		- **method**: The method by which to generate the subheader. Accepts:  `value` (creates a subheader for each unique value), `first_character` (creates a subheader for each unique first character), and `floor_x` (works only for numbers, creates a subheader at each interval of x).
+		- **format**: Optional string that tells the program how to format the subheader. `{value}` in the string is replaced with the value correlating to the group placed under the subheader.
 # Animal
-- ****
 
 
 [^possible_page_items]: Possible items listed here include: `infobox`, `image`, `video`, `graphics`, and `addenda`.

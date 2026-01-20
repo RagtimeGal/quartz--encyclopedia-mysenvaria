@@ -25,7 +25,7 @@ The pole also serves as the central point of the Harmonic Treaty's orbit and the
 
 The Deadman's Sea creates a relatively uninhabitable environment around the pole, the violent whirlpools creating turbulent conditions uninhabitable for most marine [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. The corpses of some marine animals are known to be carried by the ocean's currents, ending up in the waters surrounding the pole. These corpses temporarily create conditions appealing enough for some seabirds to congregate in the waters, but their visits are often short lived as dangerous waters kill or scare them way.
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/Lists of Abstract Features|Lists of Abstract Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|Lists of Abstract Features]]
 
 [^figure1]: ![[Media/Images/Infographics/world_diagram.png]]
 [^figure2]: ![[Media/Images/Infographics/ocean_currents.png]]

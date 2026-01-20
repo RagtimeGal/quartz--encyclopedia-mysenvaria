@@ -8,7 +8,7 @@ type: template
 status: empty
 person:
   - name: ""
-    birthday: ""
+    birth_date: ""
     death_date: ""
     major_event: false
 ---

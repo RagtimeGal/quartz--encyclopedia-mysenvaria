@@ -11,7 +11,7 @@ needs:
   - infobox
 person:
   - name: "Gods of Matter, Energy, Time, and Space"
-    birthday: "-178"
+    birth_date: "-178"
     major_event: false
 ---
 

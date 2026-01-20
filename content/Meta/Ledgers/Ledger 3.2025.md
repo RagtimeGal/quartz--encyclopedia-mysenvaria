@@ -46,5 +46,5 @@ Welcome to the seventh Lore Ledger. This week saw a lot of progress towards the 
 - [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]], [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]]; Emptied pages for later rewrite.
 - [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]]; Wrote page.
 - [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]; Renamed from "Topographical History of the Plane".
-- [[Encyclopedia Mysenvaria/Indexes/Science/List of Scientific Branches|List of Scientific Branches]]; Updated list to include pages which were previously excluded.
+- [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]; Updated list to include pages which were previously excluded.
 - [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]]; Misspelling fixed.

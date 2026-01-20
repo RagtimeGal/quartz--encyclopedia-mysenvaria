@@ -30,4 +30,4 @@ event:
 # Reception
 
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/Art/List of Written Works|List of Written Works]]
+- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of Written Works]]

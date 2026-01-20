@@ -31,4 +31,4 @@ status: empty
 # Dialects & Accents
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]

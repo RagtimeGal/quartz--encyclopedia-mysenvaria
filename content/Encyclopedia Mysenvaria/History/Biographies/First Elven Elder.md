@@ -9,7 +9,7 @@ needs:
   - infobox
 person:
   - name: ""
-    birthday: ""
+    birth_date: ""
     death_date: ""
     major_event: false
 ---

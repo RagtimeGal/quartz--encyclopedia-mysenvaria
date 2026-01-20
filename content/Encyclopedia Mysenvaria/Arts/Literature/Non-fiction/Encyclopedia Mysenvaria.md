@@ -5,8 +5,14 @@ tags:
   - topic/art/literature/non-fiction
 type: article
 status: stub
+event:
+  - start_desc: "start_desc"
+    start_date: "1313"
+    major_event: true
 ---
-
+%%
+start_desc: [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is published. 
+%%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
@@ -20,4 +26,4 @@ With more than 1,500 collaborators and a crew of almost 100 dedicated full-time 
 # Reception
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Art/List of Written Works|List of Written Works]]
+- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of Written Works]]

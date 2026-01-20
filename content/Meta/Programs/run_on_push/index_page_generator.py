@@ -1,0 +1,940 @@
+# index_page_generator.py
+# Scans the encyclopedia for index pages (front matter key: "index"),
+# builds indexes by matching metadata across all pages, and rewrites the
+# index sections under specified headers. Also writes an extracted_data.json
+# report of index pages + what they linked to.
+#
+# Designed to run cleanly in CI (GitHub Actions) similarly to decade_article_generator.py.
+
+import os
+import re
+import json
+import pathlib
+from collections import defaultdict
+from typing import Any, Dict, List, Optional, Tuple
+
+# ===================== CONFIG =====================
+CONTENT_DIRNAME = "content"
+
+# Outputs (debug/derived)
+DERIVED_DIR_REL = pathlib.Path("Meta/Programs/debug/index_page_generator")
+EXTRACTED_JSON  = "extracted_data.json"
+WARNINGS_MD     = "extraction_warnings.md"
+
+# Write mode
+DRY_RUN = False
+
+# Skip scanning these dirs
+EXCLUDE_DIRS = {
+    ".git", ".github", ".obsidian", ".quartz", "public",
+    "node_modules", ".vitepress", ".docusaurus", "dist", "build"
+}
+
+# Optional explicit override (great for CI)
+# Set INDEX_GEN_CONTENT_ROOT to an absolute path ending with .../content
+ENV_CONTENT_ROOT = os.getenv("INDEX_GEN_CONTENT_ROOT")
+# ==================================================
+
+# ----------------- Root discovery -----------------
+def find_content_root() -> pathlib.Path:
+    if ENV_CONTENT_ROOT:
+        p = pathlib.Path(ENV_CONTENT_ROOT)
+        print(f"[ROOT] Using ENV INDEX_GEN_CONTENT_ROOT = {p}")
+        return p
+
+    candidates: List[pathlib.Path] = []
+    ws = os.getenv("GITHUB_WORKSPACE")
+    if ws:
+        candidates.append(pathlib.Path(ws))
+    here = pathlib.Path(__file__).resolve()
+    candidates.extend(here.parents)
+    candidates.append(pathlib.Path.cwd())
+
+    for base in candidates:
+        p = base / CONTENT_DIRNAME
+        if p.is_dir():
+            print(f"[ROOT] Using discovered content root: {p}")
+            return p
+
+    fallback = here.parent / CONTENT_DIRNAME
+    print(f"[ROOT] Fallback content root: {fallback}")
+    return fallback
+
+
+# ----------------- Markdown + front matter -----------------
+FM_RE = re.compile(r"^---\r?\n(.*?)(?:\r?\n)---\r?\n?", re.S)
+
+def try_load_yaml(text: str) -> Optional[Dict[str, Any]]:
+    try:
+        import yaml  # type: ignore
+    except Exception:
+        return None
+    try:
+        data = yaml.safe_load(text)
+        return data if isinstance(data, dict) else None
+    except Exception:
+        return None
+
+def fallback_parse_yaml(text: str) -> Optional[Dict[str, Any]]:
+    """
+    Minimal tolerant YAML-ish parser (good enough for typical Obsidian front matter).
+    Supports dicts/lists with indentation, scalars, and simple inline lists [a,b].
+    """
+    lines = text.splitlines()
+    # normalize tabs -> 2 spaces per tab
+    norm = [re.sub(r"^\t+", lambda m: "  " * len(m.group(0)), ln) for ln in lines]
+    i = 0
+
+    def parse_inline_list(s: str) -> Optional[List[Any]]:
+        s = s.strip()
+        if not (s.startswith("[") and s.endswith("]")):
+            return None
+        inner = s[1:-1].strip()
+        if not inner:
+            return []
+        parts = [p.strip() for p in inner.split(",")]
+        return [cast_scalar(p) for p in parts]
+
+    def cast_scalar(s: str) -> Any:
+        s = s.strip()
+        if (s.startswith('"') and s.endswith('"')) or (s.startswith("'") and s.endswith("'")):
+            s = s[1:-1]
+        if s.lower() == "true":
+            return True
+        if s.lower() == "false":
+            return False
+        inl = parse_inline_list(s)
+        if inl is not None:
+            return inl
+        try:
+            if "." in s:
+                return float(s)
+            return int(s)
+        except Exception:
+            return s
+
+    def parse_block(indent: int) -> Any:
+        nonlocal i
+        mode = None  # "dict" or "list"
+        obj: Dict[str, Any] = {}
+        arr: List[Any] = []
+
+        while i < len(norm):
+            line = norm[i]
+            if not line.strip():
+                i += 1
+                continue
+
+            cur_indent = len(line) - len(line.lstrip(" "))
+            if cur_indent < indent:
+                break
+            if cur_indent > indent:
+                # attach nested blocks to last element/last key
+                if mode == "list" and arr:
+                    arr[-1] = parse_block(cur_indent)
+                    continue
+                if mode == "dict" and obj:
+                    last_key = list(obj.keys())[-1]
+                    obj[last_key] = parse_block(cur_indent)
+                    continue
+                break
+
+            ln = line[indent:]
+            if ln.startswith("- "):
+                mode = "list" if mode in (None, "list") else mode
+                val = ln[2:].strip()
+                arr.append({} if val == "" else cast_scalar(val))
+                i += 1
+            else:
+                if ":" in ln:
+                    mode = "dict" if mode in (None, "dict") else mode
+                    k, v = ln.split(":", 1)
+                    key = k.strip()
+                    val = v.strip()
+                    obj[key] = {} if val == "" else cast_scalar(val)
+                    i += 1
+                else:
+                    break
+
+        return arr if mode == "list" else obj
+
+    root: Dict[str, Any] = {}
+    while i < len(norm):
+        line = norm[i]
+        if not line.strip():
+            i += 1
+            continue
+        if ":" in line:
+            k, v = line.split(":", 1)
+            key = k.strip()
+            val = v.strip()
+            i += 1
+            if val == "":
+                # next indent level assumed +2
+                indent = (len(line) - len(line.lstrip(" "))) + 2
+                root[key] = parse_block(indent)
+            else:
+                root[key] = cast_scalar(val)
+        else:
+            i += 1
+
+    return root if root else None
+
+def read_front_matter(md_path: pathlib.Path) -> Tuple[Optional[Dict[str, Any]], str, str]:
+    text = md_path.read_text(encoding="utf-8", errors="ignore")
+    m = FM_RE.match(text)
+    body = text[m.end():] if m else text
+    fm_raw = m.group(1) if m else ""
+    data = try_load_yaml(fm_raw)
+    used = "pyyaml" if data is not None else "fallback"
+    if data is None and fm_raw:
+        data = fallback_parse_yaml(fm_raw)
+    return (data if isinstance(data, dict) else None), body, used
+
+
+def iter_markdown(root: pathlib.Path):
+    for dirpath, dirnames, filenames in os.walk(root):
+        dirnames[:] = [d for d in dirnames if d not in EXCLUDE_DIRS]
+        for fname in filenames:
+            if fname.lower().endswith(".md"):
+                yield pathlib.Path(dirpath) / fname
+
+
+# ----------------- Path helpers -----------------
+def wiki_target_from_source(root: pathlib.Path, source_field: str) -> str:
+    """Convert a source path (relative to root) into a vault wikilink target (no .md)."""
+    s = str(source_field).replace("\\", "/")
+    root_norm = str(root).replace("\\", "/")
+    if s.lower().startswith(root_norm.lower() + "/"):
+        s = s[len(root_norm) + 1:]
+    if s.endswith(".md"):
+        s = s[:-3]
+    return s
+
+def page_title_for(fm: Dict[str, Any], src_rel: str) -> str:
+    t = fm.get("title")
+    if isinstance(t, str) and t.strip():
+        return t.strip()
+    return pathlib.Path(src_rel).stem
+
+
+# ----------------- Date normalization (your rules) -----------------
+DATE_RE = re.compile(r"^\s*([+-]?\d+)(?:-([0-9]{1,3}))?\s*$")
+
+def parse_mysenvar_date_to_float(value: Any) -> Optional[float]:
+    """
+    Accepts:
+      - "1215-22" string or "1215"
+      - int year
+      - dict {"year":1215,"day":22}  (if present anywhere)
+    Returns V = Y + D/1000, with D default 0.
+    """
+    if isinstance(value, dict) and "year" in value:
+        try:
+            y = int(value.get("year"))
+            d = int(value.get("day", 0) or 0)
+            return float(y) + (float(d) / 1000.0)
+        except Exception:
+            return None
+
+    if isinstance(value, int):
+        return float(value)
+
+    if isinstance(value, float):
+        # already normalized-ish; accept
+        return value
+
+    if isinstance(value, str):
+        m = DATE_RE.match(value.strip())
+        if not m:
+            return None
+        y = int(m.group(1))
+        d = int(m.group(2)) if m.group(2) is not None else 0
+        return float(y) + (float(d) / 1000.0)
+
+    return None
+
+def normalize_rule_threshold(op: str, raw_rule_value: Any) -> Optional[float]:
+    """
+    Implements your "year-only spans" behavior:
+      - year-only values are treated as either start-of-year (x.000) or end-of-year (x.999)
+        depending on operator.
+    """
+    v = parse_mysenvar_date_to_float(raw_rule_value)
+    if v is None:
+        return None
+
+    # detect "year-only" rule: int or string without '-day'
+    is_year_only = isinstance(raw_rule_value, int) or (
+        isinstance(raw_rule_value, str) and DATE_RE.match(raw_rule_value.strip()) and "-" not in raw_rule_value.strip().lstrip("+-").replace("+", "", 1)
+    )
+
+    # robust check for year-only string: it matched DATE_RE and group(2) is None
+    if isinstance(raw_rule_value, str):
+        m = DATE_RE.match(raw_rule_value.strip())
+        if m and m.group(2) is None:
+            is_year_only = True
+
+    if not is_year_only:
+        return v
+
+    # Adjust for spans:
+    year = int(float(v))  # v is year.000 here
+    start = float(year) + 0.000
+    end   = float(year) + 0.999
+
+    op = op.lower().strip()
+    if op == "lt":
+        return start
+    if op == "lte":
+        return end
+    if op == "gt":
+        return end
+    if op == "gte":
+        return start
+    return v
+
+
+# ----------------- Metadata path resolution -----------------
+def tokenize_path(path: str) -> List[str]:
+    # "event[].start_date" -> ["event[]","start_date"]
+    return [p for p in (path or "").split(".") if p]
+
+def resolve_values_at_path(obj: Any, path: str) -> List[Any]:
+    """
+    Returns ALL values found at the path (supports [] list traversal).
+    Example:
+      resolve_values_at_path(fm, "event[].start_date") -> ["1214-3", "1215-1", ...]
+    """
+    parts = tokenize_path(path)
+    cur_nodes = [obj]
+    for part in parts:
+        nxt: List[Any] = []
+        is_list = part.endswith("[]")
+        key = part[:-2] if is_list else part
+        for node in cur_nodes:
+            if isinstance(node, dict) and key in node:
+                val = node.get(key)
+                if is_list:
+                    if isinstance(val, list):
+                        nxt.extend(val)
+                    elif isinstance(val, dict):
+                        nxt.append(val)
+                    else:
+                        # scalar treated as single element
+                        nxt.append(val)
+                else:
+                    nxt.append(val)
+        cur_nodes = nxt
+        if not cur_nodes:
+            break
+    # If we ended on lists, flatten one level
+    out: List[Any] = []
+    for n in cur_nodes:
+        if isinstance(n, list):
+            out.extend(n)
+        else:
+            out.append(n)
+    return out
+
+def is_date_path(path: str) -> bool:
+    return "date" in (path or "").lower()
+
+
+# ----------------- Matching rules (included/excluded) -----------------
+def _is_trailing_wildcard(s: Any) -> bool:
+    return isinstance(s, str) and s.endswith("*") and len(s) > 1
+
+def _wildcard_prefix(s: str) -> str:
+    return s[:-1]  # remove trailing '*'
+
+def _tag_matches_expected(tag: str, expected: str) -> bool:
+    """
+    Only supports trailing '*' wildcards, e.g. 'topic/a/*' matches 'topic/a/b'.
+    """
+    if _is_trailing_wildcard(expected):
+        return str(tag).startswith(_wildcard_prefix(expected))
+    return str(tag) == str(expected)
+
+def list_contains_all(haystack: Any, needles: List[Any], *, allow_wildcards: bool = False) -> bool:
+    """
+    If allow_wildcards=True, needles may contain trailing '*' meaning prefix match.
+    """
+    if not isinstance(haystack, list):
+        return False
+
+    tags = [str(x) for x in haystack]
+
+    for n in needles:
+        ns = str(n)
+        if allow_wildcards and _is_trailing_wildcard(ns):
+            pref = _wildcard_prefix(ns)
+            if not any(t.startswith(pref) for t in tags):
+                return False
+        else:
+            if ns not in set(tags):
+                return False
+
+    return True
+
+def scalar_in_list_or_equal(page_val: Any, rule_val: Any) -> bool:
+    # rule scalar:
+    if isinstance(page_val, list):
+        return str(rule_val) in set(str(x) for x in page_val)
+    return str(page_val) == str(rule_val)
+
+def compare_dates(op: str, page_values: List[Any], rule_value: Any) -> bool:
+    """
+    True if ANY page value satisfies the comparator.
+    """
+    thr = normalize_rule_threshold(op, rule_value)
+    if thr is None:
+        return False
+
+    for pv in page_values:
+        v = parse_mysenvar_date_to_float(pv)
+        if v is None:
+            continue
+        if op == "gt" and (v > thr):
+            return True
+        if op == "lt" and (v < thr):
+            return True
+        if op == "gte" and (v >= thr):
+            return True
+        if op == "lte" and (v <= thr):
+            return True
+    return False
+
+def rule_matches_page(fm: Dict[str, Any], rule: Any) -> bool:
+    """
+    rule can be:
+      - dict with a single key (existing behavior)
+      - OR a string path like "title" meaning: exists == True
+    """
+    # Shorthand: "- title" (YAML scalar) means "title exists"
+    if isinstance(rule, str) and rule.strip():
+        key = rule.strip()
+        page_vals = resolve_values_at_path(fm, key)
+        # Exists = at least one non-empty value
+        return any(v is not None and str(v).strip() != "" for v in page_vals)
+
+    if not isinstance(rule, dict) or not rule:
+        return False
+
+    key = list(rule.keys())[0]
+    expected = rule[key]
+
+    page_vals = resolve_values_at_path(fm, key)
+
+    # ---- NEW: exists operator for any path (including non-date) ----
+    # Example: title: {exists: true}
+    if isinstance(expected, dict) and "exists" in expected:
+        want = bool(expected.get("exists"))
+        has = any(v is not None and str(v).strip() != "" for v in page_vals)
+        return has if want else (not has)
+
+    # date comparator object?
+    if is_date_path(key) and isinstance(expected, dict):
+        # supports gt/lt/gte/lte; succeeds if ANY comparator succeeds (usually only one provided)
+        ok_any = False
+        for op, rv in expected.items():
+            op_l = str(op).lower().strip()
+            if op_l in ("gt", "lt", "gte", "lte"):
+                ok_any = ok_any or compare_dates(op_l, page_vals, rv)
+        return ok_any
+
+    # non-date comparator object (treat as unsupported for now)
+    if isinstance(expected, dict):
+        return False
+
+    # expected is list?
+    if isinstance(expected, list):
+        is_tags_rule = (key == "tags")  # only apply '*' logic to tags (as requested)
+
+        if len(page_vals) == 1 and isinstance(page_vals[0], list):
+            return list_contains_all(page_vals[0], expected, allow_wildcards=is_tags_rule)
+
+        # If the path yields multiple scalar values, treat it as "any match"
+        expected_set = set(str(x) for x in expected)
+
+        for v in page_vals:
+            vs = str(v)
+            if is_tags_rule:
+                # tags can appear as scalars in some edge cases; support wildcard there too
+                if any(_tag_matches_expected(vs, str(e)) for e in expected):
+                    return True
+            else:
+                if vs in expected_set:
+                    return True
+
+        return False
+
+    # expected scalar
+    return any(scalar_in_list_or_equal(v, expected) for v in page_vals)
+
+
+def page_included(fm: Dict[str, Any], included_rules: List[Any]) -> bool:
+    # all included rules must match
+    for r in included_rules or []:
+        if not rule_matches_page(fm, r):
+            return False
+    return True
+
+def page_excluded(fm: Dict[str, Any], excluded_rules: List[Any]) -> bool:
+    # any excluded rule matching removes
+    for r in excluded_rules or []:
+        if rule_matches_page(fm, r):
+            return True
+    return False
+
+
+# ----------------- Sorting -----------------
+_NAT_SPLIT_RE = re.compile(r"(\d+)")
+
+def natural_key(s: str) -> List[Any]:
+    parts = _NAT_SPLIT_RE.split(s)
+    out: List[Any] = []
+    for p in parts:
+        if p.isdigit():
+            out.append(int(p))
+        else:
+            out.append(p.lower())
+    return out
+
+def first_sort_value_for_path(
+    fm: Dict[str, Any],
+    sort_path: str,
+    # optional: if included_rules contain a comparator on this same path, use that to pick "first matching"
+    included_rules: List[Dict[str, Any]],
+) -> Any:
+    vals = resolve_values_at_path(fm, sort_path)
+
+    # If path is list-ish and there’s a date comparator rule on this same path,
+    # prefer the first value that satisfies that comparator (stable + intuitive).
+    if is_date_path(sort_path) and vals and included_rules:
+        # find the FIRST date-rule on this path
+        for r in included_rules:
+            if isinstance(r, dict) and sort_path in r and isinstance(r[sort_path], dict):
+                comps = r[sort_path]
+                # first satisfying in traversal order
+                for pv in vals:
+                    v = parse_mysenvar_date_to_float(pv)
+                    if v is None:
+                        continue
+                    ok = True
+                    for op, rv in comps.items():
+                        op_l = str(op).lower().strip()
+                        thr = normalize_rule_threshold(op_l, rv)
+                        if thr is None:
+                            ok = False
+                            break
+                        if op_l == "gt" and not (v > thr): ok = False
+                        if op_l == "lt" and not (v < thr): ok = False
+                        if op_l == "gte" and not (v >= thr): ok = False
+                        if op_l == "lte" and not (v <= thr): ok = False
+                        if not ok:
+                            break
+                    if ok:
+                        return pv
+                break  # rule exists but none matched; fall through
+
+    # Default: first value encountered that exists
+    return vals[0] if vals else None
+
+def sortable_value(val: Any, path: str) -> Tuple[int, Any]:
+    """
+    Returns (missing_flag, comparable_val).
+    missing_flag: 0 if present, 1 if missing (so missing sorts last).
+    """
+    if val is None or val == "":
+        return (1, 0)
+
+    if is_date_path(path):
+        v = parse_mysenvar_date_to_float(val)
+        return (0, v if v is not None else 0)
+
+    # numbers
+    if isinstance(val, (int, float)):
+        return (0, val)
+
+    # strings
+    if isinstance(val, str):
+        return (0, val)
+
+    # fallback string
+    return (0, str(val))
+
+def stable_multi_sort(
+    pages: List[Dict[str, Any]],
+    sort_spec: List[Dict[str, Any]],
+    included_rules: List[Dict[str, Any]],
+) -> List[Dict[str, Any]]:
+    """
+    Stable multi-pass sort: apply last key first, then earlier keys.
+    sort entries:
+      - by: metadata path
+      - method: standard_forward/backward, natural_forward/backward
+    """
+    if not sort_spec:
+        return pages
+
+    out = list(pages)
+
+    for spec in reversed(sort_spec):
+        by = (spec.get("by") or "").strip()
+        method = (spec.get("method") or "standard_forward").strip()
+
+        def key_fn(p):
+            fm = p["fm"]
+            raw = first_sort_value_for_path(fm, by, included_rules)
+            miss, v = sortable_value(raw, by)
+
+            if isinstance(v, str) and method.startswith("natural_"):
+                v2 = natural_key(v)
+            else:
+                v2 = v if v is not None else 0
+
+            return (miss, v2)
+
+        reverse = method.endswith("_backward")
+        out.sort(key=key_fn, reverse=reverse)
+
+    return out
+
+
+# ----------------- Subheader grouping -----------------
+def subheader_value_for_group(method: str, sort_val: Any, sort_path: str) -> Optional[str]:
+    method = (method or "").strip()
+
+    # normalize date sort_val if needed
+    if is_date_path(sort_path):
+        v = parse_mysenvar_date_to_float(sort_val)
+        if v is None:
+            return None
+        # use YEAR part for most subheader strategies unless explicitly using floor_x on full float
+        # (floor_x uses v as-is)
+    if method == "value":
+        if sort_val is None or sort_val == "":
+            return None
+        if is_date_path(sort_path):
+            # show raw year-day if string, else show normalized-ish
+            return str(sort_val)
+        return str(sort_val)
+
+    if method == "first_character":
+        s = str(sort_val or "").strip()
+        if not s:
+            return None
+        return s[0].upper()
+
+    # floor_10, floor_100, etc.
+    m = re.match(r"^floor_(\d+)$", method)
+    if m:
+        step = int(m.group(1))
+        if step <= 0:
+            return None
+        if is_date_path(sort_path):
+            v = parse_mysenvar_date_to_float(sort_val)
+            if v is None:
+                return None
+            # group based on normalized float
+            g = int((v // step) * step)
+            return str(g)
+        # numeric grouping
+        try:
+            n = float(sort_val)
+            g = int((n // step) * step)
+            return str(g)
+        except Exception:
+            return None
+
+    return None
+
+
+# ----------------- Index rendering + replacement -----------------
+HEADER_RE = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
+
+def find_header_span(lines: List[str], header_name: str) -> Optional[Tuple[int, int, int]]:
+    """
+    Find a header line that matches header_name exactly (case-sensitive),
+    return (header_line_index, start_replace_index, end_replace_index).
+    Replacement region is everything AFTER the header line until:
+      - next header at same-or-higher level, OR
+      - next callout line starting with '> [!'
+    """
+    for i, ln in enumerate(lines):
+        m = HEADER_RE.match(ln)
+        if not m:
+            continue
+        level = len(m.group(1))
+        text = m.group(2).strip()
+        if text != header_name:
+            continue
+
+        start = i + 1
+        end = len(lines)
+
+        for j in range(start, len(lines)):
+            ln2 = lines[j]
+            if ln2.startswith("> [!"):
+                end = j
+                break
+            m2 = HEADER_RE.match(ln2)
+            if m2:
+                level2 = len(m2.group(1))
+                if level2 <= level:
+                    end = j
+                    break
+
+        return (i, start, end)
+    return None
+
+def render_index_block(
+    header_level: int,
+    matched_pages: List[Dict[str, Any]],
+    sort_spec: List[Dict[str, Any]],
+    included_rules: List[Any],
+) -> List[str]:
+    """
+    Builds markdown lines to insert under the header.
+    Subheaders are based on the FIRST sort entry that has subheaders.generate==True.
+    No extra blank lines are inserted.
+    """
+
+    # pick subheader config from the FIRST sort spec with subheaders.generate true
+    sub_spec = None
+    sub_by = None
+    for s in sort_spec or []:
+        sh = s.get("subheaders") if isinstance(s.get("subheaders"), dict) else {}
+        if sh.get("generate") is True:
+            sub_spec = sh
+            sub_by = (s.get("by") or "").strip()
+            break
+
+    # sort first (stable multipass)
+    sorted_pages = stable_multi_sort(matched_pages, sort_spec, included_rules)
+
+    out: List[str] = []
+    sub_level = min(header_level + 1, 6)
+    sub_prefix = "#" * sub_level
+
+    # No subheaders
+    if not sub_spec or not sub_by:
+        for p in sorted_pages:
+            out.append(f"- {p['link']}")
+        out.append("")  # single trailing blank line
+        return out
+
+    method = (sub_spec.get("method") or "value").strip()
+    fmt = sub_spec.get("format")
+
+    groups: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    order: List[str] = []
+
+    for p in sorted_pages:
+        fm = p["fm"]
+        sv = first_sort_value_for_path(fm, sub_by, included_rules)
+        g = subheader_value_for_group(method, sv, sub_by) or "Other"
+        if g not in groups:
+            order.append(g)
+        groups[g].append(p)
+
+    for g in order:
+        label = g
+        if isinstance(fmt, str) and "{value}" in fmt:
+            label = fmt.replace("{value}", str(g))
+        out.append(f"{sub_prefix} {label}")
+        for p in groups[g]:
+            out.append(f"- {p['link']}")
+
+    out.append("")  # single trailing blank line
+    return out
+
+
+# ----------------- Main build -----------------
+def main():
+    root = find_content_root()
+    out_dir = (root / DERIVED_DIR_REL)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    json_path = out_dir / EXTRACTED_JSON
+    warn_path = out_dir / WARNINGS_MD
+
+    # Scan markdown
+    md_count = sum(1 for _ in iter_markdown(root))
+    print(f"[SCAN] content root = {root}")
+    print(f"[SCAN] markdown files under root = {md_count}")
+
+    # Load all pages' front matter (we need global metadata universe)
+    pages: List[Dict[str, Any]] = []
+    meta = {
+        "front_matters": 0,
+        "yaml_loader_usage": {"pyyaml": 0, "fallback": 0},
+        "index_pages_found": 0,
+        "index_entries_found": 0,
+        "indexes_written": 0,
+    }
+    warnings: List[str] = []
+
+    for md in iter_markdown(root):
+        fm, body, used = read_front_matter(md)
+        if used in meta["yaml_loader_usage"]:
+            meta["yaml_loader_usage"][used] += 1
+        if not isinstance(fm, dict):
+            continue
+
+        meta["front_matters"] += 1
+        src_rel = md.relative_to(root).as_posix()
+        title = page_title_for(fm, src_rel)
+        pages.append({
+            "src_rel": src_rel,
+            "path": md,
+            "fm": fm,
+            "body": body,
+            "title": title,
+        })
+
+    # Identify index pages (fm has key "index" as list)
+    index_pages = [p for p in pages if isinstance(p["fm"].get("index"), list) and p["fm"].get("index")]
+    meta["index_pages_found"] = len(index_pages)
+
+    extracted_report: Dict[str, Any] = {
+        "meta": meta,
+        "indexes": [],
+    }
+
+    wrote_count = 0
+
+    # Precompute pages as candidates for indexing (all non-index pages allowed unless excluded by rules)
+    # We still include index pages in candidate universe; user can exclude via excluded_data (e.g. type:index).
+    for ip in index_pages:
+        src_rel = ip["src_rel"]
+        fm = ip["fm"]
+        title = ip["title"]
+        md_path: pathlib.Path = ip["path"]
+
+        idx_entries = fm.get("index") or []
+        if not isinstance(idx_entries, list):
+            continue
+
+        # Load file lines for in-place replacement
+        raw_text = md_path.read_text(encoding="utf-8", errors="ignore")
+        lines = raw_text.splitlines()
+
+        index_record = {
+            "source": src_rel,
+            "title": title,
+            "entries": [],
+        }
+
+        changed = False
+
+        for entry in idx_entries:
+            if not isinstance(entry, dict):
+                continue
+
+            header_name = entry.get("header_name")
+            if not isinstance(header_name, str) or not header_name.strip():
+                warnings.append(f"- Index entry missing header_name in {src_rel}")
+                continue
+
+            included_rules = entry.get("included_data") or []
+            excluded_rules = entry.get("excluded_data") or []
+            sort_spec = entry.get("sort") or []
+
+            if not isinstance(included_rules, list):
+                included_rules = []
+            if not isinstance(excluded_rules, list):
+                excluded_rules = []
+            if not isinstance(sort_spec, list):
+                sort_spec = []
+
+            meta["index_entries_found"] += 1
+
+            # Find target header span
+            span = find_header_span(lines, header_name.strip())
+            if not span:
+                warnings.append(f"- header_name '{header_name}' not found in {src_rel}; skipping that index block")
+                index_record["entries"].append({
+                    "header_name": header_name,
+                    "status": "missing_header",
+                    "matched_pages": [],
+                })
+                continue
+
+            header_i, repl_start, repl_end = span
+            header_level = 1
+            m = HEADER_RE.match(lines[header_i])
+            if m:
+                header_level = len(m.group(1))
+
+            # Match pages
+            matched: List[Dict[str, Any]] = []
+            for p in pages:
+                pfm = p["fm"]
+                if not page_included(pfm, included_rules):
+                    continue
+                if page_excluded(pfm, excluded_rules):
+                    continue
+                # Build link
+                tgt = wiki_target_from_source(root, p["src_rel"])
+                link = f"[[{tgt}|{p['title']}]]"
+                matched.append({
+                    "src_rel": p["src_rel"],
+                    "title": p["title"],
+                    "link": link,
+                    "fm": pfm,
+                })
+
+            # Render replacement block
+            new_block_lines = render_index_block(
+                header_level=header_level,
+                matched_pages=matched,
+                sort_spec=sort_spec,
+                included_rules=included_rules,
+            )
+
+            # Replace
+            old_block = lines[repl_start:repl_end]
+            if old_block != new_block_lines:
+                lines = lines[:repl_start] + new_block_lines + lines[repl_end:]
+                changed = True
+
+            index_record["entries"].append({
+                "header_name": header_name,
+                "status": "ok",
+                "matched_pages": [m["src_rel"] for m in matched],
+                "matched_count": len(matched),
+            })
+
+        # Write file if changed
+        if changed:
+            new_text = "\n".join(lines).rstrip() + "\n"
+            if DRY_RUN:
+                print(f"[DRY] Would write index page: {md_path}")
+            else:
+                md_path.write_text(new_text, encoding="utf-8")
+                print(f"[WROTE] {md_path}")
+                wrote_count += 1
+
+        extracted_report["indexes"].append(index_record)
+
+    meta["indexes_written"] = wrote_count
+
+    # Write extracted report + warnings
+    if DRY_RUN:
+        print(f"[DRY] Would write extracted JSON -> {json_path}")
+    else:
+        json_path.write_text(json.dumps(extracted_report, indent=2, ensure_ascii=False), encoding="utf-8")
+        warn_lines = ["# Index Generator Warnings", "", "_Auto-generator run completed._", ""]
+        if warnings:
+            warn_lines.append("## Notes")
+            warn_lines.extend(warnings)
+            warn_lines.append("")
+        warn_path.write_text("\n".join(warn_lines), encoding="utf-8")
+        print(f"[WROTE] {json_path} and {warn_path}")
+
+    print(f"Index pages updated: {wrote_count} {'(DRY RUN)' if DRY_RUN else ''}")
+
+
+if __name__ == "__main__":
+    main()

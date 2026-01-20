@@ -9,7 +9,7 @@ needs:
   - infobox
 person:
   - name: "Charles Lightningson"
-    birthday: "-12"
+    birth_date: "-12"
     death_date: "-6"
     major_event: true
 ---

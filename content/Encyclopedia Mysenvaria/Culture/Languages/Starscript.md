@@ -15,4 +15,4 @@ Starscript is hypothesized to be a result of [[Encyclopedia Mysenvaria/Science/P
 
 Starscript does not exist in a spoken form, as confirmed by multiple [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. Rather, it exists only in a written form, as true stars. All that is truly understood of Starscript is that it models the true relationship between the Real and Unreal and is capable of modifying that relationship.
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]

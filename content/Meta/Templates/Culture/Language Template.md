@@ -40,4 +40,4 @@ event:
 # Dialects & Accents
 
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Languages|List of Languages]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]
