@@ -88,19 +88,8 @@ This page serves as an index of index pages across the encyclopedia, sorted by t
 # Geography
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Artificial Features/List of Artificial Features|List of Artificial Features]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Extra-Planar Stars|List of Extra-Planar Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Intra-Planar Stars|List of Intra-Planar Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Legally Binding Stars|List of Legally Binding Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Mobile Stars|List of Mobile Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Natural Features|List of Natural Features]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars by Star System|List of Star Systems]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Star Systems Named After People and Places|List of Star Systems Named After People and Places]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars Named After People and Places|List of Stars Named After People and Places]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars Sorted Alphabetically|List of Stars Sorted Alphabetically]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars Written by Higher-Gods|List of Stars Written by Higher-Gods]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars Written by Lesser-Gods|List of Stars Written by Lesser-Gods]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars by Date of Translation|List of Stars bt Date of Translation]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Natural Features|List of Natural Features]]
 
 # History
 - [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]

@@ -21,6 +21,9 @@ index:
 ---
 The following is an index of indexes which list [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], sorted alphabetically.
 # Indexes of Stars
+## L
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
+
 # See also
 - [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomy]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|Astronomer]]
