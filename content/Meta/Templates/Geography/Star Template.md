@@ -11,12 +11,12 @@ star:
   - name: ""
     publications:
       - publishers: [""]
-        date: ""
+        date: []
         desc: ""
         major_event: false
     translations:
       - translators: [""]
-        date: ""
+        date: []
         desc: ""
         major_event: false
     coordinates: ""

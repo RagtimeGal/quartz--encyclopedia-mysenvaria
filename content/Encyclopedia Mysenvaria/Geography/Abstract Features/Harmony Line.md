@@ -24,7 +24,7 @@ The Harmonic Treaty was created at the end of the [[Encyclopedia Mysenvaria/Hist
 
 These models would be used for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] time, creating the first primitive forms of [[Encyclopedia Mysenvaria/Science/Technologies/Clock|clocks]] by tracking the position or size of the Treaty in the sky relative to one's position on the Plane. These would later be refined into more complex devices and easier tools to tell the time.
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|Lists of Abstract Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

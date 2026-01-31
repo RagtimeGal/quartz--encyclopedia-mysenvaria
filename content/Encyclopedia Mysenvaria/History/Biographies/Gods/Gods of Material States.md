@@ -10,7 +10,7 @@ needs:
   - infobox
 person:
   - name: "Gods of Material States"
-    birth_date: "-178"
+    birth_date: [-178]
     major_event: false
 ---
 

@@ -10,7 +10,7 @@ star:
   - name: "Spatial Act"
     publications:
       - publishers: ["publisher"]
-        date: "-175-213"
+        date: [-175,213]
         desc: "pub_desc"
         major_event: true
     desc: "star_desc"

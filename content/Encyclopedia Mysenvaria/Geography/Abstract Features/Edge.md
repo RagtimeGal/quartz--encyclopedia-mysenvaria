@@ -26,7 +26,7 @@ Ecosystems around the edge rely on [[Encyclopedia Mysenvaria/Science/Models/Crit
 
 Large predators, like [[Encyclopedia Mysenvaria/Biology/Species/Polar Dragon|Polar Dragons]], arctic [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|whale]] species, Lancing Squid, and arctic [[Encyclopedia Mysenvaria/Biology/Taxa/Birds of Prey|Birds of Prey]] maintain sparse populations but large ranges. In the case of the well-known Polar Dragons their range has steadily been growing over the last hundred years, now reaching as far as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago|Eastern Archipelago]].
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|Lists of Abstract Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

@@ -22,6 +22,10 @@ OUT_PNG_TOP = OUT_DIR / "star_map_topdown.png"
 OUT_SVG_3D = OUT_DIR / "star_map_3d.svg"
 OUT_CSV = OUT_DIR / "stars_cartesian.csv"
 
+# ---------- Atmosphere (ellipsoid dome) ----------
+ATM_RADIUS_M = 8_757   # meets plane at this radius (m)
+ATM_HEIGHT_M = 3_844   # peak at center (m)
+
 # ---------- Parsing ----------
 _num = r"[-+]?(?:\d+(?:\.\d*)?|\.\d+)"
 TRIPLE_RE = re.compile(rf"^\s*\(?\s*({_num})\D+({_num})\D+({_num})\s*\)?\s*$")
@@ -91,20 +95,113 @@ def load_extracted_json(path: Optional[pathlib.Path]) -> Dict[str, Any]:
             return json.loads(p.read_text(encoding="utf-8"))
     raise FileNotFoundError("Cannot find extracted_data.json in expected locations.")
 
+def _as_float(x: Any, default: float) -> float:
+    try:
+        return float(x)
+    except Exception:
+        return default
+
+def _as_int(x: Any, default: int) -> int:
+    try:
+        return int(float(x))
+    except Exception:
+        return default
+
+def parse_orbital(block: Any) -> Optional[Dict[str, Any]]:
+    """
+    orbital schema:
+      - center_mode: "coordinates" or "explicit"
+      - center: (alt, az, dist) string (required if explicit)
+      - radius: float (semi-major axis by default)
+      - eccentricity: float (default 0)
+      - tilt: float degrees (default 0)
+      - periapsis_deg: float degrees heading (default 0). 0 = North, CW positive.
+      - periapsis_distance: float (optional; if >0, overrides periapsis distance rp)
+      - period: int days (required)
+      - phase_start: float days offset into period (default 0)
+    """
+    if not isinstance(block, dict):
+        return None
+
+    center_mode = block.get("center_mode")
+    if center_mode not in ("coordinates", "explicit"):
+        return None
+
+    period = block.get("period")
+    if period is None:
+        return None
+    period_i = _as_int(period, 0)
+    if period_i <= 0:
+        return None
+
+    radius = block.get("radius")
+    if radius is None:
+        return None
+    a = _as_float(radius, 0.0)
+    if a <= 0:
+        return None
+
+    e = _as_float(block.get("eccentricity", 0.0), 0.0)
+    # clamp to [0, <1)
+    if e < 0:
+        e = 0.0
+    if e >= 1.0:
+        e = 0.999999
+
+    tilt = _as_float(block.get("tilt", 0.0), 0.0)
+    peri_deg = _as_float(block.get("periapsis_deg", 0.0), 0.0)
+    peri_dist = _as_float(block.get("periapsis_distance", 0.0), 0.0)
+    phase = _as_float(block.get("phase_start", 0.0), 0.0)
+
+    center_raw = block.get("center") if center_mode == "explicit" else None
+    if center_mode == "explicit" and (not isinstance(center_raw, str) or not center_raw.strip()):
+        return None
+
+    return {
+        "center_mode": center_mode,
+        "center": center_raw,
+        "a": a,
+        "e": e,
+        "tilt_deg": tilt,
+        "periapsis_deg": peri_deg,
+        "periapsis_distance": peri_dist,
+        "period": period_i,
+        "phase_start": phase,
+    }
+
 def gather_stars(payload: Dict[str, Any]) -> List[Dict[str, Any]]:
-    stars = []
+    stars: List[Dict[str, Any]] = []
     star_block = payload.get("star", {}) or {}
     bases = star_block.get("bases", []) or []
     for b in bases:
         name = b.get("star_name") or ""
         coords = b.get("coordinates") or ""
-        if not name or not coords:
-            continue
-        parsed = parse_alt_az_dist(coords)
-        if not parsed:
-            continue
-        alt, az, dist = parsed
-        stars.append({"name": str(name), "alt": alt, "az": az, "dist": dist, "coordinates_raw": str(coords)})
+
+        orbital = parse_orbital(b.get("orbital"))
+
+        # If it has no coordinates, we can still include it IF it has explicit orbital center
+        if (not isinstance(coords, str) or not coords.strip()):
+            if not orbital or orbital.get("center_mode") != "explicit":
+                continue
+
+        # Parse base coordinates if present (used as static position OR orbit center when center_mode="coordinates")
+        aad = parse_alt_az_dist(coords) if isinstance(coords, str) and coords.strip() else None
+
+        # If orbital is explicit, parse its center coordinates too
+        orb_center_aad = None
+        if orbital and orbital.get("center_mode") == "explicit":
+            orb_center_aad = parse_alt_az_dist(orbital.get("center"))
+            if not orb_center_aad:
+                # invalid center => skip orbiting star
+                continue
+
+        stars.append({
+            "name": str(name),
+            "coordinates_raw": str(coords) if isinstance(coords, str) else "",
+            "aad": aad,  # (alt, az, dist) or None
+            "orbital": orbital,
+            "orb_center_aad": orb_center_aad,
+        })
     return stars
 
 # ---------- Geometry ----------
@@ -129,16 +226,155 @@ def aad_to_xyz(alt_deg: float, az_deg: float, r: float, az_from_east=False) -> T
     z = r * math.sin(alt)
     return (x, y, z)
 
+def heading_deg_to_math_rad(heading_deg: float) -> float:
+    """
+    heading_deg: 0 = North (+Y), CW positive (your azimuth convention).
+    Returns math angle in radians: 0 = +X (East), CCW positive.
+    """
+    return math.radians(90.0 - (heading_deg % 360.0))
+
+def solve_kepler_E(M: float, e: float, iters: int = 20) -> float:
+    """
+    Solve Kepler's equation: M = E - e sin E for E (eccentric anomaly).
+    M in radians. e in [0,1).
+    """
+    # Good initial guess
+    E = M if e < 0.8 else math.pi
+    for _ in range(iters):
+        f = E - e * math.sin(E) - M
+        fp = 1.0 - e * math.cos(E)
+        if fp == 0:
+            break
+        dE = -f / fp
+        E += dE
+        if abs(dE) < 1e-10:
+            break
+    return E
+
+def orbital_offset_xyz(day: float, orbital: Dict[str, Any]) -> Tuple[float, float, float]:
+    """
+    Returns (dx_east, dy_north, dz_up) offset for the star from its orbital center at 'day'.
+    - a: semi-major axis (meters)
+    - e: eccentricity
+    - tilt_deg: inclination (deg)
+    - periapsis_deg: heading for periapsis direction (deg, 0 north, CW)
+    - periapsis_distance: if >0, treated as rp and overrides a via a = rp/(1-e)
+    - period: days
+    - phase_start: day offset into the orbit at day=0
+    """
+    a = float(orbital["a"])
+    e = float(orbital["e"])
+    rp = float(orbital.get("periapsis_distance", 0.0) or 0.0)
+    if rp > 0 and e < 1.0:
+        a = rp / (1.0 - e)
+
+    period = float(orbital["period"])
+    phase = float(orbital.get("phase_start", 0.0) or 0.0)
+
+    # Mean anomaly
+    frac = ((day + phase) / period) % 1.0
+    M = 2.0 * math.pi * frac
+
+    # Solve eccentric anomaly
+    E = solve_kepler_E(M, e)
+
+    # True anomaly
+    cosE = math.cos(E)
+    sinE = math.sin(E)
+    denom = (1.0 - e * cosE)
+    # distance from focus
+    r = a * denom
+
+    # true anomaly ν from E
+    # tan(ν/2) = sqrt((1+e)/(1-e)) * tan(E/2)
+    nu = 2.0 * math.atan2(math.sqrt(1.0 + e) * math.sin(E / 2.0),
+                          math.sqrt(1.0 - e) * math.cos(E / 2.0))
+
+    # Position in orbital plane (x' toward periapsis)
+    x_p = r * math.cos(nu)
+    y_p = r * math.sin(nu)
+    z_p = 0.0
+
+    # Rotate about Z so periapsis points in given heading
+    peri_heading = float(orbital.get("periapsis_deg", 0.0) or 0.0)
+    phi = heading_deg_to_math_rad(peri_heading)  # math radians
+    c = math.cos(phi)
+    s = math.sin(phi)
+
+    # Rz(phi)
+    x1 = x_p * c - y_p * s
+    y1 = x_p * s + y_p * c
+    z1 = z_p
+
+    # Tilt orbit plane via Rx(i) (inclination about +X axis).
+    # This is a clean, deterministic mapping; if later you want a different axis,
+    # we can add a second orientation field.
+    inc = math.radians(float(orbital.get("tilt_deg", 0.0) or 0.0))
+    ci = math.cos(inc)
+    si = math.sin(inc)
+
+    # Rx(inc): y,z rotate
+    x2 = x1
+    y2 = y1 * ci - z1 * si
+    z2 = y1 * si + z1 * ci
+
+    # x2,y2,z2 are in world axes: East, North, Up
+    return (x2, y2, z2)
+
 # ---------- Plotting ----------
-def plot_3d_and_topdown(stars_xyz: List[Dict[str, Any]], show_labels: bool, dpi: int, elev: float, azim: float):
+def add_atmosphere_dome_3d(ax3, a_m: float, b_m: float, steps_theta: int = 64, steps_phi: int = 24):
+    """
+    Draw a wireframe half-ellipsoid (dome) for the atmosphere:
+      (x^2 + y^2)/a^2 + (z^2)/b^2 = 1, with z >= 0
+    """
+    import numpy as np
+
+    theta = np.linspace(0.0, 2.0 * np.pi, steps_theta)
+    phi   = np.linspace(0.0, 0.5 * np.pi, steps_phi)  # 0..pi/2 for top half
+
+    tt, pp = np.meshgrid(theta, phi)
+
+    # radius in XY at each phi
+    r_xy = a_m * np.sin(pp)
+    z    = b_m * np.cos(pp)
+
+    x = r_xy * np.cos(tt)
+    y = r_xy * np.sin(tt)
+
+    ax3.plot_wireframe(x, y, z, rstride=1, cstride=2, linewidth=0.5, alpha=0.35)
+
+def add_orbit_path_3d(ax3, center_xyz: Tuple[float, float, float], orbital: Dict[str, Any], period_days: int, steps: int = 240):
+    """
+    Draw the orbital path as a faint curve for context.
+    """
+    cx, cy, cz = center_xyz
+    pts_x: List[float] = []
+    pts_y: List[float] = []
+    pts_z: List[float] = []
+    for i in range(steps + 1):
+        tday = (period_days * i) / float(steps)
+        dx, dy, dz = orbital_offset_xyz(tday, orbital)
+        pts_x.append(cx + dx)
+        pts_y.append(cy + dy)
+        pts_z.append(cz + dz)
+    ax3.plot(pts_x, pts_y, pts_z, linewidth=0.8, alpha=0.25)
+
+def plot_3d_and_topdown(
+    stars_xyz: List[Dict[str, Any]],
+    show_labels: bool,
+    dpi: int,
+    elev: float,
+    azim: float,
+    draw_orbits: bool,
+):
     import matplotlib.pyplot as plt
     from mpl_toolkits.mplot3d import Axes3D  # noqa: F401  (needed for 3D)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    xs = [s["x"] for s in stars_xyz]
-    ys = [s["y"] for s in stars_xyz]
-    zs = [s["z"] for s in stars_xyz]
+    xs = [s["x_east"] for s in stars_xyz]
+    ys = [s["y_north"] for s in stars_xyz]
+    zs = [s["z_up"] for s in stars_xyz]
     names = [s["name"] for s in stars_xyz]
 
     # 3D figure
@@ -154,7 +390,22 @@ def plot_3d_and_topdown(stars_xyz: List[Dict[str, Any]], show_labels: bool, dpi:
     ax3.set_ylabel("Y (North, m)")
     ax3.set_zlabel("Z (Up, m)")
     ax3.set_title("Star Map (3D)")
-    _set_equal_aspect_3d(ax3, xs, ys, zs)
+    _set_world_bounds_3d(ax3, xs, ys, zs, ATM_RADIUS_M, ATM_HEIGHT_M)
+
+    # Atmosphere dome (wireframe)
+    add_atmosphere_dome_3d(ax3, ATM_RADIUS_M, ATM_HEIGHT_M)
+
+    # Orbit paths (optional)
+    if draw_orbits:
+        for s in stars_xyz:
+            if s.get("orbital") and s.get("orbit_center_xyz"):
+                add_orbit_path_3d(
+                    ax3,
+                    center_xyz=s["orbit_center_xyz"],
+                    orbital=s["orbital"],
+                    period_days=int(s["orbital"]["period"]),
+                    steps=240,
+                )
 
     ax3.view_init(elev=elev, azim=azim)
     fig3d.tight_layout()
@@ -171,33 +422,58 @@ def plot_3d_and_topdown(stars_xyz: List[Dict[str, Any]], show_labels: bool, dpi:
         for x, y, label in zip(xs, ys, names):
             ax2.text(x, y, f" {label}", fontsize=8, va="center", ha="left")
 
+    # Atmosphere boundary (where dome meets plane): circle of radius ATM_RADIUS_M
+    import numpy as np
+    t = np.linspace(0.0, 2.0 * np.pi, 600)
+    ax2.plot(ATM_RADIUS_M * np.cos(t), ATM_RADIUS_M * np.sin(t), linewidth=1.0, alpha=0.6)
+
     ax2.set_xlabel("X (East, m)")
     ax2.set_ylabel("Y (North, m)")
     ax2.set_title("Star Map (Top-down)")
     ax2.grid(True, linewidth=0.4, alpha=0.4)
     ax2.set_aspect("equal", adjustable="box")
-    _pad_axes_2d(ax2, xs, ys)
+    # pad to include both stars and atmosphere boundary
+    xs2 = xs + [ATM_RADIUS_M, -ATM_RADIUS_M]
+    ys2 = ys + [ATM_RADIUS_M, -ATM_RADIUS_M]
+    _pad_axes_2d(ax2, xs2, ys2)
 
     fig2d.tight_layout()
     fig2d.savefig(OUT_PNG_TOP)
     print(f"[WROTE] {OUT_PNG_TOP}")
 
-def _set_equal_aspect_3d(ax, xs, ys, zs):
-    # cube bounds so spheres look like spheres
+def _set_world_bounds_3d(ax, xs, ys, zs, atm_radius_m: float, atm_height_m: float, pad_frac: float = 0.03):
+    """
+    Set bounds for a flat-plane world with a dome atmosphere:
+      - X/Y centered around 0
+      - Z clamped to [0, ...] so the plane is the bottom of the plot
+    Avoids the "cube aspect" behavior that pushes Z below 0.
+    """
     import numpy as np
-    x_min, x_max = np.min(xs), np.max(xs)
-    y_min, y_max = np.min(ys), np.max(ys)
-    z_min, z_max = np.min(zs), np.max(zs)
-    max_range = max(x_max - x_min, y_max - y_min, z_max - z_min)
-    if max_range == 0:
-        max_range = 1.0
-    x_mid = (x_max + x_min) / 2
-    y_mid = (y_max + y_min) / 2
-    z_mid = (z_max + z_min) / 2
-    r = max_range / 2
-    ax.set_xlim(x_mid - r, x_mid + r)
-    ax.set_ylim(y_mid - r, y_mid + r)
-    ax.set_zlim(z_mid - r, z_mid + r)
+
+    max_xy = max(
+        float(atm_radius_m),
+        float(np.max(np.abs(xs))) if xs else 0.0,
+        float(np.max(np.abs(ys))) if ys else 0.0,
+        1.0
+    )
+
+    max_z = max(
+        float(atm_height_m),
+        float(np.max(zs)) if zs else 0.0,
+        1.0
+    )
+
+    max_xy *= (1.0 + pad_frac)
+    max_z  *= (1.0 + pad_frac)
+
+    ax.set_xlim(-max_xy, max_xy)
+    ax.set_ylim(-max_xy, max_xy)
+    ax.set_zlim(0.0, max_z)
+
+    try:
+        ax.set_box_aspect((1, 1, max_z / max_xy))
+    except Exception:
+        pass
 
 def _pad_axes_2d(ax, xs, ys, pad_frac=0.05):
     import numpy as np
@@ -214,9 +490,24 @@ def write_csv(stars_xyz: List[Dict[str, Any]]):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     with (OUT_CSV).open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["name", "alt_deg", "az_deg", "dist_m", "x_east_m", "y_north_m", "z_up_m"])
+        w.writerow([
+            "name",
+            "alt_deg", "az_deg", "dist_m",
+            "x_east_m", "y_north_m", "z_up_m",
+            "has_orbit",
+            "orbit_center_x", "orbit_center_y", "orbit_center_z",
+        ])
         for s in stars_xyz:
-            w.writerow([s["name"], s["alt"], s["az"], s["dist"], s["x"], s["y"], s["z"]])
+            cx, cy, cz = ("", "", "")
+            if s.get("orbit_center_xyz"):
+                cx, cy, cz = s["orbit_center_xyz"]
+            w.writerow([
+                s["name"],
+                s.get("alt", ""), s.get("az", ""), s.get("dist", ""),
+                s["x_east"], s["y_north"], s["z_up"],
+                bool(s.get("orbital")),
+                cx, cy, cz,
+            ])
     print(f"[WROTE] {OUT_CSV}")
 
 # ---------- CLI ----------
@@ -230,6 +521,10 @@ def main():
     ap.add_argument("--view-azim", type=float, default=-60.0, help="3D view azimuth (deg)")
     ap.add_argument("--az-from-east", action="store_true",
                     help="Interpret azimuth 0° as +X (East) growing CCW (math convention).")
+    ap.add_argument("--day", type=float, default=0.0,
+                    help="World day to render orbiting stars at (default 0)")
+    ap.add_argument("--draw-orbits", action="store_true",
+                    help="Draw each orbit path as a faint curve on the 3D plot")
     args = ap.parse_args()
 
     payload = load_extracted_json(args.json)
@@ -239,13 +534,93 @@ def main():
         return
 
     # Convert to Cartesian
-    stars_xyz = []
-    for s in stars:
-        x, y, z = aad_to_xyz(s["alt"], s["az"], s["dist"], az_from_east=args.az_from_east)
-        stars_xyz.append({**s, "x": x, "y": y, "z": z})
+    # NOTE: We keep YOUR existing swap logic so this stays consistent with what you said was "correct in practice".
+    stars_xyz: List[Dict[str, Any]] = []
 
-    plot_3d_and_topdown(stars_xyz, show_labels=not args.no_labels, dpi=args.dpi,
-                        elev=args.view_elev, azim=args.view_azim)
+    for s in stars:
+        orbital = s.get("orbital")
+
+        # Determine orbit center if needed
+        orbit_center_xyz = None
+        if orbital:
+            if orbital["center_mode"] == "coordinates":
+                # uses star's base coordinates as center
+                if not s.get("aad"):
+                    # can't define center without coordinates
+                    orbital = None
+                else:
+                    alt_c, az_c, dist_c = s["aad"]
+                    x_c, y_raw_c, z_raw_c = aad_to_xyz(alt_c, az_c, dist_c, az_from_east=args.az_from_east)
+                    # apply same swap as the star points use
+                    y_north_c = z_raw_c
+                    z_up_c = y_raw_c
+                    orbit_center_xyz = (x_c, y_north_c, z_up_c)
+
+            elif orbital["center_mode"] == "explicit":
+                alt_c, az_c, dist_c = s["orb_center_aad"]
+                x_c, y_raw_c, z_raw_c = aad_to_xyz(alt_c, az_c, dist_c, az_from_east=args.az_from_east)
+                y_north_c = z_raw_c
+                z_up_c = y_raw_c
+                orbit_center_xyz = (x_c, y_north_c, z_up_c)
+
+        # If orbit exists and center is resolved, compute orbiting position.
+        if orbital and orbit_center_xyz:
+            dx, dy, dz = orbital_offset_xyz(args.day, orbital)
+            x_east = orbit_center_xyz[0] + dx
+            y_north = orbit_center_xyz[1] + dy
+            z_up = orbit_center_xyz[2] + dz
+
+            stars_xyz.append({
+                "name": s["name"],
+                "alt": s["aad"][0] if s.get("aad") else "",
+                "az": s["aad"][1] if s.get("aad") else "",
+                "dist": s["aad"][2] if s.get("aad") else "",
+                "x_east": x_east,
+                "y_north": y_north,
+                "z_up": z_up,
+                "orbital": orbital,
+                "orbit_center_xyz": orbit_center_xyz,
+                "coordinates_raw": s.get("coordinates_raw", ""),
+            })
+            continue
+
+        # Otherwise: static position from its coordinates
+        if not s.get("aad"):
+            # no coords and no orbit => skip
+            continue
+
+        alt, az, dist = s["aad"]
+        x, y_raw, z_raw = aad_to_xyz(alt, az, dist, az_from_east=args.az_from_east)
+
+        # Swap to match desired axes (as per your snapshot)
+        y_north = z_raw
+        z_up = y_raw
+
+        stars_xyz.append({
+            "name": s["name"],
+            "alt": alt,
+            "az": az,
+            "dist": dist,
+            "x_east": x,
+            "y_north": y_north,
+            "z_up": z_up,
+            "orbital": None,
+            "orbit_center_xyz": None,
+            "coordinates_raw": s.get("coordinates_raw", ""),
+        })
+
+    if not stars_xyz:
+        print("[NOTE] No stars produced after orbital/static resolution.")
+        return
+
+    plot_3d_and_topdown(
+        stars_xyz,
+        show_labels=not args.no_labels,
+        dpi=args.dpi,
+        elev=args.view_elev,
+        azim=args.view_azim,
+        draw_orbits=args.draw_orbits,
+    )
     write_csv(stars_xyz)
 
 if __name__ == "__main__":

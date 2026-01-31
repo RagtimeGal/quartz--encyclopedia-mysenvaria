@@ -21,7 +21,6 @@ status: complete
 
 # Events
 ## 25 BT
-- 1st of Spring — On New Years the [[Encyclopedia Mysenvaria/History/God-War Era/Water Wars|Great Water War]] takes place in the Oxygen-Hydrogen territories as [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|Sodium]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|Calcium]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|Iron]], and various allies attempt to stop the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].
 - Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]. (end. 11 BT)
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]

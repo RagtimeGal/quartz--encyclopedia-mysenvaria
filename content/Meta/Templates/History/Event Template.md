@@ -13,8 +13,8 @@ dates: {}
 event:
   - start_desc: ""
     end_desc: ""
-    start_date: ""
-    end_date: ""
+    start_date: []
+    end_date: []
     major_event: false
 ---
 %%

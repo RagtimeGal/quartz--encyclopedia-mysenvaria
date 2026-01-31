@@ -11,8 +11,8 @@ has:
 event:
   - start_desc: "start_desc"
     end_desc: "end_desc"
-    start_date: "-177-26"
-    end_date: "-160-267"
+    start_date: [-177,26]
+    end_date: [-160,267]
     major_event: true
 ---
 %%

@@ -5,6 +5,9 @@ tags:
   - topic/meta/ledger
 type: ledger
 status: complete
+ledger_data:
+  week: 45
+  year: 2025
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]

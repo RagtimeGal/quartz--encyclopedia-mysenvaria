@@ -725,62 +725,86 @@ def render_index_block(
     header_level: int,
     matched_pages: List[Dict[str, Any]],
     sort_spec: List[Dict[str, Any]],
-    included_rules: List[Any],
+    included_rules: List[Dict[str, Any]],
 ) -> List[str]:
     """
     Builds markdown lines to insert under the header.
-    Subheaders are based on the FIRST sort entry that has subheaders.generate==True.
-    No extra blank lines are inserted.
+
+    NEW behavior:
+      - Sort once (stable multipass).
+      - Apply EVERY sort spec that has subheaders.generate == True as a nesting level.
+        Example:
+          sort[0] subheaders -> ## 2025
+          sort[1] subheaders -> ### 1
+          ... bullets ...
     """
 
-    # pick subheader config from the FIRST sort spec with subheaders.generate true
-    sub_spec = None
-    sub_by = None
-    for s in sort_spec or []:
-        sh = s.get("subheaders") if isinstance(s.get("subheaders"), dict) else {}
-        if sh.get("generate") is True:
-            sub_spec = sh
-            sub_by = (s.get("by") or "").strip()
-            break
-
-    # sort first (stable multipass)
     sorted_pages = stable_multi_sort(matched_pages, sort_spec, included_rules)
 
-    out: List[str] = []
-    sub_level = min(header_level + 1, 6)
-    sub_prefix = "#" * sub_level
+    def render_leaf(pages: List[Dict[str, Any]]) -> List[str]:
+        return [f"- {p['link']}" for p in pages]
 
-    # No subheaders
-    if not sub_spec or not sub_by:
-        for p in sorted_pages:
-            out.append(f"- {p['link']}")
-        out.append("")  # single trailing blank line
+    def render_group_level(
+        pages: List[Dict[str, Any]],
+        sort_specs: List[Dict[str, Any]],
+        base_header_level: int,
+        spec_index: int,
+    ) -> List[str]:
+        """
+        Recursively render nested subheaders for each sort spec that requests them.
+        """
+        if spec_index >= len(sort_specs) or not pages:
+            return render_leaf(pages)
+
+        spec = sort_specs[spec_index]
+        by = (spec.get("by") or "").strip()
+        sh = spec.get("subheaders") if isinstance(spec.get("subheaders"), dict) else {}
+        gen = (sh.get("generate") is True)
+
+        # If this spec doesn't generate subheaders, just move to the next spec
+        if not gen or not by:
+            return render_group_level(pages, sort_specs, base_header_level, spec_index + 1)
+
+        method = (sh.get("method") or "value").strip()
+        fmt = sh.get("format")
+
+        # Group pages in their current sorted order (stable)
+        groups: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+        order: List[str] = []
+
+        for p in pages:
+            fm = p["fm"]
+            sv = first_sort_value_for_path(fm, by, included_rules)
+            g = subheader_value_for_group(method, sv, by) or "Other"
+            if g not in groups:
+                order.append(g)
+            groups[g].append(p)
+
+        # Header level increases by 1 each nesting depth, capped at 6
+        sub_level = min(base_header_level + 1, 6)
+        sub_prefix = "#" * sub_level
+
+        out: List[str] = []
+        for g in order:
+            label = g
+            if isinstance(fmt, str) and "{value}" in fmt:
+                label = fmt.replace("{value}", str(g))
+
+            out.append(f"{sub_prefix} {label}")
+
+            # Recurse to next spec; base header level is now this subheader level
+            out.extend(render_group_level(groups[g], sort_specs, sub_level, spec_index + 1))
+
         return out
 
-    method = (sub_spec.get("method") or "value").strip()
-    fmt = sub_spec.get("format")
+    # No leading blank line (you asked to remove blank spacing around subheaders)
+    out_lines = render_group_level(sorted_pages, sort_spec or [], header_level, 0)
 
-    groups: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
-    order: List[str] = []
+    # You asked: "a SINGLE new line placed at the very end of the last item on the index"
+    # Returning one trailing "" forces exactly one blank line after the final bullet/line.
+    out_lines.append("")
 
-    for p in sorted_pages:
-        fm = p["fm"]
-        sv = first_sort_value_for_path(fm, sub_by, included_rules)
-        g = subheader_value_for_group(method, sv, sub_by) or "Other"
-        if g not in groups:
-            order.append(g)
-        groups[g].append(p)
-
-    for g in order:
-        label = g
-        if isinstance(fmt, str) and "{value}" in fmt:
-            label = fmt.replace("{value}", str(g))
-        out.append(f"{sub_prefix} {label}")
-        for p in groups[g]:
-            out.append(f"- {p['link']}")
-
-    out.append("")  # single trailing blank line
-    return out
+    return out_lines
 
 
 # ----------------- Main build -----------------

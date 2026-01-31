@@ -7,22 +7,22 @@ type: article
 status: empty
 event:
   - start_desc: "start_desc1"
-    start_date: "-145-1"
+    start_date: [-145,1]
     major_event: true
   - start_desc: "start_desc2"
-    start_date: "-55-1"
+    start_date: [-55,1]
     major_event: true
   - start_desc: "start_desc3"
-    start_date: "-39-1"
+    start_date: [-39,1]
     major_event: true
   - start_desc: "start_desc4"
-    start_date: "-12-1"
+    start_date: [-12,1]
     major_event: true
   - start_desc: "start_desc5"
-    start_date: "-6-1"
+    start_date: [-6,1]
     major_event: true
   - start_desc: "start_desc6"
-    start_date: "-1-360"
+    start_date: [-1,360]
     major_event: true
 ---
 %%

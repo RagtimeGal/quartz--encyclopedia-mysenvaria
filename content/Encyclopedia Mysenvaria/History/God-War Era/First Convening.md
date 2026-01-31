@@ -7,7 +7,7 @@ type: article
 status: incomplete
 event:
   - start_desc: "start_desc"
-    start_date: "-176"
+    start_date: [-176]
     major_event: true
 ---
 %%

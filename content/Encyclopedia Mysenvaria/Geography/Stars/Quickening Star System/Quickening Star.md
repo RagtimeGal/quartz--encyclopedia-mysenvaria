@@ -10,7 +10,7 @@ star:
   - name: "Quickening Star"
     publications:
       - publishers: ["publisher"]
-        date: "-178-294"
+        date: [-178,294]
         desc: "pub_desc"
         major_event: true
     desc: "star_desc"

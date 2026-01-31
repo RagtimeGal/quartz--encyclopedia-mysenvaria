@@ -16,7 +16,7 @@ Span is a measure of a points [[Encyclopedia Mysenvaria/Science/Technologies/Mea
 
 Most often on world [[Encyclopedia Mysenvaria/Science/Technologies/Maps|maps]] span is divided into eight equal slices of 45° intervals and reach is divided into ten equal rings approximately 1/10th the radius of the Plane.
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|Lists of Abstract Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 
 [^figure1]: ![[Media/Images/Maps/contour.png]]
 [^starward]: Counterclockwise

@@ -8,7 +8,7 @@ type: template
 status: empty
 event:
   - start_desc: "start_desc"
-    start_date: ""
+    start_date: []
     major_event: false
 ---
 %%

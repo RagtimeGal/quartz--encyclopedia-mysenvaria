@@ -8,7 +8,7 @@ type: article
 status: empty
 event:
   - start_desc: "start_desc"
-    start_date: "-25-1"
+    start_date: [-25-1]
     major_event: true
 ---
 %%

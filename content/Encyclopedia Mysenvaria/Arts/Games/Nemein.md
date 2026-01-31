@@ -10,7 +10,7 @@ status: stub
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-> [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Names|Names]]
+> [!warning] [[Meta/Meta|Meta]] || Names
 > Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
 > 
 > These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.
@@ -19,7 +19,7 @@ status: stub
 
 Nemein is a strategy board game which uses national currencies as the pieces of the game. It is a game which has permeated nearly all the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|southern]] [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] cultures.
 # History
-The origins of Nemein are lost to time, but current theories suggest it originated early in the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. Anthropologists and historian [[Encyclopedia Mysenvaria/History/Biographies/Dian Fossey|Dian Fossey]] has posed that the game may trace its earliest origin to [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics]]. Many folktales are told and have been passed down regarding the origins of the game, these tales often tell of Gods who would challenge mortals during the God-War or vice versa.
+The origins of Nemein are lost to time, but current theories suggest it originated early in the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. Anthropologists and historian [[Encyclopedia Mysenvaria/History/Biographies/Famous Anthropologist|Famous Anthropologist]] has posed that the game may trace its earliest origin to [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics]]. Many folktales are told and have been passed down regarding the origins of the game, these tales often tell of Gods who would challenge mortals during the God-War or vice versa.
 # Rules
 Nemein is a two-player strategy game played on a hexagonal grid. Players compete to control the board through strategic settlement and combat. The game is typically played with two differing currencies, but may be played with the same currency. If using the same currency each player must distinguish their coins by consistently using either heads or tails.
 

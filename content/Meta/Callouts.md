@@ -17,8 +17,7 @@ Callouts work as important tools for communicating information about an article 
 Further information regarding a callout may be provided in the sections below if it is deemed necessary or is not elaborated on elsewhere amongst the [[Meta/Meta|meta]] pages.
 # Miscellaneous
 ## Names
-*Primary article: [[Meta/Names|Names]]*
-> [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Names|Names]]
+> [!warning] [[Meta/Meta|Meta]] || Names
 > Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
 > 
 > These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.

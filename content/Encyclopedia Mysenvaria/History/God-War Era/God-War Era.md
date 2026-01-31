@@ -8,20 +8,20 @@ status: empty
 event:
   - start_desc: "start_desc1"
     end_desc: "end_desc1"
-    start_date: "-177"
-    end_date: "0"
+    start_date: [-177]
+    end_date: [0]
     major_event: true
   - start_desc: "start_desc2"
-    start_date: "-177"
-    end_date: "-116"
+    start_date: [-177]
+    end_date: [-116]
     major_event: true
   - start_desc: "start_desc3"
-    start_date: "-116"
-    end_date: "-55"
+    start_date: [-116]
+    end_date: [-55]
     major_event: true
   - start_desc: "start_desc4"
-    start_date: "-55"
-    end_date: "0"
+    start_date: [-55]
+    end_date: [0]
     major_event: true
 ---
 %%

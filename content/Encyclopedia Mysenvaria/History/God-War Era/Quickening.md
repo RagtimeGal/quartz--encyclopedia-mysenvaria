@@ -7,7 +7,7 @@ type: article
 status: touch-up
 event:
   - start_desc: "start_desc"
-    start_date: "-178-294"
+    start_date: [-178,294]
     major_event: true
 ---
 %%

@@ -8,8 +8,8 @@ status: empty
 event:
   - start_desc: "start_desc"
     end_desc: "end_desc"
-    start_date: "-25"
-    end_date: "-11"
+    start_date: [-25]
+    end_date: [-11]
     major_event: true
 ---
 %%

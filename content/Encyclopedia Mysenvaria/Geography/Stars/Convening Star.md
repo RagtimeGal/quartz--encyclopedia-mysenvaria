@@ -10,15 +10,15 @@ star:
   - name: "Convening Star"
     publications:
       - publishers: ["publisher1"]
-        date: "-176"
+        date: [-176]
         desc: "pub_desc1"
         major_event: true
       - publishers: ["publisher2"]
-        date: "-53"
+        date: [-53]
         desc: "pub_desc2"
         major_event: true
       - publishers: ["publisher3"]
-        date: "-1"
+        date: [-1]
         desc: "pub_desc3"
         major_event: true
     desc: "star_desc"

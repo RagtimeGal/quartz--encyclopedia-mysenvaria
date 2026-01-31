@@ -323,9 +323,52 @@ def read_front_matter(md_path: pathlib.Path) -> Tuple[Optional[Dict[str, Any]], 
         data = fallback_parse_yaml(fm_raw)
     return (data if isinstance(data, dict) else None), body, used
 
+def parse_star_coordinates(value: Any) -> str:
+    """
+    Accept star coordinates in either form:
+      - "alt, az, dist"
+      - [alt, az, dist]
+      - [alt, az]        -> dist assumed 0
+      - [alt]            -> az=0, dist=0
+
+    Always returns a canonical string: "alt, az, dist"
+    Returns empty string if invalid.
+    """
+    # New: list / tuple form
+    if isinstance(value, (list, tuple)) and 1 <= len(value) <= 3:
+        try:
+            alt = float(value[0])
+            az  = float(value[1]) if len(value) >= 2 else 0.0
+            dist = float(value[2]) if len(value) == 3 else 0.0
+        except Exception:
+            return ""
+        return f"{alt},{az},{dist}"
+
+    # Legacy: string form (leave untouched)
+    if isinstance(value, str):
+        return value.strip()
+
+    return ""
+
 def parse_mysenvar_date(s: Any) -> Optional[Dict[str, int]]:
+        # NEW: bracket formats:
+    #   [year, day]  -> {"year": year, "day": day}
+    #   [year]       -> {"year": year, "day": 0}
+    if isinstance(s, (list, tuple)) and len(s) in (1, 2):
+        try:
+            year = int(s[0])
+            day = int(s[1]) if len(s) == 2 and s[1] is not None and str(s[1]).strip() != "" else 0
+        except Exception:
+            return None
+        if day < 0 or day > 360:
+            return None
+        return {"year": year, "day": day}
+
+    # Existing: year-only integer
     if isinstance(s, int):
         return {"year": s, "day": 0}
+
+    # Existing: string "year-day" or "year"
     if not isinstance(s, str):
         return None
     m = DATE_RE.match(s.strip())
@@ -491,7 +534,7 @@ def ensure_extracted_json(root: pathlib.Path) -> Dict[str, Any]:
         base = {
             "source": src_rel,
             "star_name": name.strip(),
-            "coordinates": block.get("coordinates", "") if isinstance(block.get("coordinates"), str) else "",
+            "coordinates": parse_star_coordinates(block.get("coordinates")),
             "desc": resolve_desc((block.get("desc") or ""), desc_map, warnings_list, src_rel),
             "fm_title": fm_title,
         }
