@@ -25,18 +25,60 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Modern Era/Modern Era.md",
+      "source": "Encyclopedia Mysenvaria/History/Golden Age/Golden Age.md",
       "kind": "event",
       "start_date": {
-        "year": 1214,
+        "year": 609,
         "day": 0
       },
       "end_date": {
-        "year": 1496,
+        "year": 1214,
         "day": 0
       },
-      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]]. (ongoing)",
-      "end_desc": "The modern day.",
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]. (end. 1214 AT)",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]. (beg. 609 AT)",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era.md",
+      "kind": "event",
+      "start_date": {
+        "year": 0,
+        "day": 0
+      },
+      "end_date": {
+        "year": 609,
+        "day": 0
+      },
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (end. 609 AT)",
+      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (beg. 0 AT)",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Iteration Period.md",
+      "kind": "event",
+      "start_date": {
+        "year": -140,
+        "day": 0
+      },
+      "end_date": {
+        "year": -55,
+        "day": 0
+      },
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] begins with the creation of the first [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organism]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]]. It lasts until 55 BT and sees the creation of over 99% of all organisms to ever be created.",
+      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] ends following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. 99% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which will ever exist were created since the start of the period.",
+      "major_event": true
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/Quickening.md",
+      "kind": "event",
+      "start_date": {
+        "year": -178,
+        "day": 294
+      },
+      "end_date": null,
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] begins following the publication of the [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]. An estimated 15 billion [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are created over less than a single [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|season]].",
+      "end_desc": null,
       "major_event": true
     },
     {
@@ -124,33 +166,6 @@
       },
       "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/God-War Era/Lover's Period|Lover's Period]]. (end. 12 BT)",
       "end_desc": "End of the [[Encyclopedia Mysenvaria/History/God-War Era/Lover's Period|Lover's Period]]. (beg. 41 BT)",
-      "major_event": true
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Convening.md",
-      "kind": "event",
-      "start_date": {
-        "year": -176,
-        "day": 0
-      },
-      "end_date": null,
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] holds the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. Of the 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] invited only 16 arrive. Each invitee had witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. The event sees the formation of many ideas and theories regarding the beginning war.",
-      "end_desc": null,
-      "major_event": true
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/Iteration Period.md",
-      "kind": "event",
-      "start_date": {
-        "year": -140,
-        "day": 0
-      },
-      "end_date": {
-        "year": -55,
-        "day": 0
-      },
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] begins with the creation of the first [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organism]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]]. It lasts until 55 BT and sees the creation of over 99% of all organisms to ever be created.",
-      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] ends following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. 99% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which will ever exist were created since the start of the period.",
       "major_event": true
     },
     {
@@ -244,14 +259,14 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/God-War Era/Quickening.md",
+      "source": "Encyclopedia Mysenvaria/History/God-War Era/First Convening.md",
       "kind": "event",
       "start_date": {
-        "year": -178,
-        "day": 294
+        "year": -176,
+        "day": 0
       },
       "end_date": null,
-      "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] begins following the publication of the [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]. An estimated 15 billion [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are created over less than a single [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|season]].",
+      "start_desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] holds the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. Of the 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] invited only 16 arrive. Each invitee had witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. The event sees the formation of many ideas and theories regarding the beginning war.",
       "end_desc": null,
       "major_event": true
     },
@@ -271,79 +286,49 @@
       "major_event": true
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Golden Age/Golden Age.md",
+      "source": "Encyclopedia Mysenvaria/History/Modern Era/Modern Era.md",
       "kind": "event",
       "start_date": {
-        "year": 609,
-        "day": 0
-      },
-      "end_date": {
         "year": 1214,
         "day": 0
       },
-      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]. (end. 1214 AT)",
-      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]. (beg. 609 AT)",
-      "major_event": true
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era.md",
-      "kind": "event",
-      "start_date": {
-        "year": 0,
-        "day": 0
-      },
       "end_date": {
-        "year": 609,
+        "year": 1496,
         "day": 0
       },
-      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (end. 609 AT)",
-      "end_desc": "End of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (beg. 0 AT)",
+      "start_desc": "Start of the [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]]. (ongoing)",
+      "end_desc": "The modern day.",
       "major_event": true
     }
   ],
   "person": [
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Famous Anthropologist.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder.md",
       "kind": "person",
-      "name": "Famous Anthropologist",
+      "name": "Academy Publishing Founder",
       "major_event": false,
-      "title": "Famous Anthropologist"
+      "title": "Academy Publishing Founder"
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Inventor of Evolution.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Jacob Metapsammiteson.md",
       "kind": "person",
-      "name": "Inventor of Evolution",
+      "name": "Jacob Metapsammiteson",
       "major_event": false,
-      "title": "Inventor of Evolution"
+      "title": "Jacob Metapsammiteson"
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Renouned Paleontologist.md",
       "kind": "person",
-      "name": "Charles Lightningson",
-      "major_event": true,
-      "birth_date": {
-        "year": -12,
-        "day": 0
-      },
-      "death_date": {
-        "year": -6,
-        "day": 0
-      },
-      "title": "Charles Lightningson"
+      "name": "Renouned Paleontologist",
+      "major_event": false,
+      "title": "Renouned Paleontologist"
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/First Elven Elder.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Ancient Philosopher.md",
       "kind": "person",
-      "name": "First Elven Elder",
+      "name": "Ancient Philosopher",
       "major_event": false,
-      "title": "First Elven Elder"
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Author of Encounters With The Quadrinity.md",
-      "kind": "person",
-      "name": "Author of Encounters With The Quadrinity",
-      "major_event": false,
-      "title": "Author of Encounters With The Quadrinity"
+      "title": "Ancient Philosopher"
     },
     {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Josh Soundson.md",
@@ -355,13 +340,6 @@
         "day": 0
       },
       "title": "Josh Soundson"
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder.md",
-      "kind": "person",
-      "name": "Academy Publishing Founder",
-      "major_event": false,
-      "title": "Academy Publishing Founder"
     },
     {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife.md",
@@ -384,25 +362,18 @@
       "title": "Dwarf Soundwife"
     },
     {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Famous Anthropologist.md",
+      "kind": "person",
+      "name": "Famous Anthropologist",
+      "major_event": false,
+      "title": "Famous Anthropologist"
+    },
+    {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Famous Taxonomer.md",
       "kind": "person",
       "name": "Famous Taxonomer",
       "major_event": false,
       "title": "Famous Taxonomer"
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Ancient Philosopher.md",
-      "kind": "person",
-      "name": "Ancient Philosopher",
-      "major_event": false,
-      "title": "Ancient Philosopher"
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man.md",
-      "kind": "person",
-      "name": "Time Wizard Man",
-      "major_event": false,
-      "title": "Time Wizard Man"
     },
     {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man.md",
@@ -412,29 +383,65 @@
       "title": "Cracked Star Man"
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Jacob Metapsammiteson.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Author of Encounters With The Quadrinity.md",
       "kind": "person",
-      "name": "Jacob Metapsammiteson",
+      "name": "Author of Encounters With The Quadrinity",
       "major_event": false,
-      "title": "Jacob Metapsammiteson"
+      "title": "Author of Encounters With The Quadrinity"
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Renouned Paleontologist.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Inventor of Evolution.md",
       "kind": "person",
-      "name": "Renouned Paleontologist",
+      "name": "Inventor of Evolution",
       "major_event": false,
-      "title": "Renouned Paleontologist"
+      "title": "Inventor of Evolution"
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/First Elven Elder.md",
       "kind": "person",
-      "name": "Gods of Past, Present, and Future",
+      "name": "First Elven Elder",
+      "major_event": false,
+      "title": "First Elven Elder"
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson.md",
+      "kind": "person",
+      "name": "Charles Lightningson",
+      "major_event": true,
+      "birth_date": {
+        "year": -12,
+        "day": 0
+      },
+      "death_date": {
+        "year": -6,
+        "day": 0
+      },
+      "title": "Charles Lightningson"
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man.md",
+      "kind": "person",
+      "name": "Time Wizard Man",
+      "major_event": false,
+      "title": "Time Wizard Man"
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space.md",
+      "kind": "person",
+      "name": "Gods of Matter, Energy, Time, and Space",
       "major_event": false,
       "birth_date": {
         "year": -178,
         "day": 0
       },
-      "title": "Gods of Past, Present, and Future"
+      "title": "Gods of Matter, Energy, Time, and Space"
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not.md",
+      "kind": "person",
+      "name": "Gods of What Is and Is Not",
+      "major_event": false,
+      "title": "Gods of What Is and Is Not"
     },
     {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Material States.md",
@@ -448,32 +455,25 @@
       "title": "Gods of Material States"
     },
     {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not.md",
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future.md",
       "kind": "person",
-      "name": "Gods of What Is and Is Not",
-      "major_event": false,
-      "title": "Gods of What Is and Is Not"
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space.md",
-      "kind": "person",
-      "name": "Gods of Matter, Energy, Time, and Space",
+      "name": "Gods of Past, Present, and Future",
       "major_event": false,
       "birth_date": {
         "year": -178,
         "day": 0
       },
-      "title": "Gods of Matter, Energy, Time, and Space"
+      "title": "Gods of Past, Present, and Future"
     }
   ],
   "star": {
     "bases": [
       {
-        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
-        "star_name": "First Epoch Star",
-        "coordinates": "0.0,0.0,3844.0",
-        "desc": "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]].",
-        "fm_title": "First Epoch Star"
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md",
+        "star_name": "Spatial Act",
+        "coordinates": "",
+        "desc": "Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]] to put an end to Gods' manipulation of time and space as battle strategies.",
+        "fm_title": "Spatial Act"
       },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md",
@@ -483,11 +483,11 @@
         "fm_title": "Convening Star"
       },
       {
-        "source": "Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md",
-        "star_name": "Spatial Act",
-        "coordinates": "",
-        "desc": "Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]] to put an end to Gods' manipulation of time and space as battle strategies.",
-        "fm_title": "Spatial Act"
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
+        "star_name": "First Epoch Star",
+        "coordinates": "0.0,0.0,3844.0",
+        "desc": "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]].",
+        "fm_title": "First Epoch Star"
       },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star.md",
@@ -499,18 +499,18 @@
     ],
     "publications": [
       {
-        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
-        "star_name": "First Epoch Star",
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md",
+        "star_name": "Spatial Act",
         "date": {
-          "year": -178,
-          "day": 282
+          "year": -175,
+          "day": 213
         },
-        "desc": "",
+        "desc": "As Gods' manipulations of time and space grow more severe the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]] pass the [[Encyclopedia Mysenvaria/Geography/Stars/Spatial Act|Spatial Act]].",
         "publishers": [
-          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]"
+          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]]"
         ],
         "major_event": true,
-        "fm_title": "First Epoch Star"
+        "fm_title": "Spatial Act"
       },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md",
@@ -555,18 +555,18 @@
         "fm_title": "Convening Star"
       },
       {
-        "source": "Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md",
-        "star_name": "Spatial Act",
+        "source": "Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md",
+        "star_name": "First Epoch Star",
         "date": {
-          "year": -175,
-          "day": 213
+          "year": -178,
+          "day": 282
         },
-        "desc": "As Gods' manipulations of time and space grow more severe the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]] pass the [[Encyclopedia Mysenvaria/Geography/Stars/Spatial Act|Spatial Act]].",
+        "desc": "",
         "publishers": [
-          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]]"
+          "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]"
         ],
         "major_event": true,
-        "fm_title": "Spatial Act"
+        "fm_title": "First Epoch Star"
       },
       {
         "source": "Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star.md",
