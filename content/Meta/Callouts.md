@@ -28,7 +28,7 @@ Further information regarding a callout may be provided in the sections below if
 > This article is a Template. This callout, and others like it in the page, should be removed. Tags, page name, table of content, and other YAML data should be added, removed, or otherwise modified as necessary.
 ## Addenda
 > [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]
-> This article is or has an addendum. Visit addenda pages by adding `Meta/` to the start of an article's URL path. E.G. `ragno.wiki/Encyclopedia-Mysenvaria` becomes `ragno.wiki/Meta/Encyclopedia-Mysenvaria`.
+> This article is or has an addendum. Visit addenda pages by adding `Meta/` to the start of an article's URL path. E.G. `ragno.studio/Encyclopedia-Mysenvaria` becomes `ragno.studio/Meta/Encyclopedia-Mysenvaria`.
 
 Addenda are non-canon companion articles written to provide context, behind-the-scene commentary, spoilers, and guidance on adaptation for creative use—like providing TTRPG stat blocks, explaining character portrayal, or giving ideas on story application. Addenda may also be used for meta discussion regarding topics, if the main article is not fitting.
 ## Meta Articles

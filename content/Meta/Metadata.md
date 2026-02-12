@@ -42,7 +42,7 @@ Tags are broken down into two types: topics and subjects. Topics are broad and o
 	- `topic/art/cuisine`: This page covers a topic relating to food.
 	- `topic/art/literature`: This page covers a topic relating to literature.
 		- `topic/art/literature/fiction`: This page covers a piece of fiction literature.
-		- `toqpic/art/literature/non-fiction`: This page covers a piece of non-fiction literature.
+		- `topic/art/literature/non-fiction`: This page covers a piece of non-fiction literature.
 	- `topic/art/performance`: This page covers a topic relating to performative arts.
 	- `topic/art/sport`: This page covers a topic relating to sports.
 - `topic/biology`: This page covers a topic relating to biology.

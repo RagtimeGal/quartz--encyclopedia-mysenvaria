@@ -8,9 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Home": "https://mysenvaria.ragno.wiki/",
-      "Meta": "https://mysenvaria.ragno.wiki/Meta/Meta",
-      "Contributors": "https://mysenvaria.ragno.wiki/Meta/Contributors",
+      "Home": "https://mysenvaria.ragno.studio/",
+      "Meta": "https://mysenvaria.ragno.studio/Meta/Meta",
+      "Contributors": "https://mysenvaria.ragno.studio/Meta/Contributors",
       "Code of Conduct": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CODE_OF_CONDUCT.md",
       "GitHub": "https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria",
       "Blog": "https://ragnois.gay",

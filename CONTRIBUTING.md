@@ -1,4 +1,4 @@
-*For a more thoughtfully formatted version of this page, see the official article on the website:* https://mysenvaria.ragno.wiki/Meta/Contributing
+*For a more thoughtfully formatted version of this page, see the official article on the website:* https://mysenvaria.ragno.studio/Meta/Contributing
 
 ```
 When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 
