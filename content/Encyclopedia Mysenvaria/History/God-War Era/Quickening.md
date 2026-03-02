@@ -5,13 +5,20 @@ tags:
   - topic/history/god-war_era
 type: article
 status: touch-up
+has:
+  - featured_data
 event:
   - start_desc: "start_desc"
     start_date: [-178,294]
     major_event: true
+featured_data:
+  featured_desc: "featured_desc"
+  fun_facts: ["ff1"]
 ---
 %%
 start_desc: The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] begins following the publication of the [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]. An estimated 15 billion [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are created over less than a single [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|season]].
+featured_desc: **[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is widely considered to be one of the most  influential events in [[Encyclopedia Mysenvaria/History/History|history]]. It is the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and subsequently the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]] is the creation of millions of Gods, many lost to history.
+ff1: ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over the span of less than a single season?
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
 > This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

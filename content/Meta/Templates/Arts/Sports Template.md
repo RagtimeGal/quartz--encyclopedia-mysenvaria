@@ -1,5 +1,5 @@
 ---
-title: Sports Template
+title: "Sports Template"
 enableToc: true
 tags:
   - topic/art/sport

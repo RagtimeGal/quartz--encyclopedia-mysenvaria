@@ -4,15 +4,24 @@ enableToc: true
 tags:
   - topic/geography/abstract
 type: article
-status: complete
-future: update
+status: touch-up
+has:
+  - featured_data
 needs:
   - image
+featured_data:
+  fun_facts: ["ff1"]
 ---
+%%
+ff1: ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
+%%
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
+> This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The Edge is an abstract geographic feature which represents the furthest habitable regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The edge serves as an important reference point for [[Encyclopedia Mysenvaria/Science/Science|scientific]] research thanks to its role in a number of natural phenomena.
 # Geography
-The edge represents the furthest habitable region of the Plane, positioned equidistant in all directions from the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]]. About 60% of the edge occupies land, the other remaining area lying over the oceans. The actual geography of the land beyond the edge is unknown, the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] obstructing the Plane beyond.
+The edge represents the furthest habitable region of the Plane, positioned equidistant in all directions from the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]]. About 60% of the edge occupies land, the other remaining area lying over the oceans. The actual geography of the land beyond the edge is largely unknown as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] obstructs the Plane beyond.
 
 The land before the edge primarily consists of flat arctic landscapes, and the oceans consist of [[Encyclopedia Mysenvaria/Science/Phenomena/Glaciers|glaciers]] and mixes of [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|seasonal]] and non-seasonal [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|ice sheets]].
 # History
@@ -27,6 +36,3 @@ Ecosystems around the edge rely on [[Encyclopedia Mysenvaria/Science/Models/Crit
 Large predators, like [[Encyclopedia Mysenvaria/Biology/Species/Polar Dragon|Polar Dragons]], arctic [[Encyclopedia Mysenvaria/Biology/Taxa/Whales|whale]] species, Lancing Squid, and arctic [[Encyclopedia Mysenvaria/Biology/Taxa/Birds of Prey|Birds of Prey]] maintain sparse populations but large ranges. In the case of the well-known Polar Dragons their range has steadily been growing over the last hundred years, now reaching as far as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago|Eastern Archipelago]].
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
-
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

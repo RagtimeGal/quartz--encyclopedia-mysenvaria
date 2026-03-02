@@ -1,5 +1,5 @@
 ---
-title: Music Template
+title: "Music Template"
 enableToc: true
 tags:
   - topic/art/music

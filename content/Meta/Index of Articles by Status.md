@@ -688,7 +688,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Branches/Immunology|Immunology]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|Inner Circle]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Instruments|Instruments]]
-- [[Encyclopedia Mysenvaria/History/Biographies/Inventor of Evolution|Inventor of Evolution]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Discoverer of Evolution|Discoverer of Evolution]]
 - [[Encyclopedia Mysenvaria/History/Modern Era/Iridium Experiments|Irididum Experiments]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Island|Island]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]]

@@ -1,5 +1,5 @@
 ---
-title: Artificial Features Template
+title: "Artificial Features Template"
 enableToc: true
 tags:
   - topic/geography/artificial

@@ -1,5 +1,5 @@
 ---
-title: Games Template
+title: "Games Template"
 enableToc: true
 tags:
   - topic/art/game

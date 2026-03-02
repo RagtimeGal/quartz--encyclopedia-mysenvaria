@@ -21,30 +21,45 @@ has:
 
 # Events
 ## 1400s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1400s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1400s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1400s AT#Stars|Stars]]
 ## 1410s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1410s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1410s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1410s AT#Stars|Stars]]
 ## 1420s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1420s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1420s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1420s AT#Stars|Stars]]
 ## 1430s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1430s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1430s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1430s AT#Stars|Stars]]
 ## 1440s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1440s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1440s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1440s AT#Stars|Stars]]
 ## 1450s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1450s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1450s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1450s AT#Stars|Stars]]
 ## 1460s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1460s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1460s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1460s AT#Stars|Stars]]
 ## 1470s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1470s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1470s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1470s AT#Stars|Stars]]
 ## 1480s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1480s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1480s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1480s AT#Stars|Stars]]
 ## 1490s AT
-
-# Significant People
-## Births
-
-## Deaths
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1490s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1490s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1490s AT#Stars|Stars]]
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

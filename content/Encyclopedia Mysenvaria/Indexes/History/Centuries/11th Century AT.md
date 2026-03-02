@@ -21,30 +21,45 @@ has:
 
 # Events
 ## 1000s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1000s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1000s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1000s AT#Stars|Stars]]
 ## 1010s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1010s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1010s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1010s AT#Stars|Stars]]
 ## 1020s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1020s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1020s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1020s AT#Stars|Stars]]
 ## 1030s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1030s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1030s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1030s AT#Stars|Stars]]
 ## 1040s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1040s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1040s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1040s AT#Stars|Stars]]
 ## 1050s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1050s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1050s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1050s AT#Stars|Stars]]
 ## 1060s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1060s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1060s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1060s AT#Stars|Stars]]
 ## 1070s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1070s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1070s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1070s AT#Stars|Stars]]
 ## 1080s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1080s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1080s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1080s AT#Stars|Stars]]
 ## 1090s AT
-
-# Significant People
-## Births
-
-## Deaths
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1090s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1090s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1090s AT#Stars|Stars]]
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

@@ -1,5 +1,5 @@
 ---
-title: Scientific Branch Template
+title: "Scientific Branch Template"
 enableToc: true
 tags:
   - topic/science/branch

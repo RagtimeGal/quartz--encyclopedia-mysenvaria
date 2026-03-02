@@ -1,5 +1,5 @@
 ---
-title: Occupation Template
+title: "Occupation Template"
 enableToc: true
 tags:
   - topic/culture/occupation

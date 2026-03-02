@@ -1,5 +1,5 @@
 ---
-title: Biography Template
+title: "Biography Template"
 enableToc: true
 tags:
   - topic/history/biography

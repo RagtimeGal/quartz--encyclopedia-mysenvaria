@@ -1,5 +1,5 @@
 ---
-title: Performance Template
+title: "Performance Template"
 enableToc: true
 tags:
   - topic/art/performance

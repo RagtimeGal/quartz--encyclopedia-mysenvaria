@@ -328,7 +328,7 @@
     </event>
     <event>
       <start>-177</start>
-      <end>-160</end>
+      <end>-145</end>
       <text>Dying Period</text>
       <progress>0</progress>
       <fuzzy>False</fuzzy>
@@ -1931,8 +1931,8 @@ The 17 attending Gods included, Fulgurite, Chromodynamic Energy, Sodium Ethyl Xa
   </events>
   <view>
     <displayed_period>
-      <start>-151</start>
-      <end>-138</end>
+      <start>-149</start>
+      <end>-136</end>
     </displayed_period>
     <hidden_categories>
     </hidden_categories>

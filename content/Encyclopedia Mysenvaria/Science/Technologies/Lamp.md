@@ -1,5 +1,5 @@
 ---
-title: Lamp
+title: "Lamp"
 enableToc: true
 tags:
   - topic/science/technology

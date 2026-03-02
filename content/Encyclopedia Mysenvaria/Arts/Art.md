@@ -14,7 +14,7 @@ Art in the Encyclopedia is divided into multiple sub-topics based on its multitu
 # Cuisine
 Cuisine is the art of food, including preparation and modification to enhance taste, appearance, nutrition, and other attributes. Both culinary techniques and specific dishes are covered in this section of the Encyclopedia. Dishes are often tied to cultural events and holidays, like [[Encyclopedia Mysenvaria/Arts/Cuisine/Draconic Potluck|draconic potlucks]] after [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Dragon Hunt|dragon hunts]].
 # Games
-Games are competitive or cooperative activities where individuals or teams work together to achieve a common goal or compete against one another. Games can range from physical contests like [[Encyclopedia Mysenvaria/Arts/Games/Wrestling|wrestling]], to mental challenges like [[Encyclopedia Mysenvaria/Arts/Games/Nemein|nemein]], serving as both entertainment and bonding experiences.
+Games are competitive or cooperative activities where individuals or teams work together to achieve a common goal or compete against one another. Games range from physical contests like wrestling, to mental challenges like [[Encyclopedia Mysenvaria/Arts/Games/Nemein|nemein]], serving as both entertainment and bonding experiences.
 # Literature
 Literature are written works used to communicate complex ideas, tell stories, and record history. Literature is vital to the formation of societies, serving as ways to record historic events, laws, religious doctrines, occupational practices, and more. Literature is often divided into two categories, fictional works which tell fantastical stories to teach and entertain, and non-fictional works which serve to document the truth, like the Encyclopedia.
 # Music

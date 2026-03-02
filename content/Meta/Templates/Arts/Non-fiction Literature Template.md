@@ -1,5 +1,5 @@
 ---
-title: Non-Fiction Literature Template
+title: "Non-Fiction Literature Template"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

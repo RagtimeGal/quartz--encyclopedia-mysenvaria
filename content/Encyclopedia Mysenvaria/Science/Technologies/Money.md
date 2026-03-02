@@ -1,5 +1,5 @@
 ---
-title: Money
+title: "Money"
 enableToc: true
 tags:
   - topic/science/technology

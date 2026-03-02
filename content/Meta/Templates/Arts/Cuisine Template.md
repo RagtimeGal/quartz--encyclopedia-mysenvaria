@@ -1,5 +1,5 @@
 ---
-title: Cuisine Template
+title: "Cuisine Template"
 enableToc: true
 tags:
   - topic/art/cuisine

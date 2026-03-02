@@ -6,13 +6,20 @@ tags:
 type: article
 status: complete
 future: review
+has:
+  - featured_data
 event:
   - start_desc: "start_desc"
     start_date: [-177-26]
     major_event: true
+featured_data:
+  featured_desc: "featured_desc"
+  fun_facts: ["ff1"]
 ---
 %%
 start_desc: As the number of Gods to ever exist reaches its peak the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] of a God occurs.
+featured_desc: **[[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]**, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.
+ff1: ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?
 %%
 The First Death, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.
 

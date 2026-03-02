@@ -21,30 +21,45 @@ has:
 
 # Events
 ## 800s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/800s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/800s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/800s AT#Stars|Stars]]
 ## 810s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/810s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/810s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/810s AT#Stars|Stars]]
 ## 820s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/820s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/820s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/820s AT#Stars|Stars]]
 ## 830s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/830s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/830s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/830s AT#Stars|Stars]]
 ## 840s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/840s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/840s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/840s AT#Stars|Stars]]
 ## 850s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/850s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/850s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/850s AT#Stars|Stars]]
 ## 860s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/860s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/860s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/860s AT#Stars|Stars]]
 ## 870s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/870s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/870s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/870s AT#Stars|Stars]]
 ## 880s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/880s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/880s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/880s AT#Stars|Stars]]
 ## 890s AT
-
-# Significant People
-## Births
-
-## Deaths
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/890s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/890s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/890s AT#Stars|Stars]]
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

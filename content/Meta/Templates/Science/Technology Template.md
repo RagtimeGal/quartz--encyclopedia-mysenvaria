@@ -1,5 +1,5 @@
 ---
-title: Technology Template
+title: "Technology Template"
 enableToc: true
 tags:
   - topic/science/technology

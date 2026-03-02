@@ -1,5 +1,5 @@
 ---
-title: Instruments
+title: "Instruments"
 enableToc: true
 tags:
   - topic/science/technology

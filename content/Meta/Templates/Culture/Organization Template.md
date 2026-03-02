@@ -1,5 +1,5 @@
 ---
-title: Organization Template
+title: "Organization Template"
 enableToc: true
 tags:
   - topic/culture/organization

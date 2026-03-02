@@ -1,5 +1,5 @@
 ---
-title: Belief Template
+title: "Belief Template"
 enableToc: true
 tags:
   - topic/culture/belief

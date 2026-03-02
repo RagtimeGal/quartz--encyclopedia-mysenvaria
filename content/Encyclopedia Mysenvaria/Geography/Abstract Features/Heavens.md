@@ -6,9 +6,16 @@ tags:
 type: article
 status: complete
 future: review
+has:
+  - featured_data
 needs:
   - image
+featured_data:
+  fun_facts: ["ff1"]
 ---
+%%
+ff1: ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]] exist above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] and is devoid of air and where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside?
+%%
 
 The Heavens is an [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract]] geographical feature used to refer to the space above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]]. The heavens are devoid of air and are where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside in orbit. While the heavens itself does not have a major impact on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] the stars greatly impact the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|natural laws]] of the world.
 # History

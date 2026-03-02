@@ -4,15 +4,24 @@ enableToc: true
 tags:
   - topic/geography/abstract
 type: article
-status: complete
-future: update
+status: incomplete
 needs:
   - image
+featured_data:
+  featured_desc: "featured_desc"
+  fun_facts: ["ff1"]
 ---
+%%
+featured_desc: **[[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|The Harmony Line]]** is a simplified two-dimensional projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line is a tool used by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]] and [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] for education and prediction regarding the impact of the Harmonic Treaty on the Plane.
+ff1: ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+%%
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The harmony line is a representation of the orbital pattern of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line model is a useful tool for predicting the effects of the Harmonic Treaty at any given time. Despite often being depicted as directly between the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]] and [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] the Treaty has a slightly eccentric orbit which rotates over time, making the common depiction inaccurate.
 
-The model is used both by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]], to predict the location of the Treaty and its impact on the visibility of local stars, and by [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] to predict the impacts the Treaty may have on weather. [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|Orreries]] are small mechanical devices used by scientists to physically model the orbits of stars, and most often the orbit of the Harmonic Treaty.
+The model is used both by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]], to predict the location of the Treaty and its impact on the visibility of local stars, and by [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] to predict the impacts the Treaty may have on weather. [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|Orreries]] are small mechanical devices used by scientists to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], and most often the orbit of the Harmonic Treaty.
 # Orbital Details
 Despite often being represented as completely circular the Harmonic Treaty's orbit follows a slight eccentricity of approximately 0.017. Despite being so minimal the eccentricity of the orbit is still enough to have noticeable impacts throughout the year as the [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|seasons]] pass.
 
@@ -25,8 +34,3 @@ The Harmonic Treaty was created at the end of the [[Encyclopedia Mysenvaria/Hist
 These models would be used for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] time, creating the first primitive forms of [[Encyclopedia Mysenvaria/Science/Technologies/Clock|clocks]] by tracking the position or size of the Treaty in the sky relative to one's position on the Plane. These would later be refined into more complex devices and easier tools to tell the time.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
-
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
-> 
-> *This page could use some elaboration on the history of the harmony line and its cultural impact for various societies. Could also possibly use some further explanation on the details of the orbit itself and the impact that has on the Plane, like elaboration on weather systems and climate.* 

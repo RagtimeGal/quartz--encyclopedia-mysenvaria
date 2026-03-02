@@ -1,5 +1,5 @@
 ---
-title: Phenomena Template
+title: "Phenomena Template"
 enableToc: true
 tags:
   - topic/science/phenomenon

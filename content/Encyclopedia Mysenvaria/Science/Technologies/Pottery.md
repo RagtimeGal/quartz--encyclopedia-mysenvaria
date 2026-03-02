@@ -1,5 +1,5 @@
 ---
-title: Pottery
+title: "Pottery"
 enableToc: true
 tags:
   - topic/science/technology

@@ -6,7 +6,14 @@ tags:
 type: overview
 status: complete
 future: update
+has:
+  - featured_data
+featured_data:
+  fun_facts: ["ff1"]
 ---
+%%
+ff1: ... that [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?
+%%
 
 Geography is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Geography is a complex [[Encyclopedia Mysenvaria/Culture/Culture#Scientific Branches|scientific branch]] which focuses on the study of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] physical and abstract features. It includes many other scientific branches such as [[Encyclopedia Mysenvaria/Science/Branches/Paleontology|paleontology]], [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorology]], [[Encyclopedia Mysenvaria/Science/Branches/Biogeography|biogeography]], [[Encyclopedia Mysenvaria/Science/Branches/Climatology|climatology]], and more. It's also vital to crafts like [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|cartography]].
 

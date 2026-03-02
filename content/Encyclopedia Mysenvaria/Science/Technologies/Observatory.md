@@ -1,5 +1,5 @@
 ---
-title: Observatory
+title: "Observatory"
 enableToc: true
 tags:
   - topic/science/technology

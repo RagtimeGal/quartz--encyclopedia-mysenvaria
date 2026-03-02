@@ -1,5 +1,5 @@
 ---
-title: Fiction Literature Template
+title: "Fiction Literature Template"
 enableToc: true
 tags:
   - topic/art/literature/fiction

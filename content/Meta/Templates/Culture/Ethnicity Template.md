@@ -1,5 +1,5 @@
 ---
-title: Ethnicity Template
+title: "Ethnicity Template"
 enableToc: true
 tags:
   - topic/culture/ethnicity

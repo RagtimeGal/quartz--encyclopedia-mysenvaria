@@ -18,7 +18,7 @@ ledger_data:
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 46.2025|Ledger 46.2025]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 10.2026|Ledger 5.2026]]
 
 This week the previous push-program which generated the [[Meta/Index of Articles by Status|Index of Articles by Status]] has been replaced with a far more complex and robust program which now generates all [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]] across the encyclopedia! For the sake of simplicity I'm only listing edited pages which did not have to do with the introduction of this new automated system.
 

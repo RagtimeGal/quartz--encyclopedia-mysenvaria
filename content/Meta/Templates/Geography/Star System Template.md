@@ -1,5 +1,5 @@
 ---
-title: Star System Template
+title: "Star System Template"
 enableToc: true
 tags:
   - topic/geography/astrography

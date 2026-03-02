@@ -21,30 +21,45 @@ has:
 
 # Events
 ## 1300s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1300s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1300s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1300s AT#Stars|Stars]]
 ## 1310s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1310s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1310s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1310s AT#Stars|Stars]]
 ## 1320s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1320s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1320s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1320s AT#Stars|Stars]]
 ## 1330s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1330s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1330s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1330s AT#Stars|Stars]]
 ## 1340s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1340s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1340s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1340s AT#Stars|Stars]]
 ## 1350s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1350s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1350s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1350s AT#Stars|Stars]]
 ## 1360s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1360s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1360s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1360s AT#Stars|Stars]]
 ## 1370s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1370s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1370s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1370s AT#Stars|Stars]]
 ## 1380s AT
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1380s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1380s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1380s AT#Stars|Stars]]
 ## 1390s AT
-
-# Significant People
-## Births
-
-## Deaths
-
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1390s AT#Events]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1390s AT#Significant People]]
+![[Encyclopedia Mysenvaria/Indexes/History/Decades/1390s AT#Stars|Stars]]
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

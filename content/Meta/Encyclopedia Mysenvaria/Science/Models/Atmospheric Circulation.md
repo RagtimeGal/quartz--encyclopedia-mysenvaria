@@ -1,5 +1,7 @@
 ---
-title: "Material"
+title: "Atmospheric Circulation"
+aliases:
+  - "Atmospheric Circulation (Addenda)"
 enableToc: true
 tags:
   - topic/meta/addenda
@@ -10,7 +12,6 @@ addenda: true
 
 > [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]
 > This article is or has an addendum. Visit addenda pages by adding `Meta/` to the start of an article's URL path. E.G. `ragno.studio/Encyclopedia-Mysenvaria` becomes `ragno.studio/Meta/Encyclopedia-Mysenvaria`.
-
 # Writer's Note
 Atmospheric circulation on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] is a little different than atmospheric circulation on Earth—mainly because the Plane is not a sphere.
 

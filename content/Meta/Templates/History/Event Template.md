@@ -1,5 +1,5 @@
 ---
-title: Event Template
+title: "Event Template"
 enableToc: true
 tags:
   - topic/history/god-war_era

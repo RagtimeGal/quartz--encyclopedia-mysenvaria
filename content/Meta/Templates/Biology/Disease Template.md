@@ -1,5 +1,5 @@
 ---
-title: Disease Template
+title: "Disease Template"
 enableToc: true
 tags:
   - topic/biology/disease

@@ -6,12 +6,20 @@ tags:
   - subject/god/higher-god
 type: article
 status: incomplete
+has:
+  - featured_data
 needs:
   - infobox
 person:
   - name: "Gods of What Is and Is Not"
     major_event: false
+featured_data:
+  fun_facts: ["ff1","ff2"]
 ---
+%%
+ff1: ... that it's highly debated whether the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] are one or two Gods?
+ff2: ... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods and created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]?
+%%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
 > This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

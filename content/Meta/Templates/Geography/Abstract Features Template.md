@@ -1,5 +1,5 @@
 ---
-title: Abstract Features Template
+title: "Abstract Features Template"
 enableToc: true
 tags:
   - topic/geography/abstract

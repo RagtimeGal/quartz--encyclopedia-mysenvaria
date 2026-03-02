@@ -1,5 +1,5 @@
 ---
-title: Star Map
+title: "Star Map"
 enableToc: true
 tags:
   - topic/science/technology

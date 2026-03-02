@@ -1,5 +1,5 @@
 ---
-title: Telescope
+title: "Telescope"
 enableToc: true
 tags:
   - topic/science/technology

@@ -1,5 +1,5 @@
 ---
-title: Natural Features Template
+title: "Natural Features Template"
 enableToc: true
 tags:
   - topic/geography/natural

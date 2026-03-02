@@ -1,5 +1,5 @@
 ---
-title: Home
+title: "Home"
 enableToc: true
 tags:
   - topic/meta
@@ -7,13 +7,30 @@ type: article
 status: complete
 ---
 
-The [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is a comprehensive collection of articles written by numerous scholars. Published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]], the Encyclopedia Mysenvaria is only possible thanks to the help of countless scholars from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. In an attempt to diversify our cast of editors and writers we work diligently to collaborate with as many scholars from as many [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|studies]] as possible.
+The [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is a comprehensive collection of educational articles written by numerous scholars from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and compiled and published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]]. Academy Publishing has worked diligently for the last two hundred years to collaborate and compile the work of as many scholars from as many [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|studies]] as possible.
 
-The Encyclopedia's own [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomists]] have worked to neatly organize and categorize articles into a set of primary and secondary topics. Their work has led to the organization of the Encyclopedia into six tidy primary topics, including [[Encyclopedia Mysenvaria/Arts/Art|art]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Geography/Geography|geography]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Science/Science|science]]. Each of these topics are then subdivided further into a number of sub-topics. Their organizational efforts are what hold the seams of the Encyclopedia's web of articles together.
+Academy Publishing's own [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomists]] have neatly organized and categorized all articles into six sets of primary topics, including: [[Encyclopedia Mysenvaria/Arts/Art|art]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Geography/Geography|geography]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Science/Science|science]]. Each topic is then subdivided into a number of sub-topics, some overlapping across multiple primaries.
 
-It may seem like a daunting task, attempting to figure out where to begin with exploring the Encyclopedia, but tailored articles work to simplify the task. [[Encyclopedia Mysenvaria/Indexes/Indexes|Index]] articles serve as lists of articles which share a topic in similar, for example the [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]] or [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/List of Domesticated Animals|List of Domesticated Animals]]. [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]] and its cousins like the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] or [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]] articles serve as comprehensive chronological lists of major historical events.
+It can appear difficult at first to find a place to begin within the Encyclopedia, so tailored articles have been written to simplify the task:
+- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]] act as lists of articles sharing similar or related topics.
+- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]] links to decade and millennia articles which serve as concise and comprehensive timelines of the Plane.
+- [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]], [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]], [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]], and [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]] act as descriptive timelines of the Plane's history.
+
+Outside of those, you can also check out the featured page and some fun facts below!
+
+> [!tip] Featured Article & Fun Facts
+> > [!note] Featured Article
+> > The **[[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]**, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.
+> > None
+>
+> > [!info] Did you know...
+> > - ... that many nations coins are created with the strategy game [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] in mind?
+> > - ... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods and created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]?
+> > - ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] was the most deadly period in recorded history?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
 > 
-> If you see errors such as incorrect information, inconsistencies, or misspellings please help! The back-end of the encyclopedia is ran off of [Github](https://github.com). Visit the [issue page](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) of the encyclopedia and create an issue if you see any errors to help us keep our facts true!
+> If you see errors such as incorrect information, inconsistencies, or misspellings please help! The back-end of the Encyclopedia is ran off of [Github](https://github.com). Visit the [issue page](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) of the Encyclopedia and create an issue if you see any errors to help us keep our facts true!
