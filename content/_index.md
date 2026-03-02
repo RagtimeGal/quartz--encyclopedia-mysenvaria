@@ -20,15 +20,15 @@ Outside of those, you can also check out the featured page and some fun facts be
 
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
-> > **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.
-> > ![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]
+> > **[[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]**, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.
+> > None
 >
 > > [!info] Did you know...
-> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over the span of less than a single season?
-> > - ... that [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenisis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of how [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] come into existence?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+> > - ... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] are small mechanical devices used to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?
+> > - ... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?
 > > - ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] was the most deadly period in recorded history?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
