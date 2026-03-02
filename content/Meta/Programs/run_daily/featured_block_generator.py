@@ -410,7 +410,7 @@ def render_featured_block(featured: Dict[str, Any],
     out: List[str] = [
         "> [!tip] Featured Article & Fun Facts",
         "> > [!note] Featured Article",
-        "> > "
+        "> > ",
         f"> > {desc}",
         f"> > {img}",
         ">",                                   # blank line between sections
