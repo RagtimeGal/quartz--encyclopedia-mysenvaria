@@ -6,6 +6,33 @@
   },
   "featured_pages": [
     {
+      "src_rel": "Encyclopedia Mysenvaria/Arts/Games/Nemein.md",
+      "title": "Nemein",
+      "featured_desc": null,
+      "featured_image": null,
+      "fun_facts": [
+        "... that many nations coins are created with the strategy game [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] in mind?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/Biology/Organs/Limnary Press.md",
+      "title": "Limnary Press",
+      "featured_desc": null,
+      "featured_image": null,
+      "fun_facts": [
+        "... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing.md",
+      "title": "Academy Publishing",
+      "featured_desc": null,
+      "featured_image": null,
+      "fun_facts": [
+        "... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?"
+      ]
+    },
+    {
       "src_rel": "Encyclopedia Mysenvaria/Geography/Geography.md",
       "title": "Geography",
       "featured_desc": null,
@@ -15,21 +42,21 @@
       ]
     },
     {
-      "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Edge.md",
-      "title": "Edge",
-      "featured_desc": null,
-      "featured_image": null,
-      "fun_facts": [
-        "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?"
-      ]
-    },
-    {
       "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole.md",
       "title": "Central Pole",
       "featured_desc": null,
       "featured_image": null,
       "fun_facts": [
         "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Edge.md",
+      "title": "Edge",
+      "featured_desc": null,
+      "featured_image": null,
+      "fun_facts": [
+        "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?"
       ]
     },
     {
@@ -51,12 +78,59 @@
       ]
     },
     {
-      "src_rel": "Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing.md",
-      "title": "Academy Publishing",
+      "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not.md",
+      "title": "Gods of What Is and Is Not",
       "featured_desc": null,
       "featured_image": null,
       "fun_facts": [
-        "... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?"
+        "... that it's highly debated whether the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] are one or two Gods?",
+        "... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods and created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/Dying Period.md",
+      "title": "Dying Period",
+      "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.",
+      "featured_image": "![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]",
+      "fun_facts": [
+        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] was the most deadly period in recorded history?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/First Death.md",
+      "title": "The First Death",
+      "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]**, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.",
+      "featured_image": null,
+      "fun_facts": [
+        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
+      "title": "God Councils",
+      "featured_desc": null,
+      "featured_image": null,
+      "fun_facts": [
+        "... that there were six [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md",
+      "title": "God-War Era",
+      "featured_desc": null,
+      "featured_image": null,
+      "fun_facts": [
+        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] was 177 years long?",
+        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] is broken into 3 major epochs—the Early-War, Mid-War, and Late-War?"
+      ]
+    },
+    {
+      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/Quickening.md",
+      "title": "Quickening",
+      "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is widely considered to be one of the most  influential events in [[Encyclopedia Mysenvaria/History/History|history]]. It is the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and subsequently the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]] is the creation of millions of Gods, many lost to history.",
+      "featured_image": null,
+      "fun_facts": [
+        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over the span of less than a single season?"
       ]
     },
     {
@@ -93,80 +167,6 @@
       "featured_image": null,
       "fun_facts": [
         "... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] are small mechanical devices used to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/Arts/Games/Nemein.md",
-      "title": "Nemein",
-      "featured_desc": null,
-      "featured_image": null,
-      "fun_facts": [
-        "... that many nations coins are created with the strategy game [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] in mind?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not.md",
-      "title": "Gods of What Is and Is Not",
-      "featured_desc": null,
-      "featured_image": null,
-      "fun_facts": [
-        "... that it's highly debated whether the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] are one or two Gods?",
-        "... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods and created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/Quickening.md",
-      "title": "Quickening",
-      "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is widely considered to be one of the most  influential events in [[Encyclopedia Mysenvaria/History/History|history]]. It is the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and subsequently the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]] is the creation of millions of Gods, many lost to history.",
-      "featured_image": null,
-      "fun_facts": [
-        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over the span of less than a single season?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/God Councils.md",
-      "title": "God Councils",
-      "featured_desc": null,
-      "featured_image": null,
-      "fun_facts": [
-        "... that there were six [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md",
-      "title": "God-War Era",
-      "featured_desc": null,
-      "featured_image": null,
-      "fun_facts": [
-        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] was 177 years long?",
-        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] is broken into 3 major epochs—the Early-War, Mid-War, and Late-War?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/Dying Period.md",
-      "title": "Dying Period",
-      "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.",
-      "featured_image": "![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]",
-      "fun_facts": [
-        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] was the most deadly period in recorded history?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/First Death.md",
-      "title": "The First Death",
-      "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]**, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.",
-      "featured_image": null,
-      "fun_facts": [
-        "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?"
-      ]
-    },
-    {
-      "src_rel": "Encyclopedia Mysenvaria/Biology/Organs/Limnary Press.md",
-      "title": "Limnary Press",
-      "featured_desc": null,
-      "featured_image": null,
-      "fun_facts": [
-        "... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?"
       ]
     }
   ]
