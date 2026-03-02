@@ -4,6 +4,7 @@ on:
   workflow_run:
     workflows:
       - Run scripts on push     # must match the 'name:' of run_scripts.yml
+      - Run daily programs
     types:
       - completed
 
