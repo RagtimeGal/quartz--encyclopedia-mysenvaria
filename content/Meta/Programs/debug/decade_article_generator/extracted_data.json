@@ -236,8 +236,8 @@
         "day": 26
       },
       "end_date": {
-        "year": -160,
-        "day": 267
+        "year": -145,
+        "day": 90
       },
       "start_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins (end. 160 BT) following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.",
       "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends (beg. 177 BT) after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] which have ever existed. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.",
@@ -250,12 +250,9 @@
         "year": -145,
         "day": 1
       },
-      "end_date": {
-        "year": -145,
-        "day": 90
-      },
+      "end_date": null,
       "start_desc": "Following the [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#First Council|First God Council]] the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is shrunk drastically, to the scope known in the modern day. Millions of Gods are displaced and forced to migrate poleward, starting the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]].",
-      "end_desc": "The [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]] ends after a period of one season.",
+      "end_desc": null,
       "major_event": true
     },
     {
@@ -308,6 +305,13 @@
       "name": "Academy Publishing Founder",
       "major_event": false,
       "title": "Academy Publishing Founder"
+    },
+    {
+      "source": "Encyclopedia Mysenvaria/History/Biographies/Discoverer of Evolution.md",
+      "kind": "person",
+      "name": "Inventor of Evolution",
+      "major_event": false,
+      "title": "Discoverer of Evolution"
     },
     {
       "source": "Encyclopedia Mysenvaria/History/Biographies/Jacob Metapsammiteson.md",
@@ -388,13 +392,6 @@
       "name": "Author of Encounters With The Quadrinity",
       "major_event": false,
       "title": "Author of Encounters With The Quadrinity"
-    },
-    {
-      "source": "Encyclopedia Mysenvaria/History/Biographies/Inventor of Evolution.md",
-      "kind": "person",
-      "name": "Inventor of Evolution",
-      "major_event": false,
-      "title": "Inventor of Evolution"
     },
     {
       "source": "Encyclopedia Mysenvaria/History/Biographies/First Elven Elder.md",

@@ -878,6 +878,7 @@
             "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods.md",
             "Encyclopedia Mysenvaria/History/History.md",
             "Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder.md",
+            "Encyclopedia Mysenvaria/History/Biographies/Discoverer of Evolution.md",
             "Encyclopedia Mysenvaria/History/Biographies/Jacob Metapsammiteson.md",
             "Encyclopedia Mysenvaria/History/Biographies/Renouned Paleontologist.md",
             "Encyclopedia Mysenvaria/History/Biographies/Ancient Philosopher.md",
@@ -887,7 +888,6 @@
             "Encyclopedia Mysenvaria/History/Biographies/Famous Taxonomer.md",
             "Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man.md",
             "Encyclopedia Mysenvaria/History/Biographies/Author of Encounters With The Quadrinity.md",
-            "Encyclopedia Mysenvaria/History/Biographies/Inventor of Evolution.md",
             "Encyclopedia Mysenvaria/History/Biographies/First Elven Elder.md",
             "Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson.md",
             "Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man.md",
@@ -1279,12 +1279,12 @@
             "Meta/Ledgers/Ledger 34.2025.md",
             "Meta/Ledgers/Ledger 47.2024.md",
             "Meta/Ledgers/Ledger 2.2025.md",
+            "Meta/Ledgers/Ledger 10.2026.md",
             "Meta/Ledgers/Ledger 3.2025.md",
             "Meta/Ledgers/Ledger 51.2024.md",
             "Meta/Ledgers/Ledger 48.2024.md",
             "Meta/Ledgers/List of Lore Ledgers.md",
             "Meta/Ledgers/Ledger 46.2024.md",
-            "Meta/Programs/Compound Generator/template.md",
             "Meta/Templates/Geography/Abstract Features Template.md",
             "Meta/Templates/Geography/Star System Template.md",
             "Meta/Templates/Geography/Artifical Features Template.md",
@@ -1331,12 +1331,13 @@
             "Meta/Ledgers/Ledger 34.2025.md",
             "Meta/Ledgers/Ledger 47.2024.md",
             "Meta/Ledgers/Ledger 2.2025.md",
+            "Meta/Ledgers/Ledger 10.2026.md",
             "Meta/Ledgers/Ledger 3.2025.md",
             "Meta/Ledgers/Ledger 51.2024.md",
             "Meta/Ledgers/Ledger 48.2024.md",
             "Meta/Ledgers/Ledger 46.2024.md"
           ],
-          "matched_count": 13
+          "matched_count": 14
         }
       ]
     }
