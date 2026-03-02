@@ -399,11 +399,19 @@ def render_featured_block(featured: Dict[str, Any],
                          max_facts: int = MAX_FUN_FACTS) -> List[str]:
     """
     Build the markdown lines for the call‑out.
-    * `featured` contains the description and image for the selected article.
+    * `featured` contains the description and the optional image.
     * `facts` is the *already shuffled* list of all fun‑facts from the vault.
     """
+    # Description – we know the chosen page is guaranteed to have one.
     desc = str(featured.get("featured_desc", ""))
-    img  = str(featured.get("featured_image", ""))
+
+    # Image – optional.  If missing/None/empty we simply omit the line.
+    raw_img = featured.get("featured_image")
+    img = str(raw_img).strip() if isinstance(raw_img, str) else ""
+    # If the resolved value is something other than a string (e.g. None),
+    # treat it as missing.
+    if not img:
+        img = ""  # ensure we have a plain empty string
 
     chosen_facts = facts[:max_facts]
 
@@ -412,10 +420,16 @@ def render_featured_block(featured: Dict[str, Any],
         "> > [!note] Featured Article",
         "> > ",
         f"> > {desc}",
-        f"> > {img}",
+    ]
+
+    # Only add the image line when we actually have an image value.
+    if img:
+        out.append(f"> > {img}")
+
+    out.extend([
         ">",                                   # blank line between sections
         "> > [!info] Did you know...",
-    ]
+    ])
 
     for f in chosen_facts:
         out.append(f"> > - {f}")
@@ -468,7 +482,7 @@ def main() -> None:
 
     # --------------------------------------------------------------
     # FILTER pages that are eligible to be the *featured article*.
-    # At minimum they must have a NON‑EMPTY description.
+    # They must have a non‑empty description.
     # --------------------------------------------------------------
     eligible = [
         p for p in all_pages
@@ -476,8 +490,10 @@ def main() -> None:
     ]
 
     if not eligible:
-        warnings.append("- No page with a valid `featured_desc` found. "
-                        "Cannot render a featured article.")
+        warnings.append(
+            "- No page with a valid `featured_desc` found. "
+            "Cannot render a featured article."
+        )
         print("[WARN] No eligible featured article – skipping home‑page update.")
     else:
         # --------------------------------------------------------------
