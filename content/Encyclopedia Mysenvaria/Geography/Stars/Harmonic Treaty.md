@@ -1,5 +1,5 @@
 ---
-title: Harmonic Treaty
+title: "Harmonic Treaty"
 enableToc: true
 tags:
   - topic/geography/astrography

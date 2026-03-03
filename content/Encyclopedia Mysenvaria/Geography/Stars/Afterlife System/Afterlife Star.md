@@ -1,5 +1,5 @@
 ---
-title: Star Template
+title: "Star Template"
 enableToc: true
 tags:
   - topic/geography/astrography

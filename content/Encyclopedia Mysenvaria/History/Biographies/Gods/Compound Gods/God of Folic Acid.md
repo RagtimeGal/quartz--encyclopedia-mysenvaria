@@ -1,5 +1,7 @@
 ---
-title: God of Folic Acid
+title: "God of Folic Acid"
+aliases:
+ - "Folic Acid"
 enableToc: true
 tags:
   - topic/history/biography

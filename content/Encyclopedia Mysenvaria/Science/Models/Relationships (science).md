@@ -1,5 +1,5 @@
 ---
-title: Relationships (science)
+title: "Relationships (science)"
 enableToc: true
 tags:
   - topic/science/model

@@ -1,5 +1,7 @@
 ---
-title: God of Triclosan
+title: "God of Triclosan"
+aliases:
+ - "Triclosan"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Forever Alone
+title: "Forever Alone"
 enableToc: true
 tags:
   - topic/geography/astrography

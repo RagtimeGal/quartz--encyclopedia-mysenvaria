@@ -1,5 +1,7 @@
 ---
-title: God of Oxygen
+title: "God of Oxygen"
+aliases:
+ - "Oxygen"
 enableToc: true
 tags:
   - topic/history/biography

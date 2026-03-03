@@ -1,5 +1,7 @@
 ---
-title: God of Lanthanum
+title: "God of Lanthanum"
+aliases:
+ - "Lanthanum"
 enableToc: true
 tags:
   - topic/history/biography

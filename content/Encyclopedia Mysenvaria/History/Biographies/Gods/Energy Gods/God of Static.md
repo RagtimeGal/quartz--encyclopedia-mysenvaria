@@ -1,5 +1,7 @@
 ---
-title: God of Static
+title: "God of Static"
+aliases:
+ - "Static"
 enableToc: true
 tags:
   - topic/history/biography

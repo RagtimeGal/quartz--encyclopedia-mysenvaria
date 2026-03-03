@@ -1,5 +1,7 @@
 ---
-title: God of Ionization
+title: "God of Ionization"
+aliases:
+ - "Ionization"
 enableToc: true
 tags:
   - topic/history/biography

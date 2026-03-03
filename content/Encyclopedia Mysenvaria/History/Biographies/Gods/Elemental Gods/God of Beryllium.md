@@ -1,5 +1,7 @@
 ---
-title: God of Beryllium
+title: "God of Beryllium"
+aliases:
+ - "Beryllium"
 enableToc: true
 tags:
   - topic/history/biography

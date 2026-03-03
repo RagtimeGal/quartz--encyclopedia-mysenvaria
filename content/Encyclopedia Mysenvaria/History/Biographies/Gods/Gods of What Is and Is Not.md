@@ -1,5 +1,7 @@
 ---
-title: Gods of What Is and Is Not
+title: "Gods of What Is and Is Not"
+aliases:
+  - "What Is and Is Not"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Benzoylmethylecgonine
+title: "God of Benzoylmethylecgonine"
+aliases:
+ - "Benzoylmethylecgonine"
 enableToc: true
 tags:
   - topic/history/biography

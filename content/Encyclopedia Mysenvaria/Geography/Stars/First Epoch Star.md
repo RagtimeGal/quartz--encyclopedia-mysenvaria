@@ -1,5 +1,5 @@
 ---
-title: First Epoch Star
+title: "First Epoch Star"
 enableToc: true
 tags:
   - topic/geography/astrography

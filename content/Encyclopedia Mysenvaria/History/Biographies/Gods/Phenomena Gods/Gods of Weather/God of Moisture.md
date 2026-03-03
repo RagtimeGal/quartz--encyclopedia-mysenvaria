@@ -1,5 +1,7 @@
 ---
-title: God of Moisture
+title: "God of Moisture"
+aliases:
+  - "Moisture"
 enableToc: true
 tags:
   - topic/history/biography

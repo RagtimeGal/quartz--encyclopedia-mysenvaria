@@ -1,5 +1,7 @@
 ---
-title: God of Dysprosium
+title: "God of Dysprosium"
+aliases:
+ - "Dysprosium"
 enableToc: true
 tags:
   - topic/history/biography

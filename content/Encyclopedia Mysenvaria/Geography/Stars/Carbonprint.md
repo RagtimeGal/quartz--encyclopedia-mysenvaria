@@ -1,5 +1,5 @@
 ---
-title: Carbonprint
+title: "Carbonprint"
 enableToc: true
 tags:
   - topic/geography/astrography

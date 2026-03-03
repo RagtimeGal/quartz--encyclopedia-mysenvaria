@@ -1,5 +1,7 @@
 ---
-title: God of Acids
+title: "God of Acids"
+aliases:
+ - "Acids"
 enableToc: true
 tags:
   - topic/history/biography

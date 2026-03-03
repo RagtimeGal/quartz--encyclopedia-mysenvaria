@@ -1,5 +1,7 @@
 ---
-title: God of Pentylphenol
+title: "God of Pentylphenol"
+aliases:
+ - "Pentylphenol"
 enableToc: true
 tags:
   - topic/history/biography

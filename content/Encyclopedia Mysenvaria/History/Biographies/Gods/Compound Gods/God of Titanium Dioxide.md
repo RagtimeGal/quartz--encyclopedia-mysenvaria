@@ -1,5 +1,7 @@
 ---
-title: God of Titanium Dioxide
+title: "God of Titanium Dioxide"
+aliases:
+ - "Titanium Dioxide"
 enableToc: true
 tags:
   - topic/history/biography

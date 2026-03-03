@@ -1,5 +1,7 @@
 ---
-title: God of Porous Rock
+title: "God of Porous Rock"
+aliases:
+  - "Porous Rock"
 enableToc: true
 tags:
   - topic/history/biography

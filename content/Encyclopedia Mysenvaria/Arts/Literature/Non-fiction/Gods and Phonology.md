@@ -1,5 +1,5 @@
 ---
-title: Gods and Phonology
+title: "Gods and Phonology"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

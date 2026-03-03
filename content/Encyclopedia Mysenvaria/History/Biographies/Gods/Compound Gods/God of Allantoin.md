@@ -1,5 +1,7 @@
 ---
-title: God of Allantoin
+title: "God of Allantoin"
+aliases:
+ - "Allantoin"
 enableToc: true
 tags:
   - topic/history/biography

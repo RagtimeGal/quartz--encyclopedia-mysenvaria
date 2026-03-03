@@ -1,5 +1,7 @@
 ---
-title: God of Titanium
+title: "God of Titanium"
+aliases:
+ - "Titanium"
 enableToc: true
 tags:
   - topic/history/biography

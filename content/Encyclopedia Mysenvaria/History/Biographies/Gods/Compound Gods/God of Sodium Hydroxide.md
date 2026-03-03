@@ -1,5 +1,7 @@
 ---
-title: God of Sodium Hydroxide
+title: "God of Sodium Hydroxide"
+aliases:
+ - "Sodium Hydroxide"
 enableToc: true
 tags:
   - topic/history/biography

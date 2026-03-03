@@ -1,5 +1,5 @@
 ---
-title: Plant Star System
+title: "Plant Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

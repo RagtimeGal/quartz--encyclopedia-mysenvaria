@@ -1,5 +1,7 @@
 ---
-title: God of Zirconium
+title: "God of Zirconium"
+aliases:
+ - "Zirconium"
 enableToc: true
 tags:
   - topic/history/biography

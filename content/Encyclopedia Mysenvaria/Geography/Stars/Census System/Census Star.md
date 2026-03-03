@@ -1,5 +1,5 @@
 ---
-title: Census Star
+title: "Census Star"
 enableToc: true
 tags:
   - topic/geography/astrography

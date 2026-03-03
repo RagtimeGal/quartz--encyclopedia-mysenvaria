@@ -1,5 +1,7 @@
 ---
-title: God of Thionyl Chloride
+title: "God of Thionyl Chloride"
+aliases:
+ - "Thionyl Chloride"
 enableToc: true
 tags:
   - topic/history/biography

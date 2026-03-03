@@ -1,5 +1,7 @@
 ---
-title: God of Zinc Chloride
+title: "God of Zinc Chloride"
+aliases:
+ - "Zinc Chloride"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Americium
+title: "God of Americium"
+aliases:
+ - "Americium"
 enableToc: true
 tags:
   - topic/history/biography

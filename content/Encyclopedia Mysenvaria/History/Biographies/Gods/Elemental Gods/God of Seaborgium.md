@@ -1,5 +1,7 @@
 ---
-title: God of Seaborgium
+title: "God of Seaborgium"
+aliases:
+ - "Seaborgium"
 enableToc: true
 tags:
   - topic/history/biography

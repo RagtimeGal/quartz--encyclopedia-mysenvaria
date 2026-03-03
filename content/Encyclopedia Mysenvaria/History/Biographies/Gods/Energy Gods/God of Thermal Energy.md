@@ -1,5 +1,7 @@
 ---
-title: God of Thermal Energy
+title: "God of Thermal Energy"
+aliases:
+ - "Thermal Energy"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Radioactive Decay
+title: "God of Radioactive Decay"
+aliases:
+ - "Radioactive Decay"
 enableToc: true
 tags:
   - topic/history/biography

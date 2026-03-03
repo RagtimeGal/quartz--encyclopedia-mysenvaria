@@ -1,5 +1,7 @@
 ---
-title: God of Iron
+title: "God of Iron"
+aliases:
+ - "Iron"
 enableToc: true
 tags:
   - topic/history/biography

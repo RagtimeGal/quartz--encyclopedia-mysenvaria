@@ -1,5 +1,5 @@
 ---
-title: Limnary Press
+title: "Limnary Press"
 enableToc: true
 tags:
   - topic/science/phenomenon

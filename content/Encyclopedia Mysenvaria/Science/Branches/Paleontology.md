@@ -1,5 +1,5 @@
 ---
-title: Paleontology
+title: "Paleontology"
 enableToc: true
 tags:
   - topic/science/branch

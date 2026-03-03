@@ -1,5 +1,7 @@
 ---
-title: God of Molybdenum Bromide
+title: "God of Molybdenum Bromide"
+aliases:
+ - "Molybdenum Bromide"
 enableToc: true
 tags:
   - topic/history/biography

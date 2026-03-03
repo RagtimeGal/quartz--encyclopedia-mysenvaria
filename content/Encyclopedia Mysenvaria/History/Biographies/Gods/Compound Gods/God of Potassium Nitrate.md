@@ -1,5 +1,7 @@
 ---
-title: God of Potassium Nitrate
+title: "God of Potassium Nitrate"
+aliases:
+ - "Potassium Nitrate"
 enableToc: true
 tags:
   - topic/history/biography

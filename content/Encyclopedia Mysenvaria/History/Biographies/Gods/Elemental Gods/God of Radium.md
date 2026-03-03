@@ -1,5 +1,7 @@
 ---
-title: God of Radium
+title: "God of Radium"
+aliases:
+ - "Radium"
 enableToc: true
 tags:
   - topic/history/biography

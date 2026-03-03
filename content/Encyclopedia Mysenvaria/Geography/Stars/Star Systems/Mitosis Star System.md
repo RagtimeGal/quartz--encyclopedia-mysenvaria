@@ -1,5 +1,5 @@
 ---
-title: Mitosis Star System
+title: "Mitosis Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

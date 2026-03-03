@@ -1,5 +1,7 @@
 ---
-title: God of Ethionamide
+title: "God of Ethionamide"
+aliases:
+ - "Ethionamide"
 enableToc: true
 tags:
   - topic/history/biography

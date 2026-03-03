@@ -1,5 +1,7 @@
 ---
-title: God of Thymolphthalein
+title: "God of Thymolphthalein"
+aliases:
+ - "Thymolphthalein"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Coalition Against Mimicry
+title: "Coalition Against Mimicry"
 enableToc: true
 tags:
   - topic/geography/astrography

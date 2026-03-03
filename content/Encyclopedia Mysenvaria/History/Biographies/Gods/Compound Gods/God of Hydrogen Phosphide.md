@@ -1,5 +1,7 @@
 ---
-title: God of Hydrogen Phosphide
+title: "God of Hydrogen Phosphide"
+aliases:
+ - "Hydrogen Phosphide"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Undecylenic Acid
+title: "God of Undecylenic Acid"
+aliases:
+ - "Undecylenic Acid"
 enableToc: true
 tags:
   - topic/history/biography

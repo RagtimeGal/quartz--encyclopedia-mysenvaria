@@ -1,5 +1,7 @@
 ---
-title: God of Astatine
+title: "God of Astatine"
+aliases:
+ - "Astatine"
 enableToc: true
 tags:
   - topic/history/biography

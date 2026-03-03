@@ -1,5 +1,7 @@
 ---
-title: God of Levocarnitine
+title: "God of Levocarnitine"
+aliases:
+ - "Levocarnitine"
 enableToc: true
 tags:
   - topic/history/biography

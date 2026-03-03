@@ -1,5 +1,7 @@
 ---
-title: God of Caffeine
+title: "God of Caffeine"
+aliases:
+ - "Caffeine"
 enableToc: true
 tags:
   - topic/history/biography

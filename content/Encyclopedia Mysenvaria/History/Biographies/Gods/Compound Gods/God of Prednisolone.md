@@ -1,5 +1,7 @@
 ---
-title: God of Prednisolone
+title: "God of Prednisolone"
+aliases:
+ - "Prednisolone"
 enableToc: true
 tags:
   - topic/history/biography

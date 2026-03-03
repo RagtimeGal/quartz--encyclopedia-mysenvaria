@@ -1,5 +1,5 @@
 ---
-title: Birth Star
+title: "Birth Star"
 enableToc: true
 tags:
   - topic/geography/astrography

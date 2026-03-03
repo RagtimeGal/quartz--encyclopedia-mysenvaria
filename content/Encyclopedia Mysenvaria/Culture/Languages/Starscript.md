@@ -1,5 +1,5 @@
 ---
-title: Starscript
+title: "Starscript"
 enableToc: true
 tags:
   - topic/culture/language

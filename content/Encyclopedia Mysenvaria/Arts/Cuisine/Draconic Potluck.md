@@ -1,5 +1,5 @@
 ---
-title: Draconic Potluck
+title: "Draconic Potluck"
 enableToc: true
 tags:
   - topic/art/cuisine

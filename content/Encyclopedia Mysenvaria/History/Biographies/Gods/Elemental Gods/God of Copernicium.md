@@ -1,5 +1,7 @@
 ---
-title: God of Copernicium
+title: "God of Copernicium"
+aliases:
+ - "Copernicium"
 enableToc: true
 tags:
   - topic/history/biography

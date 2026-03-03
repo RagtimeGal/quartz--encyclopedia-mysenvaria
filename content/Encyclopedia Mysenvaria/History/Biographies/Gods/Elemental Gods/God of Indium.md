@@ -1,5 +1,7 @@
 ---
-title: God of Indium
+title: "God of Indium"
+aliases:
+ - "Indium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Thorium Oxide
+title: "God of Thorium Oxide"
+aliases:
+ - "Thorium Oxide"
 enableToc: true
 tags:
   - topic/history/biography

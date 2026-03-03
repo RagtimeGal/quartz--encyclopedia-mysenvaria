@@ -1,5 +1,5 @@
 ---
-title: Philosophy
+title: "Philosophy"
 enableToc: true
 tags:
   - topic/science/branch

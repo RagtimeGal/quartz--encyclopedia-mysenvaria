@@ -1,5 +1,7 @@
 ---
-title: God of Germanium
+title: "God of Germanium"
+aliases:
+ - "Germanium"
 enableToc: true
 tags:
   - topic/history/biography

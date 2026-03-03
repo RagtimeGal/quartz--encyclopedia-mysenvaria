@@ -1,5 +1,7 @@
 ---
-title: God of Neodynium
+title: "God of Neodynium"
+aliases:
+ - "Neodynium"
 enableToc: true
 tags:
   - topic/history/biography

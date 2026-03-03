@@ -1,5 +1,7 @@
 ---
-title: God of Rubidium Perchlorate
+title: "God of Rubidium Perchlorate"
+aliases:
+ - "Rubidium Perchlorate"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Water
+title: "God of Water"
+aliases:
+ - "Water"
 enableToc: true
 tags:
   - topic/history/biography

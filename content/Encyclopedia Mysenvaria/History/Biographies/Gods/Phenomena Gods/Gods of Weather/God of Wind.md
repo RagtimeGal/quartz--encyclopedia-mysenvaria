@@ -1,5 +1,7 @@
 ---
-title: God of Wind
+title: "God of Wind"
+aliases:
+  - "Wind"
 enableToc: true
 tags:
   - topic/history/biography

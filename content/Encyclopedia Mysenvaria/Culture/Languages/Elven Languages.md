@@ -1,5 +1,5 @@
 ---
-title: Elven Languages
+title: "Elven Languages"
 enableToc: true
 tags:
   - topic/culture/language

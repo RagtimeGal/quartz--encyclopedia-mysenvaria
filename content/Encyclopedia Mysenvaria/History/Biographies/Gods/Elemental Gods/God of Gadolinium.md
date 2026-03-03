@@ -1,5 +1,7 @@
 ---
-title: God of Gandolinium
+title: "God of Gandolinium"
+aliases:
+ - "Gandolinium"
 enableToc: true
 tags:
   - topic/history/biography

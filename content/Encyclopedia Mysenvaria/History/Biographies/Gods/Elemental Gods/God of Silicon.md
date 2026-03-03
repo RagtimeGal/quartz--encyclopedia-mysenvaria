@@ -1,5 +1,7 @@
 ---
-title: God of Silicon
+title: "God of Silicon"
+aliases:
+ - "Silicon"
 enableToc: true
 tags:
   - topic/history/biography

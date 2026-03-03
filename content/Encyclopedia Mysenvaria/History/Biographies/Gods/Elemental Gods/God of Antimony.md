@@ -1,5 +1,7 @@
 ---
-title: God of Antimony
+title: "God of Antimony"
+aliases:
+ - "Antimony"
 enableToc: true
 tags:
   - topic/history/biography

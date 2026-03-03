@@ -1,5 +1,5 @@
 ---
-title: Ecology
+title: "Ecology"
 enableToc: true
 tags:
   - topic/science/branch

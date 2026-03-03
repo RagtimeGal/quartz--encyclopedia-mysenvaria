@@ -1,5 +1,5 @@
 ---
-title: Entity (Science)
+title: "Entity (Science)"
 enableToc: true
 tags:
   - topic/science/phenomenon

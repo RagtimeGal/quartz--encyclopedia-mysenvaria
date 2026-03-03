@@ -1,5 +1,5 @@
 ---
-title: List of Occupations
+title: "List of Occupations"
 enableToc: true
 tags:
   - topic/culture/occupation

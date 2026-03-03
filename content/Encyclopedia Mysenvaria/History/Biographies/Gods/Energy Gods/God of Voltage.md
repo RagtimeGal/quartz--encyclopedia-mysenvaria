@@ -1,5 +1,7 @@
 ---
-title: God of Voltage
+title: "God of Voltage"
+aliases:
+ - "Voltage"
 enableToc: true
 tags:
   - topic/history/biography

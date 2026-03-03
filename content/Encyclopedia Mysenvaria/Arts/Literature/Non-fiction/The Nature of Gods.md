@@ -1,5 +1,5 @@
 ---
-title: The Nature of Gods
+title: "The Nature of Gods"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

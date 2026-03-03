@@ -1,5 +1,7 @@
 ---
-title: God of Thorium Dioxalate
+title: "God of Thorium Dioxalate"
+aliases:
+ - "Thorium Dioxalate"
 enableToc: true
 tags:
   - topic/history/biography

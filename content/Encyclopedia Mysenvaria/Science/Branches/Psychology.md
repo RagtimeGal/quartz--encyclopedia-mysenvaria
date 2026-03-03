@@ -1,5 +1,5 @@
 ---
-title: Psychology
+title: "Psychology"
 enableToc: true
 tags:
   - topic/science/branch

@@ -1,5 +1,5 @@
 ---
-title: Mortality Revisited
+title: "Mortality Revisited"
 enableToc: true
 tags:
   - topic/geography/astrography

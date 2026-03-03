@@ -1,5 +1,5 @@
 ---
-title: Tri-Criterial Niches
+title: "Tri-Criterial Niches"
 enableToc: true
 tags:
   - topic/science/model

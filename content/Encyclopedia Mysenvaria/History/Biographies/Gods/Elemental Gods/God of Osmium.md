@@ -1,5 +1,7 @@
 ---
-title: God of Osmium
+title: "God of Osmium"
+aliases:
+ - "Osmium"
 enableToc: true
 tags:
   - topic/history/biography

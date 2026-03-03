@@ -1,5 +1,5 @@
 ---
-title: Mending Earth Star
+title: "Mending Earth Star"
 enableToc: true
 tags:
   - topic/geography/astrography

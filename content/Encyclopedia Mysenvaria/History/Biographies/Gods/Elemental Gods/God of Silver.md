@@ -1,5 +1,7 @@
 ---
-title: God of Silver
+title: "God of Silver"
+aliases:
+ - "Silver"
 enableToc: true
 tags:
   - topic/history/biography

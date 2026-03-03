@@ -1,5 +1,7 @@
 ---
-title: God of Dinitrogen Tetroxide
+title: "God of Dinitrogen Tetroxide"
+aliases:
+ - "Dinitrogen Tetroxide"
 enableToc: true
 tags:
   - topic/history/biography

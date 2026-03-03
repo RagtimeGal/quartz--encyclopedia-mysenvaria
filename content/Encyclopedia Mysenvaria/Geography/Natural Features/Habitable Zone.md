@@ -1,5 +1,5 @@
 ---
-title: Habitable Zone
+title: "Habitable Zone"
 enableToc: true
 tags:
   - topic/geography/natural

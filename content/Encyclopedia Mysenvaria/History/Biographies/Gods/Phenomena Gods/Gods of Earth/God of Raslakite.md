@@ -1,5 +1,7 @@
 ---
-title: God of Raslakite
+title: "God of Raslakite"
+aliases:
+  - "Raslakite"
 enableToc: true
 tags:
   - topic/history/biography

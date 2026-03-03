@@ -1,5 +1,5 @@
 ---
-title: Evacuation Star
+title: "Evacuation Star"
 enableToc: true
 tags:
   - topic/geography/astrography

@@ -1,5 +1,7 @@
 ---
-title: God of Fructose
+title: "God of Fructose"
+aliases:
+ - "Fructose"
 enableToc: true
 tags:
   - topic/history/biography

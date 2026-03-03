@@ -1,5 +1,7 @@
 ---
-title: God of Sedimentary Rock
+title: "God of Sedimentary Rock"
+aliases:
+  - "Sedimentary Rock"
 enableToc: true
 tags:
   - topic/history/biography

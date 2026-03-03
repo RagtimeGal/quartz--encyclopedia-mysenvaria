@@ -1,5 +1,5 @@
 ---
-title: List of Languages
+title: "List of Languages"
 enableToc: true
 tags:
   - topic/culture/language

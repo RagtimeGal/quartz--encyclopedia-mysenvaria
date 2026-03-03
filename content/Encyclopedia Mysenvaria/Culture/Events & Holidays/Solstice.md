@@ -1,5 +1,5 @@
 ---
-title: Solstice
+title: "Solstice"
 enableToc: true
 tags:
   - topic/culture/holiday

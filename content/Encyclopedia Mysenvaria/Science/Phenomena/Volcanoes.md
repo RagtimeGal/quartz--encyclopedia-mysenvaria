@@ -1,5 +1,5 @@
 ---
-title: Volcanoes
+title: "Volcanoes"
 enableToc: true
 tags:
   - topic/science/phenomenon

@@ -1,5 +1,7 @@
 ---
-title: God of Xenon
+title: "God of Xenon"
+aliases:
+ - "Xenon"
 enableToc: true
 tags:
   - topic/history/biography

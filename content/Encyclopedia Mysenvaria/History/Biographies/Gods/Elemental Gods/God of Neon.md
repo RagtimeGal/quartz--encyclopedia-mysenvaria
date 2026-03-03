@@ -1,5 +1,7 @@
 ---
-title: God of Neon
+title: "God of Neon"
+aliases:
+ - "Neon"
 enableToc: true
 tags:
   - topic/history/biography

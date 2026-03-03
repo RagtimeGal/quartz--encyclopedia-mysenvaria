@@ -1,5 +1,7 @@
 ---
-title: God of Acid Rain
+title: "God of Acid Rain"
+aliases:
+  - "Acid Rain"
 enableToc: true
 tags:
   - topic/history/biography

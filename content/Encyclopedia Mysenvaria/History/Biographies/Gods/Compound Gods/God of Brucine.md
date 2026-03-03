@@ -1,5 +1,7 @@
 ---
-title: God of Brucine
+title: "God of Brucine"
+aliases:
+ - "Brucine"
 enableToc: true
 tags:
   - topic/history/biography

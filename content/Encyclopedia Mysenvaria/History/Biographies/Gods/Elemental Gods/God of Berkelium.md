@@ -1,5 +1,7 @@
 ---
-title: God of Berkelium
+title: "God of Berkelium"
+aliases:
+ - "Berkelium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Calcium Acetate
+title: "God of Calcium Acetate"
+aliases:
+ - "Calcium Acetate"
 enableToc: true
 tags:
   - topic/history/biography

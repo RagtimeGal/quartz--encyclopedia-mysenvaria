@@ -1,5 +1,5 @@
 ---
-title: Spatial Act
+title: "Spatial Act"
 enableToc: true
 tags:
   - topic/geography/astrography

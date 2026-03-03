@@ -1,5 +1,7 @@
 ---
-title: God of Sucrose
+title: "God of Sucrose"
+aliases:
+ - "Sucrose"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Holmium
+title: "God of Holmium"
+aliases:
+ - "Holmium"
 enableToc: true
 tags:
   - topic/history/biography

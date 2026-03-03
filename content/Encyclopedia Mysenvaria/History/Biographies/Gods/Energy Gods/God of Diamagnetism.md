@@ -1,5 +1,7 @@
 ---
-title: God of Diamagnetism
+title: "God of Diamagnetism"
+aliases:
+ - "Diamagnetism"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Rock
+title: "God of Rock"
+aliases:
+  - "Rock"
 enableToc: true
 tags:
   - topic/history/biography

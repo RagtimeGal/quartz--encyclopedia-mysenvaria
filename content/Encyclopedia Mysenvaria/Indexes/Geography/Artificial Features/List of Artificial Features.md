@@ -1,5 +1,5 @@
 ---
-title: List of Artificial Features
+title: "List of Artificial Features"
 enableToc: true
 tags:
   - topic/geography/artificial

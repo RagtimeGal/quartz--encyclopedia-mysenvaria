@@ -1,5 +1,5 @@
 ---
-title: Rift
+title: "Rift"
 enableToc: true
 tags:
   - topic/science/phenomenon

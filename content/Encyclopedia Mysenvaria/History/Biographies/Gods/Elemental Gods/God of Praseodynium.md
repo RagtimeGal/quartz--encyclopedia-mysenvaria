@@ -1,5 +1,7 @@
 ---
-title: God of Praseodynium
+title: "God of Praseodynium"
+aliases:
+ - "Praseodynium"
 enableToc: true
 tags:
   - topic/history/biography

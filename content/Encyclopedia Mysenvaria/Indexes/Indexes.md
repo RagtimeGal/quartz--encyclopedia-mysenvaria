@@ -1,8 +1,9 @@
 ---
-title: List of Lists
+title: "List of Lists"
 enableToc: true
 type: index
-status: update
+status: complete
+future: auto-generated
 index:
   - header_name: "Arts"
     included_data: 
@@ -93,13 +94,18 @@ This page serves as an index of index pages across the encyclopedia, sorted by t
 
 # History
 - [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Compound Gods|List of Compound Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|List of Elemental Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Elemental Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|List of Energy Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Gods|List of Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
 
 # Science
 - [[Encyclopedia Mysenvaria/Indexes/Science/Models/List of Models|List of Models]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Phenomena/List of Phenomena|List of Phenomena]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Technologies/List of Technologies|List of Technologies]]
-
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

@@ -11,27 +11,29 @@ status: complete
 > *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 > [!danger] Warning
-> **There's some data on this page which is not visible when viewing this page from the Encyclopedia Mysenvaria website!**
+> **There may be some data on this page which is not visible when viewing this page from the Encyclopedia Mysenvaria website!**
 
 Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the encyclopedia's articles. YAML blocks may also provide optional information that scripts made for the encyclopedia can use.
 
-Anytime a `date` is asked for it is written as \[year]\["-"]\[day], where day can be omitted for less precision. Day is any number between 1 and 360 (As a single year in Mysenvar consists of 360 days) and year can be any number, including negatives. For example, "-360-56" means the 56th day of the year 360 BT (Before Treaty), whereas "360-56" means the 56th day of the year 360 AT (After Treaty).
+The following is the required YAML data for each article on the Encyclopedia:
 
-The following is a list of all YAML node keys—and examples of their values—used across the encyclopedia:
-- **title**: The title of the article, written as a string.
-- **enableToc**: Whether or not the article should list a Table of Contents. `true` or `false`.
-- **tags**: For the list of applicable tags see the tags portion of this article.
-- **type**: The type of article. `article`, `index`, `table`, `overview`, `ledger`, `project`, `addenda`, or `template`.
-- **status**: The current status of the article. `empty`, `stub`, `incomplete`, `touch-up`, `update`, or `complete`.
-- **future**: How this article might fare for the future. `update`, `rewrite`, or `review`.
-- **has**: A list of items[^possible_page_items] which the article has.
-- **needs**: A list of items[^possible_page_items] which could improve the article.
-- **event**: Data for any event dates regarding the article. For information regarding the formatting of dates see the applicable portion of this article.
-- **star**: Data for pages regarding stars. Used by scripts to generate certain pages.
-- **person**: Data for pages regarding specific characters or people. Used by scripts to generate certain pages.
-- **animal**: JSON-style data for pages regarding animals. Used by scripts to format infoboxes on specific pages.
-- **index**: An array of data for index pages. Used by scripts to automatically generate indexes.
-- **featured**: Data for pages which can be featured on the front page.
+```yaml
+---
+title: "Example Article" # The title of the article.
+aliases: # A list of aliases for the title.
+  - "Example"
+enableToc: true # Whether or not to render a Table of Contents on the article.
+type: article # The type of article. Defaults to `article`. Accepts: `article`, `index`, `table`, `overview`, `ledger`, `project`, `addenda`, or `template`.
+status: empty # The current status of the article. Defaults to `empty`. Accepts: `empty`, `stub`, `incomplete`, `touch-up`, `update`, or `complete`.
+future: none # How this article may fare in the future. Defaults to `none`. Accepts: `update`, `rewrite`, `review`, or `auto-generated`.
+has: # `has` and `need` allow writers or editors to know what articles need what media. Accepts: `infobox`, `image`, `video`, `graphics`, `featured_data`, and `addenda`.
+  - example
+needs:
+  - example
+---
+```
+# Dates
+Anytime a `date` is asked for it is written as \[year]\["-"]\[day], where day can be omitted for less precision. Day is any number between 1 and 360 (As a single year in Mysenvar consists of 360 days) and year can be any number, including negatives. For example, "-360-56" means the 56th day of the year 360 BT (Before Treaty), whereas "360-56" means the 56th day of the year 360 AT (After Treaty).
 # Tags
 Tags are broken into two groups: **topics** and **subjects**. Topics are broad and overarching, but also straightforward in what articles they should apply to. Every article should have *at least one* topic tag. Subjects are more narrow in the topics which they cover. Not every article is required to have a subject tag.
 ## Topics
@@ -222,8 +224,14 @@ index: # This is an array, so it can handle multiple indexes per-page.
           format: "{value}'s Example" # Optional. Tells the program how to format the subheader. 
 ---
 ```
-# Animal
-
+# Ledger Data Example
+```yaml
+---
+ledger_data:
+  week: 1 # The week the ledger was published.
+  year: 2020 # The year the ledger was published.
+---
+```
 # Featured Example
 ```yaml
 ---
@@ -238,6 +246,3 @@ featured_image_example: ![[Media/Images/example.png|example.png]]
 fun_fact1: A short fun fact relating to the article's contents. Should be formated to be followed by "Did you know...".
 %%
 ```
-
-
-[^possible_page_items]: Possible items listed here include: `infobox`, `image`, `video`, `graphics`, `featured_data`, and `addenda`.

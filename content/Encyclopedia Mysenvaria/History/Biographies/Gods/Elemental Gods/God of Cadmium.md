@@ -1,5 +1,7 @@
 ---
-title: God of Cadmium
+title: "God of Cadmium"
+aliases:
+ - "Cadmium"
 enableToc: true
 tags:
   - topic/history/biography

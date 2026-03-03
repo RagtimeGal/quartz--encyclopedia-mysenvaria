@@ -1,5 +1,7 @@
 ---
-title: God of Magnesium
+title: "God of Magnesium"
+aliases:
+ - "Magnesium"
 enableToc: true
 tags:
   - topic/history/biography

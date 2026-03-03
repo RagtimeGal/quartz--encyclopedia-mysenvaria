@@ -3,7 +3,7 @@ title: "Home"
 enableToc: true
 tags:
   - topic/meta
-type: article
+type: overview
 status: complete
 ---
 

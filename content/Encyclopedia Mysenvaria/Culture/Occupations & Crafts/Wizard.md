@@ -1,5 +1,5 @@
 ---
-title: Wizard
+title: "Wizard"
 enableToc: true
 tags:
   - topic/culture/occupation

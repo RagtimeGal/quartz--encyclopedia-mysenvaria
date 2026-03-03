@@ -1,5 +1,5 @@
 ---
-title: Whirlpool
+title: "Whirlpool"
 enableToc: true
 tags:
   - topic/science/phenomenon

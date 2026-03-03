@@ -1,5 +1,7 @@
 ---
-title: God of Hydrogen Peroxide
+title: "God of Hydrogen Peroxide"
+aliases:
+ - "Hydrogen Peroxide"
 enableToc: true
 tags:
   - topic/history/biography

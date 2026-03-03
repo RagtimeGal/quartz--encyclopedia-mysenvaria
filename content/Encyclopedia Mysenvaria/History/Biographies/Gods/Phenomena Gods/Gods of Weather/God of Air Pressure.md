@@ -1,5 +1,7 @@
 ---
-title: God of Air Pressure
+title: "God of Air Pressure"
+aliases:
+  - "Air Pressure"
 enableToc: true
 tags:
   - topic/history/biography

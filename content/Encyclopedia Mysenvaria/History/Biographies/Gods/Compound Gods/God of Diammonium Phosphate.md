@@ -1,5 +1,7 @@
 ---
-title: God of Diammonium Phosphate
+title: "God of Diammonium Phosphate"
+aliases:
+ - "Diammonium Phosphate"
 enableToc: true
 tags:
   - topic/history/biography

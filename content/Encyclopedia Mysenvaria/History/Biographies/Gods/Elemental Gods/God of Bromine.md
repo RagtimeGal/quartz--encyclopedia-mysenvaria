@@ -1,5 +1,7 @@
 ---
-title: God of Bromine
+title: "God of Bromine"
+aliases:
+ - "Bromine"
 enableToc: true
 tags:
   - topic/history/biography

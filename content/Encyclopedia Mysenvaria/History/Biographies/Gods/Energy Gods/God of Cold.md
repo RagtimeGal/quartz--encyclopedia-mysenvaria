@@ -1,5 +1,7 @@
 ---
-title: God of Cold
+title: "God of Cold"
+aliases:
+ - "Cold"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Bohrium
+title: "God of Bohrium"
+aliases:
+ - "Bohrium"
 enableToc: true
 tags:
   - topic/history/biography

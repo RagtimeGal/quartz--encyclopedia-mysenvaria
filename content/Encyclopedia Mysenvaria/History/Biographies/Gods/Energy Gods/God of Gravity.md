@@ -1,5 +1,7 @@
 ---
-title: God of Gravity
+title: "God of Gravity"
+aliases:
+ - "Gravity"
 enableToc: true
 tags:
   - topic/history/biography

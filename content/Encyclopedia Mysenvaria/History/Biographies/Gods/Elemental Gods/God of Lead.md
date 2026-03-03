@@ -1,5 +1,7 @@
 ---
-title: God of Lead
+title: "God of Lead"
+aliases:
+ - "Lead"
 enableToc: true
 tags:
   - topic/history/biography

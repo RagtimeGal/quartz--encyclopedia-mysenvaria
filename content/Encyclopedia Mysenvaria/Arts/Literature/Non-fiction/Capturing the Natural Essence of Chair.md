@@ -1,5 +1,5 @@
 ---
-title: Capturing the Natural Essence of Chair
+title: "Capturing the Natural Essence of Chair"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

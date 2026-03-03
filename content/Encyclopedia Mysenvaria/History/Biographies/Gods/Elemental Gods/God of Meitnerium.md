@@ -1,5 +1,7 @@
 ---
-title: God of Meitnerium
+title: "God of Meitnerium"
+aliases:
+ - "Meitnerium"
 enableToc: true
 tags:
   - topic/history/biography

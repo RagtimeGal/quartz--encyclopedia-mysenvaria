@@ -1,5 +1,7 @@
 ---
-title: God of Tyrosine
+title: "God of Tyrosine"
+aliases:
+ - "Tyrosine"
 enableToc: true
 tags:
   - topic/history/biography

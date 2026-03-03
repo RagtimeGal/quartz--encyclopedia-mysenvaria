@@ -1,5 +1,7 @@
 ---
-title: God of Tectonics
+title: "God of Tectonics"
+aliases:
+  - "Tectonics"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Universal Strata Model
+title: "Universal Strata Model"
 enableToc: true
 tags:
   - topic/science/model

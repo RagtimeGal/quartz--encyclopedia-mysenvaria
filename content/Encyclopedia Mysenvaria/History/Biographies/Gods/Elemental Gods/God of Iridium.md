@@ -1,5 +1,7 @@
 ---
-title: God of Iridium
+title: "God of Iridium"
+aliases:
+ - "Iridium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Promethium
+title: "God of Promethium"
+aliases:
+ - "Promethium"
 enableToc: true
 tags:
   - topic/history/biography

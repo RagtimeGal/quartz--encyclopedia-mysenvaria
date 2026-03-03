@@ -1,5 +1,7 @@
 ---
-title: God of Atrazine
+title: "God of Atrazine"
+aliases:
+ - "Atrazine"
 enableToc: true
 tags:
   - topic/history/biography

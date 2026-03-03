@@ -1,5 +1,7 @@
 ---
-title: God of Malonic Acid
+title: "God of Malonic Acid"
+aliases:
+ - "Malonic Acid"
 enableToc: true
 tags:
   - topic/history/biography

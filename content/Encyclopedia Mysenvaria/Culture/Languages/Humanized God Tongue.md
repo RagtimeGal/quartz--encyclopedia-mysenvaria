@@ -1,5 +1,5 @@
 ---
-title: Humanized God Tongue
+title: "Humanized God Tongue"
 enableToc: true
 tags:
   - topic/culture/language

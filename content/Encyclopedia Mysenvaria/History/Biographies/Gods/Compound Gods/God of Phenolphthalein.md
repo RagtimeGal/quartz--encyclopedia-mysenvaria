@@ -1,5 +1,7 @@
 ---
-title: God of Phenolphthalein
+title: "God of Phenolphthalein"
+aliases:
+ - "Phenolphthalein"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Gods
+title: "Gods"
 enableToc: true
 tags:
   - topic/science/phenomenon

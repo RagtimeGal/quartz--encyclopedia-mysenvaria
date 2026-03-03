@@ -1,5 +1,5 @@
 ---
-title: Scalper
+title: "Scalper"
 enableToc: true
 tags:
   - topic/culture/occupation

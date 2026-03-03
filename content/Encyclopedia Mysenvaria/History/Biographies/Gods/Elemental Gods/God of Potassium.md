@@ -1,5 +1,7 @@
 ---
-title: God of Potassium
+title: "God of Potassium"
+aliases:
+ - "Potassium"
 enableToc: true
 tags:
   - topic/history/biography

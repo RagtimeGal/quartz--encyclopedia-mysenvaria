@@ -1,5 +1,7 @@
 ---
-title: God of Copper
+title: "God of Copper"
+aliases:
+ - "Copper"
 enableToc: true
 tags:
   - topic/history/biography

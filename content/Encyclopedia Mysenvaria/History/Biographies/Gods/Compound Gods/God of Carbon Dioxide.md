@@ -1,5 +1,7 @@
 ---
-title: God of Carbon Dioxide
+title: "God of Carbon Dioxide"
+aliases:
+ - "Carbon Dioxide"
 enableToc: true
 tags:
   - topic/history/biography

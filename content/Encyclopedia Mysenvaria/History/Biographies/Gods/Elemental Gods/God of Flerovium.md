@@ -1,5 +1,7 @@
 ---
-title: God of Flerovium
+title: "God of Flerovium"
+aliases:
+ - "Flerovium"
 enableToc: true
 tags:
   - topic/history/biography

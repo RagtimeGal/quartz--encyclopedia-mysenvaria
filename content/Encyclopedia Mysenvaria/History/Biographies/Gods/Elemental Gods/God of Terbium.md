@@ -1,5 +1,7 @@
 ---
-title: God of Terbium
+title: "God of Terbium"
+aliases:
+ - "Terbium"
 enableToc: true
 tags:
   - topic/history/biography

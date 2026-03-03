@@ -1,5 +1,7 @@
 ---
-title: God of Activation
+title: "God of Activation"
+aliases:
+ - "Activation"
 enableToc: true
 tags:
   - topic/history/biography

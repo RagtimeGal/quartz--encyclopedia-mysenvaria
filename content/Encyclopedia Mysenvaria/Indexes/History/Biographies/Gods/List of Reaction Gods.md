@@ -1,13 +1,16 @@
 ---
-title: List of Elemental Gods
+title: "List of Elemental Gods"
 enableToc: true
 tags:
-  - subject/god/elemental_god
+  - topic/history/biography
+  - subject/god/reaction_god
 type: index
-status: update
+status: complete
+future: auto-generated
 ---
 
 This page serves as an index of reaction [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]].
+# Reaction Gods
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]

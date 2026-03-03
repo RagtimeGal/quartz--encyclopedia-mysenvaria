@@ -1,13 +1,16 @@
 ---
-title: List of Energy Gods
+title: "List of Energy Gods"
 enableToc: true
 tags:
-  - subject/god
+  - topic/history/biography
+  - subject/god/energy_god
 type: index
-status: update
+status: complete
+future: auto-generated
 ---
 
 This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] sorted alphabetically.
+# Energy Gods
 # A
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Acids|God of Acids]]
 # B
@@ -56,6 +59,3 @@ This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Phenome
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Voltage|God of Voltage]]
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
-
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

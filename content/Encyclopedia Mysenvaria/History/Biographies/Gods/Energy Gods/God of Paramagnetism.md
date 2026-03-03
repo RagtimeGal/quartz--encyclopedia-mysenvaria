@@ -1,5 +1,7 @@
 ---
-title: God of Paramagnetism
+title: "God of Paramagnetism"
+aliases:
+ - "Paramagnetism"
 enableToc: true
 tags:
   - topic/history/biography

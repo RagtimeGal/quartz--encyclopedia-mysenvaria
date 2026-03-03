@@ -1,5 +1,7 @@
 ---
-title: God of Sound
+title: "God of Sound"
+aliases:
+ - "Sound"
 enableToc: true
 tags:
   - topic/history/biography

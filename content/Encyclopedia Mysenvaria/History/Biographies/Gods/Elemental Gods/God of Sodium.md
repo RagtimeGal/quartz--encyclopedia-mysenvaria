@@ -1,5 +1,7 @@
 ---
-title: God of Sodium
+title: "God of Sodium"
+aliases:
+ - "Sodium"
 enableToc: true
 tags:
   - topic/history/biography

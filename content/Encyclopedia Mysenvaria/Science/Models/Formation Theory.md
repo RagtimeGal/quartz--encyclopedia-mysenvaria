@@ -1,5 +1,5 @@
 ---
-title: Formation Theory
+title: "Formation Theory"
 enableToc: true
 tags:
   - topic/science/model

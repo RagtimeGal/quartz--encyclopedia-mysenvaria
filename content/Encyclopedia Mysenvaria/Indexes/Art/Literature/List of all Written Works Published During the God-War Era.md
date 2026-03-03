@@ -1,5 +1,5 @@
 ---
-title: List of all Written Works Published During the God-War Era
+title: "List of all Written Works Published During the God-War Era"
 enableToc: true
 tags:
   - topic/art/literature

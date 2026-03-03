@@ -1,5 +1,7 @@
 ---
-title: God of Dust Storm
+title: "God of Dust Storm"
+aliases:
+  - "Dust Storm"
 enableToc: true
 tags:
   - topic/history/biography

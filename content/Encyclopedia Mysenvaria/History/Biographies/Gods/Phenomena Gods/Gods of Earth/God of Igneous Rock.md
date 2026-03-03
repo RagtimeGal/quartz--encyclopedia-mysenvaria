@@ -1,5 +1,7 @@
 ---
-title: God of Igneous Rock
+title: "God of Igneous Rock"
+aliases:
+  - "Igneous Rock"
 enableToc: true
 tags:
   - topic/history/biography

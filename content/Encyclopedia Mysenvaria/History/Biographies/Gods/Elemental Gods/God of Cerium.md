@@ -1,5 +1,7 @@
 ---
-title: God of Cerium
+title: "God of Cerium"
+aliases:
+ - "Cerium"
 enableToc: true
 tags:
   - topic/history/biography

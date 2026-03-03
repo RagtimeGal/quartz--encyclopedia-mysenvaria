@@ -1,5 +1,7 @@
 ---
-title: God of Bond
+title: "God of Bond"
+aliases:
+ - "Bond"
 enableToc: true
 tags:
   - topic/history/biography

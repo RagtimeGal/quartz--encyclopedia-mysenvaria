@@ -1,5 +1,5 @@
 ---
-title: List of Holidays
+title: "List of Holidays"
 enableToc: true
 tags:
   - topic/culture/holiday

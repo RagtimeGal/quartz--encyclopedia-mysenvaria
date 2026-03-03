@@ -1,5 +1,5 @@
 ---
-title: Death's Star System
+title: "Death's Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

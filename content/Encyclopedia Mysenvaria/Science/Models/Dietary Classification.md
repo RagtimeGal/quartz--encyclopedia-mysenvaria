@@ -1,5 +1,5 @@
 ---
-title: Dietary Classification
+title: "Dietary Classification"
 enableToc: true
 tags:
   - topic/science/model

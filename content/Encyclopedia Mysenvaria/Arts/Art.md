@@ -1,5 +1,5 @@
 ---
-title: Art
+title: "Art"
 enableToc: true
 tags:
   - topic/art

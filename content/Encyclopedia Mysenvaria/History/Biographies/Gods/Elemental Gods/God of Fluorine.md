@@ -1,5 +1,7 @@
 ---
-title: God of Fluorine
+title: "God of Fluorine"
+aliases:
+ - "Fluorine"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Rocaltrol
+title: "God of Rocaltrol"
+aliases:
+ - "Rocaltrol"
 enableToc: true
 tags:
   - topic/history/biography

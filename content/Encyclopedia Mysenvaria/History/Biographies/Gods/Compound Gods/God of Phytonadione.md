@@ -1,5 +1,7 @@
 ---
-title: God of Phytonadione
+title: "God of Phytonadione"
+aliases:
+ - "Phytonadione"
 enableToc: true
 tags:
   - topic/history/biography

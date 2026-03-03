@@ -1,5 +1,5 @@
 ---
-title: Great Astronomy Foundation
+title: "Great Astronomy Foundation"
 enableToc: true
 tags:
   - topic/culture/organization

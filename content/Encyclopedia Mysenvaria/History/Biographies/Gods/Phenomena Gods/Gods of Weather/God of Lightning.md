@@ -1,5 +1,7 @@
 ---
-title: God of Lightning
+title: "God of Lightning"
+aliases:
+  - "Lightning"
 enableToc: true
 tags:
   - topic/history/biography

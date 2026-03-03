@@ -1,5 +1,7 @@
 ---
-title: God of Nitrophenol
+title: "God of Nitrophenol"
+aliases:
+ - "Nitrophenol"
 enableToc: true
 tags:
   - topic/history/biography

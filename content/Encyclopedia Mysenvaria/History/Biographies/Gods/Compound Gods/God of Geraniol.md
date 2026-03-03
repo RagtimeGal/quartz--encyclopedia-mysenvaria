@@ -1,5 +1,7 @@
 ---
-title: God of Geraniol
+title: "God of Geraniol"
+aliases:
+ - "Geraniol"
 enableToc: true
 tags:
   - topic/history/biography

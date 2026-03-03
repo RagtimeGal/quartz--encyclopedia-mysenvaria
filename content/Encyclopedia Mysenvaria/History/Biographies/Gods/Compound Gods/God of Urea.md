@@ -1,5 +1,7 @@
 ---
-title: God of Urea
+title: "God of Urea"
+aliases:
+ - "Urea"
 enableToc: true
 tags:
   - topic/history/biography

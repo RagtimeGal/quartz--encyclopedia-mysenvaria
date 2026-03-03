@@ -1,5 +1,5 @@
 ---
-title: Ending Star System
+title: "Ending Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

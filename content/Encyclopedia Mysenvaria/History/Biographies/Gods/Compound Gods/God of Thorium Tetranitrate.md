@@ -1,5 +1,7 @@
 ---
-title: God of Thorium Tetranitrate
+title: "God of Thorium Tetranitrate"
+aliases:
+ - "Thorium Tetranitrate"
 enableToc: true
 tags:
   - topic/history/biography

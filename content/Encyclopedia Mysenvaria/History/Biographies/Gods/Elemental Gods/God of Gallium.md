@@ -1,5 +1,7 @@
 ---
-title: God of Gallium
+title: "God of Gallium"
+aliases:
+ - "Gallium"
 enableToc: true
 tags:
   - topic/history/biography

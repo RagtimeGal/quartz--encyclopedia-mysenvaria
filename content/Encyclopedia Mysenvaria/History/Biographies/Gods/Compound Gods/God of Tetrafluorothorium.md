@@ -1,5 +1,7 @@
 ---
-title: God of Tetrafluorothorium
+title: "God of Tetrafluorothorium"
+aliases:
+ - "Tetrafluorothorium"
 enableToc: true
 tags:
   - topic/history/biography

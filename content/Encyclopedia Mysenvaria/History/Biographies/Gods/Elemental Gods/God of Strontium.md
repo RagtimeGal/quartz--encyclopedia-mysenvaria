@@ -1,5 +1,7 @@
 ---
-title: God of Strontium
+title: "God of Strontium"
+aliases:
+ - "Strontium"
 enableToc: true
 tags:
   - topic/history/biography

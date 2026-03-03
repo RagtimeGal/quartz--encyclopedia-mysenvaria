@@ -1,5 +1,7 @@
 ---
-title: God of Rutherfordium
+title: "God of Rutherfordium"
+aliases:
+ - "Rutherfordium"
 enableToc: true
 tags:
   - topic/history/biography

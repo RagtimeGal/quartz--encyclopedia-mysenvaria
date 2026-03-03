@@ -1,5 +1,7 @@
 ---
-title: God of Thorium Chloride
+title: "God of Thorium Chloride"
+aliases:
+ - "Thorium Chloride"
 enableToc: true
 tags:
   - topic/history/biography

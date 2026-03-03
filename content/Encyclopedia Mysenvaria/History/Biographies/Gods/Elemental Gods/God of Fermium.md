@@ -1,5 +1,7 @@
 ---
-title: God of Fermium
+title: "God of Fermium"
+aliases:
+ - "Fermium"
 enableToc: true
 tags:
   - topic/history/biography

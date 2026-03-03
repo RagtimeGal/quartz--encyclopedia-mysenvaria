@@ -1,5 +1,7 @@
 ---
-title: God of Ascorbic Acid
+title: "God of Ascorbic Acid"
+aliases:
+ - "Ascorbic Acid"
 enableToc: true
 tags:
   - topic/history/biography

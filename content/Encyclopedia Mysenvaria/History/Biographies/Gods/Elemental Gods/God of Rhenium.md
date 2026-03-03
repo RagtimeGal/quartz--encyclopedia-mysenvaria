@@ -1,5 +1,7 @@
 ---
-title: God of Rhenium
+title: "God of Rhenium"
+aliases:
+ - "Rhenium"
 enableToc: true
 tags:
   - topic/history/biography

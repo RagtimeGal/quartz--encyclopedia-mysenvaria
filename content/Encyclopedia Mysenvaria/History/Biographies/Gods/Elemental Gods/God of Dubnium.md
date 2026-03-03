@@ -1,5 +1,7 @@
 ---
-title: God of Dubnium
+title: "God of Dubnium"
+aliases:
+ - "Dubnium"
 enableToc: true
 tags:
   - topic/history/biography

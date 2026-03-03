@@ -1,5 +1,7 @@
 ---
-title: God of Heat
+title: "God of Heat"
+aliases:
+ - "Heat"
 enableToc: true
 tags:
   - topic/history/biography

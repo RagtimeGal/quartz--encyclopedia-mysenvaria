@@ -1,5 +1,5 @@
 ---
-title: Historical Depictions of Gods
+title: "Historical Depictions of Gods"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

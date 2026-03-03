@@ -1,5 +1,7 @@
 ---
-title: God of Inarigivir
+title: "God of Inarigivir"
+aliases:
+ - "Inarigivir"
 enableToc: true
 tags:
   - topic/history/biography

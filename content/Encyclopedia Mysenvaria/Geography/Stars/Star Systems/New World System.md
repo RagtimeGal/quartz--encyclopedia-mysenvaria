@@ -1,5 +1,5 @@
 ---
-title: New World System
+title: "New World System"
 enableToc: true
 tags:
   - topic/geography/astrography

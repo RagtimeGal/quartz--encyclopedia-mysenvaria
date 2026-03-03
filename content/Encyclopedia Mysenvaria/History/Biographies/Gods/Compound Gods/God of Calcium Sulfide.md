@@ -1,5 +1,7 @@
 ---
-title: God of Calcium Sulfide
+title: "God of Calcium Sulfide"
+aliases:
+ - "Calcium Sulfide"
 enableToc: true
 tags:
   - topic/history/biography

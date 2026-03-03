@@ -1,5 +1,7 @@
 ---
-title: God of Calcium Chloride
+title: "God of Calcium Chloride"
+aliases:
+ - "Calcium Chloride"
 enableToc: true
 tags:
   - topic/history/biography

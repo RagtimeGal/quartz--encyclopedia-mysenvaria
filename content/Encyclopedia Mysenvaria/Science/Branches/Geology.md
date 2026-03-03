@@ -1,5 +1,5 @@
 ---
-title: Geology
+title: "Geology"
 enableToc: true
 tags:
   - topic/science/branch

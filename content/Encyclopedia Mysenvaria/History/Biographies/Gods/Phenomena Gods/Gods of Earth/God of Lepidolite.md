@@ -1,5 +1,7 @@
 ---
-title: God of Lepidolite
+title: "God of Lepidolite"
+aliases:
+  - "Lepidolite"
 enableToc: true
 tags:
   - topic/history/biography

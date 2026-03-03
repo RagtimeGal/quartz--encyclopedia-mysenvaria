@@ -1,5 +1,7 @@
 ---
-title: God of Thiamine
+title: "God of Thiamine"
+aliases:
+ - "Thiamine"
 enableToc: true
 tags:
   - topic/history/biography

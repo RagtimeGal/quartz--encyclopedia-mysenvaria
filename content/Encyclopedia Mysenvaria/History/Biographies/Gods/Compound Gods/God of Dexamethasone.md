@@ -1,5 +1,7 @@
 ---
-title: God of Dexamethasone
+title: "God of Dexamethasone"
+aliases:
+ - "Dexamethasone"
 enableToc: true
 tags:
   - topic/history/biography

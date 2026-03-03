@@ -1,5 +1,5 @@
 ---
-title: Gravity
+title: "Gravity"
 enableToc: true
 tags:
   - topic/science/phenomenon

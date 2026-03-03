@@ -1,5 +1,5 @@
 ---
-title: List of all Written Works
+title: "List of all Written Works"
 enableToc: true
 tags:
   - topic/art/literature

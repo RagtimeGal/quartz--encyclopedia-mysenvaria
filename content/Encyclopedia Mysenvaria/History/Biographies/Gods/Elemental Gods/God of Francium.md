@@ -1,5 +1,7 @@
 ---
-title: God of Francium
+title: "God of Francium"
+aliases:
+ - "Francium"
 enableToc: true
 tags:
   - topic/history/biography

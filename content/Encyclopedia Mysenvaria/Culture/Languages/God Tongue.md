@@ -1,5 +1,5 @@
 ---
-title: God Tongue
+title: "God Tongue"
 enableToc: true
 tags:
   - topic/culture/language

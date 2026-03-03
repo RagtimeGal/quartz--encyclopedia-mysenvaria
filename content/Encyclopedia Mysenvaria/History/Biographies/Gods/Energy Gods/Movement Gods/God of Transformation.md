@@ -1,5 +1,7 @@
 ---
-title: God of Transformation
+title: "God of Transformation"
+aliases:
+ - "Transformation"
 enableToc: true
 tags:
   - topic/history/biography

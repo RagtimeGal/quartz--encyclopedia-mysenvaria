@@ -1,5 +1,7 @@
 ---
-title: God of Europium Acetate
+title: "God of Europium Acetate"
+aliases:
+ - "Europium Acetate"
 enableToc: true
 tags:
   - topic/history/biography

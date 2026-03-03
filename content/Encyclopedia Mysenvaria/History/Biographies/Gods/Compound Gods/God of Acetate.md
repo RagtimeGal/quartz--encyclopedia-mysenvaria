@@ -1,5 +1,7 @@
 ---
-title: God of Acetate
+title: "God of Acetate"
+aliases:
+ - "Acetate"
 enableToc: true
 tags:
   - topic/history/biography

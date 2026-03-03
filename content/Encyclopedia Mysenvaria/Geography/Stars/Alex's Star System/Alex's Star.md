@@ -1,5 +1,5 @@
 ---
-title: Alex's Star
+title: "Alex's Star"
 enableToc: true
 tags:
   - topic/geography/astrography

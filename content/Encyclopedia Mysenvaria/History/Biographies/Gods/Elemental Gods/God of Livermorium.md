@@ -1,5 +1,7 @@
 ---
-title: God of Livermorium
+title: "God of Livermorium"
+aliases:
+ - "Livermorium"
 enableToc: true
 tags:
   - topic/history/biography

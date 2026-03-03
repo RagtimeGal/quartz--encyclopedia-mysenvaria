@@ -1,5 +1,5 @@
 ---
-title: Altitude, Azimuth, & Elevation
+title: "Altitude, Azimuth, & Elevation"
 enableToc: true
 tags:
   - topic/geography/abstract

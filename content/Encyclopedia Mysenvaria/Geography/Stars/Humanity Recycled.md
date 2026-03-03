@@ -1,5 +1,5 @@
 ---
-title: Humanity Recycled
+title: "Humanity Recycled"
 enableToc: true
 tags:
   - topic/geography/astrography

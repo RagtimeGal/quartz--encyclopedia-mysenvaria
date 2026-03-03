@@ -1,5 +1,7 @@
 ---
-title: God of Cobalt
+title: "God of Cobalt"
+aliases:
+ - "Cobalt"
 enableToc: true
 tags:
   - topic/history/biography

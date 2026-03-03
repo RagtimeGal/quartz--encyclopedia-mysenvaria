@@ -1,5 +1,7 @@
 ---
-title: God of Nitrous Oxide
+title: "God of Nitrous Oxide"
+aliases:
+ - "Nitrous Oxide"
 enableToc: true
 tags:
   - topic/history/biography

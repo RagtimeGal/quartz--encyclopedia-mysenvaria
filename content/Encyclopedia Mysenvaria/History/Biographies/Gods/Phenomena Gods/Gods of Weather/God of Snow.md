@@ -1,5 +1,7 @@
 ---
-title: God of Snow
+title: "God of Snow"
+aliases:
+  - "Snow"
 enableToc: true
 tags:
   - topic/history/biography

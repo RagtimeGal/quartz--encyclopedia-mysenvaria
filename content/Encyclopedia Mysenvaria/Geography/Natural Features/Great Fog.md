@@ -1,5 +1,5 @@
 ---
-title: Great Fog
+title: "Great Fog"
 enableToc: true
 tags:
   - topic/geography/natural

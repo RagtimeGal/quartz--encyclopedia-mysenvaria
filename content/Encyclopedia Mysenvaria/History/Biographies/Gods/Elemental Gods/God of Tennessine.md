@@ -1,5 +1,7 @@
 ---
-title: God of Tennessine
+title: "God of Tennessine"
+aliases:
+ - "Tennessine"
 enableToc: true
 tags:
   - topic/history/biography

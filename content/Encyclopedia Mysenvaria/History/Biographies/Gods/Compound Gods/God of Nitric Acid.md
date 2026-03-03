@@ -1,5 +1,7 @@
 ---
-title: God of Nitric Acid
+title: "God of Nitric Acid"
+aliases:
+ - "Nitric Acid"
 enableToc: true
 tags:
   - topic/history/biography

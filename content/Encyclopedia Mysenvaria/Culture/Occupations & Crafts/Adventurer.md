@@ -1,5 +1,5 @@
 ---
-title: Adventurer
+title: "Adventurer"
 enableToc: true
 tags:
   - topic/culture/occupation

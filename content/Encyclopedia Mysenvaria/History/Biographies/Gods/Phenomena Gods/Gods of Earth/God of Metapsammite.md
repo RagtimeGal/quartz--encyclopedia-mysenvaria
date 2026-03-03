@@ -1,5 +1,7 @@
 ---
-title: God of Metapsammite
+title: "God of Metapsammite"
+aliases:
+  - "Metapsammite"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Retinol
+title: "God of Retinol"
+aliases:
+ - "Retinol"
 enableToc: true
 tags:
   - topic/history/biography

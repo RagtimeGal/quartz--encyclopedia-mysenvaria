@@ -1,5 +1,5 @@
 ---
-title: Apology Star
+title: "Apology Star"
 enableToc: true
 tags:
   - topic/geography/astrography

@@ -1,5 +1,7 @@
 ---
-title: God of Mercury
+title: "God of Mercury"
+aliases:
+ - "Mercury"
 enableToc: true
 tags:
   - topic/history/biography

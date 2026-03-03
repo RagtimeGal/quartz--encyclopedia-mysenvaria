@@ -1,5 +1,7 @@
 ---
-title: God of Fusion
+title: "God of Fusion"
+aliases:
+ - "Fusion"
 enableToc: true
 tags:
   - topic/history/biography

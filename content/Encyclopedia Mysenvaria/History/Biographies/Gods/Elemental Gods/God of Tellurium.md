@@ -1,5 +1,7 @@
 ---
-title: God of Tellurium
+title: "God of Tellurium"
+aliases:
+ - "Tellurium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Yttrium Oxide
+title: "God of Yttrium Oxide"
+aliases:
+ - "Yttrium Oxide"
 enableToc: true
 tags:
   - topic/history/biography

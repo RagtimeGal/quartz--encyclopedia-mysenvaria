@@ -1,5 +1,7 @@
 ---
-title: God of Oganesson
+title: "God of Oganesson"
+aliases:
+ - "Oganesson"
 enableToc: true
 tags:
   - topic/history/biography

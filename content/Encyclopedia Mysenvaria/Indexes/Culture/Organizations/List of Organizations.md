@@ -1,5 +1,5 @@
 ---
-title: List of Organizations
+title: "List of Organizations"
 enableToc: true
 tags:
   - topic/culture/organization

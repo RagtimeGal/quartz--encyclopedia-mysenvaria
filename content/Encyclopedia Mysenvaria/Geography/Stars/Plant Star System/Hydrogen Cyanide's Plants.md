@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Cyanide's Plants
+title: "Hydrogen Cyanide's Plants"
 enableToc: true
 tags:
   - topic/geography/astrography

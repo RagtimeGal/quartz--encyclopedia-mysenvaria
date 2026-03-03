@@ -1,5 +1,7 @@
 ---
-title: God of Hafnium
+title: "God of Hafnium"
+aliases:
+ - "Hafnium"
 enableToc: true
 tags:
   - topic/history/biography

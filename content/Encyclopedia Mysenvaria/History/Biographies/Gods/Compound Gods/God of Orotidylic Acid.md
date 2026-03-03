@@ -1,5 +1,7 @@
 ---
-title: God of Orotidylic Acid
+title: "God of Orotidylic Acid"
+aliases:
+ - "Orotidylic Acid"
 enableToc: true
 tags:
   - topic/history/biography

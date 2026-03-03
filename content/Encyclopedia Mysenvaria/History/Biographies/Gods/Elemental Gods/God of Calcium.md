@@ -1,5 +1,7 @@
 ---
-title: God of Calcium
+title: "God of Calcium"
+aliases:
+ - "Calcium"
 enableToc: true
 tags:
   - topic/history/biography

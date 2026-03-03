@@ -1,5 +1,7 @@
 ---
-title: God of Nobelium
+title: "God of Nobelium"
+aliases:
+ - "Nobelium"
 enableToc: true
 tags:
   - topic/history/biography

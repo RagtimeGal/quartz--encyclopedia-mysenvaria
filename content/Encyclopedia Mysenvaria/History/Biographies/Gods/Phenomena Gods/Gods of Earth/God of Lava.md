@@ -1,5 +1,7 @@
 ---
-title: God of Lava
+title: "God of Lava"
+aliases:
+  - "Lava"
 enableToc: true
 tags:
   - topic/history/biography

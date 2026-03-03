@@ -1,5 +1,7 @@
 ---
-title: God of Ruthenium
+title: "God of Ruthenium"
+aliases:
+ - "Ruthenium"
 enableToc: true
 tags:
   - topic/history/biography

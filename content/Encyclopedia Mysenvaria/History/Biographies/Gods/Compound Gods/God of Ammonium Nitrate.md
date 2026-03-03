@@ -1,5 +1,7 @@
 ---
-title: God of Ammonium Nitrate
+title: "God of Ammonium Nitrate"
+aliases:
+ - "Ammonium Nitrate"
 enableToc: true
 tags:
   - topic/history/biography

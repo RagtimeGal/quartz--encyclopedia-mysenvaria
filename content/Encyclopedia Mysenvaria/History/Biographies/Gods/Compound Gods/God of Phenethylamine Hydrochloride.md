@@ -1,5 +1,7 @@
 ---
-title: God of Phenethylamine Hydrochloride
+title: "God of Phenethylamine Hydrochloride"
+aliases:
+ - "Phenethylamine Hydrochloride"
 enableToc: true
 tags:
   - topic/history/biography

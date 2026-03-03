@@ -1,5 +1,5 @@
 ---
-title: Prototype Star
+title: "Prototype Star"
 enableToc: true
 tags:
   - topic/geography/astrography

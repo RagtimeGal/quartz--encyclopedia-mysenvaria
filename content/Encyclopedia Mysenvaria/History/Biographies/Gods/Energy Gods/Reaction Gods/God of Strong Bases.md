@@ -1,5 +1,7 @@
 ---
-title: God of Strong Bases
+title: "God of Strong Bases"
+aliases:
+ - "Strong Bases"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Tantalum Ethoxide
+title: "God of Tantalum Ethoxide"
+aliases:
+ - "Tantalum Ethoxide"
 enableToc: true
 tags:
   - topic/history/biography

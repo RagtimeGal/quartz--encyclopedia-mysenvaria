@@ -1,5 +1,7 @@
 ---
-title: God of Hyperol
+title: "God of Hyperol"
+aliases:
+ - "Hyperol"
 enableToc: true
 tags:
   - topic/history/biography

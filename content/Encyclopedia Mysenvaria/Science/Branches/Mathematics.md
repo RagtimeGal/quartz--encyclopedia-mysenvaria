@@ -1,5 +1,5 @@
 ---
-title: Mathematics
+title: "Mathematics"
 enableToc: true
 tags:
   - topic/science/branch

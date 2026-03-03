@@ -1,5 +1,5 @@
 ---
-title: Wizardry
+title: "Wizardry"
 enableToc: true
 tags:
   - topic/science/branch

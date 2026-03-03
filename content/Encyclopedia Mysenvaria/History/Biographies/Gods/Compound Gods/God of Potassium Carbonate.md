@@ -1,5 +1,7 @@
 ---
-title: God of Potassium Carbonate
+title: "God of Potassium Carbonate"
+aliases:
+ - "Potassium Carbonate"
 enableToc: true
 tags:
   - topic/history/biography

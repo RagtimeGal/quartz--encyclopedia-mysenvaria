@@ -1,5 +1,7 @@
 ---
-title: God of Tin
+title: "God of Tin"
+aliases:
+ - "Tin"
 enableToc: true
 tags:
   - topic/history/biography

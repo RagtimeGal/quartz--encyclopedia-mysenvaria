@@ -1,5 +1,7 @@
 ---
-title: God of Deformation
+title: "God of Deformation"
+aliases:
+ - "Deformation"
 enableToc: true
 tags:
   - topic/history/biography

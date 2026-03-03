@@ -1,5 +1,7 @@
 ---
-title: God of Ozone
+title: "God of Ozone"
+aliases:
+ - "Ozone"
 enableToc: true
 tags:
   - topic/history/biography

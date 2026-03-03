@@ -1,5 +1,5 @@
 ---
-title: Day
+title: "Day"
 enableToc: true
 tags:
   - topic/science/phenomenon

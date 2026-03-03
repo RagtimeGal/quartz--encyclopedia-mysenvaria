@@ -1,5 +1,7 @@
 ---
-title: God of Magnesium Sulfate
+title: "God of Magnesium Sulfate"
+aliases:
+ - "Magnesium Sulfate"
 enableToc: true
 tags:
   - topic/history/biography

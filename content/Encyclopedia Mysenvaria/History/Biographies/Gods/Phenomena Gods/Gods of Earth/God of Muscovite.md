@@ -1,5 +1,7 @@
 ---
-title: God of Muscovite
+title: "God of Muscovite"
+aliases:
+  - "Muscovite"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Seasons
+title: "Seasons"
 enableToc: true
 tags:
   - topic/science/phenomenon

@@ -1,5 +1,7 @@
 ---
-title: God of Calcium Carbonate
+title: "God of Calcium Carbonate"
+aliases:
+ - "Calcium Carbonate"
 enableToc: true
 tags:
   - topic/history/biography

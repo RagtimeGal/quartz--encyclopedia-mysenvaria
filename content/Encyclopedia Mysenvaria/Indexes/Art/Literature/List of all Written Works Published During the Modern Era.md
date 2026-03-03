@@ -1,5 +1,5 @@
 ---
-title: List of all Written Works Published During the Modern Era
+title: "List of all Written Works Published During the Modern Era"
 enableToc: true
 tags:
   - topic/art/literature

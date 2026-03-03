@@ -1,5 +1,7 @@
 ---
-title: God of Datelliptium Chloride
+title: "God of Datelliptium Chloride"
+aliases:
+ - "Datelliptium Chloride"
 enableToc: true
 tags:
   - topic/history/biography

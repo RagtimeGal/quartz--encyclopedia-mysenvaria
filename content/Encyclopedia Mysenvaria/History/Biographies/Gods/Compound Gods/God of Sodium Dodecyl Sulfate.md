@@ -1,5 +1,7 @@
 ---
-title: God of Sodium Dodecyl Sulfate
+title: "God of Sodium Dodecyl Sulfate"
+aliases:
+ - "Sodium Dodecyl Sulfate"
 enableToc: true
 tags:
   - topic/history/biography

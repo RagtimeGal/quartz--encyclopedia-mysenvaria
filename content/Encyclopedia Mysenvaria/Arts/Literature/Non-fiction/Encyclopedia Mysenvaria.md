@@ -1,5 +1,5 @@
 ---
-title: Encyclopedia Mysenvaria
+title: "Encyclopedia Mysenvaria"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

@@ -1,5 +1,7 @@
 ---
-title: God of Menadione
+title: "God of Menadione"
+aliases:
+ - "Menadione"
 enableToc: true
 tags:
   - topic/history/biography

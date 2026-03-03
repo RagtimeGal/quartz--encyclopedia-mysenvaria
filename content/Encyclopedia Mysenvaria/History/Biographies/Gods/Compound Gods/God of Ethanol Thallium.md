@@ -1,5 +1,7 @@
 ---
-title: God of Ethanol Thallium
+title: "God of Ethanol Thallium"
+aliases:
+ - "Ethanol Thallium"
 enableToc: true
 tags:
   - topic/history/biography

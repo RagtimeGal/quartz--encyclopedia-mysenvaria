@@ -1,10 +1,12 @@
 ---
-title: Lists of Gods
+title: "Lists of Gods"
 enableToc: true
 tags:
+  - topic/history/biography
   - subject/god
 type: index
-status: update
+status: complete
+future: auto-generated
 ---
 
 This page serves as an index of lists related to [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. 

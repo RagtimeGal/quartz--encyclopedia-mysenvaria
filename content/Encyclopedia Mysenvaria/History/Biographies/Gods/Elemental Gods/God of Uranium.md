@@ -1,5 +1,7 @@
 ---
-title: God of Uranium
+title: "God of Uranium"
+aliases:
+ - "Uranium"
 enableToc: true
 tags:
   - topic/history/biography

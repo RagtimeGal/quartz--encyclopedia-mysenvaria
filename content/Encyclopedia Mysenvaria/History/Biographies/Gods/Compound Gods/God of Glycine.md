@@ -1,5 +1,7 @@
 ---
-title: God of Glycine
+title: "God of Glycine"
+aliases:
+ - "Glycine"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Scandium
+title: "God of Scandium"
+aliases:
+ - "Scandium"
 enableToc: true
 tags:
   - topic/history/biography

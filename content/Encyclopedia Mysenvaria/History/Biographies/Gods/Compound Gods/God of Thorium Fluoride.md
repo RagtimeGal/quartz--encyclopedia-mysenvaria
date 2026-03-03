@@ -1,5 +1,7 @@
 ---
-title: God of Thorium Fluoride
+title: "God of Thorium Fluoride"
+aliases:
+ - "Thorium Fluoride"
 enableToc: true
 tags:
   - topic/history/biography

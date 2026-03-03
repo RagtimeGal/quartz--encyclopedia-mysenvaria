@@ -1,5 +1,7 @@
 ---
-title: Gods of Past, Present, and Future
+title: "Gods of Past, Present, and Future"
+aliases:
+  - "Past, Present, and Future"
 enableToc: true
 tags:
   - topic/history/biography

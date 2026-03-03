@@ -1,5 +1,7 @@
 ---
-title: God of Gravel
+title: "God of Gravel"
+aliases:
+  - "Gravel"
 enableToc: true
 tags:
   - topic/history/biography

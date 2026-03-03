@@ -1,5 +1,5 @@
 ---
-title: Astronomical Sciences
+title: "Astronomical Sciences"
 enableToc: true
 tags:
   - topic/science/branch

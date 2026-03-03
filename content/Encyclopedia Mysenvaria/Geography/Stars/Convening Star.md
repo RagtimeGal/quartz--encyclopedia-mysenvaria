@@ -1,5 +1,5 @@
 ---
-title: Convening Star
+title: "Convening Star"
 enableToc: true
 tags:
   - topic/geography/astrography

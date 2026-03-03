@@ -1,5 +1,7 @@
 ---
-title: God of Strong Acids
+title: "God of Strong Acids"
+aliases:
+ - "Strong Acids"
 enableToc: true
 tags:
   - topic/history/biography

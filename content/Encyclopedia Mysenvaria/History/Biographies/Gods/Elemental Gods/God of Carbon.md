@@ -1,5 +1,7 @@
 ---
-title: God of Carbon
+title: "God of Carbon"
+aliases:
+ - "Carbon"
 enableToc: true
 tags:
   - topic/history/biography

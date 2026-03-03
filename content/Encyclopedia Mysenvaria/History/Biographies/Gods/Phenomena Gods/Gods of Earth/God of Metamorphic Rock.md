@@ -1,5 +1,7 @@
 ---
-title: God of Metamorphic Rock
+title: "God of Metamorphic Rock"
+aliases:
+  - "Metamorphic Rock"
 enableToc: true
 tags:
   - topic/history/biography

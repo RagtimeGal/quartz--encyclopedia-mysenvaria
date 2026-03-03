@@ -1,5 +1,7 @@
 ---
-title: God of Tetrahydropyridine
+title: "God of Tetrahydropyridine"
+aliases:
+ - "Tetrahydropyridine"
 enableToc: true
 tags:
   - topic/history/biography

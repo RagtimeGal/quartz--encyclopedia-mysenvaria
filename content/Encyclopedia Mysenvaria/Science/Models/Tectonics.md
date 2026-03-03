@@ -1,5 +1,5 @@
 ---
-title: Tectonics
+title: "Tectonics"
 enableToc: true
 tags:
   - topic/science/model

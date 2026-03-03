@@ -1,5 +1,7 @@
 ---
-title: God of Erbium
+title: "God of Erbium"
+aliases:
+ - "Erbium"
 enableToc: true
 tags:
   - topic/history/biography

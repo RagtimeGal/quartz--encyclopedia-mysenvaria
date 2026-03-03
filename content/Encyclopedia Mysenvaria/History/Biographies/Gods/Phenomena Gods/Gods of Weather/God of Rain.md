@@ -1,5 +1,7 @@
 ---
-title: God of Rain
+title: "God of Rain"
+aliases:
+  - "Rain"
 enableToc: true
 tags:
   - topic/history/biography

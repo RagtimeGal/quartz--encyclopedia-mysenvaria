@@ -1,5 +1,5 @@
 ---
-title: Dwarven Star System
+title: "Dwarven Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

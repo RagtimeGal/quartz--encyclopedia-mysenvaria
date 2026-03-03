@@ -1,5 +1,7 @@
 ---
-title: God of Bismuth
+title: "God of Bismuth"
+aliases:
+ - "Bismuth"
 enableToc: true
 tags:
   - topic/history/biography

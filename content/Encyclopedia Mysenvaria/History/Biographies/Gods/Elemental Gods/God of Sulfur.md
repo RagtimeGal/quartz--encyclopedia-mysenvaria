@@ -1,5 +1,7 @@
 ---
-title: God of Sulfur
+title: "God of Sulfur"
+aliases:
+ - "Sulfur"
 enableToc: true
 tags:
   - topic/history/biography

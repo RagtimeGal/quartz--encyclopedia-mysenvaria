@@ -1,5 +1,7 @@
 ---
-title: God of Moscovium
+title: "God of Moscovium"
+aliases:
+ - "Moscovium"
 enableToc: true
 tags:
   - topic/history/biography

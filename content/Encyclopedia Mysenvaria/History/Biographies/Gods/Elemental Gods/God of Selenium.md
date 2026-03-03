@@ -1,5 +1,7 @@
 ---
-title: God of Selenium
+title: "God of Selenium"
+aliases:
+ - "Selenium"
 enableToc: true
 tags:
   - topic/history/biography

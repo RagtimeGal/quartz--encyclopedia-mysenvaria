@@ -1,5 +1,7 @@
 ---
-title: God of Glycerol
+title: "God of Glycerol"
+aliases:
+ - "Glycerol"
 enableToc: true
 tags:
   - topic/history/biography

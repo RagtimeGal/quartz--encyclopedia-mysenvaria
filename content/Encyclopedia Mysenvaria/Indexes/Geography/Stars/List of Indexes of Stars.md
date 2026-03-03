@@ -1,5 +1,5 @@
 ---
-title: List of Indexes of Stars
+title: "List of Indexes of Stars"
 enableToc: true
 tags:
   - topic/geography/astrography

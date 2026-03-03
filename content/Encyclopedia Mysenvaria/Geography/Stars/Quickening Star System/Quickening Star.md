@@ -1,5 +1,5 @@
 ---
-title: Quickening Star
+title: "Quickening Star"
 enableToc: true
 tags:
   - topic/geography/astrography

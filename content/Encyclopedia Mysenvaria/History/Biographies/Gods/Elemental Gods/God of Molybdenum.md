@@ -1,5 +1,7 @@
 ---
-title: God of Molybdenum
+title: "God of Molybdenum"
+aliases:
+ - "Molybdenum"
 enableToc: true
 tags:
   - topic/history/biography

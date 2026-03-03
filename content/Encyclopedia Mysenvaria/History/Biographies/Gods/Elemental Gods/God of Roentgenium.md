@@ -1,5 +1,7 @@
 ---
-title: God of Roentgenium
+title: "God of Roentgenium"
+aliases:
+ - "Roentgenium"
 enableToc: true
 tags:
   - topic/history/biography

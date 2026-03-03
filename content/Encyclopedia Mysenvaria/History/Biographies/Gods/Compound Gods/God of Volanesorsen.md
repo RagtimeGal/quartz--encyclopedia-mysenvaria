@@ -1,5 +1,7 @@
 ---
-title: God of Volanesorsen
+title: "God of Volanesorsen"
+aliases:
+ - "Volanesorsen"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Starforging
+title: "Starforging"
 enableToc: true
 tags:
   - topic/science/branch

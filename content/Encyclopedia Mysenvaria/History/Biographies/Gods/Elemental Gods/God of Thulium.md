@@ -1,5 +1,7 @@
 ---
-title: God of Thulium
+title: "God of Thulium"
+aliases:
+ - "Thulium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Heavenly Lineage Model
+title: "Heavenly Lineage Model"
 enableToc: true
 tags:
   - topic/science/model

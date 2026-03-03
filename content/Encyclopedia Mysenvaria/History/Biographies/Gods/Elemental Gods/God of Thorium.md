@@ -1,5 +1,7 @@
 ---
-title: God of Thorium
+title: "God of Thorium"
+aliases:
+ - "Thorium"
 enableToc: true
 tags:
   - topic/history/biography

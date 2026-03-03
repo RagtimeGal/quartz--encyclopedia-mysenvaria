@@ -1,5 +1,5 @@
 ---
-title: First Crater Star
+title: "First Crater Star"
 enableToc: true
 tags:
   - topic/geography/astrography

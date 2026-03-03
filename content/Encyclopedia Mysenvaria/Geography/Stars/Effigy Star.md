@@ -1,5 +1,5 @@
 ---
-title: Effigy Star
+title: "Effigy Star"
 enableToc: true
 tags:
   - topic/geography/astrography

@@ -1,5 +1,7 @@
 ---
-title: God of Tornadoes
+title: "God of Tornadoes"
+aliases:
+  - "Tornadoes"
 enableToc: true
 tags:
   - topic/history/biography

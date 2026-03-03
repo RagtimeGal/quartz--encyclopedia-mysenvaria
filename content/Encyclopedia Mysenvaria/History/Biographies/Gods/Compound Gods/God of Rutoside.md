@@ -1,5 +1,7 @@
 ---
-title: God of Rutoside
+title: "God of Rutoside"
+aliases:
+ - "Rutoside"
 enableToc: true
 tags:
   - topic/history/biography

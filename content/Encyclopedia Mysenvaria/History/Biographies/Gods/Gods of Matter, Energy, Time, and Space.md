@@ -1,5 +1,7 @@
 ---
-title: Gods of Matter, Energy, Time, and Space
+title: "Gods of Matter, Energy, Time, and Space"
+aliases:
+  - "Matter, Energy, Time, and Space"
 enableToc: true
 tags:
   - topic/history/biography

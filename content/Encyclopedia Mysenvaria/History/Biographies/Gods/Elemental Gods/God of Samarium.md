@@ -1,5 +1,7 @@
 ---
-title: God of Samarium
+title: "God of Samarium"
+aliases:
+ - "Samarium"
 enableToc: true
 tags:
   - topic/history/biography

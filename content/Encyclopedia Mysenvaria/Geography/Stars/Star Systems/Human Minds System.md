@@ -1,5 +1,5 @@
 ---
-title: Human Minds System
+title: "Human Minds System"
 enableToc: true
 tags:
   - topic/geography/astrography

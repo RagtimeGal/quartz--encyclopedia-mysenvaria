@@ -1,5 +1,7 @@
 ---
-title: God of Caesium
+title: "God of Caesium"
+aliases:
+ - "Caesium"
 enableToc: true
 tags:
   - topic/history/biography

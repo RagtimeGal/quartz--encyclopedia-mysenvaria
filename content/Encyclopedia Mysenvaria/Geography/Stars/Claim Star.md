@@ -1,5 +1,5 @@
 ---
-title: Claim Star
+title: "Claim Star"
 enableToc: true
 tags:
   - topic/geography/astrography

@@ -1,5 +1,7 @@
 ---
-title: God of Glucose
+title: "God of Glucose"
+aliases:
+ - "Glucose"
 enableToc: true
 tags:
   - topic/history/biography

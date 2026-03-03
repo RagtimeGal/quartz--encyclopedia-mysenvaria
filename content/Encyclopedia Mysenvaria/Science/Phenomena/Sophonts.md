@@ -1,5 +1,5 @@
 ---
-title: Sophonts
+title: "Sophonts"
 enableToc: true
 tags:
   - topic/science/model

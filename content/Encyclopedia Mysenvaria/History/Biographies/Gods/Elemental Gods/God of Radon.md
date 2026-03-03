@@ -1,5 +1,7 @@
 ---
-title: God of Radon
+title: "God of Radon"
+aliases:
+ - "Radon"
 enableToc: true
 tags:
   - topic/history/biography

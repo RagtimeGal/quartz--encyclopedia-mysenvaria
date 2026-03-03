@@ -1,5 +1,5 @@
 ---
-title: Astronomy
+title: "Astronomy"
 enableToc: true
 tags:
   - topic/science/branch

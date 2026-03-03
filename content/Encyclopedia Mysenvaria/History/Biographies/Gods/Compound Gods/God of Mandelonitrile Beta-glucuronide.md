@@ -1,5 +1,7 @@
 ---
-title: God of Mandelonitrile Beta-glucuronide
+title: "God of Mandelonitrile Beta-glucuronide"
+aliases:
+ - "Mandelonitrile Beta-glucuronide"
 enableToc: true
 tags:
   - topic/history/biography

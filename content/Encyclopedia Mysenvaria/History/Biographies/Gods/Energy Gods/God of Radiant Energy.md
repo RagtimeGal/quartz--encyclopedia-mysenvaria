@@ -1,5 +1,7 @@
 ---
-title: God of Radiant Energy
+title: "God of Radiant Energy"
+aliases:
+ - "Radiant Energy"
 enableToc: true
 tags:
   - topic/history/biography

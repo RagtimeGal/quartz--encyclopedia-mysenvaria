@@ -1,5 +1,7 @@
 ---
-title: God of Cinnamic Acid
+title: "God of Cinnamic Acid"
+aliases:
+ - "Cinnamic Acid"
 enableToc: true
 tags:
   - topic/history/biography

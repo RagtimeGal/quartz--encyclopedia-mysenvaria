@@ -1,5 +1,7 @@
 ---
-title: God of Darmstadtium
+title: "God of Darmstadtium"
+aliases:
+ - "Darmstadtium"
 enableToc: true
 tags:
   - topic/history/biography

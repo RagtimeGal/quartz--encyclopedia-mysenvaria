@@ -1,5 +1,7 @@
 ---
-title: God of Ethanol-d3
+title: "God of Ethanol-d3"
+aliases:
+ - "Ethanol-d3"
 enableToc: true
 tags:
   - topic/history/biography

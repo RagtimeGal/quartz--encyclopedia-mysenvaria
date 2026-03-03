@@ -1,5 +1,5 @@
 ---
-title: Genetics
+title: "Genetics"
 enableToc: true
 tags:
   - topic/science/branch

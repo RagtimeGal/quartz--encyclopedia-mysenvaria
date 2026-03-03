@@ -1,5 +1,7 @@
 ---
-title: God of Aminobenzoic Acid
+title: "God of Aminobenzoic Acid"
+aliases:
+ - "Aminobenzoic Acid"
 enableToc: true
 tags:
   - topic/history/biography

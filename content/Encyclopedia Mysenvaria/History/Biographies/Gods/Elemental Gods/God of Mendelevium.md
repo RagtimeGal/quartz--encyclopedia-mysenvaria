@@ -1,5 +1,7 @@
 ---
-title: God of Mendelevium
+title: "God of Mendelevium"
+aliases:
+ - "Mendelevium"
 enableToc: true
 tags:
   - topic/history/biography

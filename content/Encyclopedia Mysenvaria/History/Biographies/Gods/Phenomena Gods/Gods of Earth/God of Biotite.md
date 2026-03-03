@@ -1,5 +1,7 @@
 ---
-title: God of Biotite
+title: "God of Biotite"
+aliases:
+  - "Biotite"
 enableToc: true
 tags:
   - topic/history/biography

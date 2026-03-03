@@ -1,5 +1,5 @@
 ---
-title: Greater God Conspiracy
+title: "Greater God Conspiracy"
 enableToc: true
 tags:
   - topic/culture/belief

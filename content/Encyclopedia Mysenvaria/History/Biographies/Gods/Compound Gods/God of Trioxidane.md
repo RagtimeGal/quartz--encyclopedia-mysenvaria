@@ -1,5 +1,7 @@
 ---
-title: God of Trioxidane
+title: "God of Trioxidane"
+aliases:
+ - "Trioxidane"
 enableToc: true
 tags:
   - topic/history/biography

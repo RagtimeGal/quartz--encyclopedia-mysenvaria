@@ -1,5 +1,7 @@
 ---
-title: God of Nitrogen
+title: "God of Nitrogen"
+aliases:
+ - "Nitrogen"
 enableToc: true
 tags:
   - topic/history/biography

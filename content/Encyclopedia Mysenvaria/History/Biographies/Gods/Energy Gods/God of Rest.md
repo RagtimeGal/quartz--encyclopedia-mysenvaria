@@ -1,5 +1,7 @@
 ---
-title: God of Rest
+title: "God of Rest"
+aliases:
+ - "Rest"
 enableToc: true
 tags:
   - topic/history/biography

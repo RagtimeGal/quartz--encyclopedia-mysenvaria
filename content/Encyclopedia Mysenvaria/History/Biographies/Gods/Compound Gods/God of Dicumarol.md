@@ -1,5 +1,7 @@
 ---
-title: God of Dicumarol
+title: "God of Dicumarol"
+aliases:
+ - "Dicumarol"
 enableToc: true
 tags:
   - topic/history/biography

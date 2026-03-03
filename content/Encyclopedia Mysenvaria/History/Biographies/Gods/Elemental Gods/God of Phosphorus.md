@@ -1,5 +1,7 @@
 ---
-title: God of Phosphorus
+title: "God of Phosphorus"
+aliases:
+ - "Phosphorus"
 enableToc: true
 tags:
   - topic/history/biography

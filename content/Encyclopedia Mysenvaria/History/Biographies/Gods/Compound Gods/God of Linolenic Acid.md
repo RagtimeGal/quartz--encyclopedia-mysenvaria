@@ -1,5 +1,7 @@
 ---
-title: God of Linolenic Acid
+title: "God of Linolenic Acid"
+aliases:
+ - "Linolenic Acid"
 enableToc: true
 tags:
   - topic/history/biography

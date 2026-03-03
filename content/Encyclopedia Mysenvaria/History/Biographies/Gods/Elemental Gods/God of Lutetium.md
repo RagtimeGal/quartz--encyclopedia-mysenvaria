@@ -1,5 +1,7 @@
 ---
-title: God of Lutetium
+title: "God of Lutetium"
+aliases:
+ - "Lutetium"
 enableToc: true
 tags:
   - topic/history/biography

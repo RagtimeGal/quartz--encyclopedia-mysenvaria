@@ -1,5 +1,7 @@
 ---
-title: God of Lithium
+title: "God of Lithium"
+aliases:
+ - "Lithium"
 enableToc: true
 tags:
   - topic/history/biography

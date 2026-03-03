@@ -1,5 +1,7 @@
 ---
-title: God of Europium
+title: "God of Europium"
+aliases:
+ - "Europium"
 enableToc: true
 tags:
   - topic/history/biography

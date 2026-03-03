@@ -1,5 +1,7 @@
 ---
-title: God of Sodium Sulfide
+title: "God of Sodium Sulfide"
+aliases:
+ - "Sodium Sulfide"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Penguinone
+title: "God of Penguinone"
+aliases:
+ - "Penguinone"
 enableToc: true
 tags:
   - topic/history/biography

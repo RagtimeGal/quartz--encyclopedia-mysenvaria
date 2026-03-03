@@ -1,5 +1,7 @@
 ---
-title: God of Aluminium
+title: "God of Aluminium"
+aliases:
+ - "Aluminium"
 enableToc: true
 tags:
   - topic/history/biography

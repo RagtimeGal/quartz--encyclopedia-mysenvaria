@@ -1,5 +1,7 @@
 ---
-title: God of Argon
+title: "God of Argon"
+aliases:
+ - "Argon"
 enableToc: true
 tags:
   - topic/history/biography

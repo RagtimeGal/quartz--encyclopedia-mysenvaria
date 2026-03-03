@@ -1,5 +1,7 @@
 ---
-title: God of Nihonium
+title: "God of Nihonium"
+aliases:
+ - "Nihonium"
 enableToc: true
 tags:
   - topic/history/biography

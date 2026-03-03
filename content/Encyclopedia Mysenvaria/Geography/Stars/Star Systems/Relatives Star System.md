@@ -1,5 +1,5 @@
 ---
-title: Relatives Star System
+title: "Relatives Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

@@ -1,5 +1,7 @@
 ---
-title: God of Combustion
+title: "God of Combustion"
+aliases:
+ - "Combustion"
 enableToc: true
 tags:
   - topic/history/biography

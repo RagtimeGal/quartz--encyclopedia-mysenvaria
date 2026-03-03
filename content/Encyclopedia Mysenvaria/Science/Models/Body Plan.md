@@ -1,5 +1,5 @@
 ---
-title: Body Plan
+title: "Body Plan"
 enableToc: true
 tags:
   - topic/science/model

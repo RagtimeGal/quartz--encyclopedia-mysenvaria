@@ -1,5 +1,7 @@
 ---
-title: God of Cyclopentanol
+title: "God of Cyclopentanol"
+aliases:
+ - "Cyclopentanol"
 enableToc: true
 tags:
   - topic/history/biography

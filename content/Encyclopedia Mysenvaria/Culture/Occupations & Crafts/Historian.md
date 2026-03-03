@@ -1,5 +1,5 @@
 ---
-title: Historian
+title: "Historian"
 enableToc: true
 tags:
   - topic/culture/occupation

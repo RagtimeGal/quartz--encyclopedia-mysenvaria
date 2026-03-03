@@ -1,5 +1,7 @@
 ---
-title: God of Downburst
+title: "God of Downburst"
+aliases:
+  - "Downburst"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Thunder
+title: "God of Thunder"
+aliases:
+  - "Thunder"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Chromodynamic Energy
+title: "God of Chromodynamic Energy"
+aliases:
+ - "Chromodynamic Energy"
 enableToc: true
 tags:
   - topic/history/biography

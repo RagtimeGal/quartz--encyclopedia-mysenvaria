@@ -1,5 +1,7 @@
 ---
-title: God of Mechanical Energy
+title: "God of Mechanical Energy"
+aliases:
+ - "Mechanical Energy"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Farmer
+title: "Farmer"
 enableToc: true
 tags:
   - topic/culture/occupation

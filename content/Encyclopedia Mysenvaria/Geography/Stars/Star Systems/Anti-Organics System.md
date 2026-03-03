@@ -1,5 +1,5 @@
 ---
-title: Anti-Organics System
+title: "Anti-Organics System"
 enableToc: true
 tags:
   - topic/geography/astrography

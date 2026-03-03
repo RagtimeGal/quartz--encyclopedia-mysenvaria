@@ -1,5 +1,7 @@
 ---
-title: God of Magma
+title: "God of Magma"
+aliases:
+  - "Magma"
 enableToc: true
 tags:
   - topic/history/biography

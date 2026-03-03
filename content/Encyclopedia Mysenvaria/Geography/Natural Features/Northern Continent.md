@@ -1,5 +1,5 @@
 ---
-title: Northern Continent
+title: "Northern Continent"
 enableToc: true
 tags:
   - topic/geography/natural

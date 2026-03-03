@@ -1,5 +1,7 @@
 ---
-title: God of Chromium
+title: "God of Chromium"
+aliases:
+ - "Chromium"
 enableToc: true
 tags:
   - topic/history/biography

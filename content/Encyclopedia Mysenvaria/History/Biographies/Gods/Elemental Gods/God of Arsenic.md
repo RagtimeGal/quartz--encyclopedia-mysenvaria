@@ -1,5 +1,7 @@
 ---
-title: God of Arsenic
+title: "God of Arsenic"
+aliases:
+ - "Arsenic"
 enableToc: true
 tags:
   - topic/history/biography

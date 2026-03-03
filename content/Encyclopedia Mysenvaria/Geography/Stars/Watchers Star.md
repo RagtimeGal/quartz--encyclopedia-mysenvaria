@@ -1,5 +1,5 @@
 ---
-title: Watchers Star
+title: "Watchers Star"
 enableToc: true
 tags:
   - topic/geography/astrography

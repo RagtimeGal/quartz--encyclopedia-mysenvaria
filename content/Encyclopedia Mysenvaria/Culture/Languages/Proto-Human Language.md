@@ -1,5 +1,5 @@
 ---
-title: Language Template
+title: "Language Template"
 enableToc: true
 tags:
   - topic/culture/language

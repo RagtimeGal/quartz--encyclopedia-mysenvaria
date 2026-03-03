@@ -1,5 +1,7 @@
 ---
-title: God of Thorium Sulfide
+title: "God of Thorium Sulfide"
+aliases:
+ - "Thorium Sulfide"
 enableToc: true
 tags:
   - topic/history/biography

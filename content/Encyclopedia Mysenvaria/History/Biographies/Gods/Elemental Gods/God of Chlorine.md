@@ -1,5 +1,7 @@
 ---
-title: God of Chlorine
+title: "God of Chlorine"
+aliases:
+ - "Chlorine"
 enableToc: true
 tags:
   - topic/history/biography

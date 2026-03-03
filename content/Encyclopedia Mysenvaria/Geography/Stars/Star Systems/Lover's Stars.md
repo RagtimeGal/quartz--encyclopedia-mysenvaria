@@ -1,5 +1,5 @@
 ---
-title: Lover's Stars
+title: "Lover's Stars"
 enableToc: true
 tags:
   - topic/geography/astrography

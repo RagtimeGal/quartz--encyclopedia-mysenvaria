@@ -1,5 +1,5 @@
 ---
-title: Hornerian Classification
+title: "Hornerian Classification"
 enableToc: true
 tags:
   - topic/science/model

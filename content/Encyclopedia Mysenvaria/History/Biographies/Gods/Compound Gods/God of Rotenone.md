@@ -1,5 +1,7 @@
 ---
-title: God of Rotenone
+title: "God of Rotenone"
+aliases:
+ - "Rotenone"
 enableToc: true
 tags:
   - topic/history/biography

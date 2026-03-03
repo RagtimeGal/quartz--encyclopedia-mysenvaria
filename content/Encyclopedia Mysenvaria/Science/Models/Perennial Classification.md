@@ -1,5 +1,5 @@
 ---
-title: Perennial Classification
+title: "Perennial Classification"
 enableToc: true
 tags:
   - topic/science/model

@@ -1,5 +1,5 @@
 ---
-title: Great Oceanic Crater
+title: "Great Oceanic Crater"
 enableToc: true
 tags:
   - topic/geography/natural

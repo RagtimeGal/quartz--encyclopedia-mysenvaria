@@ -1,5 +1,7 @@
 ---
-title: God of Beta-carotene
+title: "God of Beta-carotene"
+aliases:
+ - "Beta-carotene"
 enableToc: true
 tags:
   - topic/history/biography

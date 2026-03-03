@@ -1,5 +1,5 @@
 ---
-title: Plea Star
+title: "Plea Star"
 enableToc: true
 tags:
   - topic/geography/astrography

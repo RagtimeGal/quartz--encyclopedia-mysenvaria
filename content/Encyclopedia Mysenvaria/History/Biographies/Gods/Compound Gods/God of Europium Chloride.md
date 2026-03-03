@@ -1,5 +1,7 @@
 ---
-title: God of Europium Chloride
+title: "God of Europium Chloride"
+aliases:
+ - "Europium Chloride"
 enableToc: true
 tags:
   - topic/history/biography

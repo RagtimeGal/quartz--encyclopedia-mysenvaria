@@ -1,5 +1,7 @@
 ---
-title: God of Manganese
+title: "God of Manganese"
+aliases:
+ - "Manganese"
 enableToc: true
 tags:
   - topic/history/biography

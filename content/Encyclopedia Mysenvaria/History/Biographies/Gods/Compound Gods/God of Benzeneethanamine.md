@@ -1,5 +1,7 @@
 ---
-title: God of Benzeneethanamine
+title: "God of Benzeneethanamine"
+aliases:
+ - "Benzeneethanamine"
 enableToc: true
 tags:
   - topic/history/biography

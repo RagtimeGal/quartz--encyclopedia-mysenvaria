@@ -1,5 +1,7 @@
 ---
-title: God of Actinium
+title: "God of Actinium"
+aliases:
+ - "Actinium"
 enableToc: true
 tags:
   - topic/history/biography

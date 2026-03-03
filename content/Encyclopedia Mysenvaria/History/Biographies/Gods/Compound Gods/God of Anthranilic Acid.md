@@ -1,5 +1,7 @@
 ---
-title: God of Anthranilic Acid
+title: "God of Anthranilic Acid"
+aliases:
+ - "Anthranilic Acid"
 enableToc: true
 tags:
   - topic/history/biography

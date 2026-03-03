@@ -1,5 +1,7 @@
 ---
-title: God of Phenylalanine
+title: "God of Phenylalanine"
+aliases:
+ - "Phenylalanine"
 enableToc: true
 tags:
   - topic/history/biography

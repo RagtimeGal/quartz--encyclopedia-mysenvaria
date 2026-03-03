@@ -1,5 +1,7 @@
 ---
-title: God of Atmosphere
+title: "God of Atmosphere"
+aliases:
+  - "Atmosphere"
 enableToc: true
 tags:
   - topic/history/biography

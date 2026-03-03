@@ -1,5 +1,5 @@
 ---
-title: Central Pole
+title: "Central Pole"
 enableToc: true
 tags:
   - topic/geography/abstract

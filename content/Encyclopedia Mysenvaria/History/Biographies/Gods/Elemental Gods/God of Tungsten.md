@@ -1,5 +1,7 @@
 ---
-title: God of Tungsten
+title: "God of Tungsten"
+aliases:
+ - "Tungsten"
 enableToc: true
 tags:
   - topic/history/biography

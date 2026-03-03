@@ -1,5 +1,5 @@
 ---
-title: List of all Written Works Published During the Golden Age
+title: "List of all Written Works Published During the Golden Age"
 enableToc: true
 tags:
   - topic/art/literature

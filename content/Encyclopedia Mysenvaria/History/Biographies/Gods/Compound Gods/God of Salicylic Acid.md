@@ -1,5 +1,7 @@
 ---
-title: God of Salicylic Acid
+title: "God of Salicylic Acid"
+aliases:
+ - "Salicylic Acid"
 enableToc: true
 tags:
   - topic/history/biography

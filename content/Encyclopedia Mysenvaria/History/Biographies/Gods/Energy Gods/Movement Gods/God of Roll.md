@@ -1,5 +1,7 @@
 ---
-title: God of Roll
+title: "God of Roll"
+aliases:
+ - "Roll"
 enableToc: true
 tags:
   - topic/history/biography

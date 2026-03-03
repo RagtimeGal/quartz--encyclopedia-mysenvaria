@@ -1,5 +1,7 @@
 ---
-title: God of Diethyl Dixanthogen Disulfide
+title: "God of Diethyl Dixanthogen Disulfide"
+aliases:
+ - "Diethyl Dixanthogen Disulfide"
 enableToc: true
 tags:
   - topic/history/biography

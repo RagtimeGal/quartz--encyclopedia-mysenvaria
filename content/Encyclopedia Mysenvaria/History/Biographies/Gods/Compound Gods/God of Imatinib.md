@@ -1,5 +1,7 @@
 ---
-title: God of Imatinib
+title: "God of Imatinib"
+aliases:
+ - "Imatinib"
 enableToc: true
 tags:
   - topic/history/biography

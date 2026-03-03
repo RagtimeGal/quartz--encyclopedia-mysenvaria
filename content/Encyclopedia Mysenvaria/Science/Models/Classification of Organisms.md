@@ -1,5 +1,5 @@
 ---
-title: Classification of Organisms
+title: "Classification of Organisms"
 enableToc: true
 tags:
   - topic/science/model

@@ -1,5 +1,7 @@
 ---
-title: God of Phlogopite
+title: "God of Phlogopite"
+aliases:
+  - "Phlogopite"
 enableToc: true
 tags:
   - topic/history/biography

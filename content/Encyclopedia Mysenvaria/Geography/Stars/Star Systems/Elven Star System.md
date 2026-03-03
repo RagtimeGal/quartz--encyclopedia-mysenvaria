@@ -1,5 +1,5 @@
 ---
-title: Elven Star System
+title: "Elven Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

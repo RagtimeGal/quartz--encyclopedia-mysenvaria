@@ -1,5 +1,5 @@
 ---
-title: Outer Ring
+title: "Outer Ring"
 enableToc: true
 tags:
   - topic/geography/abstract

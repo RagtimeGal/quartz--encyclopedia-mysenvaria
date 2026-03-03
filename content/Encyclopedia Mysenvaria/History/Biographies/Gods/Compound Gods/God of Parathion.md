@@ -1,5 +1,7 @@
 ---
-title: God of Parathion
+title: "God of Parathion"
+aliases:
+ - "Parathion"
 enableToc: true
 tags:
   - topic/history/biography

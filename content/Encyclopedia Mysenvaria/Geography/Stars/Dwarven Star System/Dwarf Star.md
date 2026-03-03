@@ -1,5 +1,5 @@
 ---
-title: Dwarf Star
+title: "Dwarf Star"
 enableToc: true
 tags:
   - topic/geography/astrography

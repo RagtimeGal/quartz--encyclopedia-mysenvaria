@@ -1,5 +1,7 @@
 ---
-title: God of Fulgurite
+title: "God of Fulgurite"
+aliases:
+  - "Fulgurite"
 enableToc: true
 tags:
   - topic/history/biography

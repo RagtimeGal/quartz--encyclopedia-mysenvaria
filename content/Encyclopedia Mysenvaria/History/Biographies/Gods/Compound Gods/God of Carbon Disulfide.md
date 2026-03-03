@@ -1,5 +1,7 @@
 ---
-title: God of Carbon Disulfide
+title: "God of Carbon Disulfide"
+aliases:
+ - "Carbon Disulfide"
 enableToc: true
 tags:
   - topic/history/biography

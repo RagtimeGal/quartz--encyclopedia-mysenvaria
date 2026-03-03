@@ -1,5 +1,5 @@
 ---
-title: The Fourth Edition Natural Lexicon
+title: "The Fourth Edition Natural Lexicon"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

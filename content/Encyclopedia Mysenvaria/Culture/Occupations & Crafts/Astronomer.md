@@ -1,5 +1,5 @@
 ---
-title: Astronomer
+title: "Astronomer"
 enableToc: true
 tags:
   - topic/culture/occupation

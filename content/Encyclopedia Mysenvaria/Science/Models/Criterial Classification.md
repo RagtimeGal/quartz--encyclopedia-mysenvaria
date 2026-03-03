@@ -1,5 +1,5 @@
 ---
-title: Criterial Classification
+title: "Criterial Classification"
 enableToc: true
 tags:
   - topic/science/model

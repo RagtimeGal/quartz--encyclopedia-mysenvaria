@@ -1,10 +1,11 @@
 ---
-title: List of Models
+title: "List of Models"
 enableToc: true
 tags:
   - topic/science/model
 type: index
-status: update
+status: complete
+future: auto-generated
 index:
   - header_name: "Models"
     included_data: 
@@ -60,5 +61,3 @@ The following is an index of all articles across the encyclopedia which describe
 ## U
 - [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]]
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

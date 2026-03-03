@@ -1,5 +1,7 @@
 ---
-title: God of Sodium Carbonate
+title: "God of Sodium Carbonate"
+aliases:
+ - "Sodium Carbonate"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Trichloroeuropium
+title: "God of Trichloroeuropium"
+aliases:
+ - "Trichloroeuropium"
 enableToc: true
 tags:
   - topic/history/biography

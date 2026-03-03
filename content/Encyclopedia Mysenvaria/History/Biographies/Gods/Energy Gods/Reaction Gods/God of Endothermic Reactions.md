@@ -1,5 +1,7 @@
 ---
-title: God of Endothermic Reactions
+title: "God of Endothermic Reactions"
+aliases:
+ - "Endothermic Reactions"
 enableToc: true
 tags:
   - topic/history/biography

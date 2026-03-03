@@ -1,5 +1,7 @@
 ---
-title: God of Nioblum
+title: "God of Nioblum"
+aliases:
+ - "Nioblum"
 enableToc: true
 tags:
   - topic/history/biography

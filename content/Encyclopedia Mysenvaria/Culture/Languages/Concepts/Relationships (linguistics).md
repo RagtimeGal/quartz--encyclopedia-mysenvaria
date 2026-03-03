@@ -1,5 +1,5 @@
 ---
-title: Relationships (linguistics)
+title: "Relationships (linguistics)"
 enableToc: true
 tags:
   - topic/culture/language

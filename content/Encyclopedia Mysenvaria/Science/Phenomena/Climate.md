@@ -1,5 +1,5 @@
 ---
-title: Climate
+title: "Climate"
 enableToc: true
 tags:
   - topic/science/phenomenon

@@ -1,5 +1,7 @@
 ---
-title: God of Hydrogen Cyanide
+title: "God of Hydrogen Cyanide"
+aliases:
+ - "Hydrogen Cyanide"
 enableToc: true
 tags:
   - topic/history/biography

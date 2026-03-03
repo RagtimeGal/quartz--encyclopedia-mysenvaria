@@ -1,5 +1,7 @@
 ---
-title: God of Chemical Reactions
+title: "God of Chemical Reactions"
+aliases:
+ - "Chemical Reactions"
 enableToc: true
 tags:
   - topic/history/biography

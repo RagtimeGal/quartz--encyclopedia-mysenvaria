@@ -1,5 +1,7 @@
 ---
-title: God of Pyrolite
+title: "God of Pyrolite"
+aliases:
+  - "Pyrolite"
 enableToc: true
 tags:
   - topic/history/biography

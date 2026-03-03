@@ -1,5 +1,7 @@
 ---
-title: God of Pantothenic Acid
+title: "God of Pantothenic Acid"
+aliases:
+ - "Pantothenic Acid"
 enableToc: true
 tags:
   - topic/history/biography

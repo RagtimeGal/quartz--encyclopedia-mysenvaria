@@ -1,5 +1,7 @@
 ---
-title: God of Aspirin
+title: "God of Aspirin"
+aliases:
+ - "Aspirin"
 enableToc: true
 tags:
   - topic/history/biography

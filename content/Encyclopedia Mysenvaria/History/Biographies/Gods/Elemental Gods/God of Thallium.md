@@ -1,5 +1,7 @@
 ---
-title: God of Thallium
+title: "God of Thallium"
+aliases:
+ - "Thallium"
 enableToc: true
 tags:
   - topic/history/biography

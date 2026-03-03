@@ -1,5 +1,7 @@
 ---
-title: God of Sand
+title: "God of Sand"
+aliases:
+  - "Sand"
 enableToc: true
 tags:
   - topic/history/biography

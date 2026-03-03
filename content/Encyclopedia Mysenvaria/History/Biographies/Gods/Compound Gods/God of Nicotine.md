@@ -1,5 +1,7 @@
 ---
-title: God of Nicotine
+title: "God of Nicotine"
+aliases:
+ - "Nicotine"
 enableToc: true
 tags:
   - topic/history/biography

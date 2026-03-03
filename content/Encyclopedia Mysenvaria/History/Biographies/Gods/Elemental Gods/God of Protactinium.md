@@ -1,5 +1,7 @@
 ---
-title: God of Protactinium
+title: "God of Protactinium"
+aliases:
+ - "Protactinium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Neptunium
+title: "God of Neptunium"
+aliases:
+ - "Neptunium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Californium
+title: "God of Californium"
+aliases:
+ - "Californium"
 enableToc: true
 tags:
   - topic/history/biography

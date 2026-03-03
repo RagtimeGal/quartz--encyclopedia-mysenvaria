@@ -1,5 +1,7 @@
 ---
-title: God of Silicon Dioxide
+title: "God of Silicon Dioxide"
+aliases:
+ - "Silicon Dioxide"
 enableToc: true
 tags:
   - topic/history/biography

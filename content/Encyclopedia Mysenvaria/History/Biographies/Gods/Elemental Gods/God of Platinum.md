@@ -1,5 +1,7 @@
 ---
-title: God of Platinum
+title: "God of Platinum"
+aliases:
+ - "Platinum"
 enableToc: true
 tags:
   - topic/history/biography

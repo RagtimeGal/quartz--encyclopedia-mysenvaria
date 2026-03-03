@@ -1,5 +1,7 @@
 ---
-title: God of Polonium
+title: "God of Polonium"
+aliases:
+ - "Polonium"
 enableToc: true
 tags:
   - topic/history/biography

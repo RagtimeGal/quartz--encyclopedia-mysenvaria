@@ -1,5 +1,5 @@
 ---
-title: New Inner Rainciv Astronomy Council
+title: "New Inner Rainciv Astronomy Council"
 enableToc: true
 tags:
   - topic/culture/organization

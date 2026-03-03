@@ -1,5 +1,7 @@
 ---
-title: God of Gold
+title: "God of Gold"
+aliases:
+ - "Gold"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Helium
+title: "God of Helium"
+aliases:
+ - "Helium"
 enableToc: true
 tags:
   - topic/history/biography

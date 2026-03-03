@@ -1,5 +1,7 @@
 ---
-title: God of Chloramphenicol
+title: "God of Chloramphenicol"
+aliases:
+ - "Chloramphenicol"
 enableToc: true
 tags:
   - topic/history/biography

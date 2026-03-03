@@ -1,5 +1,7 @@
 ---
-title: God of Einsteinium
+title: "God of Einsteinium"
+aliases:
+ - "Einsteinium"
 enableToc: true
 tags:
   - topic/history/biography

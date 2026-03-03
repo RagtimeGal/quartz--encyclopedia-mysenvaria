@@ -1,5 +1,7 @@
 ---
-title: God of Europium Oxide
+title: "God of Europium Oxide"
+aliases:
+ - "Europium Oxide"
 enableToc: true
 tags:
   - topic/history/biography

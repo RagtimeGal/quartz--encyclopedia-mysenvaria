@@ -1,5 +1,7 @@
 ---
-title: Gods of Kinetic & Potential Energy
+title: "Gods of Kinetic & Potential Energy"
+aliases:
+ - "Kinetic & Potential Energy"
 enableToc: true
 tags:
   - topic/history/biography

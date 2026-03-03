@@ -1,5 +1,5 @@
 ---
-title: Encounters With The Quadrinity
+title: "Encounters With The Quadrinity"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

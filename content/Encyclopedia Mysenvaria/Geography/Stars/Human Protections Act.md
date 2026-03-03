@@ -1,5 +1,5 @@
 ---
-title: Human Protection Act
+title: "Human Protection Act"
 enableToc: true
 tags:
   - topic/geography/astrography

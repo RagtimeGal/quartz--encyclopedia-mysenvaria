@@ -1,5 +1,5 @@
 ---
-title: Humanity Lost
+title: "Humanity Lost"
 enableToc: true
 tags:
   - topic/geography/astrography

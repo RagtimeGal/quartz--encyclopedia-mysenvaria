@@ -1,5 +1,5 @@
 ---
-title: Lost Elements Star
+title: "Lost Elements Star"
 enableToc: true
 tags:
   - topic/geography/astrography

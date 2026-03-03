@@ -1,5 +1,7 @@
 ---
-title: God of Rubidium
+title: "God of Rubidium"
+aliases:
+ - "Rubidium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Weather
+title: "God of Weather"
+aliases:
+  - "Weather"
 enableToc: true
 tags:
   - topic/history/biography

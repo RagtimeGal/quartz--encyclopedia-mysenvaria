@@ -1,5 +1,5 @@
 ---
-title: Cartographer
+title: "Cartographer"
 enableToc: true
 tags:
   - topic/culture/occupation

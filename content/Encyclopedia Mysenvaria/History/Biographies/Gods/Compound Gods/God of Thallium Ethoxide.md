@@ -1,5 +1,7 @@
 ---
-title: God of Thallium Ethoxide
+title: "God of Thallium Ethoxide"
+aliases:
+ - "Thallium Ethoxide"
 enableToc: true
 tags:
   - topic/history/biography

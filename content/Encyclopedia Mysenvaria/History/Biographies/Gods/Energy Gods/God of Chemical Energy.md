@@ -1,5 +1,7 @@
 ---
-title: God of Chemical Energy
+title: "God of Chemical Energy"
+aliases:
+ - "Chemical Energy"
 enableToc: true
 tags:
   - topic/history/biography

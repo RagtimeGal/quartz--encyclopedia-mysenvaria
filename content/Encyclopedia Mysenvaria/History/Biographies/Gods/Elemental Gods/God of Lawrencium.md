@@ -1,5 +1,7 @@
 ---
-title: God of Lawrencium
+title: "God of Lawrencium"
+aliases:
+ - "Lawrencium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,5 @@
 ---
-title: Evolutionary Classification In The Modern World
+title: "Evolutionary Classification In The Modern World"
 enableToc: true
 tags:
   - topic/art/literature/non-fiction

@@ -1,5 +1,5 @@
 ---
-title: Failed Love Star
+title: "Failed Love Star"
 enableToc: true
 tags:
   - topic/geography/astrography

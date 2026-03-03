@@ -1,5 +1,7 @@
 ---
-title: God of Calcium Hydroxide
+title: "God of Calcium Hydroxide"
+aliases:
+ - "Calcium Hydroxide"
 enableToc: true
 tags:
   - topic/history/biography

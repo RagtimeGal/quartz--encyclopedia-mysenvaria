@@ -1,5 +1,5 @@
 ---
-title: Deadman's Sea
+title: "Deadman's Sea"
 enableToc: true
 tags:
   - topic/geography/natural

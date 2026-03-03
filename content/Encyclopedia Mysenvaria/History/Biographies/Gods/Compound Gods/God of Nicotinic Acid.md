@@ -1,5 +1,7 @@
 ---
-title: God of Nicotinic Acid
+title: "God of Nicotinic Acid"
+aliases:
+ - "Nicotinic Acid"
 enableToc: true
 tags:
   - topic/history/biography

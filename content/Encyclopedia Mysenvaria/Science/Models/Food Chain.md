@@ -1,5 +1,5 @@
 ---
-title: Food Chain
+title: "Food Chain"
 enableToc: true
 tags:
   - topic/science/model

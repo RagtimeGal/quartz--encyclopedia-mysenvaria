@@ -1,5 +1,7 @@
 ---
-title: God of Zinc
+title: "God of Zinc"
+aliases:
+ - "Zinc"
 enableToc: true
 tags:
   - topic/history/biography

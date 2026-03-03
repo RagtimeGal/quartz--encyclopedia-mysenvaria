@@ -1,5 +1,7 @@
 ---
-title: God of Fog
+title: "God of Fog"
+aliases:
+  - "Fog"
 enableToc: true
 tags:
   - topic/history/biography

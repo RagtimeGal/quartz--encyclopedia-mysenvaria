@@ -1,5 +1,5 @@
 ---
-title: New Sextown
+title: "New Sextown"
 enableToc: true
 tags:
   - topic/geography/artificial

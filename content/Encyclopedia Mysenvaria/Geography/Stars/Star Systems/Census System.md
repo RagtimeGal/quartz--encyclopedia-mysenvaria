@@ -1,5 +1,5 @@
 ---
-title: Census System
+title: "Census System"
 enableToc: true
 tags:
   - topic/geography/astrography

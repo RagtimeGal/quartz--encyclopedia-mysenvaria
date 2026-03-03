@@ -1,5 +1,7 @@
 ---
-title: God of Weak Acids
+title: "God of Weak Acids"
+aliases:
+ - "Weak Acids"
 enableToc: true
 tags:
   - topic/history/biography

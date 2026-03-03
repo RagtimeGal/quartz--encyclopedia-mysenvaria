@@ -1,5 +1,5 @@
 ---
-title: Linguistic Evolution
+title: "Linguistic Evolution"
 enableToc: true
 tags:
   - topic/science/model

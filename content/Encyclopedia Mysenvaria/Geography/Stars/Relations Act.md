@@ -1,5 +1,5 @@
 ---
-title: Relations Act
+title: "Relations Act"
 enableToc: true
 tags:
   - topic/geography/astrography

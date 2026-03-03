@@ -1,5 +1,7 @@
 ---
-title: God of Sodium Ethyl Xanthate
+title: "God of Sodium Ethyl Xanthate"
+aliases:
+ - "Sodium Ethyl Xanthate"
 enableToc: true
 tags:
   - topic/history/biography

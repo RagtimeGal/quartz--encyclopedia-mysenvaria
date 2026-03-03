@@ -1,5 +1,7 @@
 ---
-title: God of Vanadium
+title: "God of Vanadium"
+aliases:
+ - "Vanadium"
 enableToc: true
 tags:
   - topic/history/biography

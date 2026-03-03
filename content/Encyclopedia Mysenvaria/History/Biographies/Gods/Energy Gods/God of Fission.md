@@ -1,5 +1,7 @@
 ---
-title: God of Fission
+title: "God of Fission"
+aliases:
+ - "Fission"
 enableToc: true
 tags:
   - topic/history/biography

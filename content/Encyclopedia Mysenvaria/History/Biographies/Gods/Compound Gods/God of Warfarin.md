@@ -1,5 +1,7 @@
 ---
-title: God of Warfarin
+title: "God of Warfarin"
+aliases:
+ - "Warfarin"
 enableToc: true
 tags:
   - topic/history/biography

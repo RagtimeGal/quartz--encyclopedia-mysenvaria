@@ -1,5 +1,7 @@
 ---
-title: God of Ytterbium
+title: "God of Ytterbium"
+aliases:
+ - "Ytterbium"
 enableToc: true
 tags:
   - topic/history/biography

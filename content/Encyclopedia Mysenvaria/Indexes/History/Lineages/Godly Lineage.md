@@ -1,5 +1,5 @@
 ---
-title: Godly Lineage
+title: "Godly Lineage"
 enableToc: false
 tags:
   - topic/history

@@ -1,5 +1,7 @@
 ---
-title: God of Hassium
+title: "God of Hassium"
+aliases:
+ - "Hassium"
 enableToc: true
 tags:
   - topic/history/biography

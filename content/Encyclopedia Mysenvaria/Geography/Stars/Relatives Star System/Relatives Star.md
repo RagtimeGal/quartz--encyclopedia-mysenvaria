@@ -1,5 +1,5 @@
 ---
-title: Relatives Star
+title: "Relatives Star"
 enableToc: true
 tags:
   - topic/geography/astrography

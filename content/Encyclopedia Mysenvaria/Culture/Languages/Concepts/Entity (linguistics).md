@@ -1,5 +1,5 @@
 ---
-title: Entity (linguistics)
+title: "Entity (linguistics)"
 enableToc: true
 tags:
   - topic/culture/language

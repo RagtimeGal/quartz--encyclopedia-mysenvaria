@@ -1,5 +1,7 @@
 ---
-title: God of Curium
+title: "God of Curium"
+aliases:
+ - "Curium"
 enableToc: true
 tags:
   - topic/history/biography

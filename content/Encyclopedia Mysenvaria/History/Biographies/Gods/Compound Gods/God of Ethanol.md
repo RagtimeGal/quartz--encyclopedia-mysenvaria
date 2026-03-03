@@ -1,5 +1,7 @@
 ---
-title: God of Ethanol
+title: "God of Ethanol"
+aliases:
+ - "Ethanol"
 enableToc: true
 tags:
   - topic/history/biography

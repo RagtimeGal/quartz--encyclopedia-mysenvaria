@@ -1,5 +1,5 @@
 ---
-title: Eastern Archipelago
+title: "Eastern Archipelago"
 enableToc: true
 tags:
   - topic/geography/natural

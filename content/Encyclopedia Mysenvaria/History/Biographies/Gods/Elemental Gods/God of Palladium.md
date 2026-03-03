@@ -1,5 +1,7 @@
 ---
-title: God of Palladium
+title: "God of Palladium"
+aliases:
+ - "Palladium"
 enableToc: true
 tags:
   - topic/history/biography

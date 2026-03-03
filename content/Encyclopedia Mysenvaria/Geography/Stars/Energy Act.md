@@ -1,5 +1,5 @@
 ---
-title: Energy Act
+title: "Energy Act"
 enableToc: true
 tags:
   - topic/geography/astrography

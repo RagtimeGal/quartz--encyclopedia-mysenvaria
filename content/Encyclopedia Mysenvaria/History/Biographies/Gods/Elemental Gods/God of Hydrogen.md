@@ -1,5 +1,7 @@
 ---
-title: God of Hydrogen
+title: "God of Hydrogen"
+aliases:
+ - "Hydrogen"
 enableToc: true
 tags:
   - topic/history/biography

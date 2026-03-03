@@ -1,5 +1,5 @@
 ---
-title: Edge
+title: "Edge"
 enableToc: true
 tags:
   - topic/geography/abstract

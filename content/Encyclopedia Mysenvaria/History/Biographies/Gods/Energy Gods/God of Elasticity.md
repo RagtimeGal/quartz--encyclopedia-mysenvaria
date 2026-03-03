@@ -1,5 +1,7 @@
 ---
-title: God of Elasticity
+title: "God of Elasticity"
+aliases:
+ - "Elasticity"
 enableToc: true
 tags:
   - topic/history/biography

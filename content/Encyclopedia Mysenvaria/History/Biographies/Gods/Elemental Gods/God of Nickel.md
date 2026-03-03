@@ -1,5 +1,7 @@
 ---
-title: God of Nickel
+title: "God of Nickel"
+aliases:
+ - "Nickel"
 enableToc: true
 tags:
   - topic/history/biography

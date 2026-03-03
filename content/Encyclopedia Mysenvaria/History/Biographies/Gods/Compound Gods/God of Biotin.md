@@ -1,5 +1,7 @@
 ---
-title: God of Biotin
+title: "God of Biotin"
+aliases:
+ - "Biotin"
 enableToc: true
 tags:
   - topic/history/biography

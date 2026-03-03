@@ -1,5 +1,7 @@
 ---
-title: God of Electricity
+title: "God of Electricity"
+aliases:
+ - "Electricity"
 enableToc: true
 tags:
   - topic/history/biography

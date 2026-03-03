@@ -1,5 +1,7 @@
 ---
-title: God of Bead Lightning
+title: "God of Bead Lightning"
+aliases:
+  - "Bead Lightning"
 enableToc: true
 tags:
   - topic/history/biography

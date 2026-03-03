@@ -1,5 +1,7 @@
 ---
-title: God of Riboflavin
+title: "God of Riboflavin"
+aliases:
+ - "Riboflavin"
 enableToc: true
 tags:
   - topic/history/biography

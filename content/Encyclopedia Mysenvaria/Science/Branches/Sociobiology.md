@@ -1,5 +1,5 @@
 ---
-title: Sociobiology
+title: "Sociobiology"
 enableToc: true
 tags:
   - topic/science/branch

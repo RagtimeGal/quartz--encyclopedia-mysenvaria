@@ -1,5 +1,7 @@
 ---
-title: God of Dideuteroathanol
+title: "God of Dideuteroathanol"
+aliases:
+ - "Dideuteroathanol"
 enableToc: true
 tags:
   - topic/history/biography

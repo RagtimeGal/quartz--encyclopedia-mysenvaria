@@ -1,5 +1,7 @@
 ---
-title: God of Krypton
+title: "God of Krypton"
+aliases:
+ - "Krypton"
 enableToc: true
 tags:
   - topic/history/biography

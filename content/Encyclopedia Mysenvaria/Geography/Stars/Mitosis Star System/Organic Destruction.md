@@ -1,5 +1,5 @@
 ---
-title: Organic Destruction
+title: "Organic Destruction"
 enableToc: true
 tags:
   - topic/geography/astrography

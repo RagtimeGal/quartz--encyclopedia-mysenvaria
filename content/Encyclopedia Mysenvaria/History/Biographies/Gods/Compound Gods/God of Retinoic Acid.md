@@ -1,5 +1,7 @@
 ---
-title: God of Retinoic Acid
+title: "God of Retinoic Acid"
+aliases:
+ - "Retinoic Acid"
 enableToc: true
 tags:
   - topic/history/biography

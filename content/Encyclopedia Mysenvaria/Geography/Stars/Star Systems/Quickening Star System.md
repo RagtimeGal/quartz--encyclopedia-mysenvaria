@@ -1,5 +1,5 @@
 ---
-title: Quickening Star System
+title: "Quickening Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

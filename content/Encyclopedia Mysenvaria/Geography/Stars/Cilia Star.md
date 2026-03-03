@@ -1,5 +1,5 @@
 ---
-title: Cilia Star
+title: "Cilia Star"
 enableToc: true
 tags:
   - topic/geography/astrography

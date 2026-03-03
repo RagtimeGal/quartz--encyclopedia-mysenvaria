@@ -1,13 +1,16 @@
 ---
-title: List of Lesser-Gods
+title: "List of Lesser-Gods"
 enableToc: true
 tags:
+  - topic/history/biography
   - subject/god/lesser-god
 type: index
-status: update
+status: complete
+future: auto-generated
 ---
 
 This page serves as an index of lesser-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], defined as Gods whose elements of nature would continue to exist upon death.
+# Lesser-Gods
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]

@@ -1,5 +1,5 @@
 ---
-title: Mage
+title: "Mage"
 enableToc: true
 tags:
   - topic/culture/occupation

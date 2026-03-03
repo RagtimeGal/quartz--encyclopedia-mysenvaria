@@ -1,5 +1,5 @@
 ---
-title: Evolutionary Classification
+title: "Evolutionary Classification"
 enableToc: true
 tags:
   - topic/science/model

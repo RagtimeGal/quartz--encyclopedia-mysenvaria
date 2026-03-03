@@ -1,5 +1,7 @@
 ---
-title: God of Greenschist
+title: "God of Greenschist"
+aliases:
+  - "Greenschist"
 enableToc: true
 tags:
   - topic/history/biography

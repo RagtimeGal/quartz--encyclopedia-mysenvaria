@@ -1,5 +1,7 @@
 ---
-title: God of Octanic Acid
+title: "God of Octanic Acid"
+aliases:
+ - "Octanic Acid"
 enableToc: true
 tags:
   - topic/history/biography

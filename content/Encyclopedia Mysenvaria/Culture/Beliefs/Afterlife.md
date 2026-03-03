@@ -1,5 +1,5 @@
 ---
-title: God's Afterlife
+title: "God's Afterlife"
 enableToc: true
 tags:
   - topic/culture/belief

@@ -1,5 +1,7 @@
 ---
-title: God of Potassium Cyanide
+title: "God of Potassium Cyanide"
+aliases:
+ - "Potassium Cyanide"
 enableToc: true
 tags:
   - topic/history/biography

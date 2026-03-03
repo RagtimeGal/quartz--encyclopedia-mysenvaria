@@ -1,5 +1,7 @@
 ---
-title: God of Barium
+title: "God of Barium"
+aliases:
+ - "Barium"
 enableToc: true
 tags:
   - topic/history/biography

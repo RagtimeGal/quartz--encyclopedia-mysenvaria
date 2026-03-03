@@ -1,5 +1,7 @@
 ---
-title: God of Rhodium
+title: "God of Rhodium"
+aliases:
+ - "Rhodium"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Cyanocobalamin
+title: "God of Cyanocobalamin"
+aliases:
+ - "Cyanocobalamin"
 enableToc: true
 tags:
   - topic/history/biography

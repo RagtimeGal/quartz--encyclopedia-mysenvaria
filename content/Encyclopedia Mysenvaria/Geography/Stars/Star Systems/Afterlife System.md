@@ -1,5 +1,5 @@
 ---
-title: Afterlife System
+title: "Afterlife System"
 enableToc: true
 tags:
   - topic/geography/astrography

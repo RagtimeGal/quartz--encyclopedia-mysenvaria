@@ -1,5 +1,7 @@
 ---
-title: God of Cyclopentadecanolide
+title: "God of Cyclopentadecanolide"
+aliases:
+ - "Cyclopentadecanolide"
 enableToc: true
 tags:
   - topic/history/biography

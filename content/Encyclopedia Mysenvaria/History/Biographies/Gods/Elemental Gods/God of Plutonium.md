@@ -1,5 +1,7 @@
 ---
-title: God of Plutonium
+title: "God of Plutonium"
+aliases:
+ - "Plutonium"
 enableToc: true
 tags:
   - topic/history/biography

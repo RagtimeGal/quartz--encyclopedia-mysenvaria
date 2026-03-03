@@ -1,5 +1,5 @@
 ---
-title: Apology System
+title: "Apology System"
 enableToc: true
 tags:
   - topic/geography/astrography

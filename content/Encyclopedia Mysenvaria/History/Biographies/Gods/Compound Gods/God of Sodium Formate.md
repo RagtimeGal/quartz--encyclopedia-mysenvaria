@@ -1,5 +1,7 @@
 ---
-title: God of Sodium Formate
+title: "God of Sodium Formate"
+aliases:
+ - "Sodium Formate"
 enableToc: true
 tags:
   - topic/history/biography

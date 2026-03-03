@@ -1,5 +1,7 @@
 ---
-title: God of Current
+title: "God of Current"
+aliases:
+ - "Current"
 enableToc: true
 tags:
   - topic/history/biography

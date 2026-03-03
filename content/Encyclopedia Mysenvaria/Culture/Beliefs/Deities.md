@@ -1,5 +1,5 @@
 ---
-title: Deities
+title: "Deities"
 enableToc: true
 tags:
   - topic/culture/belief

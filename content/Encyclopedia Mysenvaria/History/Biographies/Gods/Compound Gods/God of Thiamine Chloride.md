@@ -1,5 +1,7 @@
 ---
-title: God of Thiamine Chloride
+title: "God of Thiamine Chloride"
+aliases:
+ - "Thiamine Chloride"
 enableToc: true
 tags:
   - topic/history/biography

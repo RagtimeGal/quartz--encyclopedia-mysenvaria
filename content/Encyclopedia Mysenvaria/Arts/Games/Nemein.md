@@ -1,5 +1,5 @@
 ---
-title: Nemein
+title: "Nemein"
 enableToc: true
 tags:
   - topic/art/game

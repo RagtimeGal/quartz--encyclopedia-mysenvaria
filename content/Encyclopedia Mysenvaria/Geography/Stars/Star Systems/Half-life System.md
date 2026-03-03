@@ -1,5 +1,5 @@
 ---
-title: Half-life System
+title: "Half-life System"
 enableToc: true
 tags:
   - topic/geography/astrography

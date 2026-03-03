@@ -1,5 +1,7 @@
 ---
-title: God of Hail
+title: "God of Hail"
+aliases:
+  - "Hail"
 enableToc: true
 tags:
   - topic/history/biography

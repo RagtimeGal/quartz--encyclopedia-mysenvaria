@@ -1,5 +1,7 @@
 ---
-title: God of Metronidazole
+title: "God of Metronidazole"
+aliases:
+ - "Metronidazole"
 enableToc: true
 tags:
   - topic/history/biography

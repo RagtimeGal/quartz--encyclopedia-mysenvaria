@@ -1,5 +1,5 @@
 ---
-title: Inner Circle
+title: "Inner Circle"
 enableToc: true
 tags:
   - topic/geography/abstract

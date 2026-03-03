@@ -1,5 +1,5 @@
 ---
-title: Frontier Beyond
+title: "Frontier Beyond"
 enableToc: true
 tags:
   - topic/geography/astrography

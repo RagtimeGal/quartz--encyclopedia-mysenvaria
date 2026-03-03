@@ -1,5 +1,5 @@
 ---
-title: Elves Star
+title: "Elves Star"
 enableToc: true
 tags:
   - topic/geography/astrography

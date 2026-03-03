@@ -1,5 +1,5 @@
 ---
-title: Half-life Star
+title: "Half-life Star"
 enableToc: true
 tags:
   - topic/geography/astrography

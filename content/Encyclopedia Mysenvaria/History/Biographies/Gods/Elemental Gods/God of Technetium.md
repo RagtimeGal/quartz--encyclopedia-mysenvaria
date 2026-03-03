@@ -1,5 +1,7 @@
 ---
-title: God of Technetium
+title: "God of Technetium"
+aliases:
+ - "Technetium"
 enableToc: true
 tags:
   - topic/history/biography

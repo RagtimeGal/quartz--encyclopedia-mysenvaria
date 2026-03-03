@@ -1,5 +1,7 @@
 ---
-title: God of Exothermic Reactions
+title: "God of Exothermic Reactions"
+aliases:
+ - "Exothermic Reactions"
 enableToc: true
 tags:
   - topic/history/biography

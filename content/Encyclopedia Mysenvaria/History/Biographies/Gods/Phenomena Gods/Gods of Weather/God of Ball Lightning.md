@@ -1,5 +1,7 @@
 ---
-title: God of Ball Lightning
+title: "God of Ball Lightning"
+aliases:
+  - "Ball Lightning"
 enableToc: true
 tags:
   - topic/history/biography

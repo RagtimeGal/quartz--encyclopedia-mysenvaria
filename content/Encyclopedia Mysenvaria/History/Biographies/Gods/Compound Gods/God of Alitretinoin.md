@@ -1,5 +1,7 @@
 ---
-title: God of Alitretinoin
+title: "God of Alitretinoin"
+aliases:
+ - "Alitretinoin"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Magnetism
+title: "God of Magnetism"
+aliases:
+ - "Magnetism"
 enableToc: true
 tags:
   - topic/history/biography

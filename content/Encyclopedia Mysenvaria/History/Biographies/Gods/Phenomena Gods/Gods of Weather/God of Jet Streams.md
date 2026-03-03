@@ -1,5 +1,7 @@
 ---
-title: God of Jet Streams
+title: "God of Jet Streams"
+aliases:
+  - "Jet Streams"
 enableToc: true
 tags:
   - topic/history/biography

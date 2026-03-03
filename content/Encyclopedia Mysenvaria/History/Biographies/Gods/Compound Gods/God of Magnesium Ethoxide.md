@@ -1,5 +1,7 @@
 ---
-title: God of Magnesium Ethoxide
+title: "God of Magnesium Ethoxide"
+aliases:
+ - "Magnesium Ethoxide"
 enableToc: true
 tags:
   - topic/history/biography

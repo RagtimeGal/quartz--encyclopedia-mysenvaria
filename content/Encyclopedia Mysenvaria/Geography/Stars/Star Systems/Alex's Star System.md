@@ -1,5 +1,5 @@
 ---
-title: Alex's Star System
+title: "Alex's Star System"
 enableToc: true
 tags:
   - topic/geography/astrography

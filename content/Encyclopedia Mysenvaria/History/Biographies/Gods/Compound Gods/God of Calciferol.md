@@ -1,5 +1,7 @@
 ---
-title: God of Calciferol
+title: "God of Calciferol"
+aliases:
+ - "Calciferol"
 enableToc: true
 tags:
   - topic/history/biography

@@ -1,5 +1,7 @@
 ---
-title: God of Benzethonium Chloride
+title: "God of Benzethonium Chloride"
+aliases:
+ - "Benzethonium Chloride"
 enableToc: true
 tags:
   - topic/history/biography

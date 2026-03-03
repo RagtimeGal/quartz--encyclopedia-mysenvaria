@@ -1,5 +1,7 @@
 ---
-title: God of Hydroquinone
+title: "God of Hydroquinone"
+aliases:
+ - "Hydroquinone"
 enableToc: true
 tags:
   - topic/history/biography

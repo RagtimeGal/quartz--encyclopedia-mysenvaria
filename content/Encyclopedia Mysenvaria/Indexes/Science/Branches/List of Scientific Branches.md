@@ -1,10 +1,11 @@
 ---
-title: List of Scientific Branches
+title: "List of Scientific Branches"
 enableToc: true
 tags:
   - topic/science/branch
 type: index
-status: update
+status: complete
+future: auto-generated
 index:
   - header_name: "Scientific Branches"
     included_data: 
@@ -62,6 +63,3 @@ The following is an index of all articles across the encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Branches/Wizardry|Wizardry]]
 ## Z
 - [[Encyclopedia Mysenvaria/Science/Branches/Zoology|Zoology]]
-
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

@@ -1,5 +1,5 @@
 ---
-title: Mitosis Star
+title: "Mitosis Star"
 enableToc: true
 tags:
   - topic/geography/astrography

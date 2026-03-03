@@ -1,5 +1,7 @@
 ---
-title: God of Impermeable Rock
+title: "God of Impermeable Rock"
+aliases:
+  - "Impermeable Rock"
 enableToc: true
 tags:
   - topic/history/biography

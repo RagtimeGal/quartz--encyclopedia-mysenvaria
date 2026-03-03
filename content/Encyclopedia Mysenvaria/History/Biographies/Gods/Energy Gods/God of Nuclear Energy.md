@@ -1,5 +1,7 @@
 ---
-title: God of Nuclear Energy
+title: "God of Nuclear Energy"
+aliases:
+ - "Nuclear Energy"
 enableToc: true
 tags:
   - topic/history/biography

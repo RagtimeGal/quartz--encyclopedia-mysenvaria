@@ -1,5 +1,7 @@
 ---
-title: God of Iodine
+title: "God of Iodine"
+aliases:
+ - "Iodine"
 enableToc: true
 tags:
   - topic/history/biography

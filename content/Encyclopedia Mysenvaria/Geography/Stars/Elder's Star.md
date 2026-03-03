@@ -1,5 +1,5 @@
 ---
-title: Elder's Star
+title: "Elder's Star"
 enableToc: true
 tags:
   - topic/geography/astrography

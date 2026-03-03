@@ -1,5 +1,7 @@
 ---
-title: God of Tantalum
+title: "God of Tantalum"
+aliases:
+ - "Tantalum"
 enableToc: true
 tags:
   - topic/history/biography

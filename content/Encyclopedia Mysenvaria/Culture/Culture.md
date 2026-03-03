@@ -1,5 +1,5 @@
 ---
-title: Culture
+title: "Culture"
 enableToc: true
 tags:
   - topic/culture

@@ -1,5 +1,7 @@
 ---
-title: God of Adenylic Acid
+title: "God of Adenylic Acid"
+aliases:
+ - "Adenylic Acid"
 enableToc: true
 tags:
   - topic/history/biography

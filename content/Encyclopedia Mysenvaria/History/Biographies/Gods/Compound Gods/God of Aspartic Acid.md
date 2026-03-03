@@ -1,5 +1,7 @@
 ---
-title: God of Aspartic Acid
+title: "God of Aspartic Acid"
+aliases:
+ - "Aspartic Acid"
 enableToc: true
 tags:
   - topic/history/biography

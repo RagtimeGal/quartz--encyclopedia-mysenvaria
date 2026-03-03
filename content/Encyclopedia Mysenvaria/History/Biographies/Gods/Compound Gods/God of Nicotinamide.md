@@ -1,5 +1,7 @@
 ---
-title: God of Nicotinamide
+title: "God of Nicotinamide"
+aliases:
+ - "Nicotinamide"
 enableToc: true
 tags:
   - topic/history/biography

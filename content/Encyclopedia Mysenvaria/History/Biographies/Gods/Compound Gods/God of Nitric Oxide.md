@@ -1,5 +1,7 @@
 ---
-title: God of Nitric Oxide
+title: "God of Nitric Oxide"
+aliases:
+ - "Nitric Oxide"
 enableToc: true
 tags:
   - topic/history/biography

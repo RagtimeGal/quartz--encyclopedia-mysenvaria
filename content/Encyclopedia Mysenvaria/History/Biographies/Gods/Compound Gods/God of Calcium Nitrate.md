@@ -1,5 +1,7 @@
 ---
-title: God of Calcium Nitrate
+title: "God of Calcium Nitrate"
+aliases:
+ - "Calcium Nitrate"
 enableToc: true
 tags:
   - topic/history/biography

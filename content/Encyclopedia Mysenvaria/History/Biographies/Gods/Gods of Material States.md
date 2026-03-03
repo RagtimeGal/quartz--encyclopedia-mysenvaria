@@ -1,5 +1,7 @@
 ---
-title: Gods of Material States
+title: "Gods of Material States"
+aliases:
+  - "Material States"
 enableToc: true
 tags:
   - topic/history/biography

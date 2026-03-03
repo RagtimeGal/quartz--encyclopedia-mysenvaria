@@ -1,5 +1,5 @@
 ---
-title: Humanity Created
+title: "Humanity Created"
 enableToc: true
 tags:
   - topic/geography/astrography

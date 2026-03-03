@@ -1,5 +1,5 @@
 ---
-title: Cardinal Directions
+title: "Cardinal Directions"
 enableToc: true
 tags:
   - topic/geography/abstract

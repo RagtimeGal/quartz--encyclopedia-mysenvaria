@@ -1,5 +1,5 @@
 ---
-title: Academy Publishing
+title: "Academy Publishing"
 enableToc: true
 tags:
   - topic/culture/organization

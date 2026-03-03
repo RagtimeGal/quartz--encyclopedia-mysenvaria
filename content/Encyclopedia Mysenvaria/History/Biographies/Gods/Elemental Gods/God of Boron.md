@@ -1,5 +1,7 @@
 ---
-title: God of Boron
+title: "God of Boron"
+aliases:
+ - "Boron"
 enableToc: true
 tags:
   - topic/history/biography
