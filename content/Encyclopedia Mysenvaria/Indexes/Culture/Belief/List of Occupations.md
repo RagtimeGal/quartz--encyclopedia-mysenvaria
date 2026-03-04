@@ -4,14 +4,13 @@ enableToc: true
 tags:
   - topic/culture/occupation
 type: index
-status: update
+status: complete
+future: auto-generated
 index:
   - header_name: "Occupations"
     included_data: 
       - tags: [topic/culture/occupation]
-    excluded_data:
-      - type: index
-      - type: template
+      - type: article
     sort:
       - by: title
         method: standard_forward
@@ -20,7 +19,7 @@ index:
           method: first_character
 ---
 
-This following is an index of all articles across the encyclopedia which describe [[Encyclopedia Mysenvaria/Culture/Culture#Languages|languages]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Culture#Occupations & Crafts|occupations]], sorted alphabetically.
 # Occupations
 ## A
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Adventurer|Adventurer]]
@@ -42,5 +41,3 @@ This following is an index of all articles across the encyclopedia which describ
 ## W
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|Wizard]]
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

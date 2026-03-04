@@ -3,6 +3,7 @@ title: "Entity (linguistics)"
 enableToc: true
 tags:
   - topic/culture/language
+  - subject/linguistics
 type: article
 status: empty
 ---

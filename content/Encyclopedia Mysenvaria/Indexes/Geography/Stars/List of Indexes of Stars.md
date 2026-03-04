@@ -13,12 +13,12 @@ index:
       - tags: [subject/star]
       - type: index
     excluded_data:
-      - title: List of Indexes of Stars
+      - title: "List of Indexes of Stars"
     sort:
       - by: title
         method: standard_forward
         subheaders:
-          generate: true
+          generate: false
           method: first_character
 ---
 The following is an index of indexes which list [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], sorted alphabetically.

@@ -23,10 +23,10 @@ title: "Example Article" # The title of the article.
 aliases: # A list of aliases for the title.
   - "Example"
 enableToc: true # Whether or not to render a Table of Contents on the article.
-type: article # The type of article. Defaults to `article`. Accepts: `article`, `index`, `table`, `overview`, `ledger`, `project`, `addenda`, or `template`.
+type: article # The type of article. Defaults to `article`. Accepts: `article`, `index`, `archive`, `overview`, `ledger`, `project`, `addenda`, or `template`.
 status: empty # The current status of the article. Defaults to `empty`. Accepts: `empty`, `stub`, `incomplete`, `touch-up`, `update`, or `complete`.
 future: none # How this article may fare in the future. Defaults to `none`. Accepts: `update`, `rewrite`, `review`, or `auto-generated`.
-has: # `has` and `need` allow writers or editors to know what articles need what media. Accepts: `infobox`, `image`, `video`, `graphics`, `featured_data`, and `addenda`.
+has: # `has` and `need` allow writers or editors to know what articles need what media. Accepts: `infobox`, `image`, `video`, `graphics`, `featured_data`, `archive`, and `addenda`.
   - example
 needs:
   - example
@@ -113,14 +113,33 @@ tags:
   - subject/star/child # This article covers information regarding a child star in a star system.
   - subject/star_system # This article covers information regarding a star system.
 # These tags are used for articles which cover information relating to the Plane's sophonts.
-  - subject/sophont # This articles covers information regarding an aspect of sophonts.
-  - subject/sophont/human # This articles covers information regarding an aspect of humans.
-  - subject/sophont/elf # This articles covers information regarding an aspect of elves.
-  - subject/sophont/dwarf # This articles covers information regarding an aspect of dwarves.
+  - subject/sophont # This article covers information regarding an aspect of sophonts.
+  - subject/sophont/human # This article covers information regarding an aspect of humans.
+  - subject/sophont/elf # This article covers information regarding an aspect of elves.
+  - subject/sophont/dwarf # This article covers information regarding an aspect of dwarves.
+# These tags are used for articles covering literary works.
+  - subject/literature # This article covers information regarding a literary work.
+  - subject/literature/non-fiction # This article covers a literary work of the genre: fiction.
+  - subject/literature/fiction # This article covers a literary work of the genre: non-fiction.
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
+  - subject/literature/ # This article covers a literary work of the genre: .
 # These tags are used for misc. subjects.
   - subject/old_world # This article covers information which occurred in the Old World.
   - subject/new_world # This article covers information which occurred in the New World.
   - subject/war # This article covers information regarding a war.
+  - subject/linguistics # This article covers information regarding the study of linguistics
 ---
 ```
 # Event Example
@@ -244,5 +263,21 @@ featured_data:
 featured_description_example: A short and concise description of the article's contents.
 featured_image_example: ![[Media/Images/example.png|example.png]]
 fun_fact1: A short fun fact relating to the article's contents. Should be formated to be followed by "Did you know...".
+%%
+```
+# Archive Example
+```yaml
+---
+archived_work:
+  title: "Example Work"
+  authors: ["author_example"] # An array of any authors who are known to have worked on the work.
+  language: "language_example" # The original language the work was published in.
+  publication_date: [] # Date of the work's original publication.
+  medium: unknown # The medium the work was originally published in. Accepts: `unknown`, `stone`, `clay`, `papyrus`, `wax`, `wood`, `parchment`, `vellum`, or `paper`.
+  status: complete # The current status of the archived work. Accepts: `complete`, `fragmented`, `censored`, `restored`, or `lost`.
+---
+%%
+author_example: May be a wikilink to the work's author.
+language_example: May be a wikilink to the work's original language.
 %%
 ```

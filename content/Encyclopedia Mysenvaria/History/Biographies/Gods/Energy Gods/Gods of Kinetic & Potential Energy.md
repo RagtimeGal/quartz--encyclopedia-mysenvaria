@@ -27,5 +27,5 @@ The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of Kinetic and Poten
 # Domain
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|List of Energy Gods]]

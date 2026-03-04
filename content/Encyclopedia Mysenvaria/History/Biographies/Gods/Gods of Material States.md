@@ -34,4 +34,4 @@ The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of Material States a
 # Domain
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]

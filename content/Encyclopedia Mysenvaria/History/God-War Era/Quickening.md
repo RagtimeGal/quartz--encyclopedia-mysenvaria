@@ -29,5 +29,5 @@ Before the start of the Quickening the [[Encyclopedia Mysenvaria/History/Biograp
 
 The astronomical number of Gods would lead to overlapping domains and cramped space. Documented in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]] the increasing tensions would culminate in a confrontation between two lesser-Gods, resulting in the First Death in 177 BT. Gods, now aware of their own mortality, would begin panicking and the God-War would begin.
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

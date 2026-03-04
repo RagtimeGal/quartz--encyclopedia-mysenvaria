@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Encyclopedia Home"
 enableToc: true
 tags:
   - topic/meta
@@ -10,6 +10,8 @@ status: complete
 The [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is a comprehensive collection of educational articles written by numerous scholars from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and compiled and published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]]. Academy Publishing has worked diligently for the last two hundred years to collaborate and compile the work of as many scholars from as many [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|studies]] as possible.
 
 Academy Publishing's own [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomists]] have neatly organized and categorized all articles into six sets of primary topics, including: [[Encyclopedia Mysenvaria/Arts/Art|art]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Geography/Geography|geography]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Science/Science|science]]. Each topic is then subdivided into a number of sub-topics, some overlapping across multiple primaries.
+
+Academy Publishing also offers the 
 
 It can appear difficult at first to find a place to begin within the Encyclopedia, so tailored articles have been written to simplify the task:
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]] act as lists of articles sharing similar or related topics.

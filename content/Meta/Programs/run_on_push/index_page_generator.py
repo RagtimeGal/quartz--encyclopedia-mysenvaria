@@ -303,39 +303,97 @@ def tokenize_path(path: str) -> List[str]:
 
 def resolve_values_at_path(obj: Any, path: str) -> List[Any]:
     """
-    Returns ALL values found at the path (supports [] list traversal).
-    Example:
-      resolve_values_at_path(fm, "event[].start_date") -> ["1214-3", "1215-1", ...]
+    Return **all** values found at *path* inside a nested front‑matter
+    structure.
+
+    Supported path syntaxes
+    -----------------------
+    •  plain key                → dive into a dict entry
+    •  key[]                   → treat the entry as a list and return **all**
+                                 elements of that list
+    •  key[<int>]              → treat the entry as a list and return the
+                                 element at the given zero‑based index
+                                 (if it exists).
+
+    Example
+    -------
+        resolve_values_at_path(fm, "event[].start_date") → ["1214-3", "1215-1", …]
+        resolve_values_at_path(fm, "aliases[0]")         → ["Ammonium Nitrate"]
     """
+    # Split on '.' (the helper already exists elsewhere in the file)
     parts = tokenize_path(path)
-    cur_nodes = [obj]
+
+    # Current working set of nodes – start with the whole front‑matter object
+    cur_nodes: List[Any] = [obj]
+
+    # Pre‑compile the regex that recognises a numeric index:  key[12]
+    index_pat = re.compile(r"^(.+)\[(\d+)\]$")
+
     for part in parts:
         nxt: List[Any] = []
+
+        # --------------------------------------------------------------
+        # 1️⃣  Numeric‑index case  (e.g. "aliases[0]")
+        # --------------------------------------------------------------
+        m = index_pat.fullmatch(part)
+        if m:
+            key, idx_str = m.group(1), m.group(2)
+            idx = int(idx_str)
+
+            for node in cur_nodes:
+                if isinstance(node, dict) and key in node:
+                    val = node[key]
+
+                    # Only lists can be indexed – if it isn’t a list we just ignore it
+                    if isinstance(val, list) and 0 <= idx < len(val):
+                        nxt.append(val[idx])
+
+            # Move on to the next part of the path
+            cur_nodes = nxt
+            if not cur_nodes:
+                break
+            continue
+
+        # --------------------------------------------------------------
+        # 2️⃣  "any‑element" list traversal case  (e.g. "event[]")
+        # --------------------------------------------------------------
         is_list = part.endswith("[]")
         key = part[:-2] if is_list else part
+
         for node in cur_nodes:
             if isinstance(node, dict) and key in node:
-                val = node.get(key)
+                val = node[key]
+
                 if is_list:
+                    # If the value is a list we return *all* its items
                     if isinstance(val, list):
                         nxt.extend(val)
+                    # If it is a dict we treat the whole dict as a single element
                     elif isinstance(val, dict):
                         nxt.append(val)
+                    # Scalars are also accepted – they become a single element
                     else:
-                        # scalar treated as single element
                         nxt.append(val)
                 else:
+                    # Plain scalar/dict – just forward the value
                     nxt.append(val)
+
+        # Prepare for the next iteration
         cur_nodes = nxt
         if not cur_nodes:
             break
-    # If we ended on lists, flatten one level
+
+    # --------------------------------------------------------------
+    # Final flattening – if the last hop landed on a list we want its
+    # individual items, not the list object itself.
+    # --------------------------------------------------------------
     out: List[Any] = []
     for n in cur_nodes:
         if isinstance(n, list):
             out.extend(n)
         else:
             out.append(n)
+
     return out
 
 def is_date_path(path: str) -> bool:

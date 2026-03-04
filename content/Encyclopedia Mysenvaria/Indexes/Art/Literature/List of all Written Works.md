@@ -9,9 +9,7 @@ index:
   - header_name: "Fiction"
     included_data: 
       - tags: [topic/art/literature/fiction]
-    excluded_data: 
-      - type: index
-      - type: template
+      - type: article
     sort:
       - by: title
         method: standard_forward
@@ -21,9 +19,7 @@ index:
   - header_name: "Non-fiction"
     included_data: 
       - tags: [topic/art/literature/non-fiction]
-    excluded_data: 
-      - type: index
-      - type: template
+      - type: article
     sort:
       - by: title
         method: standard_forward
@@ -32,7 +28,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the encyclopedia describing [[Encyclopedia Mysenvaria/Arts/Art#Literature|literary works]], organized into fiction and non-fiction categories and listed in alphabetical order.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Arts/Art#Literature|literary works]], organized into fiction and non-fiction categories and listed in alphabetical order.
 # Fiction
 
 # Non-fiction

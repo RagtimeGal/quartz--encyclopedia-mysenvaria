@@ -89,8 +89,10 @@ This page serves as an index of index pages across the encyclopedia, sorted by t
 # Geography
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Artificial Features/List of Artificial Features|List of Artificial Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/List of Indexes of Geographical Features|List of Indexes of Geographical Features]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Natural Features|List of Natural Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/List of all Geographical Features|List of all Geographical Features]]
 
 # History
 - [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]
@@ -100,9 +102,9 @@ This page serves as an index of index pages across the encyclopedia, sorted by t
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|List of Energy Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Gods|List of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/Lists of Gods|Lists of Gods]]
 
 # Science
 - [[Encyclopedia Mysenvaria/Indexes/Science/Models/List of Models|List of Models]]

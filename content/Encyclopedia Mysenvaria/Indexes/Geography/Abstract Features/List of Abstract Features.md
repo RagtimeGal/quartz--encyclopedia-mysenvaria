@@ -4,14 +4,13 @@ enableToc: true
 tags:
   - topic/geography/abstract
 type: index
-status: update
+status: complete
+future: auto-generated
 index:
   - header_name: "Abstract Features"
     included_data: 
-      - tags: [topic/culture/abstract]
-    excluded_data:
-      - type: index
-      - type: template
+      - tags: [topic/geography/abstract]
+      - type: article
     sort:
       - by: title
         method: standard_forward
@@ -20,11 +19,24 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the encyclopedia which describe [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract features]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract features]], sorted alphabetically.
 # Abstract Features
+## A
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]]
+## C
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]
+## E
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]]
+## H
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]]
+## I
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|Inner Circle]]
+## O
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Outer Ring|Outer Ring]]
+## S
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
-
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

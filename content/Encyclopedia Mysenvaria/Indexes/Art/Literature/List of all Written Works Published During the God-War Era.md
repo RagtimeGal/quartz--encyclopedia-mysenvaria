@@ -10,9 +10,7 @@ index:
     included_data: 
       - tags: [topic/art/literature/*]
       - event[].start_date: {lte: -1}
-    excluded_data: 
-      - type: index
-      - type: template
+      - type: article
     sort:
       - by: event[].start_date
         method: standard_forward
@@ -26,7 +24,7 @@ index:
           generate: false
 ---
 
-The following is an index of all articles across the encyclopedia describing [[Encyclopedia Mysenvaria/Arts/Art#Literature|literary works]] which were published during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]], organized by decade of publication.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Arts/Art#Literature|literary works]] which were published during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]], organized by decade of publication.
 # Works Published During the God-War Era
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]

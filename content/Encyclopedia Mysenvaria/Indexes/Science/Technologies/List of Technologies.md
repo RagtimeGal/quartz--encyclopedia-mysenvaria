@@ -10,9 +10,7 @@ index:
   - header_name: "Technologies"
     included_data: 
       - tags: [topic/science/technology]
-    excluded_data:
-      - type: index
-      - type: template
+      - type: article
     sort:
       - by: title
         method: standard_forward

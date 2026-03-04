@@ -18,7 +18,7 @@ ledger_data:
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 4.2026|Ledger 4.2026]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 11.2026|Ledger 11.2026]]
 
 This week the URL for the Encyclopedia has changed! As part of a larger push from myself to work on other projects the URL has changed from `https://mysenvaria.ragno.wiki` to `https://mysenvaria.ragno.studio`! If it's properly set up the prior URL should redirect to the new URL for the next year-or-so until my payment expires.
 
