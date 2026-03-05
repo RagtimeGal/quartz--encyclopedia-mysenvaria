@@ -22,18 +22,22 @@ The following is the required YAML data for each article on the Encyclopedia:
 title: "Example Article" # The title of the article.
 aliases: # A list of aliases for the title.
   - "Example"
+link: "page_link" # Optional. If not included it defaults to the generic wikilink for the article. Programs use this to refer to the page in generated articles.
 enableToc: true # Whether or not to render a Table of Contents on the article.
 type: article # The type of article. Defaults to `article`. Accepts: `article`, `index`, `archive`, `overview`, `ledger`, `project`, `addenda`, or `template`.
 status: empty # The current status of the article. Defaults to `empty`. Accepts: `empty`, `stub`, `incomplete`, `touch-up`, `update`, or `complete`.
 future: none # How this article may fare in the future. Defaults to `none`. Accepts: `update`, `rewrite`, `review`, or `auto-generated`.
-has: # `has` and `need` allow writers or editors to know what articles need what media. Accepts: `infobox`, `image`, `video`, `graphics`, `featured_data`, `archive`, and `addenda`.
+has: # `has` and `need` are an array of items which allow writers or editors to know what articles need what media. Both are optional. Accepts: `infobox`, `image`, `video`, `graphics`, `featured_data`, `archive`, and `addenda`.
   - example
 needs:
   - example
 ---
+%%
+"page_link": "[[Meta/Metadata|Metadata]]"
+%%
 ```
 # Dates
-Anytime a `date` is asked for it is written as \[year]\["-"]\[day], where day can be omitted for less precision. Day is any number between 1 and 360 (As a single year in Mysenvar consists of 360 days) and year can be any number, including negatives. For example, "-360-56" means the 56th day of the year 360 BT (Before Treaty), whereas "360-56" means the 56th day of the year 360 AT (After Treaty).
+Anytime a `date` is asked for it is written as `[year,day]`, where day can be omitted for less precision. Day is any number between 1 and 360 (As a single year in Mysenvar consists of 360 days) and year can be any number, including negatives. For example, `[-360,56]` means the 56th day of the year 360 BT (Before Treaty), whereas `[360,56]` means the 56th day of the year 360 AT (After Treaty).
 # Tags
 Tags are broken into two groups: **topics** and **subjects**. Topics are broad and overarching, but also straightforward in what articles they should apply to. Every article should have *at least one* topic tag. Subjects are more narrow in the topics which they cover. Not every article is required to have a subject tag.
 ## Topics
@@ -141,6 +145,24 @@ tags:
   - subject/war # This article covers information regarding a war.
   - subject/linguistics # This article covers information regarding the study of linguistics
 ---
+```
+# Subpage Example
+```yaml
+---
+subpage: # An array, so you can list multiple subpages per page. Each subpage is treated exactly the same as a regular page.
+  - title: "Example Subpage 1"
+	link: "example_link1"
+	type: article
+	status: empty
+  - title: "Example Subpage 2"
+	link: "example_link2"
+	type: article
+	status: empty
+---
+%%
+"example_link1": "[[Meta/Example|Example]]"
+"example_link2": "Example"
+%%
 ```
 # Event Example
 ```yaml

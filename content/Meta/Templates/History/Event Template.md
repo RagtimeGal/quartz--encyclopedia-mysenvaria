@@ -9,7 +9,6 @@ tags:
 draft: true
 type: template
 status: empty
-dates: {}
 event:
   - start_desc: ""
     end_desc: ""

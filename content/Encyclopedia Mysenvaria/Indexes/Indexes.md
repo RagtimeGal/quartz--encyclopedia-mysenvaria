@@ -79,7 +79,6 @@ This page serves as an index of index pages across the encyclopedia, sorted by t
 - [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Post-War Era|List of all Written Works Published During the Post-War Era]]
 
 # Biology
-
 # Culture
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Events & Holidays/List of Holidays|List of Holidays]]
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]

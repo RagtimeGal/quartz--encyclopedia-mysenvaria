@@ -19,6 +19,9 @@ event:
 > [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Template|Template]]
 > This article is a Template. This callout, and others like it in the page, should be removed. Tags, page name, table of content, and other YAML data should be added, removed, or otherwise modified as necessary.
 
+> [!info] [[Archive Library/Archive Home|Archived Work]]
+> This literary work has an archived version in the [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing's]] archival library. You can view the archive here:
+
 # Plot
 
 # Characters

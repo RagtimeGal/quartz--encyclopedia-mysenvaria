@@ -30,7 +30,6 @@ index:
 
 The following is an index of all articles describing [[Encyclopedia Mysenvaria/Arts/Art#Literature|literary works]], organized into fiction and non-fiction categories and listed in alphabetical order.
 # Fiction
-
 # Non-fiction
 ## C
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]]

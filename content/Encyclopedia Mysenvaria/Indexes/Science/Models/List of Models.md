@@ -58,4 +58,3 @@ The following is an index of all articles across the encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches|Tri-Criterial Niches]]
 ## U
 - [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]]
-

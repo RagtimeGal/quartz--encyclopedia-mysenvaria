@@ -27,4 +27,3 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/C
 - [[Encyclopedia Mysenvaria/Culture/Organizations/Great Astronomy Foundation|Great Astronomy Foundation]]
 ## N
 - [[Encyclopedia Mysenvaria/Culture/Organizations/New Inner Rainciv Astronomy Council|New Inner Rainciv Astronomy Council]]
-

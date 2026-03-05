@@ -40,4 +40,3 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/C
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper|Scalper]]
 ## W
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|Wizard]]
-

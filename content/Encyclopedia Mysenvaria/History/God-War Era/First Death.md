@@ -10,7 +10,7 @@ has:
   - featured_data
 event:
   - start_desc: "start_desc"
-    start_date: [-177-26]
+    start_date: [-177,26]
     major_event: true
 featured_data:
   featured_desc: "featured_desc"

@@ -67,4 +67,3 @@ The following is an index of all articles across the encyclopedia which describe
 ## W
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Weather|Weather]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Whirlpool|Whirlpool]]
-

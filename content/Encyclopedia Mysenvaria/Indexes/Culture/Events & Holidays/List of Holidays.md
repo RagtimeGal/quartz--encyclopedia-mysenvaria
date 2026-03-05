@@ -25,4 +25,3 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/C
 - [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Dragon Hunt|Dragon Hunt]]
 ## S
 - [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Solstice|Solstice]]
-

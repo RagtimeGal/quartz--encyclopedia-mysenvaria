@@ -20,4 +20,4 @@ ledger_data:
 > 
 > **Next Ledger:** Upcoming
 
-For this week's ledger, pretty much ever page across the entirety of the Encyclopedia has been updated in one way or another!
+This week's ledger practically every article across the entire Encyclopedia has been edited in some way.

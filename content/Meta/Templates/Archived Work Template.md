@@ -28,4 +28,16 @@ archived_work:
 > *For more information on the origins, history, or authors of this work you may view the [[_index|Encyclopedia Mysenvaria's]] article on the topic here:*
 
 > [!warning] Damaged or Incomplete Historical Work
-> The archivists of Academy Publishing's archival library try to restore historical works to the best of their abilities. Portions of this work may be missing or incomplete due to irreversible damage.
+> The archivists of Academy Publishing's archival library try to restore historical works to the best of their abilities. Portions of this work may be missing or incomplete due to irreversible damage.  Only a portion of the original work may be available to the public to view.
+
+> [!warning] Partial Availability — Confidential Work
+> The archivists of Academy Publishing's archival library have deemed this work confidential. This work may include information deemed harmful to the public, contain proprietary information, or may be pending litigation. Only a portion of the original work may be available to the public to view.
+
+> [!warning] Pending or Impossible Translation
+> The archivists of Academy Publishing's archival library work diligently to translate historical and foreign works. This work is currently in the process of translation or the language it was written in cannot be translated by any of our current archivists. Only a portion of the original work may be available to the public to view.
+
+# Physical Description
+
+# Abstract
+
+# Transcription

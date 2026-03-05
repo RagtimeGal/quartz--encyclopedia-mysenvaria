@@ -34,10 +34,22 @@ jobs:
             pip install -r content/Meta/Programs/run_on_push/requirements.txt
           fi
 
+      # --- NEW STEP: AGGREGATE METADATA FIRST ---
+      - name: Run Metadata Aggregator
+        run: |
+          echo "=== Generating Metadata Database ==="
+          # Adjust path if your aggregator is kept somewhere else
+          python content/Meta/Programs/debug/metadata_aggregator/metadata_aggregator.py
+          echo "=== Metadata aggregation complete ==="
+
       - name: Run all scripts in run_on_push
         run: |
           echo "=== Starting run_on_push scripts ==="
+          # We skip the aggregator if it's in this folder to avoid running it twice
           for f in content/Meta/Programs/run_on_push/*.py; do
+            if [[ "$f" == *"metadata_aggregator.py"* ]]; then
+              continue
+            fi
             echo "------------------------------------------------------------"
             echo "Running: $f"
             echo "------------------------------------------------------------"
