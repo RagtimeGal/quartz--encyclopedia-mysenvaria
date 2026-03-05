@@ -11,7 +11,7 @@ ledger_data:
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the Encyclopedia's progress.*
 
 > [!summary] Lore Ledger #3
 > 48/2024
@@ -20,7 +20,7 @@ ledger_data:
 > 
 > **Next Ledger:** [[Meta/Ledgers/Ledger 50.2024|Ledger 50.2024]]
 
-Welcome to the third Lore Ledger. Not many changes have been made to the encyclopedia, though there has been progress on the climate. Unfortunately, due to limited free time, the climate project has not met its deadline. Though it should be done some time in the following week.
+Welcome to the third Lore Ledger. Not many changes have been made to the Encyclopedia, though there has been progress on the climate. Unfortunately, due to limited free time, the climate project has not met its deadline. Though it should be done some time in the following week.
 # Project Updates
 At the moment the only project remains climate. Despite some setbacks the project is still moving smoothly and is expected to be done a week later than expected.
 

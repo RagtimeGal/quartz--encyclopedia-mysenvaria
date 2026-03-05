@@ -11,7 +11,7 @@ ledger_data:
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the Encyclopedia's progress.*
 
 > [!summary] Lore Ledger #8
 > 17/2025

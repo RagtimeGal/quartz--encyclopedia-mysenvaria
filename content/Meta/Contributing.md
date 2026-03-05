@@ -29,12 +29,12 @@ status: complete
 > 
 > If you've contributed to the Encyclopedia Mysenvaria and wish to be listed, please open a new [GitHub Issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) with proof of your prior contribution. Being added to the Contributors page is not automatic and must be requested manually.
 
-By virtue of the way the encyclopedia is built it is very easy to contribute to the project—but before you do, there's some things to understand! 
+By virtue of the way the Encyclopedia is built it is very easy to contribute to the project—but before you do, there's some things to understand! 
 - As described by the [license](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/LICENSE.md): the Encyclopedia Mysenvaria's content is **NOT** open-source—It's backend/code, [Quartz](https://quartz.jzhao.xyz/), is.
 - Failure to comply with the Code of Conduct may result in your contribution privileges being restricted or removed.
 - The Encyclopedia Mysenvaria is a **personal project** and part of a much larger vision. I am not looking for major writing contributions.
 - Moderators have final authority over all contributions and decisions.
-The most helpful contributions are the most minor ones, like grammar fixes and topical discussions! You may also contribute to [[Meta/Callouts#Addenda|addenda]] to make the encyclopedia easier to use for creatives! Creative additions are not off-limits, but they are reviewed under significantly more scrutiny so as to maintain the overarching themes, ideas, and lore that has been constructed for the setting.
+The most helpful contributions are the most minor ones, like grammar fixes and topical discussions! You may also contribute to [[Meta/Callouts#Addenda|addenda]] to make the Encyclopedia easier to use for creatives! Creative additions are not off-limits, but they are reviewed under significantly more scrutiny so as to maintain the overarching themes, ideas, and lore that has been constructed for the setting.
 
 ---
 # Contribution and Submission Policy
@@ -83,4 +83,4 @@ Contributing comes in many forms, depending on what you're looking for! Here I l
 	- The [Discord](https://discord.com/invite/2yUDZ5j) is another great place to strike up a discussion regarding the Encyclopedia! Though it is not directly connected to the Encyclopedia Mysenvaria in the same way GitHub discussions is.
 - **Direct Contribution**! This is contribution which visibly impacts the Encyclopedia, it comes in the form of directly adding text, image, or video content to the Encyclopedia. This is the most intensive form of contribution, but also the most heavily scrutinized. While direct contributions are appreciated, to maintain the standards of the Encyclopedia they are combed through thoroughly!
 	- [GitHub pull requests](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/pulls) are complex, but allow you to directly suggest changes, additions, or deletions across the Encyclopedia and its backend.
-	- [GitHub Issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) are easy to make, and a great way to suggest edits across the encyclopedia. I recommend these over pull requests.
+	- [GitHub Issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) are easy to make, and a great way to suggest edits across the Encyclopedia. I recommend these over pull requests.

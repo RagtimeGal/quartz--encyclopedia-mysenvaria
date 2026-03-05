@@ -8,12 +8,12 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
+> *This article is part of a series on the Encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 > [!danger] Warning
 > **There may be some data on this page which is not visible when viewing this page from the Encyclopedia Mysenvaria website!**
 
-Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the encyclopedia's articles. YAML blocks may also provide optional information that scripts made for the encyclopedia can use.
+Every article begins with a block of [YAML](https://yaml.org/) front matter. This block is inaccessible to the average reader and is not intended to be viewed or accessed by them. Instead, this block provides necessary data to [Quartz](https://quartz.jzhao.xyz/) to build and deploy the Encyclopedia's articles. YAML blocks may also provide optional information that scripts made for the Encyclopedia can use.
 
 The following is the required YAML data for each article on the Encyclopedia:
 

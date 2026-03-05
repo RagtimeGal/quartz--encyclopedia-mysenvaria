@@ -4,7 +4,8 @@ enableToc: true
 tags:
   - topic/history/century
 type: index
-status: update
+status: complete
+future: auto-generated
 has:
   - infobox
 ---
@@ -65,4 +66,4 @@ has:
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is always growing! As the Encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

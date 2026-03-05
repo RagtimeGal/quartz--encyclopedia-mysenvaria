@@ -70,7 +70,7 @@ index:
           method: first_character
 ---
 
-This page serves as an index of index pages across the encyclopedia, sorted by topic and alphabetical order.
+This page serves as an index of index pages across the Encyclopedia, sorted by topic and alphabetical order.
 # Arts
 - [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of all Written Works]]
 - [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the God-War Era|List of all Written Works Published During the God-War Era]]

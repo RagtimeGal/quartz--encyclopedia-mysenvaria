@@ -4,8 +4,8 @@ enableToc: true
 tags:
   - topic/history/decade
 type: index
-future: update
 status: complete
+future: auto-generated
 ---
 
 > [!summary] 0s AT
@@ -18,11 +18,14 @@ status: complete
 > > 
 > > ... [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century BT|1st Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century AT|1st Century AT]], [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century AT|2nd Century AT]] ...
 
-
 # Events
 ## 0 AT
 - End of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. (beg. 177 BT)
 - Start of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. (end. 609 AT)
+
+
+
+
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

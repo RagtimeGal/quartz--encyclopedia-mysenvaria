@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]], sorted alphabetically.
+The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]], sorted alphabetically.
 # Technologies
 ## A
 - [[Encyclopedia Mysenvaria/Science/Technologies/Agriculture|Agriculture]]

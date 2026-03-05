@@ -8,7 +8,7 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
+> *This article is part of a series on the Encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 > [!warning] Disclaimer
 > When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 
@@ -33,19 +33,19 @@ It's not hard to notice: the Encyclopedia Mysenvaria takes heavy inspiration fro
 
 If one wishes, they can think of this page as a modified version of the official in-setting documentation provided to all scholars contributing to the [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company's]] initiative.
 
-At the end of the day all things presented in this article are simply guidelines. Consistency is the key to keeping the writing throughout the encyclopedia engaging and immersive. Sloppy and disjointed articles break the illusion for readers and dissuade their interest in the project. But text only gets you so far, and it's best practice not to sacrifice the story in the service of writing.
+At the end of the day all things presented in this article are simply guidelines. Consistency is the key to keeping the writing throughout the Encyclopedia engaging and immersive. Sloppy and disjointed articles break the illusion for readers and dissuade their interest in the project. But text only gets you so far, and it's best practice not to sacrifice the story in the service of writing.
 # Establishing Tone & Style
 All non-meta articles are canon in Mysenvar, that means they are written as if authored by a character within the setting. This means there's a few key tonal rules to keep in mind when writing an article:
 - **Don't break the fourth wall.** Mysenvar is the real world within the setting—it has no connection to the world we live in. Real life places, people, and things do not exist in Mysenvar and should not be referenced outside of the meta.
-- **Voice is not tone.** Canonically the encyclopedia has hundreds of authors across its vast knowledge base, and different authors write with different voices.
-- **The tone is academic, like that of a real encyclopedia's.** Inversely, the encyclopedia canonically also has a team of editors who work tirelessly to maintain the encyclopedia's academic tone. They ensure all text is matter-of-fact, unbiased, and research-based.
+- **Voice is not tone.** Canonically the Encyclopedia has hundreds of authors across its vast knowledge base, and different authors write with different voices.
+- **The tone is academic, like that of a real encyclopedia's.** Inversely, the Encyclopedia canonically also has a team of editors who work tirelessly to maintain the Encyclopedia's academic tone. They ensure all text is matter-of-fact, unbiased, and research-based.
 
 If non-meta articles are canon though, why are they in English? Well, you can think of them as having been perfectly translated, hopefully maintaining all the intricacies of their original language. It's important to keep the English used consistent though, and so there's a few key grammatical rules to keep in mind too:
 - **Writing should be concise.** There's no reason to use two words where one will do. Articles should remained focused on their particular topic too, there's no reason for tangents when you can redirect users to another article. 
 - **Spelling should remain consistent.** The encyclopedia uses standard *American English*, not *British English*. In the case where there are two acceptable variants of a word the more common variant should be used.
 - **Academia is impersonal and neutral.** Page's should be written from a neutral point of view. They should state facts, but not exclude significant opinions where justified. They should also remain nonjudgmental.
 # Article Structure
-The encyclopedia employs no strict header structure, though [templates](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/tree/v4/content/Meta/Templates) are provided for every given topic of the encyclopedia. These templates serve as loose suggestions, and may be edited as required for a given article.
+The encyclopedia employs no strict header structure, though [templates](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/tree/v4/content/Meta/Templates) are provided for every given topic of the Encyclopedia. These templates serve as loose suggestions, and may be edited as required for a given article.
 
 The general structure of any article should be organized as thus:
 - **[[Meta/Metadata|Metadata]]**: This comes in the form of YAML at the start of each and every page. This data includes stuff like the page's title, inclusion of the table of contents, and tags. Metadata cannot be left out of a page.
@@ -56,7 +56,7 @@ The general structure of any article should be organized as thus:
 - **See Also**: A list of related articles which are not directly mentioned in the body of the article.
 - **Footnotes**: Footnotes provide supplementary content for the main body of the article, including images, videos, and sources.
 # Links
-Linking other articles is a very important part of making the encyclopedia easy to navigate, but they can quickly becoming overwhelming if there's too many links in a single article. To help with that there are some basic rules to linking articles:
+Linking other articles is a very important part of making the Encyclopedia easy to navigate, but they can quickly becoming overwhelming if there's too many links in a single article. To help with that there are some basic rules to linking articles:
 - Link to the same article once per article. It doesn't make much sense to link to the article on the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water|God of Water]] three separate times in one article, so only link it once on first mention.
 - Too many links in one paragraph can make it hard to read. And so, if necessary, lower the density of links by spreading out their usage.
 - Avoid adjacent links, they can be confusing to readers. 

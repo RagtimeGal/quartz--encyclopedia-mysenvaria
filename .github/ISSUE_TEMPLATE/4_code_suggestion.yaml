@@ -1,12 +1,12 @@
 name: Code Suggestion
-description: "Make a suggestion to improve the encyclopedia's back-end or ui."
+description: "Make a suggestion to improve the Encyclopedia's back-end or ui."
 title: "[Code]: "
 labels: [code]
 body:
   - type: textarea
     attributes:
       label: Suggestion
-      description: What are you suggesting be changed? How will this improve the encyclopedia for users.
+      description: What are you suggesting be changed? How will this improve the Encyclopedia for users.
       placeholder: "The spacing of the GlobGlab on each page is odd. Improvements can be made to the spacing which will make it easier for readers to follow."
     validations:
       required: true

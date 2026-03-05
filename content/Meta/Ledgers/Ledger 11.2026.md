@@ -11,7 +11,7 @@ ledger_data:
 ---
 [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Acetate|God of Acetate]]
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the Encyclopedia's progress.*
 
 > [!summary] Lore Ledger #15
 > 11/2026

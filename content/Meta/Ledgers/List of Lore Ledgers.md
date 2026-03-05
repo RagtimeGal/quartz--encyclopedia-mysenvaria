@@ -4,7 +4,8 @@ enableToc: true
 tags:
   - topic/meta
 type: index
-status: update
+status: complete
+future: auto-generated
 index:
   - header_name: "Lore Ledgers"
     included_data:
@@ -23,9 +24,9 @@ index:
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the Encyclopedia's progress.*
 
-The following article serves as an index of the encyclopedia's Lore Ledgers. Lore Ledgers are [[Meta/Meta|meta]] overviews of recent progress and updates across the encyclopedia, intended to help readers explore and understand how the encyclopedia is updated.
+The following article serves as an index of the Encyclopedia's Lore Ledgers. Lore Ledgers are [[Meta/Meta|meta]] overviews of recent progress and updates across the Encyclopedia, intended to help readers explore and understand how the Encyclopedia is updated.
 # Lore Ledgers
 ## 2026
 - [[Meta/Ledgers/Ledger 11.2026|Lore Ledger 11.26]]

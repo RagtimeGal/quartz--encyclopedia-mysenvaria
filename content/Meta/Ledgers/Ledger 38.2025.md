@@ -11,7 +11,7 @@ ledger_data:
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the Encyclopedia's progress.*
 
 > [!summary] Lore Ledger #10
 > 38/2025
@@ -20,7 +20,7 @@ ledger_data:
 > 
 > **Next Ledger:** [[Meta/Ledgers/Ledger 45.2025|Ledger 45.2025]]
 
-The encyclopedia has undergone massive changes in the last few weeks, some of which I mentioned in the previous Lore Ledger. The encyclopedia website itself too has undergone a number of changes, including to the websites theme, favicon, and organization. I'm not going to bother with actually filing out the changelog for this Lore Ledger, since all articles across the entirety of the encyclopedia have been modified in one way or another. 
+The encyclopedia has undergone massive changes in the last few weeks, some of which I mentioned in the previous Lore Ledger. The encyclopedia website itself too has undergone a number of changes, including to the websites theme, favicon, and organization. I'm not going to bother with actually filing out the changelog for this Lore Ledger, since all articles across the entirety of the Encyclopedia have been modified in one way or another. 
 
 Amongst the changes to all files includes:
 - New [[Meta/Metadata|Metadata]], including `type` and `status` which are useful in page organization.

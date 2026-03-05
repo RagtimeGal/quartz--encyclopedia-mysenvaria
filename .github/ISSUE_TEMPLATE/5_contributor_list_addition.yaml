@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        The Encyclopedia Mysenvaria's contributor list, available [here](https://mysenvaria.ragno.studio/Meta/Contributors), is an opt-in list of GitHub users who have contributed to the encyclopedia.
+        The Encyclopedia Mysenvaria's contributor list, available [here](https://mysenvaria.ragno.studio/Meta/Contributors), is an opt-in list of GitHub users who have contributed to the Encyclopedia.
         By opting in you agree that you have contributed to the project in a meaningful way and would like your name, a link to you GitHub profile, and a short description of yourself added to the Contributors page.
         At any point while the project is still maintained you may submit another issue to have your listing removed or modified.
         The contributors page has no strict update schedule, whether you are added is at the discretion of the moderators. Issues will be closed accordingly as the page is updated.

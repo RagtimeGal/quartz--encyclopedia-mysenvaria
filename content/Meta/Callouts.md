@@ -8,7 +8,7 @@ status: complete
 ---
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
+> *This article is part of a series on the Encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 This article serves to provide a list of meta callouts that a reader may encounter on canon articles. Callouts include a short description of what they indicate, and this description is provided on each individual page which the callout appears on. 
 
@@ -33,13 +33,13 @@ Further information regarding a callout may be provided in the sections below if
 Addenda are non-canon companion articles written to provide context, behind-the-scene commentary, spoilers, and guidance on adaptation for creative use—like providing TTRPG stat blocks, explaining character portrayal, or giving ideas on story application. Addenda may also be used for meta discussion regarding topics, if the main article is not fitting.
 ## Meta Articles
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series on the encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
+> *This article is part of a series on the Encyclopedia's [[Meta/Writing Guidelines|Writing Guidelines]]*.
 
 > [!abstract] [[Meta/Meta|Meta]]
 > *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 
 > [!abstract] [[Meta/Meta|Meta]]
-> *This article is part of a series of meta articles which provide a brief changelog and look at the encyclopedia's progress.*
+> *This article is part of a series of meta articles which provide a brief changelog and look at the Encyclopedia's progress.*
 # Article Status
 ## Empty
 
@@ -60,7 +60,7 @@ Addenda are non-canon companion articles written to provide context, behind-the-
 ## Update
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is always growing! As the Encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 # Article Reminders
 ## Update Needed
 

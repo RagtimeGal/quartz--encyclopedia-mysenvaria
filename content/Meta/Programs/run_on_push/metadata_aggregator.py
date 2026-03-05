@@ -3,6 +3,7 @@ import os
 import re
 import json
 import sys
+import pathlib
 
 # --- Constants & Defaults ---
 DEFAULT_VALUES = {
@@ -20,7 +21,7 @@ def get_ordinal(n):
     return f"{n}" + {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
 
 def fallback_parse_yaml(text):
-    """Basic YAML parser for scalars and inline lists as per Step 3."""
+    """Basic YAML parser for scalars and inline lists."""
     data = {}
     for line in text.splitlines():
         line = line.strip()
@@ -40,8 +41,9 @@ def fallback_parse_yaml(text):
 
 def parse_mysenvar_date(value):
     """
-    Step 7: Normalise any date field.
+    Normalise any date field.
     Calculates relative seasonal day: 1-90 (Spring), 91-180 (Summer), etc.
+    Adds 'formal_without_year' for simpler UI rendering.
     """
     try:
         y, d = None, None
@@ -76,13 +78,25 @@ def parse_mysenvar_date(value):
             
             # Relative day in season: e.g. 186 -> (186 - (2*90)) = 6
             relative_day = d - (season_idx * 90)
+            day_season = f"{get_ordinal(relative_day)} of {season_name}"
             
-            formal = f"{get_ordinal(relative_day)} of {season_name}, {abs_y}{suffix}"
+            formal = f"{day_season}, {abs_y}{suffix}"
             informal = f"{y}-{d}"
-            return {"original": value, "formal": formal, "informal": informal}
+            return {
+                "original": value, 
+                "formal": formal, 
+                "formal_without_year": day_season,
+                "informal": informal
+            }
         
         # Year only
-        return {"original": value, "formal": f"{abs_y}{suffix}", "informal": f"{y}"}
+        formal_year = f"{abs_y}{suffix}"
+        return {
+            "original": value, 
+            "formal": formal_year, 
+            "formal_without_year": "", 
+            "informal": f"{y}"
+        }
     except:
         return None
 
@@ -96,7 +110,7 @@ class MetadataAggregator:
         self.warnings.append(msg)
 
     def find_root(self):
-        """Step 1: Locate the vault."""
+        """Locate the vault."""
         root_env = os.environ.get("METADATA_AGG_CONTENT_ROOT")
         if root_env and os.path.isdir(root_env):
             return os.path.abspath(root_env)
@@ -140,9 +154,9 @@ class MetadataAggregator:
                     self.recursive_resolve(item, clean_defs)
 
     def process_metadata_node(self, data, definitions, src_id, is_subpage=False, parent_link=None, rel_path=""):
-        """Steps 5 through 9: Enrich a metadata dictionary."""
+        """Enrich a metadata dictionary."""
         
-        # Step 5: Apply default keys
+        # Apply default keys
         for k, v in DEFAULT_VALUES.items():
             if k not in data:
                 data[k] = v
@@ -152,11 +166,11 @@ class MetadataAggregator:
         if "title" not in data:
              data["title"] = os.path.splitext(os.path.basename(rel_path))[0]
 
-        # Step 6: Resolve string values recursively via the comment block
+        # Resolve string values recursively via the comment block
         clean_defs = {str(dk).strip("'\" "): str(dv).strip("'\" ") for dk, dv in definitions.items()}
         self.recursive_resolve(data, clean_defs)
 
-        # Step 7: Normalise any date fields (search recursively for 'date' in keys)
+        # Normalise any date fields (search recursively for 'date' in keys)
         def resolve_dates_recursive(node):
             if isinstance(node, dict):
                 for k in list(node.keys()):
@@ -172,12 +186,14 @@ class MetadataAggregator:
 
         resolve_dates_recursive(data)
 
-        # Step 8 & 9: Ensure a link exists (Moved inside metadata)
+        # Ensure a link exists
         if "link" not in data:
             title = data["title"]
             if is_subpage:
                 slug = title.lower().replace(" ", "-")
-                data["link"] = f"{parent_link}#{slug}"
+                # Remove possible trailing markdown extension logic
+                parent_base = parent_link.split('|')[0].strip('[]') if parent_link else ""
+                data["link"] = f"[[{parent_base}#{slug}|{title}]]"
             else:
                 path_no_ext = os.path.splitext(rel_path)[0]
                 normalized_path = path_no_ext.replace("\\", "/")
@@ -186,11 +202,11 @@ class MetadataAggregator:
         return data
 
     def process_file(self, full_path, rel_path):
-        """Step 2, 3, 4, and 10."""
+        """Process file, parse frontmatter and comment blocks."""
         with open(full_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Step 3: Read front-matter
+        # Read front-matter
         fm_dict, body_text = {}, content
         parts = re.split(r'^---\s*$', content, maxsplit=2, flags=re.MULTILINE)
         if len(parts) >= 3:
@@ -202,9 +218,9 @@ class MetadataAggregator:
             except (ImportError, Exception):
                 fm_dict = fallback_parse_yaml(fm_text)
 
-        # Step 4: Parse the %% … %% comment block
+        # Parse the %% … %% comment block
         definitions = {}
-        comment_match = re.search(r'%%\s*$(.*?)\s*%%', body_text, re.MULTILINE | re.DOTALL)
+        comment_match = re.search(r'%%\s*(.*?)\s*%%', body_text, re.MULTILINE | re.DOTALL)
         if comment_match:
             block_content = comment_match.group(1).strip()
             for line in block_content.splitlines():
@@ -212,7 +228,7 @@ class MetadataAggregator:
                     k, v = line.split(":", 1)
                     definitions[k.strip()] = v.strip()
 
-        # Step 10: Build main page record
+        # Build main page record
         clean_rel_path = rel_path.replace("\\", "/")
         fm_dict = self.process_metadata_node(fm_dict, definitions, clean_rel_path, rel_path=clean_rel_path)
         
@@ -223,7 +239,7 @@ class MetadataAggregator:
         }
         self.pages.append(main_page)
 
-        # Step 9: Handle subpage entries
+        # Handle subpage entries
         if "subpage" in fm_dict and isinstance(fm_dict["subpage"], list):
             for i, sub_fm in enumerate(fm_dict["subpage"]):
                 if not isinstance(sub_fm, dict):
@@ -236,7 +252,8 @@ class MetadataAggregator:
                     definitions, 
                     sub_src_rel, 
                     is_subpage=True, 
-                    parent_link=fm_dict.get("link")
+                    parent_link=fm_dict.get("link"),
+                    rel_path=clean_rel_path
                 )
                 
                 sub_page = {

@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branches]], sorted alphabetically.
+The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branches]], sorted alphabetically.
 # Scientific Branches
 ## A
 - [[Encyclopedia Mysenvaria/Science/Branches/Anatomy|Anatomy]]

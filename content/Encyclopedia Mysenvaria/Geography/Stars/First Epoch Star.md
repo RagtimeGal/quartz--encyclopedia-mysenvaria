@@ -11,7 +11,7 @@ star:
     publications:
     - publishers: ["publisher"]
       date: [-178,282]
-      major_event: true
+      major_event: false
     desc: "star_desc"
     coordinates: [0,0,3844]
 ---

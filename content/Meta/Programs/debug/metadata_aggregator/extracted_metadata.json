@@ -1,7 +1,7 @@
 {
     "meta": {
-        "total_markdown_files": 880,
-        "pages_extracted": 880,
+        "total_markdown_files": 881,
+        "pages_extracted": 881,
         "warnings": 0,
         "working_directory": "C:\\Users\\Terra\\Documents\\Github Folders\\quartz--encyclopedia-mysenvaria"
     },
@@ -174,6 +174,7 @@
                                 1313
                             ],
                             "formal": "1313AT",
+                            "formal_without_year": "",
                             "informal": "1313"
                         },
                         "major_event": true
@@ -1308,6 +1309,7 @@
                                         -176
                                     ],
                                     "formal": "176BT",
+                                    "formal_without_year": "",
                                     "informal": "-176"
                                 },
                                 "desc": "Following the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]] the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] would publish the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]], detailing the organizing of the event, the attendees, the discussions held, and the conclusions drawn.",
@@ -1322,6 +1324,7 @@
                                         -53
                                     ],
                                     "formal": "53BT",
+                                    "formal_without_year": "",
                                     "informal": "-53"
                                 },
                                 "desc": "Following [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|Fulgurite's]] passing at the hands of [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|Sodium Ethyl Xanthate]] they would republish many of Fulgurite's stars, including the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]].",
@@ -1336,6 +1339,7 @@
                                         -1
                                     ],
                                     "formal": "1BT",
+                                    "formal_without_year": "",
                                     "informal": "-1"
                                 },
                                 "desc": "Following [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|God of Sodium Ethyl Xanthate's]] own passing their close sibling [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Diethyl Dixanthogen Disulfide|God of Diethyl Dixanthogen Disulfide]] would republish many of their stars, including the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]].",
@@ -1512,9 +1516,10 @@
                                         282
                                     ],
                                     "formal": "12th of Winter, 178BT",
+                                    "formal_without_year": "12th of Winter",
                                     "informal": "-178-282"
                                 },
-                                "major_event": true
+                                "major_event": false
                             }
                         ],
                         "desc": "The oldest star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] to document their creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]].",
@@ -1753,6 +1758,7 @@
                                         213
                                     ],
                                     "formal": "33rd of Autumn, 175BT",
+                                    "formal_without_year": "33rd of Autumn",
                                     "informal": "-175-213"
                                 },
                                 "desc": "As Gods' manipulations of time and space grow more severe the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Time and Space]] pass the [[Encyclopedia Mysenvaria/Geography/Stars/Spatial Act|Spatial Act]].",
@@ -2035,6 +2041,7 @@
                                         294
                                     ],
                                     "formal": "24th of Winter, 178BT",
+                                    "formal_without_year": "24th of Winter",
                                     "informal": "-178-294"
                                 },
                                 "desc": "The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]] publishes the [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]] to document their creation of the Carbon Compound Gods via domain subdivision. Other [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|Elemental Gods]] follow behind, publishing their own stars and creating the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening System]].",
@@ -2504,6 +2511,7 @@
                                 -12
                             ],
                             "formal": "12BT",
+                            "formal_without_year": "",
                             "informal": "-12"
                         },
                         "death_date": {
@@ -2511,6 +2519,7 @@
                                 -6
                             ],
                             "formal": "6BT",
+                            "formal_without_year": "",
                             "informal": "-6"
                         },
                         "major_event": true
@@ -2597,6 +2606,7 @@
                                         -42
                                     ],
                                     "formal": "42BT",
+                                    "formal_without_year": "",
                                     "informal": "-42"
                                 },
                                 "end_date": {
@@ -2604,6 +2614,7 @@
                                         -12
                                     ],
                                     "formal": "12BT",
+                                    "formal_without_year": "",
                                     "informal": "-12"
                                 },
                                 "major_event": true
@@ -2740,6 +2751,7 @@
                                 -39
                             ],
                             "formal": "39BT",
+                            "formal_without_year": "",
                             "informal": "-39"
                         },
                         "death_date": [],
@@ -2825,6 +2837,7 @@
                                 -178
                             ],
                             "formal": "178BT",
+                            "formal_without_year": "",
                             "informal": "-178"
                         },
                         "major_event": false
@@ -2860,6 +2873,7 @@
                                 -178
                             ],
                             "formal": "178BT",
+                            "formal_without_year": "",
                             "informal": "-178"
                         },
                         "major_event": false
@@ -2895,6 +2909,7 @@
                                 -178
                             ],
                             "formal": "178BT",
+                            "formal_without_year": "",
                             "informal": "-178"
                         },
                         "major_event": false
@@ -10463,6 +10478,7 @@
                                 26
                             ],
                             "formal": "26th of Spring, 177BT",
+                            "formal_without_year": "26th of Spring",
                             "informal": "-177-26"
                         },
                         "end_date": {
@@ -10471,6 +10487,7 @@
                                 90
                             ],
                             "formal": "90th of Spring, 145BT",
+                            "formal_without_year": "90th of Spring",
                             "informal": "-145-90"
                         },
                         "major_event": true
@@ -10507,6 +10524,7 @@
                                 -176
                             ],
                             "formal": "176BT",
+                            "formal_without_year": "",
                             "informal": "-176"
                         },
                         "major_event": true
@@ -10543,6 +10561,7 @@
                                 26
                             ],
                             "formal": "26th of Spring, 177BT",
+                            "formal_without_year": "26th of Spring",
                             "informal": "-177-26"
                         },
                         "major_event": true
@@ -10603,6 +10622,7 @@
                                 1
                             ],
                             "formal": "1st of Spring, 145BT",
+                            "formal_without_year": "1st of Spring",
                             "informal": "-145-1"
                         },
                         "major_event": true
@@ -10615,6 +10635,7 @@
                                 1
                             ],
                             "formal": "1st of Spring, 55BT",
+                            "formal_without_year": "1st of Spring",
                             "informal": "-55-1"
                         },
                         "major_event": true
@@ -10627,6 +10648,7 @@
                                 1
                             ],
                             "formal": "1st of Spring, 39BT",
+                            "formal_without_year": "1st of Spring",
                             "informal": "-39-1"
                         },
                         "major_event": true
@@ -10639,6 +10661,7 @@
                                 1
                             ],
                             "formal": "1st of Spring, 12BT",
+                            "formal_without_year": "1st of Spring",
                             "informal": "-12-1"
                         },
                         "major_event": true
@@ -10651,6 +10674,7 @@
                                 1
                             ],
                             "formal": "1st of Spring, 6BT",
+                            "formal_without_year": "1st of Spring",
                             "informal": "-6-1"
                         },
                         "major_event": true
@@ -10663,6 +10687,7 @@
                                 360
                             ],
                             "formal": "90th of Winter, 1BT",
+                            "formal_without_year": "90th of Winter",
                             "informal": "-1-360"
                         },
                         "major_event": true
@@ -10707,6 +10732,7 @@
                                 -177
                             ],
                             "formal": "177BT",
+                            "formal_without_year": "",
                             "informal": "-177"
                         },
                         "end_date": {
@@ -10714,6 +10740,7 @@
                                 0
                             ],
                             "formal": "0AT",
+                            "formal_without_year": "",
                             "informal": "0"
                         },
                         "major_event": true
@@ -10725,6 +10752,7 @@
                                 -177
                             ],
                             "formal": "177BT",
+                            "formal_without_year": "",
                             "informal": "-177"
                         },
                         "end_date": {
@@ -10732,6 +10760,7 @@
                                 -116
                             ],
                             "formal": "116BT",
+                            "formal_without_year": "",
                             "informal": "-116"
                         },
                         "major_event": true
@@ -10743,6 +10772,7 @@
                                 -116
                             ],
                             "formal": "116BT",
+                            "formal_without_year": "",
                             "informal": "-116"
                         },
                         "end_date": {
@@ -10750,6 +10780,7 @@
                                 -55
                             ],
                             "formal": "55BT",
+                            "formal_without_year": "",
                             "informal": "-55"
                         },
                         "major_event": true
@@ -10761,6 +10792,7 @@
                                 -55
                             ],
                             "formal": "55BT",
+                            "formal_without_year": "",
                             "informal": "-55"
                         },
                         "end_date": {
@@ -10768,6 +10800,7 @@
                                 0
                             ],
                             "formal": "0AT",
+                            "formal_without_year": "",
                             "informal": "0"
                         },
                         "major_event": true
@@ -10805,6 +10838,7 @@
                                 -25
                             ],
                             "formal": "25BT",
+                            "formal_without_year": "",
                             "informal": "-25"
                         },
                         "end_date": {
@@ -10812,6 +10846,7 @@
                                 -11
                             ],
                             "formal": "11BT",
+                            "formal_without_year": "",
                             "informal": "-11"
                         },
                         "major_event": true
@@ -10843,6 +10878,7 @@
                                 -140
                             ],
                             "formal": "140BT",
+                            "formal_without_year": "",
                             "informal": "-140"
                         },
                         "end_date": {
@@ -10850,6 +10886,7 @@
                                 -55
                             ],
                             "formal": "55BT",
+                            "formal_without_year": "",
                             "informal": "-55"
                         },
                         "major_event": true
@@ -10881,6 +10918,7 @@
                                 -41
                             ],
                             "formal": "41BT",
+                            "formal_without_year": "",
                             "informal": "-41"
                         },
                         "end_date": {
@@ -10888,6 +10926,7 @@
                                 -12
                             ],
                             "formal": "12BT",
+                            "formal_without_year": "",
                             "informal": "-12"
                         },
                         "major_event": true
@@ -10923,6 +10962,7 @@
                                 294
                             ],
                             "formal": "24th of Winter, 178BT",
+                            "formal_without_year": "24th of Winter",
                             "informal": "-178-294"
                         },
                         "major_event": true
@@ -10987,6 +11027,7 @@
                                 1
                             ],
                             "formal": "1st of Spring, 145BT",
+                            "formal_without_year": "1st of Spring",
                             "informal": "-145-1"
                         },
                         "major_event": true
@@ -11018,6 +11059,7 @@
                                 1
                             ],
                             "formal": "1st of Spring, 25BT",
+                            "formal_without_year": "1st of Spring",
                             "informal": "-25-1"
                         },
                         "major_event": true
@@ -11049,6 +11091,7 @@
                                 609
                             ],
                             "formal": "609AT",
+                            "formal_without_year": "",
                             "informal": "609"
                         },
                         "end_date": {
@@ -11056,6 +11099,7 @@
                                 1214
                             ],
                             "formal": "1214AT",
+                            "formal_without_year": "",
                             "informal": "1214"
                         },
                         "major_event": true
@@ -11139,6 +11183,7 @@
                                 1214
                             ],
                             "formal": "1214AT",
+                            "formal_without_year": "",
                             "informal": "1214"
                         },
                         "end_date": {
@@ -11146,6 +11191,7 @@
                                 1496
                             ],
                             "formal": "1496AT",
+                            "formal_without_year": "",
                             "informal": "1496"
                         },
                         "major_event": true
@@ -11229,6 +11275,7 @@
                                 0
                             ],
                             "formal": "0AT",
+                            "formal_without_year": "",
                             "informal": "0"
                         },
                         "end_date": {
@@ -11236,6 +11283,7 @@
                                 609
                             ],
                             "formal": "609AT",
+                            "formal_without_year": "",
                             "informal": "609"
                         },
                         "major_event": true
@@ -11434,6 +11482,7 @@
                                         "lte": -1
                                     },
                                     "formal": "0AT",
+                                    "formal_without_year": "",
                                     "informal": "0"
                                 }
                             },
@@ -11491,6 +11540,7 @@
                                         "lte": 1214
                                     },
                                     "formal": "0AT",
+                                    "formal_without_year": "",
                                     "informal": "0"
                                 }
                             },
@@ -11547,6 +11597,7 @@
                                         "gte": 1214
                                     },
                                     "formal": "0AT",
+                                    "formal_without_year": "",
                                     "informal": "0"
                                 }
                             },
@@ -11604,6 +11655,7 @@
                                         "lte": 608
                                     },
                                     "formal": "0AT",
+                                    "formal_without_year": "",
                                     "informal": "0"
                                 }
                             },
@@ -12808,8 +12860,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT|0s AT]]"
             }
         },
@@ -12823,8 +12875,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1000s AT|1000s AT]]"
             }
         },
@@ -12838,8 +12890,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/100s AT|100s AT]]"
             }
         },
@@ -12853,8 +12905,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/100s BT|100s BT]]"
             }
         },
@@ -12868,8 +12920,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1010s AT|1010s AT]]"
             }
         },
@@ -12883,8 +12935,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1020s AT|1020s AT]]"
             }
         },
@@ -12898,8 +12950,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1030s AT|1030s AT]]"
             }
         },
@@ -12913,8 +12965,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1040s AT|1040s AT]]"
             }
         },
@@ -12928,8 +12980,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1050s AT|1050s AT]]"
             }
         },
@@ -12943,8 +12995,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1060s AT|1060s AT]]"
             }
         },
@@ -12958,8 +13010,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1070s AT|1070s AT]]"
             }
         },
@@ -12973,8 +13025,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1080s AT|1080s AT]]"
             }
         },
@@ -12988,8 +13040,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1090s AT|1090s AT]]"
             }
         },
@@ -13003,8 +13055,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/10s AT|10s AT]]"
             }
         },
@@ -13018,8 +13070,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/10s BT|10s BT]]"
             }
         },
@@ -13033,8 +13085,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1100s AT|1100s AT]]"
             }
         },
@@ -13048,8 +13100,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/110s AT|110s AT]]"
             }
         },
@@ -13063,8 +13115,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/110s BT|110s BT]]"
             }
         },
@@ -13078,8 +13130,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1110s AT|1110s AT]]"
             }
         },
@@ -13093,8 +13145,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1120s AT|1120s AT]]"
             }
         },
@@ -13108,8 +13160,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1130s AT|1130s AT]]"
             }
         },
@@ -13123,8 +13175,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1140s AT|1140s AT]]"
             }
         },
@@ -13138,8 +13190,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1150s AT|1150s AT]]"
             }
         },
@@ -13153,8 +13205,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1160s AT|1160s AT]]"
             }
         },
@@ -13168,8 +13220,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1170s AT|1170s AT]]"
             }
         },
@@ -13183,8 +13235,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1180s AT|1180s AT]]"
             }
         },
@@ -13198,8 +13250,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1190s AT|1190s AT]]"
             }
         },
@@ -13213,8 +13265,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1200s AT|1200s AT]]"
             }
         },
@@ -13228,8 +13280,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/120s AT|120s AT]]"
             }
         },
@@ -13243,8 +13295,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT|120s BT]]"
             }
         },
@@ -13258,8 +13310,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1210s AT|1210s AT]]"
             }
         },
@@ -13273,8 +13325,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1220s AT|1220s AT]]"
             }
         },
@@ -13288,8 +13340,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1230s AT|1230s AT]]"
             }
         },
@@ -13303,8 +13355,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1240s AT|1240s AT]]"
             }
         },
@@ -13318,8 +13370,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1250s AT|1250s AT]]"
             }
         },
@@ -13333,8 +13385,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1260s AT|1260s AT]]"
             }
         },
@@ -13348,8 +13400,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1270s AT|1270s AT]]"
             }
         },
@@ -13363,8 +13415,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1280s AT|1280s AT]]"
             }
         },
@@ -13378,8 +13430,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1290s AT|1290s AT]]"
             }
         },
@@ -13393,8 +13445,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1300s AT|1300s AT]]"
             }
         },
@@ -13408,8 +13460,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/130s AT|130s AT]]"
             }
         },
@@ -13423,8 +13475,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/130s BT|130s BT]]"
             }
         },
@@ -13438,8 +13490,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1310s AT|1310s AT]]"
             }
         },
@@ -13453,8 +13505,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1320s AT|1320s AT]]"
             }
         },
@@ -13468,8 +13520,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1330s AT|1330s AT]]"
             }
         },
@@ -13483,8 +13535,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1340s AT|1340s AT]]"
             }
         },
@@ -13498,8 +13550,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1350s AT|1350s AT]]"
             }
         },
@@ -13513,8 +13565,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1360s AT|1360s AT]]"
             }
         },
@@ -13528,8 +13580,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1370s AT|1370s AT]]"
             }
         },
@@ -13543,8 +13595,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1380s AT|1380s AT]]"
             }
         },
@@ -13558,8 +13610,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1390s AT|1390s AT]]"
             }
         },
@@ -13573,8 +13625,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1400s AT|1400s AT]]"
             }
         },
@@ -13588,8 +13640,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/140s AT|140s AT]]"
             }
         },
@@ -13603,8 +13655,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/140s BT|140s BT]]"
             }
         },
@@ -13618,8 +13670,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1410s AT|1410s AT]]"
             }
         },
@@ -13633,8 +13685,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1420s AT|1420s AT]]"
             }
         },
@@ -13648,8 +13700,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1430s AT|1430s AT]]"
             }
         },
@@ -13663,8 +13715,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1440s AT|1440s AT]]"
             }
         },
@@ -13678,8 +13730,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1450s AT|1450s AT]]"
             }
         },
@@ -13693,8 +13745,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1460s AT|1460s AT]]"
             }
         },
@@ -13708,8 +13760,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1470s AT|1470s AT]]"
             }
         },
@@ -13723,8 +13775,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1480s AT|1480s AT]]"
             }
         },
@@ -13738,9 +13790,24 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1490s AT|1490s AT]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Indexes/History/Decades/1500s AT.md",
+            "definitions": {},
+            "metadata": {
+                "title": "1500s AT",
+                "enableToc": true,
+                "tags": [
+                    "topic/history/decade"
+                ],
+                "type": "index",
+                "status": "complete",
+                "future": "auto-generated",
+                "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1500s AT|1500s AT]]"
             }
         },
         {
@@ -13753,8 +13820,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/150s AT|150s AT]]"
             }
         },
@@ -13768,8 +13835,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT|150s BT]]"
             }
         },
@@ -13783,8 +13850,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/160s AT|160s AT]]"
             }
         },
@@ -13798,8 +13865,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT|160s BT]]"
             }
         },
@@ -13813,8 +13880,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/170s AT|170s AT]]"
             }
         },
@@ -13828,8 +13895,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/170s BT|170s BT]]"
             }
         },
@@ -13843,8 +13910,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/180s AT|180s AT]]"
             }
         },
@@ -13858,8 +13925,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT|180s BT]]"
             }
         },
@@ -13873,8 +13940,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/190s AT|190s AT]]"
             }
         },
@@ -13888,8 +13955,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/200s AT|200s AT]]"
             }
         },
@@ -13903,8 +13970,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/20s AT|20s AT]]"
             }
         },
@@ -13918,8 +13985,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/20s BT|20s BT]]"
             }
         },
@@ -13933,8 +14000,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/210s AT|210s AT]]"
             }
         },
@@ -13948,8 +14015,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/220s AT|220s AT]]"
             }
         },
@@ -13963,8 +14030,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/230s AT|230s AT]]"
             }
         },
@@ -13978,8 +14045,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/240s AT|240s AT]]"
             }
         },
@@ -13993,8 +14060,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/250s AT|250s AT]]"
             }
         },
@@ -14008,8 +14075,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/260s AT|260s AT]]"
             }
         },
@@ -14023,8 +14090,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/270s AT|270s AT]]"
             }
         },
@@ -14038,8 +14105,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/280s AT|280s AT]]"
             }
         },
@@ -14053,8 +14120,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/290s AT|290s AT]]"
             }
         },
@@ -14068,8 +14135,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/300s AT|300s AT]]"
             }
         },
@@ -14083,8 +14150,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/30s AT|30s AT]]"
             }
         },
@@ -14098,8 +14165,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/30s BT|30s BT]]"
             }
         },
@@ -14113,8 +14180,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/310s AT|310s AT]]"
             }
         },
@@ -14128,8 +14195,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/320s AT|320s AT]]"
             }
         },
@@ -14143,8 +14210,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/330s AT|330s AT]]"
             }
         },
@@ -14158,8 +14225,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/340s AT|340s AT]]"
             }
         },
@@ -14173,8 +14240,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/350s AT|350s AT]]"
             }
         },
@@ -14188,8 +14255,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/360s AT|360s AT]]"
             }
         },
@@ -14203,8 +14270,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/370s AT|370s AT]]"
             }
         },
@@ -14218,8 +14285,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/380s AT|380s AT]]"
             }
         },
@@ -14233,8 +14300,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/390s AT|390s AT]]"
             }
         },
@@ -14248,8 +14315,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/400s AT|400s AT]]"
             }
         },
@@ -14263,8 +14330,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/40s AT|40s AT]]"
             }
         },
@@ -14278,8 +14345,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/40s BT|40s BT]]"
             }
         },
@@ -14293,8 +14360,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/410s AT|410s AT]]"
             }
         },
@@ -14308,8 +14375,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/420s AT|420s AT]]"
             }
         },
@@ -14323,8 +14390,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/430s AT|430s AT]]"
             }
         },
@@ -14338,8 +14405,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/440s AT|440s AT]]"
             }
         },
@@ -14353,8 +14420,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/450s AT|450s AT]]"
             }
         },
@@ -14368,8 +14435,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/460s AT|460s AT]]"
             }
         },
@@ -14383,8 +14450,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/470s AT|470s AT]]"
             }
         },
@@ -14398,8 +14465,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/480s AT|480s AT]]"
             }
         },
@@ -14413,8 +14480,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/490s AT|490s AT]]"
             }
         },
@@ -14428,8 +14495,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/500s AT|500s AT]]"
             }
         },
@@ -14443,8 +14510,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/50s AT|50s AT]]"
             }
         },
@@ -14458,8 +14525,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/50s BT|50s BT]]"
             }
         },
@@ -14473,8 +14540,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/510s AT|510s AT]]"
             }
         },
@@ -14488,8 +14555,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/520s AT|520s AT]]"
             }
         },
@@ -14503,8 +14570,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/530s AT|530s AT]]"
             }
         },
@@ -14518,8 +14585,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/540s AT|540s AT]]"
             }
         },
@@ -14533,8 +14600,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/550s AT|550s AT]]"
             }
         },
@@ -14548,8 +14615,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/560s AT|560s AT]]"
             }
         },
@@ -14563,8 +14630,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/570s AT|570s AT]]"
             }
         },
@@ -14578,8 +14645,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/580s AT|580s AT]]"
             }
         },
@@ -14593,8 +14660,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/590s AT|590s AT]]"
             }
         },
@@ -14608,8 +14675,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/600s AT|600s AT]]"
             }
         },
@@ -14623,8 +14690,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/60s AT|60s AT]]"
             }
         },
@@ -14638,8 +14705,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT|60s BT]]"
             }
         },
@@ -14653,8 +14720,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/610s AT|610s AT]]"
             }
         },
@@ -14668,8 +14735,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/620s AT|620s AT]]"
             }
         },
@@ -14683,8 +14750,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/630s AT|630s AT]]"
             }
         },
@@ -14698,8 +14765,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/640s AT|640s AT]]"
             }
         },
@@ -14713,8 +14780,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/650s AT|650s AT]]"
             }
         },
@@ -14728,8 +14795,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/660s AT|660s AT]]"
             }
         },
@@ -14743,8 +14810,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/670s AT|670s AT]]"
             }
         },
@@ -14758,8 +14825,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/680s AT|680s AT]]"
             }
         },
@@ -14773,8 +14840,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/690s AT|690s AT]]"
             }
         },
@@ -14788,8 +14855,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/700s AT|700s AT]]"
             }
         },
@@ -14803,8 +14870,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/70s AT|70s AT]]"
             }
         },
@@ -14818,8 +14885,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/70s BT|70s BT]]"
             }
         },
@@ -14833,8 +14900,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/710s AT|710s AT]]"
             }
         },
@@ -14848,8 +14915,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/720s AT|720s AT]]"
             }
         },
@@ -14863,8 +14930,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/730s AT|730s AT]]"
             }
         },
@@ -14878,8 +14945,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/740s AT|740s AT]]"
             }
         },
@@ -14893,8 +14960,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/750s AT|750s AT]]"
             }
         },
@@ -14908,8 +14975,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/760s AT|760s AT]]"
             }
         },
@@ -14923,8 +14990,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/770s AT|770s AT]]"
             }
         },
@@ -14938,8 +15005,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/780s AT|780s AT]]"
             }
         },
@@ -14953,8 +15020,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/790s AT|790s AT]]"
             }
         },
@@ -14968,8 +15035,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/800s AT|800s AT]]"
             }
         },
@@ -14983,8 +15050,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/80s AT|80s AT]]"
             }
         },
@@ -14998,8 +15065,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/80s BT|80s BT]]"
             }
         },
@@ -15013,8 +15080,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/810s AT|810s AT]]"
             }
         },
@@ -15028,8 +15095,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/820s AT|820s AT]]"
             }
         },
@@ -15043,8 +15110,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/830s AT|830s AT]]"
             }
         },
@@ -15058,8 +15125,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/840s AT|840s AT]]"
             }
         },
@@ -15073,8 +15140,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/850s AT|850s AT]]"
             }
         },
@@ -15088,8 +15155,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/860s AT|860s AT]]"
             }
         },
@@ -15103,8 +15170,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/870s AT|870s AT]]"
             }
         },
@@ -15118,8 +15185,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/880s AT|880s AT]]"
             }
         },
@@ -15133,8 +15200,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/890s AT|890s AT]]"
             }
         },
@@ -15148,8 +15215,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/900s AT|900s AT]]"
             }
         },
@@ -15163,8 +15230,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/90s AT|90s AT]]"
             }
         },
@@ -15178,8 +15245,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/90s BT|90s BT]]"
             }
         },
@@ -15193,8 +15260,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/910s AT|910s AT]]"
             }
         },
@@ -15208,8 +15275,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/920s AT|920s AT]]"
             }
         },
@@ -15223,8 +15290,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/930s AT|930s AT]]"
             }
         },
@@ -15238,8 +15305,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/940s AT|940s AT]]"
             }
         },
@@ -15253,8 +15320,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/950s AT|950s AT]]"
             }
         },
@@ -15268,8 +15335,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/960s AT|960s AT]]"
             }
         },
@@ -15283,8 +15350,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/970s AT|970s AT]]"
             }
         },
@@ -15298,8 +15365,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/980s AT|980s AT]]"
             }
         },
@@ -15313,8 +15380,8 @@
                     "topic/history/decade"
                 ],
                 "type": "index",
-                "future": "update",
                 "status": "complete",
+                "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/990s AT|990s AT]]"
             }
         },
@@ -16996,6 +17063,11 @@
                 "index": [
                     {
                         "header_name": "Articles by Status",
+                        "excluded_data": [
+                            {
+                                "future": "auto-generated"
+                            }
+                        ],
                         "sort": [
                             {
                                 "by": "status",
@@ -17378,7 +17450,8 @@
                     "topic/meta"
                 ],
                 "type": "index",
-                "status": "update",
+                "status": "complete",
+                "future": "auto-generated",
                 "index": [
                     {
                         "header_name": "Lore Ledgers",

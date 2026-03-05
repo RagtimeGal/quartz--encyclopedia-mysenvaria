@@ -12,15 +12,15 @@ status: complete
 > 
 > *This is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 
-Canon is the true lore of a setting which is sourced from authoritative works on the subject. Mysenvar's authoritative source for lore is this website—the Encyclopedia Mysenvaria. Non-meta pages on this site are pages which exist in the fictional canonical setting in the setting's own version of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Meta pages are those which do not exist within the canon of Mysenvar and which provide valuable information on this website's version of the encyclopedia.
+Canon is the true lore of a setting which is sourced from authoritative works on the subject. Mysenvar's authoritative source for lore is this website—the Encyclopedia Mysenvaria. Non-meta pages on this site are pages which exist in the fictional canonical setting in the setting's own version of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Meta pages are those which do not exist within the canon of Mysenvar and which provide valuable information on this website's version of the Encyclopedia.
 
 As an example: The non-meta includes pages like [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]], [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]], or [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|Classification of Organisms]]. These are pages which exist in the canon encyclopedia, they describe the setting and are written as if pulled from the setting. Meta pages includes those like [[Meta/Contributing|Contributing]], [[Meta/Callouts|Callouts]], or [[Meta/Writing Guidelines|Writing Guidelines]]. These pages provide information on the website and how it works.
 
-This page serves as a starting point for those looking to explore how the encyclopedia works, what it's meant for, how to use it, and how to contribute.
+This page serves as a starting point for those looking to explore how the Encyclopedia works, what it's meant for, how to use it, and how to contribute.
 # The Project
 Mysenvar is a hard science-fantasy setting which can be explored through the Encyclopedia Mysenvaria website. The website is written through the guise of an encyclopedia which exists in the setting itself (Bar, as previously mentioned, meta pages like this one). The encyclopedia offers users a free resource to use as they wish: running a TTRPG, looking for inspiration for your own story or setting, or wanting a detailed world for a project you're working on. Mysenvar intends to be a rich and expansive world for anyone's purposes—so long as it is not monetized.
 
-As part of my initiative to get readers interested in running TTRPG's in Mysenvar I would like to write a series of meta pages in the future on how to use the encyclopedia to run campaigns in the setting. This won't come for some time, but it would be fun.
+As part of my initiative to get readers interested in running TTRPG's in Mysenvar I would like to write a series of meta pages in the future on how to use the Encyclopedia to run campaigns in the setting. This won't come for some time, but it would be fun.
 
 > [!warning] Disclaimer
 > The Encyclopedia Mysenvaria and all of its contents are a work of fiction. The world, its people, and events therein, are a product of imagination intended to immerse readers in a world unlike the one we live in. Any resemblance to real people or events is purely coincidental.
@@ -37,13 +37,13 @@ As part of my initiative to get readers interested in running TTRPG's in Mysenva
 > 
 > For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria)
 
-The Encyclopedia Mysenvaria is a personal project by myself—I have a very clear creative vision for the project, with specific set goals in mind. I have set up the encyclopedia in such a way that anyone can contribute very easily, which is both a product of my creative vision and the limitations I have with the tools I work with. I am not seeking contributions, but for anyone who feels inclined the tools are in place.
+The Encyclopedia Mysenvaria is a personal project by myself—I have a very clear creative vision for the project, with specific set goals in mind. I have set up the Encyclopedia in such a way that anyone can contribute very easily, which is both a product of my creative vision and the limitations I have with the tools I work with. I am not seeking contributions, but for anyone who feels inclined the tools are in place.
 
 Each page on the website, including this one, is fitted with a comment section powered by [giscus](https://giscus.app/), which uses [GitHub discussions](https://docs.github.com/en/discussions), this is the easiest way to contribute your own thoughts. Alternatively, you can join my [Worldbuilding Discord](https://discord.gg/2yUDZ5j) and brainstorm there—The discord is also friendly to anyone who may have their own projects or settings.
 # LLM Transparency
 For the sake of transparency I would like to disclose that I (Ragno) have previously used artificial intelligence large language models to refine text content for the Encyclopedia Mysenvaria. Moving forward, as of 2026, the project's 'content'-facing end will no longer use any content knowingly produced by an LLM.
 
-The 'code'-facing end of the Encyclopedia Mysenvaria cannot be completely safeguarded against LLMs. The backend of the project is Quartz, which can be contributed to by practically anyone at any time. On top of that, I do not have the knowhow to personally code programs which would otherwise be beneficial to the encyclopedia (For instance the programs which automatically generate the index pages). For the sake of transparency any file which has code which I know has been generated by an LLM will be marked as such with a comment at the start of the file. Provided is the comment:
+The 'code'-facing end of the Encyclopedia Mysenvaria cannot be completely safeguarded against LLMs. The backend of the project is Quartz, which can be contributed to by practically anyone at any time. On top of that, I do not have the knowhow to personally code programs which would otherwise be beneficial to the Encyclopedia (For instance the programs which automatically generate the index pages). For the sake of transparency any file which has code which I know has been generated by an LLM will be marked as such with a comment at the start of the file. Provided is the comment:
 
 ```
 ### A PORTION OF, OR ALL OF, THE CODE CONTAINED WITHIN THIS FILE WAS GENERATED BY AN LLM.
