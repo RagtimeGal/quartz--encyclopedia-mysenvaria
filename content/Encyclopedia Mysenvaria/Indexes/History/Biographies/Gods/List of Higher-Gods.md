@@ -23,13 +23,24 @@ index:
 
 This page serves as an index of higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], defined as Gods whose elements of nature would cease existence upon death.
 # Higher-Gods
+## E
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Energy]]
+## G
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Gasses|God of Gasses]]
 ## K
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Gods of Kinetic & Potential Energy|Gods of Kinetic & Potential Energy]]
+## L
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Liquids|God of Liquids]]
 ## M
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Material States|Gods of Material States]]
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]]
+## P
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Plasma|God of Plasma]]
+## S
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Solids|God of Solids]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Space]]
 ## T
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Time]]
 ## W
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]
 

@@ -32,4 +32,4 @@ status: empty
 # Notable People
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Religions|List of Religions]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Beliefs|List of Beliefs]]

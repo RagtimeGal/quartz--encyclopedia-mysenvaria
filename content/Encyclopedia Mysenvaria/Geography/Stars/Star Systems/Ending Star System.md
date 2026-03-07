@@ -19,4 +19,4 @@ status: empty
 
 # Also see
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars by Star System|List of Stars by Star System]]
+

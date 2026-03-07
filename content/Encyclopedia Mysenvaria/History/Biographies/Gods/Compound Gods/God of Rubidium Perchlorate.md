@@ -6,7 +6,7 @@ enableToc: true
 tags:
   - topic/history/biography
   - subject/god/lesser-god
-  - subject/god/compound_god
+  - subject/god/molecular_god
 type: article
 status: empty
 has:
@@ -18,7 +18,7 @@ has:
 
 > [!summary] God of Rubidium Perchlorate
 > > [!info] Creator(s)
-> > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Chlorine|God of Chlorine]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Rubidium|God of Rubidium]], 
+> > God of Chlorine, [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]], God of Rubidium 
 
 # History
 

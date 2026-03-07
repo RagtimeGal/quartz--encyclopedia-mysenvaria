@@ -24,7 +24,7 @@ star_desc: Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/G
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-The Spatial Act is a [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Legally Binding Stars|legal]] [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] passed by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Time and God of Space]]. Following a disagreement and fight between the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium|God of Plutonium]] and Time.
+The Spatial Act is a legal [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] passed by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Time and God of Space]]. Following a disagreement and fight between the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium|God of Plutonium]] and Time.
 # History
 
 # Famous Translations

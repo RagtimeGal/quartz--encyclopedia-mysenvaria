@@ -82,7 +82,7 @@ This page serves as an index of index pages across the Encyclopedia, sorted by t
 # Culture
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Events & Holidays/List of Holidays|List of Holidays]]
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Occupations|List of Occupations]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Organizations/List of Organizations|List of Organizations]]
 
 # Geography
@@ -94,7 +94,10 @@ This page serves as an index of index pages across the Encyclopedia, sorted by t
 - [[Encyclopedia Mysenvaria/Indexes/Geography/List of all Geographical Features|List of all Geographical Features]]
 
 # History
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods|Elemental Gods]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods|Energy Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Compound Gods|List of Compound Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|List of Elemental Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Elemental Gods]]
@@ -104,9 +107,12 @@ This page serves as an index of index pages across the Encyclopedia, sorted by t
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods|Material State Gods]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Molecular Gods|Molecular Gods]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods|Phenomena Gods]]
 
 # Science
-- [[Encyclopedia Mysenvaria/Indexes/Science/Models/List of Models|List of Models]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Phenomena/List of Phenomena|List of Phenomena]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]
+- [[Encyclopedia Mysenvaria/Indexes/Science/Models/List of Scientific Models|List of Scientific Models]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Technologies/List of Technologies|List of Technologies]]

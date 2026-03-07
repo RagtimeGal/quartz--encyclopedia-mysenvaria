@@ -24,4 +24,4 @@ ff1: ... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] a
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Science/List of Technologies|List of Technologies]]
+- [[Encyclopedia Mysenvaria/Indexes/Science/Technologies/List of Technologies|List of Technologies]]

@@ -25,4 +25,3 @@ needs:
 # Cultures
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Animals/Lists of Animals|Lists of Animals]]

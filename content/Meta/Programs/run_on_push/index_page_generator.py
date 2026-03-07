@@ -2,60 +2,27 @@
 import os
 import re
 import pathlib
-import yaml
+import json
 from collections import defaultdict
-from typing import Any, Dict, List, Optional, Tuple, Callable
+from typing import Any, Dict, List, Optional, Tuple
 
 # ===================== CONFIG =====================
 CONTENT_DIRNAME = "content"
+METADATA_JSON_REL = "Meta/Programs/debug/metadata_aggregator/extracted_metadata.json"
 DRY_RUN = False
 EXCLUDE_DIRS = {".git", ".github", ".obsidian", ".quartz", "public", "node_modules", ".vitepress"}
-ENV_CONTENT_ROOT = os.getenv("INDEX_GEN_CONTENT_ROOT")
 
 # ----------------- Root discovery -----------------
 def find_content_root() -> pathlib.Path:
-    if ENV_CONTENT_ROOT:
-        return pathlib.Path(ENV_CONTENT_ROOT)
-    
-    for base in [pathlib.Path.cwd(), pathlib.Path(__file__).resolve().parent]:
-        p = base / CONTENT_DIRNAME
-        if p.is_dir(): return p
-        # Check parents for GITHUB_WORKSPACE context
-        for parent in base.parents:
-            p = parent / CONTENT_DIRNAME
-            if p.is_dir(): return p
-            
+    curr = pathlib.Path.cwd()
+    for _ in range(5):
+        if (curr / CONTENT_DIRNAME).is_dir():
+            return curr / CONTENT_DIRNAME
+        curr = curr.parent
     return pathlib.Path.cwd() / CONTENT_DIRNAME
 
-# ----------------- Data Parsing -----------------
-FM_RE = re.compile(r"^---\r?\n(.*?)(?:\r?\n)---\r?\n?", re.S)
-DATE_RE = re.compile(r"^\s*([+-]?\d+)(?:-([0-9]{1,3}))?\s*$")
-
-def read_page(md_path: pathlib.Path, root: pathlib.Path) -> Optional[Dict[str, Any]]:
-    try:
-        text = md_path.read_text(encoding="utf-8", errors="ignore")
-        m = FM_RE.match(text)
-        if not m: return None
-        
-        fm = yaml.safe_load(m.group(1))
-        if not isinstance(fm, dict): return None
-        
-        src_rel = md_path.relative_to(root).as_posix()
-        title = str(fm.get("title", md_path.stem)).strip()
-        # Pre-calculate wiki link
-        wiki_link = f"[[{src_rel[:-3] if src_rel.endswith('.md') else src_rel}|{title}]]"
-        
-        return {"fm": fm, "title": title, "link": wiki_link, "path": md_path, "lines": text.splitlines()}
-    except Exception:
-        return None
-
 # ----------------- Metadata Navigation -----------------
-_path_cache = {}
-
 def resolve_path(obj: Any, path: str) -> List[Any]:
-    cache_key = (id(obj), path)
-    if cache_key in _path_cache: return _path_cache[cache_key]
-
     parts = [p for p in path.split(".") if p]
     nodes = [obj]
     
@@ -64,7 +31,6 @@ def resolve_path(obj: Any, path: str) -> List[Any]:
         is_list_query = part.endswith("[]")
         key = part[:-2] if is_list_query else part
         
-        # Handle specific index like item[0]
         idx_match = re.search(r"\[(\d+)\]$", key)
         forced_idx = int(idx_match.group(1)) if idx_match else None
         if forced_idx is not None: key = key[:key.find("[")]
@@ -88,15 +54,18 @@ def resolve_path(obj: Any, path: str) -> List[Any]:
     for n in nodes:
         if isinstance(n, list): res.extend(n)
         else: res.append(n)
-    
-    _path_cache[cache_key] = res
     return res
 
 # ----------------- Date & Matching Logic -----------------
+DATE_RE = re.compile(r"^\s*([+-]?\d+)(?:-([0-9]{1,3}))?\s*$")
+
 def to_float_date(val: Any) -> Optional[float]:
     if isinstance(val, (int, float)): return float(val)
-    if isinstance(val, dict) and "year" in val:
-        return float(val["year"]) + (float(val.get("day", 0) or 0) / 1000.0)
+    if isinstance(val, dict):
+        # Prefer the internal informal string if available for parsing
+        if "informal" in val: val = val["informal"]
+        elif "year" in val: return float(val["year"]) + (float(val.get("day", 0) or 0) / 1000.0)
+    
     if isinstance(val, str):
         m = DATE_RE.match(val.strip())
         if m:
@@ -109,13 +78,6 @@ def check_date_rule(val: Any, criteria: Dict[str, Any]) -> bool:
     for op, threshold in criteria.items():
         thr = to_float_date(threshold)
         if thr is None: continue
-        # Year-only thresholds (ints) cover the whole year range [.000 to .999]
-        if isinstance(threshold, int):
-            if op == "gt": thr += 0.999
-            if op == "lt": pass # use .000
-            if op == "gte": pass # use .000
-            if op == "lte": thr += 0.999
-
         if op == "gt" and not (v > thr): return False
         if op == "lt" and not (v < thr): return False
         if op == "gte" and not (v >= thr): return False
@@ -137,35 +99,29 @@ def matches_rule_item(fm: Dict[str, Any], rule_item: Any) -> bool:
                 if not any(check_date_rule(v, expected) for v in vals): return False
                 continue
         
-        # wildcard support and standard equality
         match = False
         for v in vals:
             v_str = str(v)
             if isinstance(expected, list):
                 for e in expected:
                     e_str = str(e)
-                    if e_str.endswith('*'):
-                        if v_str.startswith(e_str[:-1]): match = True; break
-                    elif v_str == e_str:
-                        match = True; break
+                    if e_str.endswith('*') and v_str.startswith(e_str[:-1]): match = True; break
+                    elif v_str == e_str: match = True; break
                 if match: break
             else:
                 e_str = str(expected)
-                if e_str.endswith('*'):
-                    if v_str.startswith(e_str[:-1]): match = True; break
-                elif v_str == e_str:
-                    match = True; break
+                if e_str.endswith('*') and v_str.startswith(e_str[:-1]): match = True; break
+                elif v_str == e_str: match = True; break
         if not match: return False
     return True
 
 # ----------------- Sorting & Rendering -----------------
 def get_sort_key(page: Dict[str, Any], by: str, method: str):
-    vals = resolve_path(page["fm"], by)
+    vals = resolve_path(page["metadata"], by)
     raw = vals[0] if vals else ""
     is_date = "date" in by.lower()
     
     if not raw: return (1, "")
-    
     val = to_float_date(raw) if is_date else str(raw)
     if "natural" in method and isinstance(val, str):
         return (0, [int(c) if c.isdigit() else c.lower() for c in re.split(r"(\d+)", val)])
@@ -174,7 +130,6 @@ def get_sort_key(page: Dict[str, Any], by: str, method: str):
 def render_block(pages: List[Dict[str, Any]], sort_spec: List[Dict], h_level: int) -> List[str]:
     if not pages: return []
     
-    # Final sort (applied in reverse for stability)
     current_pages = list(pages)
     for spec in reversed(sort_spec):
         by = spec.get("by", "title")
@@ -183,7 +138,7 @@ def render_block(pages: List[Dict[str, Any]], sort_spec: List[Dict], h_level: in
 
     def group_pages(pgs: List[Dict], spec_idx: int, level: int) -> List[str]:
         if spec_idx >= len(sort_spec):
-            return [f"- {p['link']}" for p in pgs]
+            return [f"- {p['metadata']['link']}" for p in pgs]
             
         spec = sort_spec[spec_idx]
         sh = spec.get("subheaders", {})
@@ -197,7 +152,7 @@ def render_block(pages: List[Dict[str, Any]], sort_spec: List[Dict], h_level: in
         groups = defaultdict(list)
         keys = []
         for p in pgs:
-            raw = (resolve_path(p["fm"], by) or [""])[0]
+            raw = (resolve_path(p["metadata"], by) or [""])[0]
             label = "Other"
             if raw:
                 if method == "first_character": label = str(raw)[0].upper()
@@ -206,7 +161,6 @@ def render_block(pages: List[Dict[str, Any]], sort_spec: List[Dict], h_level: in
                     v = to_float_date(raw)
                     label = str(int((v // step) * step)) if v is not None else "Other"
                 else: label = str(raw)
-            
             if label not in groups: keys.append(label)
             groups[label].append(p)
             
@@ -216,39 +170,46 @@ def render_block(pages: List[Dict[str, Any]], sort_spec: List[Dict], h_level: in
             output.extend(group_pages(groups[k], spec_idx + 1, level + 1))
         return output
 
-    res = group_pages(current_pages, 0, h_level)
-    return res + [""]
+    return group_pages(current_pages, 0, h_level) + [""]
 
-# ----------------- Main Loop -----------------
 def main():
     root = find_content_root()
-    all_pages = []
-    _path_cache.clear()
+    json_path = root / METADATA_JSON_REL
+    if not json_path.exists():
+        print(f"Error: Aggregated metadata not found at {json_path}")
+        return
 
-    for path in root.rglob("*.md"):
-        if any(ex in path.parts for ex in EXCLUDE_DIRS): continue
-        p_data = read_page(path, root)
-        if p_data: all_pages.append(p_data)
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-    index_pages = [p for p in all_pages if isinstance(p["fm"].get("index"), list)]
+    all_items = data.get("pages", [])
+    # Index pages are specifically those that have an 'index' key in their metadata
+    index_pages = [p for p in all_items if "index" in p["metadata"] and isinstance(p["metadata"]["index"], list)]
+    
     wrote = 0
-
     for idx_page in index_pages:
-        lines = list(idx_page["lines"])
-        changed = False
+        rel_path = idx_page.get("parent") or idx_page.get("src_rel")
+        # Ensure we only try to write to actual files, not subpage virtual paths
+        actual_file_path = root / rel_path.split("::")[0]
         
-        for config in idx_page["fm"]["index"]:
+        if not actual_file_path.exists(): continue
+        
+        try:
+            content = actual_file_path.read_text(encoding="utf-8")
+            lines = content.splitlines()
+        except Exception: continue
+
+        changed = False
+        for config in idx_page["metadata"]["index"]:
             h_name = config.get("header_name")
             if not h_name: continue
             
-            # Find header
             span = None
             for i, ln in enumerate(lines):
                 m = re.match(r"^(#{1,6})\s+(.*?)\s*$", ln)
                 if m and m.group(2).strip() == h_name:
                     lvl = len(m.group(1))
-                    start = i + 1
-                    end = len(lines)
+                    start, end = i + 1, len(lines)
                     for j in range(start, len(lines)):
                         if lines[j].startswith("> [!") or (re.match(r"^#{1,6}\s", lines[j]) and len(re.match(r"^(#{1,6})", lines[j]).group(1)) <= lvl):
                             end = j; break
@@ -256,19 +217,17 @@ def main():
                     break
             
             if not span: continue
-            h_idx, r_start, r_end, h_lvl = span
+            _, r_start, r_end, h_lvl = span
             
-            # Filter
             inc = config.get("included_data", [])
-            # Support both list of rules and single rule object
             if isinstance(inc, dict): inc = [inc]
             exc = config.get("excluded_data", [])
             if isinstance(exc, dict): exc = [exc]
             
             matched = [
-                p for p in all_pages 
-                if all(matches_rule_item(p["fm"], r) for r in inc)
-                and not any(matches_rule_item(p["fm"], r) for r in exc)
+                p for p in all_items 
+                if all(matches_rule_item(p["metadata"], r) for r in inc)
+                and not any(matches_rule_item(p["metadata"], r) for r in exc)
             ]
             
             new_content = render_block(matched, config.get("sort", []), h_lvl)
@@ -278,13 +237,13 @@ def main():
         
         if changed:
             if not DRY_RUN:
-                idx_page["path"].write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
-                print(f"[UPDATED] {idx_page['path'].name}")
+                actual_file_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+                print(f"[UPDATED] {actual_file_path.name}")
                 wrote += 1
             else:
-                print(f"[DRY-RUN] Would update {idx_page['path'].name}")
+                print(f"[DRY-RUN] Would update {actual_file_path.name}")
 
-    print(f"Done. Processed {len(all_pages)} pages, updated {wrote} indexes.")
+    print(f"Done. Processed {len(all_items)} entries, updated {wrote} indexes.")
 
 if __name__ == "__main__":
     main()

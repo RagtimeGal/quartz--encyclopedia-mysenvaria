@@ -42,4 +42,4 @@ event:
 # Notable Figures
 
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Artificial Features/Lists of Artificial Features|Lists of Artificial Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Artificial Features/List of Artificial Features|List of Artificial Features]]

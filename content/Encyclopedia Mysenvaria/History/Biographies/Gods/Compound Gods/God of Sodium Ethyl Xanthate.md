@@ -6,7 +6,7 @@ enableToc: true
 tags:
   - topic/history/biography
   - subject/god/lesser-god
-  - subject/god/compound_god
+  - subject/god/molecular_god
 type: article
 status: empty
 has:
@@ -18,7 +18,7 @@ has:
 
 > [!summary] God of Sodium Ethyl Xanthate
 > > [!info] Creator(s)
-> > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sulfur|God of Sulfur]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|God of Sodium]], 
+> > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]], God of Sulfur, [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|God of Sodium]]
 
 # History
 

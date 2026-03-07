@@ -34,15 +34,15 @@ Welcome to the seventh Lore Ledger. This week saw a lot of progress towards the 
 > The objective is to have the God-War era pretty well fleshed out in terms of a timeline. The project includes a rewrite of the primary God-War page, the timeline page, and a graphic providing a general overview of the war (Think something like a histomap).
 # Changelog
 ## Added
-- [[Encyclopedia Mysenvaria/Geography/Natural Features/Pangaea|Pangaea]]; super-continent which existed before the breakup of its continental components.
+- Pangaea; super-continent which existed before the breakup of its continental components.
 - [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]]; Refers to the 17 year period of time at the start of the God-War where 75% of all Gods passed away.
 - [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]], [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|Territories During the God-War]]; Names are self-explanatory.
 - [[Encyclopedia Mysenvaria/Science/Branches/Topography|Topography]]; Scientific branch.
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Geologic Phenomena|Geologic Phenomena]]; This page will consume a bunch of other existing pages later.
+- Geologic Phenomena; This page will consume a bunch of other existing pages later.
 ## Removed
 
 ## Updated
-- [[Encyclopedia Mysenvaria/Geography/Stars/Birth Star|Birth Star]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]], [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/By Year/List of Stars Made in the 2nd Century BT|List of Stars Made in the 2nd Century BT]], [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT|180s BT]], [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's Star System]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]], [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]; Updated instances referring to renamed pages.
+- [[Encyclopedia Mysenvaria/Geography/Stars/Birth Star|Birth Star]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]], List of Stars Made in the 2nd Century BT, [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT|180s BT]], [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's Star System]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]], [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]; Updated instances referring to renamed pages.
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]; Renamed from Bernie's Star System and Bernie's Star.
 - [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]; Renamed from "First Death of a God".
 - ; Updated instances referring to First Death of a God page.

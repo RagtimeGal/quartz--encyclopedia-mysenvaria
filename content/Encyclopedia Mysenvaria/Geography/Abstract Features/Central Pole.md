@@ -19,7 +19,7 @@ ff1: ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central 
 
 The central pole, usually referred to as just the pole, is an abstract geographic feature serving as the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]][^figure1]. The central pole is not necessarily an important landmark on its own but does serve as a reference point due to its role in a number of natural phenomena.
 # Geography
-The central pole serves as the exact center of the Plane, positioned equidistant from all points of the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]]. The pole happens to lie directly above the Plane's [[Encyclopedia Mysenvaria/Geography/Natural Features/Ocean|ocean]] and serves as the central point of [[Oceanic Circulation|oceanic circulation]][^figure2]. As the ocean's waters spiral towards the pole they quickly cool and sink, this process creates violent and volatile waters forming [[Encyclopedia Mysenvaria/Science/Phenomena/Whirlpool|whirlpools]]. The area around the pole where these whirlpools form is known as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea|Deadman's Sea]].
+The central pole serves as the exact center of the Plane, positioned equidistant from all points of the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]]. The pole happens to lie directly above the Plane's [[Encyclopedia Mysenvaria/Geography/Natural Features/Ocean|ocean]] and serves as the central point of [[Oceanic Circulation|oceanic circulation]]. As the ocean's waters spiral towards the pole they quickly cool and sink, this process creates violent and volatile waters forming [[Encyclopedia Mysenvaria/Science/Phenomena/Whirlpool|whirlpools]]. The area around the pole where these whirlpools form is known as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea|Deadman's Sea]].
 # History
 Before the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]] the pole was not located in a body of water. Outside of this knowledge, information on the exact geography of the pole during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] remains largely unknown. The pole played a significant role in the God-War, serving as a place of prestige which Gods sought to get closer to and claim as their own. [[Encyclopedia Mysenvaria/Science/Technologies/Maps|Maps]] depicting territories from the war give ideas of which [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] may have owned the pole at what points during the war, but these maps are generally created by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]] and [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|cartographers]] based on incomplete information and speculation. 
 
@@ -33,8 +33,7 @@ The Deadman's Sea creates a relatively uninhabitable environment around the pole
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 
-[^figure1]: ![[Media/Images/Infographics/world_diagram.png]]
-[^figure2]: ![[Media/Images/Infographics/ocean_currents.png]]
+[^figure1]: ![[Media/Images/Infographics/world_diagram.png|world_diagram.png]]
 [^figure3]: ![[Media/Videos/10-day-modern-simulation.mp4]]
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

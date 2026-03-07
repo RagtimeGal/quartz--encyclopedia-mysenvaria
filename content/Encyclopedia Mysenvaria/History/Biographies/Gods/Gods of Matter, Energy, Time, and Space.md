@@ -2,28 +2,92 @@
 title: "Gods of Matter, Energy, Time, and Space"
 aliases:
   - "Matter, Energy, Time, and Space"
+  - "Creation Quadrinity"
+  - "God of Matter"
+  - "God of Energy"
+  - "God of Time"
+  - "God of Space"
 enableToc: true
 tags:
   - topic/history/biography
   - subject/god/higher-god
-type: article
-status: incomplete
-future: update
+type: index
+status: stub
+future: none
 needs:
   - infobox
-person:
-  - name: "Gods of Matter, Energy, Time, and Space"
-    birth_date: [-178]
-    major_event: false
+subpage:
+  - title: "God of Matter"
+    aliases:
+      - "Matter"
+    link: "god_of_matter"
+    tags:
+      - topic/history/biography
+      - subject/god/higher-god
+    type: article
+    status: stub
+    future: none
+    person:
+      - name: "God of Matter"
+        birth_date: [-178]
+        major_event: false
+  - title: "God of Energy"
+    aliases:
+      - "Energy"
+    link: "god_of_energy"
+    tags:
+      - topic/history/biography
+      - subject/god/higher-god
+    type: article
+    status: stub
+    future: none
+    person:
+      - name: "God of Energy"
+        birth_date: [-178]
+        major_event: false
+  - title: "God of time"
+    aliases:
+      - "Time"
+    link: "god_of_time"
+    tags:
+      - topic/history/biography
+      - subject/god/higher-god
+    type: article
+    status: stub
+    future: none
+    person:
+      - name: "God of Time"
+        birth_date: [-178]
+        major_event: false
+  - title: "God of Space"
+    aliases:
+      - "Space"
+    link: "god_of_space"
+    tags:
+      - topic/history/biography
+      - subject/god/higher-god
+    type: article
+    status: stub
+    future: none
+    person:
+      - name: "God of Space"
+        birth_date: [-178]
+        major_event: false
 ---
+%%
+god_of_matter: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]]
+god_of_energy: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Energy]]
+god_of_time: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Time]]
+god_of_space: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Space]]
+%%
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
-> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of Matter, Energy, Time, and Space, also sometimes referred to as the creation quadrinity, were the first higher-Gods to be created, born from domain subdivision by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. The creation quadrinity are among the most powerful Gods but often choose to stay out of conflict, sometimes leading to them being called negligent or uncaring. Like other Gods of similar nature the quadrinity often act together in sync and as one.
 # History
 ## God-War Era
-Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]], around 690t, What Is and Is Not would create the creation quadrinity. Tired of their power Matter would go on to subdivide their domain, creating the [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|Gods of Elements]]. This move would inspire Time and Energy to follow, creating the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future|Gods of Past, Present, and Future]] and [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|Gods of Energy Types]] respectively. Energy and Matter would later work together to create the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Material States|Gods of Material States]].
+Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]], around 690t, What Is and Is Not would create the creation quadrinity. Tired of their power Matter would go on to subdivide their domain, creating the [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|Gods of Elements]]. This move would inspire Time and Energy to follow, creating the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future|Gods of Past, Present, and Future]] and [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|Gods of Energy Types]] respectively. Energy and Matter would later work together to create the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods|Material State Gods]].
 
 The creation of these lesser-Gods would spark the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|quickening]], an event recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]]. The quickening would lead to stress amongst Gods and eventually culminate into the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|first death of a God]]. This would mark the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]], indirectly caused by the actions of Matter. For this reason Matter is often even to the modern day blamed for the God-War.
 
@@ -40,12 +104,5 @@ The creation quadrinity would appear for the first time together at the end of t
 
 ## Modern Era
 
-# Appearance
-The creation quadrinity are often described differently from description-to-description. *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]]* is a widely accepted and academically acclaimed book by [[Encyclopedia Mysenvaria/History/Biographies/Author of Encounters With The Quadrinity|Author of Encounters With The Quadrinity]] which details and dissects multiple descriptions of the quadrinity from across history with sources ranging from diaries to stars to scholarly papers. (Author) concluded that the quadrinity must appear differently to different viewers, dependent on interpretation.
-
-According to the book the most widespread versions of the quadrinity among [[Encyclopedia Mysenvaria/Biology/Species/Human|humans]] and [[Encyclopedia Mysenvaria/Biology/Species/Dwarf|dwarves]] see Matter as made of surrounding materials, Energy as a bright light, Space as a nearly-invisible being, and Time as a figure moving backwards and forwards at the same time. Among southern [[Encyclopedia Mysenvaria/Biology/Disease/Elf|elves]] the largest difference is often seeing time as a plant growing and wilting.
 # See Also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
-
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

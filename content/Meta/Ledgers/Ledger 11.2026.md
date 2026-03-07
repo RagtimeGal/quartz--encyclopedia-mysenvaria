@@ -9,7 +9,7 @@ ledger_data:
   week: 11
   year: 2026
 ---
-[[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Acetate|God of Acetate]]
+
 > [!abstract] [[Meta/Meta|Meta]]
 > *This article is part of a series of meta articles which provide a brief changelog and look at the Encyclopedia's progress.*
 
@@ -20,4 +20,8 @@ ledger_data:
 > 
 > **Next Ledger:** Upcoming
 
-This week's ledger practically every article across the entire Encyclopedia has been edited in some way.
+This week pretty much every article across the entire Encyclopedia has been edited in some way.
+
+Importantly, there's been a major refactor to the way the Encyclopedia's programs run. There is now one program which consolidates all YAML across the entire encyclopedia into one JSON file which is then used by other programs. This way programs do not each individually have to index the entire Encyclopedia and it is performed by one program which the others then use the labor of. This should theoretically massively speed up the Encyclopedia's programs.
+
+This change actually occurred as I was attempting to find a way to combine all of the God biography pages while maintaining indexes like the [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|List of Elemental Gods]]. This has introduced a new [[Meta/Metadata|metadata]] key, `subpage`, which 'tricks' the programs into thinking pages which do not exist do exist, and thus links to them in indexes.

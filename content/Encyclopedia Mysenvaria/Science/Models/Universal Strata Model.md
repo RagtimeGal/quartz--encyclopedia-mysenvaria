@@ -28,7 +28,7 @@ The USM models only one expression of the universe: Nature, the one which we exi
 # Layers
 The USM posits that the universe is made of possibility, it is everything that ever has, can, or will be. Given the universe's structure there are theoretically other forms it expresses itself as, the USM models only one given expression—that expression is the one we exist within, Nature. Nature is made up of the physical, metaphysical, known, unknown, and unknowable.
 
-Nature contains two primary groups of substance: the Real and the Unreal. The Real is [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (science)|entities]], like matter, energy, and space. Real things act by persisting and responding. The Unreal is [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|relationships]], like logic, causality, and physics. Unreal things act by governing and limiting interaction.
+Nature contains two primary groups of substance: the Real and the Unreal. The Real is [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|entities]], like matter, energy, and space. Real things act by persisting and responding. The Unreal is [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|relationships]], like logic, causality, and physics. Unreal things act by governing and limiting interaction.
 
 Reality is an emergent property of Nature, the result of an interaction between the Real and Unreal. This interaction is not perfect—think of it like two pieces of twine being braided into a rope—many things can incite instability. These instabilities between the Real and Unreal give rise to new and unique properties in Reality.
 

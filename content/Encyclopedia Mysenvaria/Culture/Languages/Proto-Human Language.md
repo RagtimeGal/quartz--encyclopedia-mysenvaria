@@ -10,9 +10,9 @@ status: stub
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-Proto-Human is the reconstructed common ancestor of all [[Encyclopedia Mysenvaria/Indexes/Culture/List of Human Languages|Human languages]]. There is no written record of Proto-Human; all of its features are proposed based off of inherited features in all Human languages through the process of the comparative method and internal reconstruction, among other methods.
+Proto-Human is the reconstructed common ancestor of all Human languages. There is no written record of Proto-Human; all of its features are proposed based off of inherited features in all Human languages through the process of the comparative method and internal reconstruction, among other methods.
 
-Proto-Human is believed to have been spoken between __ and __ during the beginnings of [[Encyclopedia Mysenvaria/Biology/Species/Human|humanity]]. Evidence from certain irregular forms that controversially points to Proto-Human predating humanity by approximately __-__ years; however, what predates Proto-Human beyond this point is generally uncertain, with many proposing [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]] as an ancestor.
+Proto-Human is believed to have been spoken between __ and __ during the beginnings of humanity. Evidence from certain irregular forms that controversially points to Proto-Human predating humanity by approximately __-__ years; however, what predates Proto-Human beyond this point is generally uncertain, with many proposing [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]] as an ancestor.
 
 As speakers of Proto-Human became gradually isolated from eachother, the regional dialects of Proto-Human diverged, as each dialect went through a series of systematic changes in pronunciation, morphology, and vocabulary. Over time these dialects began to form mutual unintelligible languages within the Proto-Human language family.
 # History

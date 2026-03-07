@@ -41,5 +41,5 @@ At the moment the only project remains climate. Progress is moving smoothly on t
 
 ## Updated
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]; renamed from Mythril.
-- [[Encyclopedia Mysenvaria/Biology/Species/Starmoth|Starmoth]], [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]; Changed instances of mythril to limn.
+- Starmoth, [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]; Changed instances of mythril to limn.
 - [[Meta/Meta|Meta]]; Grammar fix.

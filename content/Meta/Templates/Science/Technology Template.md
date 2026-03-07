@@ -27,4 +27,4 @@ start_desc:
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Science/List of Technologies|List of Technologies]]
+- [[Encyclopedia Mysenvaria/Indexes/Science/Technologies/List of Technologies|List of Technologies]]

@@ -2,10 +2,13 @@
 title: "Gods of Past, Present, and Future"
 aliases:
   - "Past, Present, and Future"
+  - "God of Past"
+  - "God of Present"
+  - "God of Future"
 enableToc: true
 tags:
   - topic/history/biography
-  - subject/god/lesser-god
+  - subject/god/higher-god
 type: article
 status: complete
 future: update

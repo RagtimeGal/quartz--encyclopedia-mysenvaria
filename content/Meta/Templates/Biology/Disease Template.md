@@ -25,4 +25,3 @@ status: empty
 # Cultural Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Biology/Disease/Lists of Diseases|Lists of Diseases]]

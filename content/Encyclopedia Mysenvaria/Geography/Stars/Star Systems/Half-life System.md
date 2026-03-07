@@ -22,4 +22,4 @@ The two's fight would lead to the flooding of the system, with many Gods agreein
 
 # Also see
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars by Star System|List of Stars by Star System]]
+

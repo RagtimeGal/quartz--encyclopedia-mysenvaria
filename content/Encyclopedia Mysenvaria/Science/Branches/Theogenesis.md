@@ -1,5 +1,7 @@
 ---
 title: "Theogenesis"
+aliases:
+  - "Theogenists"
 enableToc: true
 tags:
   - topic/science/branch

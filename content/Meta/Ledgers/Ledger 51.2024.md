@@ -41,5 +41,5 @@ Most changes have been in images (of which there are now a lot of maps.), which 
 - subject:god-War Timeline Ext.; Removed for the time being. Not sure why I had created this in the first place.
 - Timeline; No longer up-to-date and replaced by [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]].
 ## Updated
-- [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era Rewrite|God-War Era Rewrite]]; Added extra headings related to the era.
+- God-War Era Rewrite; Added extra headings related to the era.
 - [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]; Moved to a new section in the history topic indexes.

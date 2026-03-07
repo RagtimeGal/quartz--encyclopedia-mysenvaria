@@ -1,0 +1,11 @@
+{
+    "insertions": {
+        "lowercase": [""],
+        "uppercase": [""]
+    },
+    "generate": [
+        "god_of_{lowercase}: God of {uppercase}",
+        "  - title: \"God of {uppercase}\"\n    aliases:\n      - \"{uppercase}\"\n    link: \"god_of_{lowercase}\"\n    tags:\n      - topic/history/biography\n      - subject/god/higher-god\n      - subject/god/elemental_god\n    type: article\n    status: empty\n    future: none\n    person:\n      - name: \"God of {uppercase}\"\n        birth_date: [-178]\n        major_event: false",
+        "  - \"God of {uppercase}\""
+    ]
+}

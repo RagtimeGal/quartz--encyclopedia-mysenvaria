@@ -8,7 +8,7 @@ type: article
 status: empty
 ---
 
-*For scientific entities, see [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (science)|Entity (science)]].*
+*For scientific entities, see [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|Entity (Phenomenon)]].*
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

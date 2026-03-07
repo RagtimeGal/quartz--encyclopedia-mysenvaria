@@ -23,22 +23,6 @@ index:
 
 This page serves as an index of reaction [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]].
 # Reaction Gods
-## A
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Acids|God of Acids]]
-## B
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Bases|God of Bases]]
-## C
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Chemical Reactions|God of Chemical Reactions]]
-## E
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Endothermic Reactions|God of Endothermic Reactions]]
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Exothermic Reactions|God of Exothermic Reactions]]
-## S
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Strong Acids|God of Strong Acids]]
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Strong Bases|God of Strong Bases]]
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Weak Bases|God of Strong Bases]]
-## W
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Reaction Gods/God of Weak Acids|God of Weak Acids]]
-
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]

@@ -26,7 +26,7 @@ Amongst the changes to all files includes:
 - New [[Meta/Metadata|Metadata]], including `type` and `status` which are useful in page organization.
 - New and improved [[Meta/Callouts|Callouts]] to make it easier for readers to tell what kind of stage articles are at.
 - Rewritten [[Meta/Meta|Meta]] pages, including better documentation on [[Meta/Contributing|Contributing]].
-- And the new [[Meta/Names|Naming Conventions]] for places and people.
+- And the new Naming Conventions for places and people.
 
 There's also been changes to the GitHub, including the addition of a [Code of Conduct](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=coc-ov-file), [Contributing Document](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file), an update to the [License](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=License-1-ov-file), and a rework for all the issue templates.
 

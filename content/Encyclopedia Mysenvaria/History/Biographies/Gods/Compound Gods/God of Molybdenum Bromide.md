@@ -6,7 +6,7 @@ enableToc: true
 tags:
   - topic/history/biography
   - subject/god/lesser-god
-  - subject/god/compound_god
+  - subject/god/molecular_god
 type: article
 status: empty
 has:
@@ -18,7 +18,7 @@ has:
 
 > [!summary] God of Molybdenum Bromide
 > > [!info] Creator(s)
-> > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Molybdenum|God of Molybdenum]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Bromine|God of Bromine]], 
+> > God of Molybdenum, God of Bromine, 
 
 # History
 

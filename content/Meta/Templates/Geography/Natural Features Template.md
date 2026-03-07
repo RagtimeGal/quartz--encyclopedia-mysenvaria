@@ -32,4 +32,4 @@ event:
 # Cultural Significance
 
 # See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/Lists of Natural Features|Lists of Natural Features]]
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Natural Features|List of Natural Features]]

@@ -20,4 +20,4 @@ The Human Minds System is a small system of [[Encyclopedia Mysenvaria/Science/Ph
 
 # Also see
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Stars by Star System|List of Stars by Star System]]
+

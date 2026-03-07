@@ -104,7 +104,7 @@ tags:
   - subject/god # This article covers information regarding Gods.
   - subject/god/higher-god # This article covers information regarding higher-Gods.
   - subject/god/lesser-god # This article covers information regarding lesser-Gods.
-  - subject/god/compound_god # This article covers information regarding Gods of the chemical compounds.
+  - subject/god/molecular_god # This article covers information regarding Gods of the chemical compounds.
   - subject/god/elemental_god # This article covers information regarding Gods of the elements.
   - subject/god/energy_god # This article covers information regarding Gods of energies.
   - subject/god/reaction_god # This article covers information regarding Gods of chemical reactions.

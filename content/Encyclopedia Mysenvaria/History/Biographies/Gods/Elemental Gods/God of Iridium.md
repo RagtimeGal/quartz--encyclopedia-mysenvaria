@@ -1,5 +1,5 @@
 ---
-title: "God of Iridium"
+title: "God of Iridum"
 aliases:
  - "Iridium"
 enableToc: true

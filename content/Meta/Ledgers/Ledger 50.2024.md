@@ -35,8 +35,8 @@ Climate has been complete. A new project has begun.
 # Changelog
 Most changes have been in images (of which there are now a lot of maps.), which are not logged in the changelog.
 ## Added
-- [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era Rewrite|God-War Era Rewrite]]; The WIP rewrite page of the main [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] page.
-- [[Encyclopedia Mysenvaria/Indexes/History/Timeline/God-War Timeline Ext.|God-War Timeline Ext.]]; Extended timeline page. May be removed, am currently rethinking the way timeline pages like this will be organized.
+- God-War Era Rewrite; The WIP rewrite page of the main [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] page.
+- God-War Timeline Ext.; Extended timeline page. May be removed, am currently rethinking the way timeline pages like this will be organized.
 ## Removed
 
 ## Updated

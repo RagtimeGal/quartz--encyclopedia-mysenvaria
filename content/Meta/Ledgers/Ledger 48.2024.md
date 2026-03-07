@@ -34,8 +34,6 @@ At the moment the only project remains climate. Despite some setbacks the projec
 > Complete a map of the climate in unison with the completion of pages regarding the climate of the Plane. This should include various scientific phenomena, models, and geographical features. Pages like tectonics, atmospheric and oceanic circulation, climate classifications, etc.
 > 
 > The previously expected deadline was not reached. However, it is expected to still be completed soon. Here are the maps as they stand. There is only a little more work to go until everything is complete!
-> 
-> ![[Media/Images/Maps/temperature_wo_contour.gif]] ![[Media/Images/Maps/precipitation_wo_contour.gif]]
 # Changelog
 ## Added
 

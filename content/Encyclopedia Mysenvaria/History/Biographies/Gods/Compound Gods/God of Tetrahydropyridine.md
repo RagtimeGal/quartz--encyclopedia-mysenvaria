@@ -6,7 +6,7 @@ enableToc: true
 tags:
   - topic/history/biography
   - subject/god/lesser-god
-  - subject/god/compound_god
+  - subject/god/molecular_god
 type: article
 status: empty
 has:
@@ -18,7 +18,7 @@ has:
 
 > [!summary] God of Tetrahydropyridine
 > > [!info] Creator(s)
-> > [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Nitrogen|God of Nitrogen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]], 
+> > God of Nitrogen, [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]], [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]], 
 
 # History
 

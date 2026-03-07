@@ -9,7 +9,7 @@ import pathlib
 DEFAULT_VALUES = {
     "type": "article",
     "status": "empty",
-    "enableToc": True
+    "future": "none"
 }
 EXCLUDE_DIRS = {".git", "node_modules", "dist", "__pycache__"}
 DRY_RUN = False  # Set to True for console summary only

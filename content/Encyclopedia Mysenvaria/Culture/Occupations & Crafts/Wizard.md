@@ -19,4 +19,4 @@ status: empty
 # Notable Figures
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/List of Occupations|List of Occupations]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]

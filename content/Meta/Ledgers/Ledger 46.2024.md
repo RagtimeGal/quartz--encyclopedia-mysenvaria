@@ -44,9 +44,9 @@ Besides projects Lore Ledgers also include a changelog of pages which have been 
 - [[Encyclopedia Mysenvaria/Science/Models/Cline Climate|Cline Climate]]; Stub page; A scientific model for classifying climate, defunct in the setting.
 - [[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen Climate]]; Stub page; A scientific model for classifying climate, currently named after the real like Koppen Climate classification system, the name is a placeholder.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Island|Island]]; Stub page.
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Mantle|Mantle]]; Stub page.
+- Mantle; Stub page.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Rift|Rift]]; Stub page.
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Tectonic Plates|Tectonic Plates]]; Stub page.
+- Tectonic Plates; Stub page.
 ## Removed
 - Longitude and Latitude; Defunct page with the introduction of new coordinate systems.
 ## Updated
