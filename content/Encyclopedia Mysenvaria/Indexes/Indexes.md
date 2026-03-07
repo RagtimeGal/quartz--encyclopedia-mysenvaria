@@ -80,6 +80,7 @@ This page serves as an index of index pages across the Encyclopedia, sorted by t
 
 # Biology
 # Culture
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Beliefs|List of Beliefs]]
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Events & Holidays/List of Holidays|List of Holidays]]
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]

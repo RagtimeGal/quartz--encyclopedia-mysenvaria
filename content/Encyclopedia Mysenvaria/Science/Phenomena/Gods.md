@@ -11,7 +11,7 @@ needs:
   - graphics
 ---
 
-Gods, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|entities]].
+Gods, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]].
 
 [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|Theogenesis]] is the study of Gods, how they work, and why they exist. It is a study primarily taken on by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]], and especially [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|wizards]]. 
 # Creation

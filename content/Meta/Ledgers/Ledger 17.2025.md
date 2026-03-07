@@ -27,9 +27,9 @@ Long time no see? I've decided to update Lore Ledgers to improve my morale. They
 - [[Encyclopedia Mysenvaria/Geography/Stars/Prototype Star|Prototype Star]]; Stub page; New star.
 - [[Encyclopedia Mysenvaria/Science/Models/Food Chain|Food Chain]]; Stub page.
 - [[Encyclopedia Mysenvaria/Science/Models/Material|Material]]; Stub page; Like atoms and stuff.
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|Entity (Phenomenon)]]; Stub page; Like a unitary thing that exists.
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|Entity (phenomenon)]]; Stub page; Like a unitary thing that exists.
 - Natural Concentration; Stub page; Phenomena by which Gods materialize.
-- [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|Relationships (science)]]; Stub page; Like the way two or more things are connected.
+- [[Encyclopedia Mysenvaria/Science/Models/Relationships (model)|Relationships (model)]]; Stub page; Like the way two or more things are connected.
 ## Removed
 - Geologic Phenomena; unnecessary page.
 ## Updated

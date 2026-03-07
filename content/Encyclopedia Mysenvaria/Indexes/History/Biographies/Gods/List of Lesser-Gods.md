@@ -51,7 +51,7 @@ This page serves as an index of lesser-[[Encyclopedia Mysenvaria/Science/Phenome
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide|God of Carbon Dioxide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Disulfide|God of Carbon Disulfide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Monoxide|God of Carbon Monoxide]]
-- God of Cerium
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium|God of Cerium]]
 - God of Chlorine
 - God of Chromium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]]
@@ -95,8 +95,8 @@ This page serves as an index of lesser-[[Encyclopedia Mysenvaria/Science/Phenome
 ## I
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Igneous Rock|God of Igneous Rock]]
 - God of Indium
-- God of Iodine
-- God of Iridium
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine|God of Iodine]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium|God of Iridum]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|God of Iron]]
 ## K
 - God of Krypton
@@ -133,7 +133,6 @@ This page serves as an index of lesser-[[Encyclopedia Mysenvaria/Science/Phenome
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]]
 ## P
 - God of Palladium
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future|Gods of Past, Present, and Future]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Penguinone|God of Penguinone]]
 - God of Phosphorus
 - God of Platinum

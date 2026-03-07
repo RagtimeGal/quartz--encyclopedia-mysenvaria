@@ -47,7 +47,7 @@ This page serves as an index of [[Encyclopedia Mysenvaria/History/Biographies/Go
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|God of Calcium]]
 - God of Californium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]]
-- God of Cerium
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium|God of Cerium]]
 - God of Chlorine
 - God of Chromium
 - God of Cobalt
@@ -80,8 +80,8 @@ This page serves as an index of [[Encyclopedia Mysenvaria/History/Biographies/Go
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]]
 ## I
 - God of Indium
-- God of Iodine
-- God of Iridium
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine|God of Iodine]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium|God of Iridum]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|God of Iron]]
 ## K
 - God of Krypton

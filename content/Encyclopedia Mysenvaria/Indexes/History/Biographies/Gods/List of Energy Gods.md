@@ -29,6 +29,7 @@ This page serves as an index of energy [[Encyclopedia Mysenvaria/Science/Phenome
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Gods of Kinetic & Potential Energy|Gods of Kinetic & Potential Energy]]
 ## S
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Sound|God of Sound]]
+
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]

@@ -1,8 +1,8 @@
 {
     "meta": {
-        "total_markdown_files": 583,
-        "pages_extracted": 703,
-        "warnings": 342,
+        "total_markdown_files": 585,
+        "pages_extracted": 702,
+        "warnings": 343,
         "working_directory": "C:\\Users\\Terra\\Documents\\Github Folders\\quartz--encyclopedia-mysenvaria"
     },
     "pages": [
@@ -1028,40 +1028,10 @@
                 "type": "article",
                 "status": "complete",
                 "future": "review",
-                "has": [
+                "needs": [
                     "image"
                 ],
                 "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]"
-            }
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/Geography/Artificial Features/New Sextown.md",
-            "definitions": {},
-            "metadata": {
-                "title": "New Sextown",
-                "enableToc": true,
-                "tags": [
-                    "topic/geography/artificial"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Geography/Artificial Features/New Sextown|New Sextown]]"
-            }
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown.md",
-            "definitions": {},
-            "metadata": {
-                "title": "Sextown",
-                "enableToc": true,
-                "tags": [
-                    "topic/geography/artificial"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]]"
             }
         },
         {
@@ -2978,7 +2948,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -3004,8 +2973,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -3094,7 +3061,6 @@
                     "God of Cadmium",
                     "God of Caesium",
                     "God of Californium",
-                    "God of Cerium",
                     "God of Chlorine",
                     "God of Chromium",
                     "God of Cobalt",
@@ -3120,8 +3086,6 @@
                     "God of Helium",
                     "God of Holmium",
                     "God of Indium",
-                    "God of Iodine",
-                    "God of Iridium",
                     "God of Krypton",
                     "God of Lanthanum",
                     "God of Lawrencium",
@@ -3796,40 +3760,6 @@
                         "person": [
                             {
                                 "name": "God of Californium",
-                                "birth_date": {
-                                    "original": {
-                                        "original": [
-                                            -178
-                                        ],
-                                        "formal": "178BT",
-                                        "formal_without_year": "",
-                                        "informal": "-178"
-                                    },
-                                    "formal": "0AT",
-                                    "formal_without_year": "",
-                                    "informal": "0"
-                                },
-                                "major_event": false
-                            }
-                        ]
-                    },
-                    {
-                        "title": "God of Cerium",
-                        "aliases": [
-                            "Cerium"
-                        ],
-                        "link": "God of Cerium",
-                        "tags": [
-                            "topic/history/biography",
-                            "subject/god/lesser-god",
-                            "subject/god/elemental_god"
-                        ],
-                        "type": "article",
-                        "status": "empty",
-                        "future": "none",
-                        "person": [
-                            {
-                                "name": "God of Cerium",
                                 "birth_date": {
                                     "original": {
                                         "original": [
@@ -4680,74 +4610,6 @@
                         "person": [
                             {
                                 "name": "God of Indium",
-                                "birth_date": {
-                                    "original": {
-                                        "original": [
-                                            -178
-                                        ],
-                                        "formal": "178BT",
-                                        "formal_without_year": "",
-                                        "informal": "-178"
-                                    },
-                                    "formal": "0AT",
-                                    "formal_without_year": "",
-                                    "informal": "0"
-                                },
-                                "major_event": false
-                            }
-                        ]
-                    },
-                    {
-                        "title": "God of Iodine",
-                        "aliases": [
-                            "Iodine"
-                        ],
-                        "link": "God of Iodine",
-                        "tags": [
-                            "topic/history/biography",
-                            "subject/god/lesser-god",
-                            "subject/god/elemental_god"
-                        ],
-                        "type": "article",
-                        "status": "empty",
-                        "future": "none",
-                        "person": [
-                            {
-                                "name": "God of Iodine",
-                                "birth_date": {
-                                    "original": {
-                                        "original": [
-                                            -178
-                                        ],
-                                        "formal": "178BT",
-                                        "formal_without_year": "",
-                                        "informal": "-178"
-                                    },
-                                    "formal": "0AT",
-                                    "formal_without_year": "",
-                                    "informal": "0"
-                                },
-                                "major_event": false
-                            }
-                        ]
-                    },
-                    {
-                        "title": "God of Iridium",
-                        "aliases": [
-                            "Iridium"
-                        ],
-                        "link": "God of Iridium",
-                        "tags": [
-                            "topic/history/biography",
-                            "subject/god/lesser-god",
-                            "subject/god/elemental_god"
-                        ],
-                        "type": "article",
-                        "status": "empty",
-                        "future": "none",
-                        "person": [
-                            {
-                                "name": "God of Iridium",
                                 "birth_date": {
                                     "original": {
                                         "original": [
@@ -7034,7 +6896,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -7060,8 +6921,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -7186,7 +7045,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -7212,8 +7070,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -7338,7 +7194,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -7364,8 +7219,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -7490,7 +7343,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -7516,8 +7368,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -7642,7 +7492,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -7668,8 +7517,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -7794,7 +7641,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -7820,8 +7666,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -7946,7 +7790,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -7972,8 +7815,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -8098,7 +7939,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -8124,8 +7964,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -8250,7 +8088,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -8276,8 +8113,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -8402,7 +8237,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -8428,8 +8262,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -8554,7 +8386,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -8580,8 +8411,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -8706,7 +8535,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -8732,8 +8560,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -8858,7 +8684,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -8884,8 +8709,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -9010,7 +8833,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -9036,8 +8858,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -9162,7 +8982,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -9188,8 +9007,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -9314,7 +9131,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -9340,8 +9156,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -9466,7 +9280,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -9492,8 +9305,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -9618,7 +9429,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -9644,8 +9454,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -9770,7 +9578,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -9796,160 +9603,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
-                "god_of_krypton": "God of Krypton",
-                "god_of_lanthanum": "God of Lanthanum",
-                "god_of_lawrencium": "God of Lawrencium",
-                "god_of_lead": "God of Lead",
-                "god_of_lithium": "God of Lithium",
-                "god_of_livermorium": "God of Livermorium",
-                "god_of_lutetium": "God of Lutetium",
-                "god_of_magnesium": "God of Magnesium",
-                "god_of_manganese": "God of Manganese",
-                "god_of_meitnerium": "God of Meitnerium",
-                "god_of_mendelevium": "God of Mendelevium",
-                "god_of_mercury": "God of Mercury",
-                "god_of_molybdenum": "God of Molybdenum",
-                "god_of_moscovium": "God of Moscovium",
-                "god_of_neodymium": "God of Neodymium",
-                "god_of_neon": "God of Neon",
-                "god_of_neptunium": "God of Neptunium",
-                "god_of_nickel": "God of Nickel",
-                "god_of_nohonium": "God of Nohonium",
-                "god_of_niobium": "God of Niobium",
-                "god_of_nitrogen": "God of Nitrogen",
-                "god_of_nobelium": "God of Nobelium",
-                "god_of_oganesson": "God of Oganesson",
-                "god_of_osmium": "God of Osmium",
-                "god_of_palladium": "God of Palladium",
-                "god_of_phosphorus": "God of Phosphorus",
-                "god_of_platinum": "God of Platinum",
-                "god_of_polonium": "God of Polonium",
-                "god_of_potassium": "God of Potassium",
-                "god_of_praseodymium": "God of Praseodymium",
-                "god_of_promethium": "God of Promethium",
-                "god_of_proactinium": "God of Proactinium",
-                "god_of_radium": "God of Radium",
-                "god_of_radon": "God of Radon",
-                "god_of_rhenium": "God of Rhenium",
-                "god_of_rhodium": "God of Rhodium",
-                "god_of_roentgenium": "God of Roentgenium",
-                "god_of_rubidium": "God of Rubidium",
-                "god_of_ruthenium": "God of Ruthenium",
-                "god_of_rutherfordium": "God of Rutherfordium",
-                "god_of_samarium": "God of Samarium",
-                "god_of_scandium": "God of Scandium",
-                "god_of_seaborgium": "God of Seaborgium",
-                "god_of_selenium": "God of Selenium",
-                "god_of_silicon": "God of Silicon",
-                "god_of_silver": "God of Silver",
-                "god_of_strontium": "God of Strontium",
-                "god_of_sulfur": "God of Sulfur",
-                "god_of_tantalum": "God of Tantalum",
-                "god_of_technetium": "God of Technetium",
-                "god_of_tellurium": "God of Tellurium",
-                "god_of_tennessine": "God of Tennessine",
-                "god_of_terbium": "God of Terbium",
-                "god_of_thallium": "God of Thallium",
-                "god_of_thorium": "God of Thorium",
-                "god_of_thulium": "God of Thulium",
-                "god_of_tin": "God of Tin",
-                "god_of_titanium": "God of Titanium",
-                "god_of_tungsten": "God of Tungsten",
-                "god_of_uranium": "God of Uranium",
-                "god_of_vanadium": "God of Vanadium",
-                "god_of_xenon": "God of Xenon",
-                "god_of_ytterbium": "God of Ytterbium",
-                "god_of_yttrium": "God of Yttrium",
-                "god_of_zinc": "God of Zinc",
-                "god_of_zirconium": "God of Zirconium"
-            },
-            "metadata": {
-                "title": "God of Cerium",
-                "aliases": [
-                    "Cerium"
-                ],
-                "link": "God of Cerium",
-                "tags": [
-                    "topic/history/biography",
-                    "subject/god/lesser-god",
-                    "subject/god/elemental_god"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "person": [
-                    {
-                        "name": "God of Cerium",
-                        "birth_date": {
-                            "original": {
-                                "original": [
-                                    -178
-                                ],
-                                "formal": "178BT",
-                                "formal_without_year": "",
-                                "informal": "-178"
-                            },
-                            "formal": "0AT",
-                            "formal_without_year": "",
-                            "informal": "0"
-                        },
-                        "major_event": false
-                    }
-                ]
-            },
-            "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[19]",
-            "definitions": {
-                "god_of_actinium": "God of Actinium",
-                "god_of_aluminum": "God of Aluminum",
-                "god_of_americium": "God of Americium",
-                "god_of_antimony": "God of Antimony",
-                "god_of_argon": "God of Argon",
-                "god_of_arsenic": "God of Arsenic",
-                "god_of_astanine": "God of Astanine",
-                "god_of_barium": "God of Barium",
-                "god_of_berkelium": "God of Berkelium",
-                "god_of_berylium": "God of Berylium",
-                "god_of_beryllium": "God of Beryllium",
-                "god_of_bismuth": "God of Bismuth",
-                "god_of_bohrium": "God of Bohrium",
-                "god_of_boron": "God of Boron",
-                "god_of_bromine": "God of Bromine",
-                "god_of_cadmium": "God of Cadmium",
-                "god_of_caesium": "God of Caesium",
-                "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
-                "god_of_chlorine": "God of Chlorine",
-                "god_of_chromium": "God of Chromium",
-                "god_of_cobalt": "God of Cobalt",
-                "god_of_copernicium": "God of Copernicium",
-                "god_of_copper": "God of Copper",
-                "god_of_curium": "God of Curium",
-                "god_of_darmstadtium": "God of Darmstadtium",
-                "god_of_dubnium": "God of Dubnium",
-                "god_of_dysprosium": "God of Dysprosium",
-                "god_of_einsteinium": "God of Einsteinium",
-                "god_of_erbium": "God of Erbium",
-                "god_of_europium": "God of Europium",
-                "god_of_fermium": "God of Fermium",
-                "god_of_flerovium": "God of Flerovium",
-                "god_of_fluorine": "God of Fluorine",
-                "god_of_francium": "God of Francium",
-                "god_of_gadolinium": "God of Gadolinium",
-                "god_of_gallium": "God of Gallium",
-                "god_of_germanium": "God of Germanium",
-                "god_of_gold": "God of Gold",
-                "god_of_hafnium": "God of Hafnium",
-                "god_of_hassium": "God of Hassium",
-                "god_of_helium": "God of Helium",
-                "god_of_holmium": "God of Holmium",
-                "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -10054,7 +9707,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[20]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[19]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -10074,7 +9727,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -10100,8 +9752,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -10206,7 +9856,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[21]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[20]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -10226,7 +9876,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -10252,8 +9901,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -10358,7 +10005,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[22]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[21]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -10378,7 +10025,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -10404,8 +10050,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -10510,7 +10154,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[23]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[22]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -10530,7 +10174,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -10556,8 +10199,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -10662,7 +10303,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[24]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[23]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -10682,7 +10323,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -10708,8 +10348,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -10814,7 +10452,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[25]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[24]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -10834,7 +10472,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -10860,8 +10497,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -10966,7 +10601,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[26]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[25]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -10986,7 +10621,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -11012,8 +10646,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -11118,7 +10750,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[27]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[26]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -11138,7 +10770,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -11164,8 +10795,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -11270,7 +10899,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[28]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[27]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -11290,7 +10919,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -11316,8 +10944,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -11422,7 +11048,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[29]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[28]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -11442,7 +11068,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -11468,8 +11093,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -11574,7 +11197,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[30]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[29]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -11594,7 +11217,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -11620,8 +11242,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -11726,7 +11346,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[31]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[30]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -11746,7 +11366,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -11772,8 +11391,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -11878,7 +11495,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[32]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[31]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -11898,7 +11515,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -11924,8 +11540,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -12030,7 +11644,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[33]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[32]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -12050,7 +11664,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -12076,8 +11689,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -12182,7 +11793,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[34]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[33]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -12202,7 +11813,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -12228,8 +11838,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -12334,7 +11942,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[35]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[34]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -12354,7 +11962,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -12380,8 +11987,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -12486,7 +12091,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[36]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[35]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -12506,7 +12111,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -12532,8 +12136,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -12638,7 +12240,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[37]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[36]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -12658,7 +12260,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -12684,8 +12285,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -12790,7 +12389,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[38]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[37]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -12810,7 +12409,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -12836,8 +12434,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -12942,7 +12538,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[39]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[38]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -12962,7 +12558,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -12988,8 +12583,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -13094,7 +12687,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[40]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[39]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -13114,7 +12707,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -13140,8 +12732,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -13246,7 +12836,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[41]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[40]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -13266,7 +12856,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -13292,8 +12881,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -13398,7 +12985,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[42]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[41]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -13418,7 +13005,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -13444,8 +13030,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -13550,7 +13134,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[43]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[42]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -13570,7 +13154,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -13596,8 +13179,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -13702,7 +13283,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[44]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[43]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -13722,7 +13303,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -13748,312 +13328,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
-                "god_of_krypton": "God of Krypton",
-                "god_of_lanthanum": "God of Lanthanum",
-                "god_of_lawrencium": "God of Lawrencium",
-                "god_of_lead": "God of Lead",
-                "god_of_lithium": "God of Lithium",
-                "god_of_livermorium": "God of Livermorium",
-                "god_of_lutetium": "God of Lutetium",
-                "god_of_magnesium": "God of Magnesium",
-                "god_of_manganese": "God of Manganese",
-                "god_of_meitnerium": "God of Meitnerium",
-                "god_of_mendelevium": "God of Mendelevium",
-                "god_of_mercury": "God of Mercury",
-                "god_of_molybdenum": "God of Molybdenum",
-                "god_of_moscovium": "God of Moscovium",
-                "god_of_neodymium": "God of Neodymium",
-                "god_of_neon": "God of Neon",
-                "god_of_neptunium": "God of Neptunium",
-                "god_of_nickel": "God of Nickel",
-                "god_of_nohonium": "God of Nohonium",
-                "god_of_niobium": "God of Niobium",
-                "god_of_nitrogen": "God of Nitrogen",
-                "god_of_nobelium": "God of Nobelium",
-                "god_of_oganesson": "God of Oganesson",
-                "god_of_osmium": "God of Osmium",
-                "god_of_palladium": "God of Palladium",
-                "god_of_phosphorus": "God of Phosphorus",
-                "god_of_platinum": "God of Platinum",
-                "god_of_polonium": "God of Polonium",
-                "god_of_potassium": "God of Potassium",
-                "god_of_praseodymium": "God of Praseodymium",
-                "god_of_promethium": "God of Promethium",
-                "god_of_proactinium": "God of Proactinium",
-                "god_of_radium": "God of Radium",
-                "god_of_radon": "God of Radon",
-                "god_of_rhenium": "God of Rhenium",
-                "god_of_rhodium": "God of Rhodium",
-                "god_of_roentgenium": "God of Roentgenium",
-                "god_of_rubidium": "God of Rubidium",
-                "god_of_ruthenium": "God of Ruthenium",
-                "god_of_rutherfordium": "God of Rutherfordium",
-                "god_of_samarium": "God of Samarium",
-                "god_of_scandium": "God of Scandium",
-                "god_of_seaborgium": "God of Seaborgium",
-                "god_of_selenium": "God of Selenium",
-                "god_of_silicon": "God of Silicon",
-                "god_of_silver": "God of Silver",
-                "god_of_strontium": "God of Strontium",
-                "god_of_sulfur": "God of Sulfur",
-                "god_of_tantalum": "God of Tantalum",
-                "god_of_technetium": "God of Technetium",
-                "god_of_tellurium": "God of Tellurium",
-                "god_of_tennessine": "God of Tennessine",
-                "god_of_terbium": "God of Terbium",
-                "god_of_thallium": "God of Thallium",
-                "god_of_thorium": "God of Thorium",
-                "god_of_thulium": "God of Thulium",
-                "god_of_tin": "God of Tin",
-                "god_of_titanium": "God of Titanium",
-                "god_of_tungsten": "God of Tungsten",
-                "god_of_uranium": "God of Uranium",
-                "god_of_vanadium": "God of Vanadium",
-                "god_of_xenon": "God of Xenon",
-                "god_of_ytterbium": "God of Ytterbium",
-                "god_of_yttrium": "God of Yttrium",
-                "god_of_zinc": "God of Zinc",
-                "god_of_zirconium": "God of Zirconium"
-            },
-            "metadata": {
-                "title": "God of Iodine",
-                "aliases": [
-                    "Iodine"
-                ],
-                "link": "God of Iodine",
-                "tags": [
-                    "topic/history/biography",
-                    "subject/god/lesser-god",
-                    "subject/god/elemental_god"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "person": [
-                    {
-                        "name": "God of Iodine",
-                        "birth_date": {
-                            "original": {
-                                "original": [
-                                    -178
-                                ],
-                                "formal": "178BT",
-                                "formal_without_year": "",
-                                "informal": "-178"
-                            },
-                            "formal": "0AT",
-                            "formal_without_year": "",
-                            "informal": "0"
-                        },
-                        "major_event": false
-                    }
-                ]
-            },
-            "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[45]",
-            "definitions": {
-                "god_of_actinium": "God of Actinium",
-                "god_of_aluminum": "God of Aluminum",
-                "god_of_americium": "God of Americium",
-                "god_of_antimony": "God of Antimony",
-                "god_of_argon": "God of Argon",
-                "god_of_arsenic": "God of Arsenic",
-                "god_of_astanine": "God of Astanine",
-                "god_of_barium": "God of Barium",
-                "god_of_berkelium": "God of Berkelium",
-                "god_of_berylium": "God of Berylium",
-                "god_of_beryllium": "God of Beryllium",
-                "god_of_bismuth": "God of Bismuth",
-                "god_of_bohrium": "God of Bohrium",
-                "god_of_boron": "God of Boron",
-                "god_of_bromine": "God of Bromine",
-                "god_of_cadmium": "God of Cadmium",
-                "god_of_caesium": "God of Caesium",
-                "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
-                "god_of_chlorine": "God of Chlorine",
-                "god_of_chromium": "God of Chromium",
-                "god_of_cobalt": "God of Cobalt",
-                "god_of_copernicium": "God of Copernicium",
-                "god_of_copper": "God of Copper",
-                "god_of_curium": "God of Curium",
-                "god_of_darmstadtium": "God of Darmstadtium",
-                "god_of_dubnium": "God of Dubnium",
-                "god_of_dysprosium": "God of Dysprosium",
-                "god_of_einsteinium": "God of Einsteinium",
-                "god_of_erbium": "God of Erbium",
-                "god_of_europium": "God of Europium",
-                "god_of_fermium": "God of Fermium",
-                "god_of_flerovium": "God of Flerovium",
-                "god_of_fluorine": "God of Fluorine",
-                "god_of_francium": "God of Francium",
-                "god_of_gadolinium": "God of Gadolinium",
-                "god_of_gallium": "God of Gallium",
-                "god_of_germanium": "God of Germanium",
-                "god_of_gold": "God of Gold",
-                "god_of_hafnium": "God of Hafnium",
-                "god_of_hassium": "God of Hassium",
-                "god_of_helium": "God of Helium",
-                "god_of_holmium": "God of Holmium",
-                "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
-                "god_of_krypton": "God of Krypton",
-                "god_of_lanthanum": "God of Lanthanum",
-                "god_of_lawrencium": "God of Lawrencium",
-                "god_of_lead": "God of Lead",
-                "god_of_lithium": "God of Lithium",
-                "god_of_livermorium": "God of Livermorium",
-                "god_of_lutetium": "God of Lutetium",
-                "god_of_magnesium": "God of Magnesium",
-                "god_of_manganese": "God of Manganese",
-                "god_of_meitnerium": "God of Meitnerium",
-                "god_of_mendelevium": "God of Mendelevium",
-                "god_of_mercury": "God of Mercury",
-                "god_of_molybdenum": "God of Molybdenum",
-                "god_of_moscovium": "God of Moscovium",
-                "god_of_neodymium": "God of Neodymium",
-                "god_of_neon": "God of Neon",
-                "god_of_neptunium": "God of Neptunium",
-                "god_of_nickel": "God of Nickel",
-                "god_of_nohonium": "God of Nohonium",
-                "god_of_niobium": "God of Niobium",
-                "god_of_nitrogen": "God of Nitrogen",
-                "god_of_nobelium": "God of Nobelium",
-                "god_of_oganesson": "God of Oganesson",
-                "god_of_osmium": "God of Osmium",
-                "god_of_palladium": "God of Palladium",
-                "god_of_phosphorus": "God of Phosphorus",
-                "god_of_platinum": "God of Platinum",
-                "god_of_polonium": "God of Polonium",
-                "god_of_potassium": "God of Potassium",
-                "god_of_praseodymium": "God of Praseodymium",
-                "god_of_promethium": "God of Promethium",
-                "god_of_proactinium": "God of Proactinium",
-                "god_of_radium": "God of Radium",
-                "god_of_radon": "God of Radon",
-                "god_of_rhenium": "God of Rhenium",
-                "god_of_rhodium": "God of Rhodium",
-                "god_of_roentgenium": "God of Roentgenium",
-                "god_of_rubidium": "God of Rubidium",
-                "god_of_ruthenium": "God of Ruthenium",
-                "god_of_rutherfordium": "God of Rutherfordium",
-                "god_of_samarium": "God of Samarium",
-                "god_of_scandium": "God of Scandium",
-                "god_of_seaborgium": "God of Seaborgium",
-                "god_of_selenium": "God of Selenium",
-                "god_of_silicon": "God of Silicon",
-                "god_of_silver": "God of Silver",
-                "god_of_strontium": "God of Strontium",
-                "god_of_sulfur": "God of Sulfur",
-                "god_of_tantalum": "God of Tantalum",
-                "god_of_technetium": "God of Technetium",
-                "god_of_tellurium": "God of Tellurium",
-                "god_of_tennessine": "God of Tennessine",
-                "god_of_terbium": "God of Terbium",
-                "god_of_thallium": "God of Thallium",
-                "god_of_thorium": "God of Thorium",
-                "god_of_thulium": "God of Thulium",
-                "god_of_tin": "God of Tin",
-                "god_of_titanium": "God of Titanium",
-                "god_of_tungsten": "God of Tungsten",
-                "god_of_uranium": "God of Uranium",
-                "god_of_vanadium": "God of Vanadium",
-                "god_of_xenon": "God of Xenon",
-                "god_of_ytterbium": "God of Ytterbium",
-                "god_of_yttrium": "God of Yttrium",
-                "god_of_zinc": "God of Zinc",
-                "god_of_zirconium": "God of Zirconium"
-            },
-            "metadata": {
-                "title": "God of Iridium",
-                "aliases": [
-                    "Iridium"
-                ],
-                "link": "God of Iridium",
-                "tags": [
-                    "topic/history/biography",
-                    "subject/god/lesser-god",
-                    "subject/god/elemental_god"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "person": [
-                    {
-                        "name": "God of Iridium",
-                        "birth_date": {
-                            "original": {
-                                "original": [
-                                    -178
-                                ],
-                                "formal": "178BT",
-                                "formal_without_year": "",
-                                "informal": "-178"
-                            },
-                            "formal": "0AT",
-                            "formal_without_year": "",
-                            "informal": "0"
-                        },
-                        "major_event": false
-                    }
-                ]
-            },
-            "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[46]",
-            "definitions": {
-                "god_of_actinium": "God of Actinium",
-                "god_of_aluminum": "God of Aluminum",
-                "god_of_americium": "God of Americium",
-                "god_of_antimony": "God of Antimony",
-                "god_of_argon": "God of Argon",
-                "god_of_arsenic": "God of Arsenic",
-                "god_of_astanine": "God of Astanine",
-                "god_of_barium": "God of Barium",
-                "god_of_berkelium": "God of Berkelium",
-                "god_of_berylium": "God of Berylium",
-                "god_of_beryllium": "God of Beryllium",
-                "god_of_bismuth": "God of Bismuth",
-                "god_of_bohrium": "God of Bohrium",
-                "god_of_boron": "God of Boron",
-                "god_of_bromine": "God of Bromine",
-                "god_of_cadmium": "God of Cadmium",
-                "god_of_caesium": "God of Caesium",
-                "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
-                "god_of_chlorine": "God of Chlorine",
-                "god_of_chromium": "God of Chromium",
-                "god_of_cobalt": "God of Cobalt",
-                "god_of_copernicium": "God of Copernicium",
-                "god_of_copper": "God of Copper",
-                "god_of_curium": "God of Curium",
-                "god_of_darmstadtium": "God of Darmstadtium",
-                "god_of_dubnium": "God of Dubnium",
-                "god_of_dysprosium": "God of Dysprosium",
-                "god_of_einsteinium": "God of Einsteinium",
-                "god_of_erbium": "God of Erbium",
-                "god_of_europium": "God of Europium",
-                "god_of_fermium": "God of Fermium",
-                "god_of_flerovium": "God of Flerovium",
-                "god_of_fluorine": "God of Fluorine",
-                "god_of_francium": "God of Francium",
-                "god_of_gadolinium": "God of Gadolinium",
-                "god_of_gallium": "God of Gallium",
-                "god_of_germanium": "God of Germanium",
-                "god_of_gold": "God of Gold",
-                "god_of_hafnium": "God of Hafnium",
-                "god_of_hassium": "God of Hassium",
-                "god_of_helium": "God of Helium",
-                "god_of_holmium": "God of Holmium",
-                "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -14158,7 +13432,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[47]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[44]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -14178,7 +13452,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -14204,8 +13477,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -14310,7 +13581,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[48]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[45]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -14330,7 +13601,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -14356,8 +13626,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -14462,7 +13730,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[49]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[46]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -14482,7 +13750,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -14508,8 +13775,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -14614,7 +13879,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[50]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[47]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -14634,7 +13899,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -14660,8 +13924,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -14766,7 +14028,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[51]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[48]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -14786,7 +14048,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -14812,8 +14073,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -14918,7 +14177,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[52]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[49]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -14938,7 +14197,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -14964,8 +14222,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -15070,7 +14326,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[53]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[50]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -15090,7 +14346,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -15116,8 +14371,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -15222,7 +14475,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[54]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[51]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -15242,7 +14495,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -15268,8 +14520,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -15374,7 +14624,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[55]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[52]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -15394,7 +14644,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -15420,8 +14669,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -15526,7 +14773,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[56]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[53]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -15546,7 +14793,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -15572,8 +14818,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -15678,7 +14922,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[57]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[54]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -15698,7 +14942,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -15724,8 +14967,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -15830,7 +15071,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[58]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[55]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -15850,7 +15091,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -15876,8 +15116,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -15982,7 +15220,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[59]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[56]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -16002,7 +15240,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -16028,8 +15265,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -16134,7 +15369,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[60]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[57]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -16154,7 +15389,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -16180,8 +15414,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -16286,7 +15518,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[61]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[58]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -16306,7 +15538,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -16332,8 +15563,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -16438,7 +15667,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[62]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[59]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -16458,7 +15687,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -16484,8 +15712,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -16590,7 +15816,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[63]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[60]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -16610,7 +15836,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -16636,8 +15861,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -16742,7 +15965,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[64]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[61]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -16762,7 +15985,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -16788,8 +16010,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -16894,7 +16114,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[65]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[62]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -16914,7 +16134,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -16940,8 +16159,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -17046,7 +16263,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[66]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[63]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -17066,7 +16283,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -17092,8 +16308,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -17198,7 +16412,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[67]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[64]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -17218,7 +16432,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -17244,8 +16457,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -17350,7 +16561,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[68]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[65]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -17370,7 +16581,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -17396,8 +16606,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -17502,7 +16710,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[69]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[66]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -17522,7 +16730,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -17548,8 +16755,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -17654,7 +16859,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[70]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[67]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -17674,7 +16879,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -17700,8 +16904,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -17806,7 +17008,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[71]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[68]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -17826,7 +17028,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -17852,8 +17053,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -17958,7 +17157,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[72]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[69]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -17978,7 +17177,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -18004,8 +17202,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -18110,7 +17306,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[73]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[70]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -18130,7 +17326,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -18156,8 +17351,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -18262,7 +17455,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[74]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[71]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -18282,7 +17475,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -18308,8 +17500,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -18414,7 +17604,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[75]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[72]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -18434,7 +17624,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -18460,8 +17649,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -18566,7 +17753,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[76]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[73]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -18586,7 +17773,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -18612,8 +17798,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -18718,7 +17902,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[77]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[74]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -18738,7 +17922,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -18764,8 +17947,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -18870,7 +18051,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[78]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[75]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -18890,7 +18071,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -18916,8 +18096,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -19022,7 +18200,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[79]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[76]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -19042,7 +18220,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -19068,8 +18245,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -19174,7 +18349,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[80]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[77]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -19194,7 +18369,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -19220,8 +18394,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -19326,7 +18498,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[81]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[78]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -19346,7 +18518,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -19372,8 +18543,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -19478,7 +18647,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[82]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[79]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -19498,7 +18667,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -19524,8 +18692,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -19630,7 +18796,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[83]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[80]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -19650,7 +18816,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -19676,8 +18841,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -19782,7 +18945,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[84]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[81]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -19802,7 +18965,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -19828,8 +18990,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -19934,7 +19094,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[85]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[82]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -19954,7 +19114,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -19980,8 +19139,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -20086,7 +19243,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[86]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[83]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -20106,7 +19263,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -20132,8 +19288,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -20238,7 +19392,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[87]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[84]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -20258,7 +19412,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -20284,8 +19437,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -20390,7 +19541,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[88]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[85]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -20410,7 +19561,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -20436,8 +19586,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -20542,7 +19690,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[89]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[86]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -20562,7 +19710,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -20588,8 +19735,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -20694,7 +19839,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[90]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[87]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -20714,7 +19859,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -20740,8 +19884,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -20846,7 +19988,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[91]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[88]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -20866,7 +20008,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -20892,8 +20033,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -20998,7 +20137,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[92]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[89]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -21018,7 +20157,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -21044,8 +20182,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -21150,7 +20286,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[93]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[90]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -21170,7 +20306,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -21196,8 +20331,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -21302,7 +20435,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[94]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[91]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -21322,7 +20455,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -21348,8 +20480,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -21454,7 +20584,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[95]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[92]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -21474,7 +20604,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -21500,8 +20629,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -21606,7 +20733,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[96]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[93]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -21626,7 +20753,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -21652,8 +20778,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -21758,7 +20882,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[97]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[94]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -21778,7 +20902,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -21804,8 +20927,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -21910,7 +21031,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[98]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[95]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -21930,7 +21051,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -21956,8 +21076,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -22062,7 +21180,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[99]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[96]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -22082,7 +21200,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -22108,8 +21225,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -22214,7 +21329,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[100]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[97]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -22234,7 +21349,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -22260,8 +21374,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -22366,7 +21478,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[101]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[98]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -22386,7 +21498,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -22412,8 +21523,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -22518,7 +21627,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[102]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[99]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -22538,7 +21647,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -22564,8 +21672,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -22670,7 +21776,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[103]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[100]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -22690,7 +21796,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -22716,8 +21821,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -22822,7 +21925,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[104]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[101]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -22842,7 +21945,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -22868,8 +21970,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -22974,7 +22074,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[105]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[102]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -22994,7 +22094,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -23020,8 +22119,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -23126,7 +22223,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[106]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[103]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -23146,7 +22243,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -23172,8 +22268,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -23278,7 +22372,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[107]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[104]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -23298,7 +22392,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -23324,8 +22417,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -23430,7 +22521,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[108]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[105]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -23450,7 +22541,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -23476,8 +22566,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -23582,7 +22670,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[109]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[106]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -23602,7 +22690,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -23628,8 +22715,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -23734,7 +22819,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[110]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[107]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -23754,7 +22839,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -23780,8 +22864,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -23886,7 +22968,7 @@
             "parent": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md"
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[111]",
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods.md::subpage[108]",
             "definitions": {
                 "god_of_actinium": "God of Actinium",
                 "god_of_aluminum": "God of Aluminum",
@@ -23906,7 +22988,6 @@
                 "god_of_cadmium": "God of Cadmium",
                 "god_of_caesium": "God of Caesium",
                 "god_of_californium": "God of Californium",
-                "god_of_cerium": "God of Cerium",
                 "god_of_chlorine": "God of Chlorine",
                 "god_of_chromium": "God of Chromium",
                 "god_of_cobalt": "God of Cobalt",
@@ -23932,8 +23013,6 @@
                 "god_of_helium": "God of Helium",
                 "god_of_holmium": "God of Holmium",
                 "god_of_indium": "God of Indium",
-                "god_of_iodine": "God of Iodine",
-                "god_of_iridium": "God of Iridium",
                 "god_of_krypton": "God of Krypton",
                 "god_of_lanthanum": "God of Lanthanum",
                 "god_of_lawrencium": "God of Lawrencium",
@@ -24401,12 +23480,15 @@
             "metadata": {
                 "title": "Gods of Past, Present, and Future",
                 "aliases": [
-                    "Past, Present, and Future"
+                    "Past, Present, and Future",
+                    "God of Past",
+                    "God of Present",
+                    "God of Future"
                 ],
                 "enableToc": true,
                 "tags": [
                     "topic/history/biography",
-                    "subject/god/lesser-god"
+                    "subject/god/higher-god"
                 ],
                 "type": "article",
                 "status": "complete",
@@ -25331,6 +24413,29 @@
             }
         },
         {
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium.md",
+            "definitions": {},
+            "metadata": {
+                "title": "God of Cerium",
+                "aliases": [
+                    "Cerium"
+                ],
+                "enableToc": true,
+                "tags": [
+                    "topic/history/biography",
+                    "subject/god/lesser-god",
+                    "subject/god/elemental_god"
+                ],
+                "type": "article",
+                "status": "empty",
+                "needs": [
+                    "infobox"
+                ],
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium|God of Cerium]]"
+            }
+        },
+        {
             "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen.md",
             "definitions": {},
             "metadata": {
@@ -25351,6 +24456,52 @@
                 ],
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine.md",
+            "definitions": {},
+            "metadata": {
+                "title": "God of Iodine",
+                "aliases": [
+                    "Iodine"
+                ],
+                "enableToc": true,
+                "tags": [
+                    "topic/history/biography",
+                    "subject/god/lesser-god",
+                    "subject/god/elemental_god"
+                ],
+                "type": "article",
+                "status": "empty",
+                "needs": [
+                    "infobox"
+                ],
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine|God of Iodine]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium.md",
+            "definitions": {},
+            "metadata": {
+                "title": "God of Iridum",
+                "aliases": [
+                    "Iridium"
+                ],
+                "enableToc": true,
+                "tags": [
+                    "topic/history/biography",
+                    "subject/god/lesser-god",
+                    "subject/god/elemental_god"
+                ],
+                "type": "article",
+                "status": "empty",
+                "needs": [
+                    "infobox"
+                ],
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium|God of Iridum]]"
             }
         },
         {
@@ -27050,10 +26201,10 @@
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Occupations.md",
+            "src_rel": "Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Beliefs.md",
             "definitions": {},
             "metadata": {
-                "title": "List of Occupations",
+                "title": "List of Beliefs",
                 "enableToc": true,
                 "tags": [
                     "topic/culture/occupation"
@@ -27063,11 +26214,11 @@
                 "future": "auto-generated",
                 "index": [
                     {
-                        "header_name": "Occupations",
+                        "header_name": "Beliefs",
                         "included_data": [
                             {
                                 "tags": [
-                                    "topic/culture/occupation"
+                                    "topic/culture/belief"
                                 ]
                             },
                             {
@@ -27086,7 +26237,7 @@
                         ]
                     }
                 ],
-                "link": "[[Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Occupations|List of Occupations]]"
+                "link": "[[Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Beliefs|List of Beliefs]]"
             }
         },
         {
@@ -27174,6 +26325,46 @@
                     }
                 ],
                 "link": "[[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations.md",
+            "definitions": {},
+            "metadata": {
+                "title": "List of Occupations",
+                "enableToc": true,
+                "tags": [
+                    "topic/culture/occupation"
+                ],
+                "type": "index",
+                "status": "complete",
+                "future": "auto-generated",
+                "index": [
+                    {
+                        "header_name": "Occupations",
+                        "included_data": [
+                            {
+                                "tags": [
+                                    "topic/culture/occupation"
+                                ]
+                            },
+                            {
+                                "type": "article"
+                            }
+                        ],
+                        "sort": [
+                            {
+                                "by": "title",
+                                "method": "standard_forward",
+                                "subheaders": {
+                                    "generate": true,
+                                    "method": "first_character"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "link": "[[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]"
             }
         },
         {
@@ -31938,7 +31129,7 @@
                 "type": "article",
                 "status": "complete",
                 "future": "update",
-                "has": [
+                "needs": [
                     "image"
                 ],
                 "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Oceanic Circulation|Oceanic Circulation]]"

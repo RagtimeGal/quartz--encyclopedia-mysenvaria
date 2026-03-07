@@ -21,10 +21,5 @@ index:
 
 The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography#Artificial Features|artificial features]], sorted alphabetically.
 # Artificial Features
-## N
-- [[Encyclopedia Mysenvaria/Geography/Artificial Features/New Sextown|New Sextown]]
-## S
-- [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]]
-
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]

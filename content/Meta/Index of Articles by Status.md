@@ -43,7 +43,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]]
 - [[_index|Encyclopedia Home]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|Entity (Phenomenon)]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|Entity (phenomenon)]]
 - [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future|Gods of Past, Present, and Future]]
@@ -72,7 +72,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Metadata|Metadata]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Oceanic Circulation|Oceanic Circulation]]
-- [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|Relationships (science)]]
+- [[Encyclopedia Mysenvaria/Science/Models/Relationships (model)|Relationships (model)]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]
@@ -186,7 +186,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide|God of Carbon Dioxide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Disulfide|God of Carbon Disulfide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Monoxide|God of Carbon Monoxide]]
-- God of Cerium
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium|God of Cerium]]
 - God of Chlorine
 - God of Chromium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]]
@@ -225,8 +225,8 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Peroxide|God of Hydrogen Peroxide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Igneous Rock|God of Igneous Rock]]
 - God of Indium
-- God of Iodine
-- God of Iridium
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine|God of Iodine]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium|God of Iridum]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|God of Iron]]
 - God of Krypton
 - God of Lanthanum
@@ -370,7 +370,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Templates/Arts/Music Template|Music Template]]
 - [[Meta/Templates/Geography/Natural Features Template|Natural Features Template]]
 - [[Encyclopedia Mysenvaria/Culture/Organizations/New Inner Rainciv Astronomy Council|New Inner Rainciv Astronomy Council]]
-- [[Encyclopedia Mysenvaria/Geography/Artificial Features/New Sextown|New Sextown]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/New World System|New World System]]
 - [[Meta/Templates/Arts/Non-fiction Literature Template|Non-Fiction Literature Template]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Northern Continent|Northern Continent]]
@@ -399,7 +398,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper|Scalper]]
 - [[Meta/Templates/Science/Scientific Branch Template|Scientific Branch Template]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
-- [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Snow|Snow]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Sociobiology|Sociobiology]]
 - [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Solstice|Solstice]]

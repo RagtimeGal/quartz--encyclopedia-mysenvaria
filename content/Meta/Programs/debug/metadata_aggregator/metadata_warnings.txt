@@ -47,8 +47,6 @@
 - Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Abstract Features/Outer Ring.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Artificial Features/New Sextown.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago.md: missing key `future` added with default value `none`.
@@ -168,7 +166,10 @@
 - Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium.md: missing key `future` added with default value `none`.

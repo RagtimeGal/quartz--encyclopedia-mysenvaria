@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]], sorted alphabetically.
+The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Models|scientific models]], sorted alphabetically.
 # Scientific Models
 ## A
 - [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]
@@ -50,7 +50,7 @@ The following is an index of all articles across the Encyclopedia which describe
 ## P
 - [[Encyclopedia Mysenvaria/Science/Models/Perennial Classification|Perennial Classification]]
 ## R
-- [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|Relationships (science)]]
+- [[Encyclopedia Mysenvaria/Science/Models/Relationships (model)|Relationships (model)]]
 ## S
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]]
 ## T

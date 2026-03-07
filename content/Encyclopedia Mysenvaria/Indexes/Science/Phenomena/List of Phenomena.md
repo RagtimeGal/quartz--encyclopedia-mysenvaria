@@ -32,7 +32,7 @@ The following is an index of all articles across the Encyclopedia which describe
 ## E
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Earthquake|Earthquake]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem|Ecosystem]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|Entity (Phenomenon)]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|Entity (phenomenon)]]
 ## F
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Fog|Fog]]
 ## G

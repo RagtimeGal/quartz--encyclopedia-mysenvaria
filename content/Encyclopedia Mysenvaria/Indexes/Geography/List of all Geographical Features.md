@@ -46,7 +46,6 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 ## I
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|Inner Circle]]
 ## N
-- [[Encyclopedia Mysenvaria/Geography/Artificial Features/New Sextown|New Sextown]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Northern Continent|Northern Continent]]
 ## O
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Ocean|Ocean]]
@@ -54,7 +53,6 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 ## P
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]
 ## S
-- [[Encyclopedia Mysenvaria/Geography/Artificial Features/Sextown|Sextown]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|Southern Continent]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape|Southern Crater Scape]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]

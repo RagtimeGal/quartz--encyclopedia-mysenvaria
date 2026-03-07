@@ -1,5 +1,5 @@
 ---
-title: "Entity (Phenomenon)"
+title: "Entity (phenomenon)"
 enableToc: true
 tags:
   - topic/science/phenomenon
@@ -12,7 +12,7 @@ needs:
 
 *For linguistic entities, see [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Entity (linguistics)|Entity (linguistics)]].*
 
-The [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] defines entities as physically distinct and discrete phenomena which exist in Reality as a result of the Real, and whose basal components are granted agency through [[Encyclopedia Mysenvaria/Science/Models/Relationships (science)|relationships]] governed by the Unreal. Entities can be made up of other entities, and emergent properties can arise in some entities which do not exist in their component parts. An entities attributes and properties are defined foremost by their [[Encyclopedia Mysenvaria/Science/Models/Material|material composition]], especially the most basal components of that composition.
+The [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] defines entities as physically distinct and discrete phenomena which exist in Reality as a result of the Real, and whose basal components are granted agency through [[Encyclopedia Mysenvaria/Science/Models/Relationships (model)|relationships]] governed by the Unreal. Entities can be made up of other entities, and emergent properties can arise in some entities which do not exist in their component parts. An entities attributes and properties are defined foremost by their [[Encyclopedia Mysenvaria/Science/Models/Material|material composition]], especially the most basal components of that composition.
 
 Entities are persistent—that is to say, they do not change unless acted upon through relationships. In the absence of any acting relational dynamics, an entity will retain its state, attributes, and structure indefinitely. Change requires that an entities' current relationship be altered.
 
