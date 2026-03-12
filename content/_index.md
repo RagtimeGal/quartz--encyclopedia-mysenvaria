@@ -24,11 +24,11 @@ Outside of those, you can also check out the featured page and some fun facts be
 > > **[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is widely considered to be one of the most  influential events in [[Encyclopedia Mysenvaria/History/History|history]]. It is the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and subsequently the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]] is the creation of millions of Gods, many lost to history.
 >
 > > [!info] Did you know...
-> > - ... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods and created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenisis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of how [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] come into existence?
+> > - ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over the span of less than a single season?
+> > - ... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?
 > > - ... that it's highly debated whether the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] are one or two Gods?
-> > - ... that many nations coins are created with the strategy game [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] in mind?
-> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
