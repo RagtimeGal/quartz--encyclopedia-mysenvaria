@@ -21,14 +21,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is widely considered to be one of the most  influential events in [[Encyclopedia Mysenvaria/History/History|history]]. It is the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and subsequently the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]] is the creation of millions of Gods, many lost to history.
+> > **[[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]**, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.
 >
 > > [!info] Did you know...
+> > - ... that [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?
+> > - ... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?
+> > - ... that it's highly debated whether the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] are one or two Gods?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] was the most deadly period in recorded history?
 > > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] are small mechanical devices used to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?
-> > - ... that there were six [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]] exist above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] and is devoid of air and where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
