@@ -29,7 +29,7 @@ index:
 The following article serves as an index of the Encyclopedia's Lore Ledgers. Lore Ledgers are [[Meta/Meta|meta]] overviews of recent progress and updates across the Encyclopedia, intended to help readers explore and understand how the Encyclopedia is updated.
 # Lore Ledgers
 ## 2026
-- [[Meta/Ledgers/Ledger 12.2026|Lore Ledger 11.26]]
+- [[Meta/Ledgers/Ledger 12.2026|Lore Ledger 12.26]]
 - [[Meta/Ledgers/Ledger 10.2026|Lore Ledger 10.26]]
 - [[Meta/Ledgers/Ledger 4.2026|Lore Ledger 4.26]]
 ## 2025

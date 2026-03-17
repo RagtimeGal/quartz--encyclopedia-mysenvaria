@@ -32,13 +32,15 @@ The following is an index of all articles across the Encyclopedia which describe
 ## E
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Earthquake|Earthquake]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem|Ecosystem]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|Entity (phenomenon)]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|Entity (phenomenon)]]
 ## F
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Fog|Fog]]
 ## G
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Glaciers|Glaciers]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gravity|Gravity]]
+## H
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]]
 ## I
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|Ice Sheets]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Island|Island]]

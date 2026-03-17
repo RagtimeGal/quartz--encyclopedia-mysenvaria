@@ -21,8 +21,8 @@ future: auto-generated
 # Events
 ## 55 BT
 - 1st of Spring — [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Second Council|Second God Council]] held.
-- **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]] begins. (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]])
 - The [[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|Iteration Period]] ends following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. 99% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which will ever exist were created since the start of the period.
+- **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]] begins. (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]])
 ## 53 BT
 - Following [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|Fulgurite's]] passing at the hands of [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|Sodium Ethyl Xanthate]] they would republish many of Fulgurite's stars, including the [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]].
 

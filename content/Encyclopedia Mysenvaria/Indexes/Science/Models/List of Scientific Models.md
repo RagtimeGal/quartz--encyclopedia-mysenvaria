@@ -26,6 +26,7 @@ The following is an index of all articles across the Encyclopedia which describe
 ## B
 - [[Encyclopedia Mysenvaria/Science/Models/Body Plan|Body Plan]]
 ## C
+- [[Encyclopedia Mysenvaria/Science/Models/Classification of Gods|Classification of Gods]]
 - [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|Classification of Organisms]]
 - [[Encyclopedia Mysenvaria/Science/Models/Cline Climate|Cline Climate]]
 - [[Encyclopedia Mysenvaria/Science/Models/Common Ancestors|Common Ancestors]]

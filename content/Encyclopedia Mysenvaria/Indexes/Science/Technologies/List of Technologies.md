@@ -47,6 +47,7 @@ The following is an index of all articles across the Encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Technologies/Surgery|Surgery]]
 ## T
 - [[Encyclopedia Mysenvaria/Science/Technologies/Telescope|Telescope]]
+- [[Encyclopedia Mysenvaria/Science/Technologies/Trade Secret|Trade Secret]]
 ## W
 - [[Encyclopedia Mysenvaria/Science/Technologies/Weaving|Weaving]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Writing|Writing]]

@@ -23,9 +23,6 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/C
 # Occupations
 ## A
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Adventurer|Adventurer]]
-- [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|Astronomer]]
-## B
-- [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Biologist|Biologist]]
 ## C
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|Cartographer]]
 ## D
@@ -38,5 +35,6 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/C
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Mage|Mage]]
 ## S
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper|Scalper]]
+- [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|Starforging]]
 ## W
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|Wizard]]

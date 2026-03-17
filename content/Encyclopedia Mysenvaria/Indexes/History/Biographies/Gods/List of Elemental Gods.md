@@ -25,147 +25,147 @@ This page serves as an index of [[Encyclopedia Mysenvaria/History/Biographies/Go
 
 # Elemental Gods
 ## A
-- God of Actinium
-- God of Aluminum
-- God of Americium
-- God of Antimony
-- God of Argon
-- God of Arsenic
-- God of Astanine
+- god_of_actinium
+- god_of_aluminum
+- god_of_americium
+- god_of_antimony
+- god_of_argon
+- god_of_arsenic
+- god_of_astanine
 ## B
-- God of Barium
-- God of Berkelium
-- God of Berylium
-- God of Beryllium
-- God of Bismuth
-- God of Bohrium
-- God of Boron
-- God of Bromine
+- god_of_barium
+- god_of_berkelium
+- god_of_berylium
+- god_of_beryllium
+- god_of_bismuth
+- god_of_bohrium
+- god_of_boron
+- god_of_bromine
 ## C
-- God of Cadmium
-- God of Caesium
+- god_of_cadmium
+- god_of_caesium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|God of Calcium]]
-- God of Californium
+- god_of_californium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium|God of Cerium]]
-- God of Chlorine
-- God of Chromium
-- God of Cobalt
-- God of Copernicium
-- God of Copper
-- God of Curium
+- god_of_chlorine
+- god_of_chromium
+- god_of_cobalt
+- god_of_copernicium
+- god_of_copper
+- god_of_curium
 ## D
-- God of Darmstadtium
-- God of Dubnium
-- God of Dysprosium
+- god_of_darmstadtium
+- god_of_dubnium
+- god_of_dysprosium
 ## E
-- God of Einsteinium
-- God of Erbium
-- God of Europium
+- god_of_einsteinium
+- god_of_erbium
+- god_of_europium
 ## F
-- God of Fermium
-- God of Flerovium
-- God of Fluorine
-- God of Francium
+- god_of_fermium
+- god_of_flerovium
+- god_of_fluorine
+- god_of_francium
 ## G
-- God of Gadolinium
-- God of Gallium
-- God of Germanium
-- God of Gold
+- god_of_gadolinium
+- god_of_gallium
+- god_of_germanium
+- god_of_gold
 ## H
-- God of Hafnium
-- God of Hassium
-- God of Helium
-- God of Holmium
+- god_of_hafnium
+- god_of_hassium
+- god_of_helium
+- god_of_holmium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]]
 ## I
-- God of Indium
+- god_of_indium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine|God of Iodine]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium|God of Iridum]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|God of Iron]]
 ## K
-- God of Krypton
+- god_of_krypton
 ## L
-- God of Lanthanum
-- God of Lawrencium
-- God of Lead
-- God of Lithium
-- God of Livermorium
-- God of Lutetium
+- god_of_lanthanum
+- god_of_lawrencium
+- god_of_lead
+- god_of_lithium
+- god_of_livermorium
+- god_of_lutetium
 ## M
-- God of Magnesium
-- God of Manganese
-- God of Meitnerium
-- God of Mendelevium
-- God of Mercury
-- God of Molybdenum
-- God of Moscovium
+- god_of_magnesium
+- god_of_manganese
+- god_of_meitnerium
+- god_of_mendelevium
+- god_of_mercury
+- god_of_molybdenum
+- god_of_moscovium
 ## N
-- God of Neodymium
-- God of Neon
-- God of Neptunium
-- God of Nickel
-- God of Niobium
-- God of Nitrogen
-- God of Nobelium
-- God of Nohonium
+- god_of_neodymium
+- god_of_neon
+- god_of_neptunium
+- god_of_nickel
+- god_of_niobium
+- god_of_nitrogen
+- god_of_nobelium
+- god_of_nohonium
 ## O
-- God of Oganesson
-- God of Osmium
+- god_of_oganesson
+- god_of_osmium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]]
 ## P
-- God of Palladium
-- God of Phosphorus
-- God of Platinum
+- god_of_palladium
+- god_of_phosphorus
+- god_of_platinum
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium|God of Plutonium]]
-- God of Polonium
-- God of Potassium
-- God of Praseodymium
-- God of Proactinium
-- God of Promethium
+- god_of_polonium
+- god_of_potassium
+- god_of_praseodymium
+- god_of_proactinium
+- god_of_promethium
 ## R
-- God of Radium
-- God of Radon
-- God of Rhenium
-- God of Rhodium
-- God of Roentgenium
-- God of Rubidium
-- God of Ruthenium
-- God of Rutherfordium
+- god_of_radium
+- god_of_radon
+- god_of_rhenium
+- god_of_rhodium
+- god_of_roentgenium
+- god_of_rubidium
+- god_of_ruthenium
+- god_of_rutherfordium
 ## S
-- God of Samarium
-- God of Scandium
-- God of Seaborgium
-- God of Selenium
-- God of Silicon
-- God of Silver
+- god_of_samarium
+- god_of_scandium
+- god_of_seaborgium
+- god_of_selenium
+- god_of_silicon
+- god_of_silver
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|God of Sodium]]
-- God of Strontium
-- God of Sulfur
+- god_of_strontium
+- god_of_sulfur
 ## T
-- God of Tantalum
-- God of Technetium
-- God of Tellurium
-- God of Tennessine
-- God of Terbium
-- God of Thallium
-- God of Thorium
-- God of Thulium
-- God of Tin
-- God of Titanium
-- God of Tungsten
+- god_of_tantalum
+- god_of_technetium
+- god_of_tellurium
+- god_of_tennessine
+- god_of_terbium
+- god_of_thallium
+- god_of_thorium
+- god_of_thulium
+- god_of_tin
+- god_of_titanium
+- god_of_tungsten
 ## U
-- God of Uranium
+- god_of_uranium
 ## V
-- God of Vanadium
+- god_of_vanadium
 ## X
-- God of Xenon
+- god_of_xenon
 ## Y
-- God of Ytterbium
-- God of Yttrium
+- god_of_ytterbium
+- god_of_yttrium
 ## Z
-- God of Zinc
-- God of Zirconium
+- god_of_zinc
+- god_of_zirconium
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
