@@ -22,6 +22,6 @@ The stars would be created shortly before the end of the battle, Tectonic Tears 
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
 

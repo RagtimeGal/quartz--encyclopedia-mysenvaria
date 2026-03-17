@@ -25,7 +25,7 @@ archived_work:
 > [!info] Archived Work
 > The following is a translation of a real literary work archived by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]] and stored in their [[Archive Library/Archive Home|archival library]].
 > 
-> *For more information on the origins, history, or authors of this work you may view the [[_index|Encyclopedia Mysenvaria's]] article on the topic here:*
+> *For more information on the origins, history, or authors of this work you may view the [[_index|Encyclopedia's]] article on the topic here:*
 
 > [!warning] Damaged or Incomplete Historical Work
 > The archivists of Academy Publishing's archival library try to restore historical works to the best of their abilities. Portions of this work may be missing or incomplete due to irreversible damage.  Only a portion of the original work may be available to the public to view.

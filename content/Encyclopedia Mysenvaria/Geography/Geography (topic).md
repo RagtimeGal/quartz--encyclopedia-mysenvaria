@@ -1,5 +1,5 @@
 ---
-title: "Geography"
+title: "Geography (topic)"
 enableToc: true
 tags:
   - topic/geography
@@ -12,8 +12,10 @@ featured_data:
   fun_facts: ["ff1"]
 ---
 %%
-ff1: ... that [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?
+ff1: ... that [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?
 %%
+
+*For the scientific branch, see [[Encyclopedia Mysenvaria/Science/Branches/Geography (scientific branch)|Geography (scientific branch)]].*
 
 Geography is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Geography is a complex [[Encyclopedia Mysenvaria/Culture/Culture#Scientific Branches|scientific branch]] which focuses on the study of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] physical and abstract features. It includes many other scientific branches such as [[Encyclopedia Mysenvaria/Science/Branches/Paleontology|paleontology]], [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorology]], [[Encyclopedia Mysenvaria/Science/Branches/Biogeography|biogeography]], [[Encyclopedia Mysenvaria/Science/Branches/Climatology|climatology]], and more. It's also vital to crafts like [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|cartography]].
 
@@ -29,7 +31,7 @@ The study of these kinds of features is often tied to the study of [[Encyclopedi
 # Abstract Features
 Abstract features fall under the category of intangibility. They are not physical in nature, although artificial features may be constructed to represent them, such as a border wall. Abstract features exist as political borders and cartographical contours like [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|span and reach]].
 # Astrography
-Astrography is focused on the study of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], which are considered to be natural features of the Plane. Despite this, stars garner their own distinct sub-topic in the Encyclopedia due to the vastness of the topic. Astrography is practiced by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]], and deals with the study of star's movement, influence, translations, and position. There are thousands of stars which dot the sky of the Plane, and as such documenting them all is a gargantuan task deserving of its own category of organization.
+Astrography is focused on the study of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], which are considered to be natural features of the Plane. Despite this, stars garner their own distinct sub-topic in the Encyclopedia due to the vastness of the topic. Astrography is practiced by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]], and deals with the study of star's movement, influence, translations, and position. There are thousands of stars which dot the sky of the Plane, and as such documenting them all is a gargantuan task deserving of its own category of organization.
 
 Stars have a significant impact on the Plane, and beyond that are important markers of historical events. Stars are divided into three categories, those being legal, index, and documentary stars. For more information on the different kinds of stars, how they are translated, and their importance on historical documentation see the [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars page]].
 # See Also

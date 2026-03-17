@@ -6,6 +6,7 @@ tags:
 draft: true
 type: template
 status: empty
+future: none
 person:
   - name: ""
     birth_date: []

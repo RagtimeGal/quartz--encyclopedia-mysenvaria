@@ -16,5 +16,5 @@ The Birth Star was created by the [[Encyclopedia Mysenvaria/History/Biographies/
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

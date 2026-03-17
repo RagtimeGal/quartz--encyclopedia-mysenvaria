@@ -2,6 +2,7 @@
 title: "Gods of Past, Present, and Future"
 aliases:
   - "Past, Present, and Future"
+  - "Time Trinity"
   - "God of Past"
   - "God of Present"
   - "God of Future"

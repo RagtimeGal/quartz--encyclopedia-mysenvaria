@@ -1,8 +1,10 @@
 ---
-title: "Immunology"
+title: "Starforging"
+aliases:
+  - "Starforger"
 enableToc: true
 tags:
-  - topic/science/branch
+  - topic/culture/occupation
 type: article
 status: empty
 ---
@@ -14,4 +16,4 @@ status: empty
 # Significance
 
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]
+- [[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]

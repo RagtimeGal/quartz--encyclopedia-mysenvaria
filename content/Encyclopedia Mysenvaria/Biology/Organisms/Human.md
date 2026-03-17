@@ -1,10 +1,11 @@
 ---
-title: "Biologist"
+title: "Human"
 enableToc: true
 tags:
-  - topic/culture/occupation
-type: article
+  - topic/biology/organism
+type: template
 status: empty
+future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
@@ -12,11 +13,4 @@ status: empty
 
 # History
 
-# Processes
-
-# Significance
-
-# Notable Figures
-
 # See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]

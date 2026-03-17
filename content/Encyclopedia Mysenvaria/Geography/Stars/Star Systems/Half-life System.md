@@ -20,6 +20,6 @@ The two's fight would lead to the flooding of the system, with many Gods agreein
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
 

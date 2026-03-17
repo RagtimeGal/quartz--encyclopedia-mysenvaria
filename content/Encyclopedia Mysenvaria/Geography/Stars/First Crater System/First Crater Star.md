@@ -16,5 +16,5 @@ The First Crater Star is the host star of the [[Encyclopedia Mysenvaria/Geograph
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

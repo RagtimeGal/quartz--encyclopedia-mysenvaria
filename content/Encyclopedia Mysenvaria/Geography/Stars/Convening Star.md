@@ -39,5 +39,5 @@ star_desc: Published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/P
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

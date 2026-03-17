@@ -5,13 +5,14 @@ tags:
   - topic/art/game
 type: article
 status: stub
+future: none
 has:
   - featured_data
 featured_data:
   fun_facts: ["ff1"]
 ---
 %%
-ff1: ... that many nations coins are created with the strategy game [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] in mind?
+ff1: ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]

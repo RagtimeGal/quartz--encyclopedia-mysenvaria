@@ -52,7 +52,7 @@ The following is an index of all articles across the Encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Branches/Relatics|Relatics]]
 ## S
 - [[Encyclopedia Mysenvaria/Science/Branches/Sociobiology|Sociobiology]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Starforging|Starforging]]
+- [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|Starforging]]
 ## T
 - [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|Taxonomy]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|Theogenesis]]

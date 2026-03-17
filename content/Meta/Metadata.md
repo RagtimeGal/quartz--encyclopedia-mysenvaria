@@ -125,20 +125,6 @@ tags:
   - subject/literature # This article covers information regarding a literary work.
   - subject/literature/non-fiction # This article covers a literary work of the genre: fiction.
   - subject/literature/fiction # This article covers a literary work of the genre: non-fiction.
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
-  - subject/literature/ # This article covers a literary work of the genre: .
 # These tags are used for misc. subjects.
   - subject/old_world # This article covers information which occurred in the Old World.
   - subject/new_world # This article covers information which occurred in the New World.
@@ -164,6 +150,32 @@ subpage: # An array, so you can list multiple subpages per page. Each subpage is
 "example_link2": "Example"
 %%
 ```
+# Ledger Data Example
+```yaml
+---
+ledger_data:
+  week: 1 # The week the ledger was published.
+  year: 2020 # The year the ledger was published.
+---
+```
+# Featured Example
+```yaml
+---
+featured_data:
+  featured_desc: "featured_description_example"
+  featured_image: "featured_image_example" # Can feature a wikilink to an image.
+  fun_facts: ["fun_fact1"]
+---
+%%
+featured_description_example: A short and concise description of the article's contents.
+featured_image_example: ![[Media/Images/example.png|example.png]]
+fun_fact1: A short fun fact relating to the article's contents. Should be formated to be followed by "Did you know...".
+%%
+```
+
+Fun facts and featured descriptions should be written following a particular format. Featured descriptions can typically just be the first paragraph of the particular page, but in specific scenarios may require their own unique text. The first word{s} of the featured description should be a bolded link to the page being discussed.
+
+In the case of fun facts they should be written as if being prefixed with "Did you know..." and should be formatted as a question. A one-sentence non-question follow up may also be included.
 # Event Example
 ```yaml
 ---
@@ -264,28 +276,6 @@ index: # This is an array, so it can handle multiple indexes per-page.
           method: first_character # The method by which to generate the subheader. Accepts `value` (Creates a subheader for each unique value), `first_character` (Creates a subheader for each unique first character), and `floor_x` (Works only for numbers, creates a subheader at each interval of x).
           format: "{value}'s Example" # Optional. Tells the program how to format the subheader. 
 ---
-```
-# Ledger Data Example
-```yaml
----
-ledger_data:
-  week: 1 # The week the ledger was published.
-  year: 2020 # The year the ledger was published.
----
-```
-# Featured Example
-```yaml
----
-featured_data:
-  featured_desc: "featured_description_example"
-  featured_image: "featured_image_example" # Can feature a wikilink to an image.
-  fun_facts: ["fun_fact1"]
----
-%%
-featured_description_example: A short and concise description of the article's contents.
-featured_image_example: ![[Media/Images/example.png|example.png]]
-fun_fact1: A short fun fact relating to the article's contents. Should be formated to be followed by "Did you know...".
-%%
 ```
 # Archive Example
 ```yaml

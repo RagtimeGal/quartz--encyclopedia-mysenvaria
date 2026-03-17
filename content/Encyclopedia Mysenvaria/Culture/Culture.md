@@ -12,7 +12,7 @@ Culture is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/L
 # Beliefs
 Beliefs are the ideas and concepts which individuals and populations hold as truth. They include religions and philosophies that form cultural norms and shape how societies perceive the world.
 # Ethnic & Cultural Groups
-Ethnic and cultural groups are populations that identify with one another through shared heritage, language, or beliefs. They are defined by the maintaining and evolution of unique customs and traditions that are tied to their unique histories and local [[Encyclopedia Mysenvaria/Geography/Geography|geographies]]. Cultural groups have great influence over everything from governments and art.
+Ethnic and cultural groups are populations that identify with one another through shared heritage, language, or beliefs. They are defined by the maintaining and evolution of unique customs and traditions that are tied to their unique histories and local [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geographies]]. Cultural groups have great influence over everything from governments and art.
 # Events & Holidays
 Events and [[Encyclopedia Mysenvaria/Indexes/Culture/Events & Holidays/List of Holidays|holidays]] are periods of time recognized by populations to be for specific practices and customs. They range from religious festivals to seasonal celebrations like [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Solstice|solstices]]. Events reflect the values of cultures.
 # Languages
@@ -24,7 +24,7 @@ Organizations are groups of people that work with organized structure and a comm
 # See Also
 - [[Encyclopedia Mysenvaria/Arts/Art|Art]]
 - [[Encyclopedia Mysenvaria/Biology/Biology|Biology]]
-- [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
+- [[Encyclopedia Mysenvaria/Geography/Geography (topic)|Geography (topic)]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
 

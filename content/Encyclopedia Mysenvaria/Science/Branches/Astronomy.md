@@ -1,11 +1,21 @@
 ---
 title: "Astronomy"
+aliases:
+  - "Astronomer"
 enableToc: true
 tags:
   - topic/science/branch
 type: article
-status: empty
+status: stub
+future: none
+has:
+  - featured_data
+featured_data:
+  fun_facts: ["ff1"]
 ---
+%%
+"ff1": "... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?"
+%%
 
 > [!note] Stub
 > This article is a [[Meta/Callouts|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
@@ -18,7 +28,7 @@ To become an astronomer requires a keen eye and great understanding of the natur
 
 # History
 ## God-War Era
-The [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era]] was an age of few sciences, including a lack of practiced astronomy. However, to ignore this era is ignorant. The God-War is responsible for the creation of a majority of the stars in the sky, and some of the earliest [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]] were highly influential to the modern study.
+The [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era]] was an age of few sciences, including a lack of practiced astronomy. However, to ignore this era is ignorant. The God-War is responsible for the creation of a majority of the stars in the sky, and some of the earliest [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] were highly influential to the modern study.
 
 ## Post-War Era
 

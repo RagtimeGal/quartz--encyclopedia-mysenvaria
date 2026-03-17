@@ -13,14 +13,7 @@ featured_data:
   fun_facts: ["ff1"]
 ---
 %%
-ff1: ... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenisis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of how [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] come into existence?
-%%
-  - featured_data
-featured_data:
-  fun_facts: ["ff1"]
----
-%%
-ff1: ... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenisis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of how [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] come into existence?
+"ff1": "... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenesis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], practiced by theogenists?"
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]

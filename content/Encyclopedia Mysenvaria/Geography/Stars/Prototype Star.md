@@ -16,5 +16,5 @@ The Showcase Star is a star published in 55bt, published by the [[Encyclopedia M
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

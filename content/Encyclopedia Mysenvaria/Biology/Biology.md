@@ -20,7 +20,7 @@ Species are more specific taxon that include populations of highly related organ
 # See Also
 - [[Encyclopedia Mysenvaria/Arts/Art|Art]]
 - [[Encyclopedia Mysenvaria/Culture/Culture|Culture]]
-- [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
+- [[Encyclopedia Mysenvaria/Geography/Geography (topic)|Geography (topic)]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
 

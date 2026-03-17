@@ -8,7 +8,7 @@ status: complete
 future: update
 ---
 
-Art is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Art is a diverse aspect of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], defined as the creation and expression of ideas and emotions. Art is intrinsically tied to [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Geography/Geography|geography]], reflecting the values and lives of the people who created and endorsed it. 
+Art is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Art is a diverse aspect of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], defined as the creation and expression of ideas and emotions. Art is intrinsically tied to [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geography]], reflecting the values and lives of the people who created and endorsed it. 
 
 Art in the Encyclopedia is divided into multiple sub-topics based on its multitude of forms, including cuisine, performance, writing, games, music, and sports. This section of the Encyclopedia looks to document creative works of art from across the Plane, the methods used to create them are reserved to their own topics.
 # Cuisine
@@ -24,7 +24,7 @@ Performance is the act of theatrical storytelling performed in front of or for a
 # See Also
 - [[Encyclopedia Mysenvaria/Biology/Biology|Biology]]
 - [[Encyclopedia Mysenvaria/Culture/Culture|Culture]]
-- [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
+- [[Encyclopedia Mysenvaria/Geography/Geography (topic)|Geography (topic)]]
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
 

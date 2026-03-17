@@ -4,6 +4,10 @@
 		{"type":"file","file":"Encyclopedia Mysenvaria/Culture/Languages/God Tongue.md","id":"c54540f3b764280d","x":-320,"y":-2480,"width":1120,"height":840,"color":"6"}
 	],
 	"edges":[
-		{"id":"644652e838f471ce","fromNode":"b1d034533415fe1c","fromSide":"right","toNode":"c54540f3b764280d","toSide":"left"}
-	]
+		{"id":"644652e838f471ce","toFloating":false,"fromNode":"b1d034533415fe1c","fromSide":"right","toNode":"c54540f3b764280d","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

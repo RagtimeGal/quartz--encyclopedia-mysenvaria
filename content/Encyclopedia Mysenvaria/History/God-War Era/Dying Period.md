@@ -1,5 +1,5 @@
 ---
-title: Dying Period
+title: "Dying Period"
 enableToc: true
 tags:
   - topic/history/god-war_era
@@ -21,11 +21,11 @@ featured_data:
   fun_facts: ["ff1"]
 ---
 %%
-start_desc: The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] begins (end. 160 BT) following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. It doesn't end until 160 BT, after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] that have ever existed.
-end_desc: The [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] ends (beg. 177 BT) after the passing of three quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] which have ever existed. An estimated 11.2 billion Gods have passed away in seventeen years, over 1.9 million Gods per day.
-featured_desc: **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.
-featured_image: ![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]
-ff1: ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] was the most deadly period in recorded history?
+"start_desc": **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** begins (end. 90th of Spring, [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]]) following the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]].
+"end_desc": **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** ends (beg. 26th of Spring, [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]]) after the passing of three-quarters of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] which have ever existed. An estimated 11.2 billion Gods have passed away over the course of 17 years—approximately 1.9 million Gods per day.
+"featured_desc": **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.
+"featured_image": ![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]
+"ff1": ... during the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] an average of 1.9 million [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] died every single day?
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
 > This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
@@ -38,6 +38,9 @@ The [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], short
 
 Documented in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]] the First Death would trigger an epiphany among the Gods, realizing their own mortality many would attempt to grasp control of the situation. Some would choose to secure their own lives by any means, including killing those who threatened them. On the contrary some would look to cement their legacy, publishing the stars which would form [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]]. These are referred to by historians as "violent" and "peaceful" Gods respectively.
 # Mass Casualties & Aftermath
+The death toll of the Dying Period is unknown, though it is estimated by many modern [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] and [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] to be profound—building the foundation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] geography. Low estimates range in the millions, while the highest estimates range in the low billions. All that is known, by account of various stars in Death's Star System, is that approximately 90% of all Gods passed during the cataclysm.
+
+
 Over the course of the Dying Period an estimated 11.2 billion Gods would pass away[^graphic]. As the space between [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|territories]] grew and the number of "violent" Gods decreased, a descent in the number of deaths would begin. Though it would only drop off to the numbers seen through the rest of the war after the end of the Dying Period.
 
 The Dying Period would see the introduction of [[Encyclopedia Mysenvaria/Culture/Culture#Beliefs|religion]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]] following the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]], though it would only be as the population of Gods stabilized into the [[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT|160s BT]] that religious institutions would be able to settle and develop.

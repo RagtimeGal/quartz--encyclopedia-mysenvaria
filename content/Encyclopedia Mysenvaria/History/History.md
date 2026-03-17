@@ -9,7 +9,7 @@ future: update
 ---
 
 History is one of the six primary tropics of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. History is a record of events, figures, and forces from the past which have shaped the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. By studying history [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] can seek to understand how the past influences the present and will continue to influence the future. History is vital to all other topics of the Encyclopedia, offering 
- insight into [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Science/Science|science]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Geography/Geography|geography]], and [[Encyclopedia Mysenvaria/Arts/Art|art]]. 
+ insight into [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Science/Science|science]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geography]], and [[Encyclopedia Mysenvaria/Arts/Art|art]]. 
 # Biographies
 Biographies are documents on the lives of people from the past and present, chronicling the legacies of key historical figures. Biographies document a range of individuals, from [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Farmer|farmers]]. The lives of past individuals, especially influential ones, historians can better understand the impacts they had on society, the roles people like them played in past cultures, and the decisions which formed the world we live in today.
 
@@ -20,7 +20,7 @@ Each of the four historic eras has their own sub-topic, which includes a timelin
 - [[Encyclopedia Mysenvaria/Arts/Art|Art]]
 - [[Encyclopedia Mysenvaria/Biology/Biology|Biology]]
 - [[Encyclopedia Mysenvaria/Culture/Culture|Culture]]
-- [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
+- [[Encyclopedia Mysenvaria/Geography/Geography (topic)|Geography (topic)]]
 - [[Encyclopedia Mysenvaria/Science/Science|Science]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]

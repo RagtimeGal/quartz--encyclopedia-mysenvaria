@@ -32,7 +32,7 @@ Natural Diffusion differs from both other forms of Natural Personification as it
 
 Flaws in the interaction between the Real and Unreal can allow Nature to seep into the interaction in higher quantities than it would otherwise. Events like this lead to an influx in the generation of limn across certain portions or the entirety of the Plane for brief periods.
 
-Natural Diffusion plays an important role in the works of [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|wizards]] and [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Mage|mages]], who need limn to forge artificial stars. For that reason it is closely monitored by [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] and astronomers, who track the spontaneous generation of limn via various methods.
+Natural Diffusion plays an important role in the works of [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|starforgers]]. For that reason it is closely monitored by [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] and astronomers, who track the spontaneous generation of limn via various methods.
 # See Also
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]

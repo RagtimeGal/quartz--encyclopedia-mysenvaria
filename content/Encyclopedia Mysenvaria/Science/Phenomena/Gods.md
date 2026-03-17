@@ -7,13 +7,24 @@ tags:
 type: article
 status: complete
 future: update
+has:
+  - featured_data
 needs:
   - graphics
+featured_data:
+  featured_desc: "featured_desc"
+  fun_facts: ["ff1","ff2","ff3"]
 ---
+%%
+"featured_desc": "**[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]**, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]]."
+"ff1": "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] possess a wide range of abilities derived from their relationship with the interaction between the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Real and Unreal]]?"
+"ff2": "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] can be killed by piercing their heart with a foreign object?"
+"ff3": "... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are a result of the Unreal's inability to manage excess amounts of Real?"
+%%
 
 Gods, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]].
 
-[[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|Theogenesis]] is the study of Gods, how they work, and why they exist. It is a study primarily taken on by [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Astronomer|astronomers]], and especially [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|wizards]]. 
+[[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|Theogenesis]] is the study of Gods, how they work, and why they exist. It is a study primarily taken on by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]], and especially [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|wizards]]. 
 # Creation
 *Further information: [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]*
 
@@ -56,7 +67,7 @@ Gods' hearts are susceptible to disruption by foreign bodies; to kill a God requ
 When a God dies it is possible that their portion of the Real and Unreal becomes inaccessible to Reality. Instances of this occurring are few and far between, the greatest example being the [[Encyclopedia Mysenvaria/Geography/Stars/Lost Elements Star|Lost Elements Star]]. Whether or not a God has complete control of their domain, including its existence, is decided by the parent(s) of that God when they are created. 
 
 The exact mechanisms by which a God's death works are debated, but it's believed that by disrupting the heart the Unreal which holds them together is disrupted, causing a collapse. It's hypothesized that a God can be brought back from the dead by their original creator(s), and this seems to be supported by recorded interactions with Gods, though there is no recorded instance of this occurring.
-# Also See
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]

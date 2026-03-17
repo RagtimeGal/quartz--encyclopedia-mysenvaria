@@ -3,7 +3,6 @@
 ## Issues detected
 - Archive Library/Archive Home.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Arts/Cuisine/Draconic Potluck.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Games/Nemein.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria.md: missing key `future` added with default value `none`.
@@ -106,7 +105,7 @@
 - Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Mitosis Star.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Organic Destruction.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Stars/Plant Star System/Hydrogen Cyanide's Plants.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/First Lessers Star.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Stars/Relatives Star System/Relatives Star.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Afterlife System.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Alex's Star System.md: missing key `future` added with default value `none`.
@@ -193,7 +192,6 @@
 - Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/God-War Era/Iteration Period.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/God-War Era/Lover's Period.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Quickening.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration.md: missing key `future` added with default value `none`.
@@ -298,7 +296,6 @@
 - Meta/Callouts.md: missing key `future` added with default value `none`.
 - Meta/Contributing.md: missing key `future` added with default value `none`.
 - Meta/Contributors.md: missing key `future` added with default value `none`.
-- Meta/Index of Articles by Status.md: missing key `future` added with default value `none`.
 - Meta/Meta.md: missing key `future` added with default value `none`.
 - Meta/Metadata.md: missing key `future` added with default value `none`.
 - Meta/Writing Guidelines.md: missing key `future` added with default value `none`.

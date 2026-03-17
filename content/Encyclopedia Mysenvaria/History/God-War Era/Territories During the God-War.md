@@ -1,5 +1,5 @@
 ---
-title: Territories During the God-War
+title: "Territories During the God-War"
 enableToc: true
 tags:
   - topic/history/god-war_era

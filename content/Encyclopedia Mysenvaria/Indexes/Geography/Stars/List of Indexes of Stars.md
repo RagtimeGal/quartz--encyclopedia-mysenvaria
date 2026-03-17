@@ -6,7 +6,7 @@ tags:
   - subject/star
   - subject/star_system
 type: index
-status: update
+status: auto-generated
 index:
   - header_name: "Indexes of Stars"
     included_data: 

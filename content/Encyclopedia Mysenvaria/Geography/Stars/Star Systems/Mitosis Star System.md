@@ -18,6 +18,6 @@ The Mitosis Star System is a major [[Encyclopedia Mysenvaria/Science/Phenomena/S
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
 

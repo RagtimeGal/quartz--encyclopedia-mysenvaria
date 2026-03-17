@@ -1,5 +1,5 @@
 ---
-title: Geography During the God-War
+title: "Geography During the God-War"
 enableToc: true
 tags:
   - topic/history/god-war_era
@@ -11,7 +11,7 @@ status: touch-up
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
 > This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-The God-War witnessed the conception of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] itself and formed it into the place that it is known today. Features like the Plane's [[Encyclopedia Mysenvaria/Geography/Geography|geography]], [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]], and the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]] give historians a glimpse into the events of the war, and a chance to understand how the war molded these features too. Numerous strategies are used to extrapolate data regarding these features of the Plane, including [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], strata layers, erosion and weathering, [[Encyclopedia Mysenvaria/Science/Models/Tectonics|tectonic plates]], permafrost, and more.
+The God-War witnessed the conception of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] itself and formed it into the place that it is known today. Features like the Plane's [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geography]], [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]], and the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]] give historians a glimpse into the events of the war, and a chance to understand how the war molded these features too. Numerous strategies are used to extrapolate data regarding these features of the Plane, including [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], strata layers, erosion and weathering, [[Encyclopedia Mysenvaria/Science/Models/Tectonics|tectonic plates]], permafrost, and more.
 # Formation & Early Development
 The formation of the Plane began with the publication of the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. The period of time before the publication of the First Epoch Star is called prehistory, and nothing is truly known about it. It is unknown what existed in Reality during Prehistory or for how long whatever may or may not have existed was existing for.
 

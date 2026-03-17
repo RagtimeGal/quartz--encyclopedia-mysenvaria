@@ -5,6 +5,7 @@ tags:
   - topic/meta
 type: index
 status: complete
+future: auto-generated
 index:
   - header_name: "Articles by Status"
     excluded_data:
@@ -44,7 +45,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]]
 - [[_index|Encyclopedia Home]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|Entity (phenomenon)]]
-- [[Encyclopedia Mysenvaria/Geography/Geography|Geography]]
+- [[Encyclopedia Mysenvaria/Geography/Geography (topic)|Geography (topic)]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future|Gods of Past, Present, and Future]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]]
@@ -56,7 +57,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Ledgers/Ledger 3.2025|Lore Ledger 3.25]]
 - [[Meta/Ledgers/Ledger 4.2026|Lore Ledger 4.26]]
 - [[Meta/Ledgers/Ledger 10.2026|Lore Ledger 10.26]]
-- [[Meta/Ledgers/Ledger 11.2026|Lore Ledger 11.26]]
+- [[Meta/Ledgers/Ledger 12.2026|Lore Ledger 11.26]]
 - [[Meta/Ledgers/Ledger 17.2025|Lore Ledger 17.25]]
 - [[Meta/Ledgers/Ledger 34.2025|Lore Ledger 34.25]]
 - [[Meta/Ledgers/Ledger 38.2025|Lore Ledger 38.25]]
@@ -408,7 +409,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Technologies/Star Map|Star Map]]
 - [[Meta/Templates/Geography/Star System Template|Star System Template]]
 - [[Meta/Templates/Geography/Star Template|Star Template]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Starforging|Starforging]]
+- [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|Starforging]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Surgery|Surgery]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|Taxonomy]]
 - [[Meta/Templates/Science/Technology Template|Technology Template]]
@@ -502,7 +503,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Stars/Plea Star|Plea Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Population, Zero|Population, Zero]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Prototype Star|Prototype Star]]
-- [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/Quickening Star|Quickening Star]]
+- [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/First Lessers Star|First Lessers Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Relatives Star System/Relatives Star|Relatives Star]]

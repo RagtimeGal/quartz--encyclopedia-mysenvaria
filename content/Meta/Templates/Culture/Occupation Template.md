@@ -6,6 +6,7 @@ tags:
 draft: true
 type: template
 status: empty
+future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
@@ -22,5 +23,5 @@ status: empty
 
 # Notable Figures
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]

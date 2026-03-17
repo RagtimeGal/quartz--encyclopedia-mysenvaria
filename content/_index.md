@@ -10,9 +10,9 @@ status: complete
 
 The [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is a comprehensive collection of educational articles written by numerous scholars from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and compiled and published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]]. Academy Publishing has worked diligently for the last two hundred years to collaborate and compile the work of as many scholars from as many [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|studies]] as possible.
 
-Academy Publishing's own [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomists]] have neatly organized and categorized all articles into six sets of primary topics, including: [[Encyclopedia Mysenvaria/Arts/Art|art]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Geography/Geography|geography]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Science/Science|science]]. Each topic is then subdivided into a number of sub-topics, some overlapping across multiple primaries.
+Academy Publishing's own [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomists]] have neatly organized and categorized all articles into six sets of primary topics, including: [[Encyclopedia Mysenvaria/Arts/Art|art]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geography]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Science/Science|science]]. Each topic is then subdivided into a number of sub-topics, some overlapping across multiple primaries.
 
-Academy Publishing also offers the 
+Academy Publishing also offers visitors access to their [[Archive Library/Archive Home|archival library]], wherein there are thousands of archived books available.
 
 It can appear difficult at first to find a place to begin within the Encyclopedia, so tailored articles have been written to simplify the task:
 - [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]] act as lists of articles sharing similar or related topics.
@@ -24,9 +24,20 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
+<<<<<<< Updated upstream
 > > **[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is widely considered to be one of the most  influential events in [[Encyclopedia Mysenvaria/History/History|history]]. It is the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and subsequently the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]] is the creation of millions of Gods, many lost to history.
 >
 > > [!info] Did you know...
+=======
+> > **[[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]**, recorded in [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]], published [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]], is the earliest recorded instance of a [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] dying and marks the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The First Death was caused by and followed the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]], which saw a rapid increase in the number of Gods across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Death's Star would expand into [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's System]] following the event, as rushed Gods panicked to record their thoughts on the event.
+>
+> > [!info] Did you know...
+> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]] exist above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] and is devoid of air and where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods and created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]?
+>>>>>>> Stashed changes
 > > - ... that [[Meta/Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]] is a scientific model which describes how air in the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] moves from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] or [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]] and vice-versa?
 > > - ... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] are small mechanical devices used to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?
 > > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] was 177 years long?

@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography#Natural Features|natural features]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography (topic)#Natural Features|natural features]], sorted alphabetically.
 # Natural Features
 ## A
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|Atmosphere]]

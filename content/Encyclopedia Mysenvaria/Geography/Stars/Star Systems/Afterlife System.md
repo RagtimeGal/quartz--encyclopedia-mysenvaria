@@ -18,6 +18,6 @@ The Afterlife System is a large system of [[Encyclopedia Mysenvaria/Science/Phen
 
 # Famous Translations
 
-# Also see
+# See Also
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
 
