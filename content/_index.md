@@ -24,6 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
+> > **[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]**, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]].
+>
+> > [!info] Did you know...
+> > - ... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn's]] materialization is a result of the unstable nature of Reality allowing Nature to seep in?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over a period of 58 days—less than a single season?
+> > - ... that it's unknown which [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] first [[Encyclopedia Mysenvaria/History/God-War Era/First Death|died]], and who killed them?
+> > - ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?
 <<<<<<< Updated upstream
 > > **[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is widely considered to be one of the most  influential events in [[Encyclopedia Mysenvaria/History/History|history]]. It is the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and subsequently the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]] is the creation of millions of Gods, many lost to history.
 >
