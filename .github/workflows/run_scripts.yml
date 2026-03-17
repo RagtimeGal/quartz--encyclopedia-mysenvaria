@@ -4,7 +4,7 @@ name: Run scripts on push
 on:
   push:
     branches:
-      - v4          # <-- use your real branch name; if it's 'main', put main
+      - v4 
   workflow_dispatch:
 
 permissions:
@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0 # Fetch all history for git-based scripts
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -27,35 +29,50 @@ jobs:
       - name: Install required Python packages
         run: |
           python -m pip install --upgrade pip
-          # Ensure PyYAML is always available for YAML parsing
           pip install pyyaml
-          # Optionally install anything else if a requirements file exists
           if [ -f content/Meta/Programs/run_on_push/requirements.txt ]; then
             pip install -r content/Meta/Programs/run_on_push/requirements.txt
           fi
 
-      # --- NEW STEP: AGGREGATE METADATA FIRST ---
       - name: Run Metadata Aggregator
         run: |
           echo "=== Generating Metadata Database ==="
-          # Adjust path if your aggregator is kept somewhere else
-          python content/Meta/Programs/debug/metadata_aggregator/metadata_aggregator.py
+          # Check primary location first, then fallback to search
+          PRIMARY_PATH="content/Meta/Programs/run_on_push/metadata_aggregator.py"
+          
+          if [ -f "$PRIMARY_PATH" ]; then
+            echo "Running aggregator at: $PRIMARY_PATH"
+            python "$PRIMARY_PATH"
+          else
+            echo "Primary path not found, searching..."
+            SEARCH_PATH=$(find content/Meta/Programs -name "metadata_aggregator.py" | head -n 1)
+            if [ -n "$SEARCH_PATH" ]; then
+              python "$SEARCH_PATH"
+            else
+              echo "::error ::Could not find metadata_aggregator.py in content/Meta/Programs"
+              exit 1
+            fi
+          fi
           echo "=== Metadata aggregation complete ==="
 
       - name: Run all scripts in run_on_push
         run: |
           echo "=== Starting run_on_push scripts ==="
-          # We skip the aggregator if it's in this folder to avoid running it twice
-          for f in content/Meta/Programs/run_on_push/*.py; do
-            if [[ "$f" == *"metadata_aggregator.py"* ]]; then
-              continue
-            fi
-            echo "------------------------------------------------------------"
-            echo "Running: $f"
-            echo "------------------------------------------------------------"
-            python "$f"
-            echo ""
-          done
+          if [ -d "content/Meta/Programs/run_on_push" ]; then
+            for f in content/Meta/Programs/run_on_push/*.py; do
+              # IMPORTANT: Skip the aggregator here since we ran it manually above
+              if [[ "$f" == *"metadata_aggregator.py"* ]]; then
+                continue
+              fi
+              echo "------------------------------------------------------------"
+              echo "Running: $f"
+              echo "------------------------------------------------------------"
+              python "$f"
+              echo ""
+            done
+          else
+            echo "Directory content/Meta/Programs/run_on_push not found."
+          fi
           echo "=== All scripts completed ==="
 
       - name: Commit and push changes (if any)
