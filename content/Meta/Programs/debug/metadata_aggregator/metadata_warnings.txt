@@ -1,313 +1,313 @@
 # Metadata Aggregator Warnings
 
 ## Issues detected
-- Encyclopedia Mysenvaria/Culture/Organizations/Great Astronomy Foundation.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Organizations/New Inner Rainciv Astronomy Council.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Farmer.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Adventurer.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Mage.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Events & Holidays/Dragon Hunt.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Events & Holidays/Solstice.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Languages/God Tongue.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Languages/Proto-Human Language.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Great Tear.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Northern Continent.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Habitable Zone.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Ocean.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Natural Features/Plane.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Abstract Features/Outer Ring.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Abstract Features/Edge.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Elemental Act.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Mending Earth Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Creations Act.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Elder's Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Birth Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Anti-Womb Agreement.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Border Operation.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Lost Elements Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Frontier Beyond.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Failed Love Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Prototype Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Watchers Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Energy Act.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Debris Raining Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Carbonprint.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Plea Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Effigy Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Population, Zero.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Demi-Human.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Cilia Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Humanity Lost.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Mortality Revisited.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Relations Act.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Material Limits Act.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Humanity Recycled.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Claim Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Human Protections Act.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Two Breasts.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Evacuation Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Flood System/Flood Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Plant Star System/Hydrogen Cyanide's Plants.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Afterlife Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/First Crater System/First Crater Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Apology System/Apology Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Anti-Organics System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Flood System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Relatives Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Coalition Against Mimicry.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Lover's Stars.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Plant Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Forever Alone.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Afterlife System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/New World System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Apology System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Dwarven Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Humanity Created.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Census System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Ending Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/First Crater System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Elven Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Mitosis Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Half-life System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Human Minds System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Alex's Star System.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Alex's Star System/Alex's Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Half-life System/Half-life Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Elven Star System/Elves Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Human Minds System/Human Minds.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Relatives Star System/Relatives Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Mitosis Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Organic Destruction.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/First Lessers Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Dwarven Star System/Dwarf Star.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Geography/Stars/Census System/Census Star.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Culture/Languages/Elven Languages.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Languages/Proto-Human Language.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Languages/God Tongue.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Culture/Languages/Starscript.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Culture/Languages/Humanized God Tongue.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Culture/Languages/Concepts/Relationships (linguistics).md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Culture/Languages/Concepts/Entity (linguistics).md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Beliefs/Greater God Conspiracy.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Culture/Beliefs/Deities.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Events & Holidays/Solstice.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Events & Holidays/Dragon Hunt.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Organizations/New Inner Rainciv Astronomy Council.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Organizations/Great Astronomy Foundation.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Farmer.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Mage.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Adventurer.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Body Plan.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Food Chain.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Classification of Gods.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Dietary Classification.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Hornerian Classification.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Perennial Classification.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Cline Climate.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Darwinian Classification.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Classification of Organisms.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Common Ancestors.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Criterial Classification.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Material.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Formation Theory.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Linguistic Evolution.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Koppen Climate.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Models/Heavenly Lineage Model.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Orrery.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Instruments.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Agriculture.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Loom.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Pottery.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Grafting.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Writing.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Measurement.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Lamp.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Trade Secret.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Money.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Surgery.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Printing Press.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Observatory.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Clock.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Weaving.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Maps.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Star Map.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Technologies/Telescope.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Biohistory.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Bioastronomy.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Climatology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Taxonomy.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Medicine.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Sociobiology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Paleontology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Meteorology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Geography (scientific branch).md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Theogenesis.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Psychology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Biogeography.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Mathematics.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Philosophy.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Ecology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Geology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Genetics.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Anatomy.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Zoology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Branches/Relatics.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Snow.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Soils.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Weather.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Mountains.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Sophonts.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Fog.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Volcanoes.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Rift.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Organisms.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Seasons.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Whirlpool.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Beliefs/Deities.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Culture/Beliefs/Greater God Conspiracy.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Tides.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Island.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Rivers.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Science/Phenomena/Gravity.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Glaciers.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Biomes.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Fog.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Sophonts.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Rift.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Organisms.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Weather.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Whirlpool.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Soils.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Volcanoes.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Seasons.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Earthquake.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Snow.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Gravity.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Island.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Mountains.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Anatomy.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Ecology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Bioastronomy.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Geology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Psychology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Genetics.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Geography (scientific branch).md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Meteorology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Zoology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Philosophy.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Theogenesis.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Biogeography.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Biohistory.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Taxonomy.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Sociobiology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Relatics.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Medicine.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Mathematics.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Paleontology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Branches/Climatology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Food Chain.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Dietary Classification.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Classification of Gods.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Perennial Classification.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Classification of Organisms.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Linguistic Evolution.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Material.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Body Plan.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Hornerian Classification.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Common Ancestors.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Criterial Classification.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Cline Climate.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Koppen Climate.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Formation Theory.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Darwinian Classification.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Models/Heavenly Lineage Model.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Trade Secret.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Pottery.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Printing Press.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Surgery.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Orrery.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Clock.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Loom.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Weaving.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Money.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Grafting.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Agriculture.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Maps.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Lamp.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Writing.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Observatory.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Measurement.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Telescope.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Star Map.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Technologies/Instruments.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Golden Age.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Post-War Era.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Modern Era.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the God-War Era.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Cuisine/Draconic Potluck.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Discoverer of Evolution.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Jacob Metapsammiteson.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Renouned Paleontologist.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Ancient Philosopher.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Josh Soundson.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Famous Anthropologist.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Famous Taxonomer.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Author of Encounters With The Quadrinity.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/First Elven Elder.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Igneous Rock.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Greenschist.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Metapsammite.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Pyrolite.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Lightning.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Heat Lightning.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Rubidium Perchlorate.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Molybdenum Bromide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Calcium Acetate.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Peroxide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Penguinone.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Ethionamide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Aspartic Acid.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Tetrahydropyridine.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Disulfide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Monoxide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Trioxidane.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Formate.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cyclopentadecanolide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cinnamic Acid.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Diethyl Dixanthogen Disulfide.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Sound.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Gods of Kinetic & Potential Energy.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Golden Age/Golden Age.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Post-War Era/Great Dying.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Post-War Era/Great Disappearance.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/Water Wars.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/Iteration Period.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/God Councils.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/Lover's Period.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/First Convening.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Modern Era/Modern Era.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Modern Era/Iridium Experiments.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/History/Modern Era/Cracked Star Incident.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Biology/Disease/Elf.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Biology/Disease/Purple Lung.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Biology/Organs/Limnary Press.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Cuisine/Draconic Potluck.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Post-War Era/Great Disappearance.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Post-War Era/Great Dying.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/First Convening.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Lover's Period.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Great Flood.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Water Wars.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/God-War Era.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/God Councils.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Iteration Period.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Modern Era/Modern Era.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Modern Era/Cracked Star Incident.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Modern Era/Iridium Experiments.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Golden Age/Golden Age.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Discoverer of Evolution.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Famous Taxonomer.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Jacob Metapsammiteson.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Renouned Paleontologist.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Josh Soundson.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Author of Encounters With The Quadrinity.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Famous Anthropologist.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Ancient Philosopher.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/First Elven Elder.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Sound.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Gods of Kinetic & Potential Energy.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cinnamic Acid.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Aspartic Acid.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cyclopentadecanolide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Peroxide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Formate.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Molybdenum Bromide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Diethyl Dixanthogen Disulfide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Rubidium Perchlorate.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Disulfide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Trioxidane.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Penguinone.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Monoxide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Calcium Acetate.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Ethionamide.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Tetrahydropyridine.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Lightning.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Heat Lightning.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Pyrolite.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Igneous Rock.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Greenschist.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Metapsammite.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the God-War Era.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Post-War Era.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Golden Age.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Modern Era.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Abstract Features/Outer Ring.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Abstract Features/Edge.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Debris Raining Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Evacuation Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Demi-Human.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Cilia Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Plea Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Effigy Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Frontier Beyond.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Spatial Act.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Elemental Act.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Humanity Lost.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Elder's Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Border Operation.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Prototype Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Carbonprint.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Humanity Recycled.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Birth Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Human Protections Act.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Two Breasts.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Anti-Womb Agreement.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Claim Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Watchers Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Mending Earth Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Convening Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Population, Zero.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Material Limits Act.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Energy Act.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Creations Act.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Lost Elements Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Failed Love Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Relations Act.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Mortality Revisited.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Relatives Star System/Relatives Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Dwarven Star System/Dwarf Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Half-life System/Half-life Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Afterlife Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Census System/Census Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/First Lessers Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Elven Star System/Elves Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Alex's Star System/Alex's Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Apology System/Apology Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Human Minds System/Human Minds.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/First Crater System/First Crater Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Flood System/Flood Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Organic Destruction.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Mitosis Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Plant Star System/Hydrogen Cyanide's Plants.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Forever Alone.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Elven Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Census System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Afterlife System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Plant Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Relatives Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Dwarven Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Humanity Created.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Lover's Stars.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/First Crater System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Coalition Against Mimicry.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Human Minds System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Ending Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Apology System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/New World System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Flood System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Mitosis Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Anti-Organics System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Alex's Star System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Half-life System.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Habitable Zone.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Northern Continent.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Ocean.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Plane.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Geography/Natural Features/Great Tear.md: missing key `future` added with default value `none`.
-- Meta/Meta.md: missing key `future` added with default value `none`.
-- Meta/Metadata.md: missing key `future` added with default value `none`.
-- Meta/Callouts.md: missing key `future` added with default value `none`.
-- Meta/Writing Guidelines.md: missing key `future` added with default value `none`.
 - Meta/Contributing.md: missing key `future` added with default value `none`.
+- Meta/Metadata.md: missing key `future` added with default value `none`.
+- Meta/Meta.md: missing key `future` added with default value `none`.
+- Meta/Callouts.md: missing key `future` added with default value `none`.
 - Meta/Contributors.md: missing key `future` added with default value `none`.
-- Meta/Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation.md: missing key `future` added with default value `none`.
+- Meta/Writing Guidelines.md: missing key `future` added with default value `none`.
 - Meta/Encyclopedia Mysenvaria/Science/Models/Material.md: missing key `future` added with default value `none`.
-- Meta/Templates/Archived Work Template.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 10.2026.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 2.2025.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 17.2025.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 4.2026.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 34.2025.md: missing key `future` added with default value `none`.
+- Meta/Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 12.2026.md: missing key `future` added with default value `none`.
 - Meta/Ledgers/Ledger 45.2025.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 51.2024.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 46.2024.md: missing key `future` added with default value `none`.
 - Meta/Ledgers/Ledger 38.2025.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 48.2024.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 3.2025.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 4.2026.md: missing key `future` added with default value `none`.
 - Meta/Ledgers/Ledger 50.2024.md: missing key `future` added with default value `none`.
 - Meta/Ledgers/Ledger 46.2025.md: missing key `future` added with default value `none`.
-- Meta/Ledgers/Ledger 12.2026.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 17.2025.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 34.2025.md: missing key `future` added with default value `none`.
 - Meta/Ledgers/Ledger 47.2024.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 2.2025.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 10.2026.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 3.2025.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 51.2024.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 48.2024.md: missing key `future` added with default value `none`.
+- Meta/Ledgers/Ledger 46.2024.md: missing key `future` added with default value `none`.
+- Meta/Templates/Archived Work Template.md: missing key `future` added with default value `none`.
 - Archive Library/Archive Home.md: missing key `future` added with default value `none`.
