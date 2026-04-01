@@ -24,14 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]**, as described in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], is a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Natural Diffusion: a result of Realities unstable nature, allowing Nature to seep in. Limn is a strange substance, obeying neither the laws of the Real or Unreal. Because of this, limn is not a true [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entity]] as defined by the USM, as it is not constructed from a normal [[Encyclopedia Mysenvaria/Science/Models/Material|material]] structure.
+> > **[[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|The Harmony Line]]** is a simplified two-dimensional projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line is a tool used by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] and [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] for education and prediction regarding the impact of the Harmonic Treaty on the Plane.
 >
 > > [!info] Did you know...
 > > - ... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] are small mechanical devices used to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?
-> > - ... that it's highly debated between [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] whether the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] are one or two Gods?
-> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] was 177 years long?
-> > - ... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods, and together created the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]]?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?
+> > - ... that only true [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are written in [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]? Artificial stars can only be written in [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]].
+> > - ... that it's unknown which [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] first [[Encyclopedia Mysenvaria/History/God-War Era/First Death|died]], and who killed them?
+> > - ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]] was the first [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] ever created?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
