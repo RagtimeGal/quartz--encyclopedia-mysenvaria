@@ -24,14 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|The Harmony Line]]** is a simplified two-dimensional projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line is a tool used by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] and [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] for education and prediction regarding the impact of the Harmonic Treaty on the Plane.
+> > **[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is one of the most influential events in [[Encyclopedia Mysenvaria/History/History|history]]. Having occurred over the span of 58 days—less than a single season—it saw the creation of every known and unknown God, and was the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The Quickening is documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], composed of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published by various [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] documenting their own domain subdivisions.
 >
 > > [!info] Did you know...
-> > - ... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] were the first Gods, and together created the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]]?
+> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] possess a wide range of abilities derived from their relationship with the interaction between the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Real and Unreal]]?
 > > - ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
-> > - ... that there were six [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
 > > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] hold messages and laws written by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is believed to be the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
