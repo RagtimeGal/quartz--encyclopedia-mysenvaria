@@ -24,15 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.
-> > ![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]
+> > **[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is one of the most influential events in [[Encyclopedia Mysenvaria/History/History|history]]. Having occurred over the span of 58 days—less than a single season—it saw the creation of every known and unknown God, and was the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The Quickening is documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], composed of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published by various [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] documenting their own domain subdivisions.
 >
 > > [!info] Did you know...
-> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over a period of 58 days—less than a single season?
-> > - ... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are a result of the Real's inability to handle the Unreal's management? Despite this, no star is known to have come about as a result of completely natural causes.
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is believed to be the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]?
-> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] was 177 years long?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]] can materialize inside of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]? While typically benign, it has been known on rare occasions to cause medical complications and even death.
+> > - ... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenesis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], practiced by theogenists?
+> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
+> > - ... that it's unknown which [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] first [[Encyclopedia Mysenvaria/History/God-War Era/First Death|died]], and who killed them?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]] was the first [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] ever created?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
