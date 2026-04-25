@@ -24,14 +24,15 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|The Harmony Line]]** is a simplified two-dimensional projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line is a tool used by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] and [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] for education and prediction regarding the impact of the Harmonic Treaty on the Plane.
+> > **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.
+> > ![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]
 >
 > > [!info] Did you know...
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]] was the first [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] ever created?
 > > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] can be killed by piercing their heart with a foreign object?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] are small mechanical devices used to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?
+> > - ... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are a result of the Unreal's inability to manage excess amounts of Real?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is believed to be the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]] exist above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] and is devoid of air and where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside?
+> > - ... during the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] an average of 1.9 million [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] died every single day?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
