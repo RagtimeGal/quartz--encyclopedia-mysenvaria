@@ -28,11 +28,11 @@ Outside of those, you can also check out the featured page and some fun facts be
 > > ![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]
 >
 > > [!info] Did you know...
-> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
-> > - ... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are a result of the Unreal's inability to manage excess amounts of Real?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is believed to be the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]] exist above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] and is devoid of air and where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside?
+> > - ... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?
+> > - ... that there were six [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]?
 > > - ... during the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] an average of 1.9 million [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] died every single day?
+> > - ... that [[Meta/Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]] is a scientific model which describes how air in the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] moves from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] or [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]] and vice-versa?
+> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] possess a wide range of abilities derived from their relationship with the interaction between the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Real and Unreal]]?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
