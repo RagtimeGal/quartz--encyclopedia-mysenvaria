@@ -24,14 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]**, as described in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], is a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Natural Diffusion: a result of Realities unstable nature, allowing Nature to seep in. Limn is a strange substance, obeying neither the laws of the Real or Unreal. Because of this, limn is not a true [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entity]] as defined by the USM, as it is not constructed from a normal [[Encyclopedia Mysenvaria/Science/Models/Material|material]] structure.
+> > **[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]**, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]].
 >
 > > [!info] Did you know...
-> > - ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is believed to be the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] can be killed by piercing their heart with a foreign object?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] hold messages and laws written by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
+> > - ... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?
 > > - ... during the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]] an average of 1.9 million [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] died every single day?
+> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
+> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] hold messages and laws written by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
