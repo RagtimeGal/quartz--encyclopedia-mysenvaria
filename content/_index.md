@@ -28,10 +28,10 @@ Outside of those, you can also check out the featured page and some fun facts be
 >
 > > [!info] Did you know...
 > > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?
-> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over a period of 58 days—less than a single season?
-> > - ... that it's highly debated between [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] whether the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]] are one or two Gods?
-> > - ... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn's]] materialization is a result of the unstable nature of Reality allowing Nature to seep in?
-> > - ... that only true [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are written in [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]? Artificial stars can only be written in [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]].
+> > - ... that [[Meta/Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|atmospheric circulation]] is a scientific model which describes how air in the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]] of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] moves from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] or [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]] and vice-versa?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+> > - ... that there were six [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]] during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
