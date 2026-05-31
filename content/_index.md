@@ -24,15 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|The Dying Period]]** was a 17 year period of time, beginning with the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]—the start of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]—in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]] and ending after the first season of [[Encyclopedia Mysenvaria/Indexes/History/Decades/150s BT#145 BT|145 BT]], coinciding with the end of the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]]. An estimated 70% to 80% of all [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] to ever exist perished during the period, gaining it its name and making it the most deadly period in recorded history.
-> > ![[Media/Images/Infographics/deaths_during_god_war.png|deaths_during_god_war.png]]
+> > **[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]**, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]].
 >
 > > [!info] Did you know...
-> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] hold messages and laws written by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?
-> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?
-> > - ... that only true [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are written in [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]? Artificial stars can only be written in [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]].
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]] was the first [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] ever created?
-> > - ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
+> > - ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] was 177 years long?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] is broken into 3 major epochs—the Early-War, Mid-War, and Late-War?
+> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
