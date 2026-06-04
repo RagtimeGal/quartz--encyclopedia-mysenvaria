@@ -24,14 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]**, as described by the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Material Concentration: the result of the Unreal's inability to manage excess amounts of Real. Gods are subject to unique rules imposed on them by this altered and improvised form of Unreal. Despite this Gods are capable of interacting and existing in Reality like normal [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]].
+> > **[[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|The Harmony Line]]** is a simplified two-dimensional projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line is a tool used by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] and [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] for education and prediction regarding the impact of the Harmonic Treaty on the Plane.
 >
 > > [!info] Did you know...
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
-> > - ... that [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?
-> > - ... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are a result of the Real's inability to handle the Unreal's management? Despite this, no star is known to have come about as a result of completely natural causes.
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+> > - ... that [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|orreries]] are small mechanical devices used to physically model the orbits of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?
 > > - ... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]] is an organ contained within some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]] which allows them to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|artificial stars]]?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]] was the first [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] ever created?
+> > - ... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?
+> > - ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
