@@ -5,13 +5,11 @@ tags:
   - topic/history/god-war_era
   - topic/geography
 type: article
-status: touch-up
+status: complete
+future: rewrite
 ---
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Touch-up|Touch-up Article]]
-> This article is in need of a touch-up! It provides a complete overview of its topic, but the clarity could use improvement! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
-
-The God-War witnessed the conception of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] itself and formed it into the place that it is known today. Features like the Plane's [[Encyclopedia Mysenvaria/Geography/Geography (topic)|geography]], [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]], and the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]] give historians a glimpse into the events of the war, and a chance to understand how the war molded these features too. Numerous strategies are used to extrapolate data regarding these features of the Plane, including [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], strata layers, erosion and weathering, [[Encyclopedia Mysenvaria/Science/Models/Tectonics|tectonic plates]], permafrost, and more.
+The God-War witnessed the conception of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] itself and formed it into the place that it is known today. Features like the Plane's [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geography]], [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]], and the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]] give historians a glimpse into the events of the war, and a chance to understand how the war molded these features too. Numerous strategies are used to extrapolate data regarding these features of the Plane, including [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], strata layers, erosion and weathering, [[Encyclopedia Mysenvaria/Science/Models/Tectonics|tectonic plates]], permafrost, and more.
 # Formation & Early Development
 The formation of the Plane began with the publication of the [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]. The period of time before the publication of the First Epoch Star is called prehistory, and nothing is truly known about it. It is unknown what existed in Reality during Prehistory or for how long whatever may or may not have existed was existing for.
 
@@ -25,7 +23,7 @@ The decades following the Dying Period are characterized by their tectonic activ
 
 In 41 BT, following an altercation with the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water|God of Water]], the God of Tectonics would pass away, and tectonic activity across the entirety of the Plane would stall drastically, to the levels known in the modern day. The reason as to why tectonic activity stalled with the passing of Tectonics is not entirely known, but it has been hypothesized that the God actively stressed to maintain the activity of the mantle.
 # The Great Flood
-The death of Tectonics would inadvertently lead to the next largest development in the topological history of the Plane—its flooding. Late into the year of [[Encyclopedia Mysenvaria/Indexes/History/Decades/30s BT#25 BT|25 BT]], following the [[Encyclopedia Mysenvaria/History/God-War Era/Water Wars|Water Wars]] which began on the new years, the God of Water would publish the [[Encyclopedia Mysenvaria/Geography/Stars/Flood System/Flood Star|Flood Star]]. The Flood Star served as a signal to other [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], and some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]], which had worked together, or been created as part of the plan, to orchestrate the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].
+The death of Tectonics would inadvertently lead to the next largest development in the topological history of the Plane: its flooding. Late into the year of [[Encyclopedia Mysenvaria/Indexes/History/Decades/30s BT#25 BT|25 BT]], following the [[Encyclopedia Mysenvaria/History/God-War Era/Water Wars|Water Wars]] which began on the new years, the God of Water would publish the [[Encyclopedia Mysenvaria/Geography/Stars/Flood System/Flood Star|Flood Star]]. The Flood Star served as a signal to other [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], and some [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]], which had worked together, or been created as part of the plan, to orchestrate the [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]].
 
 The Great Flood would make drastic changes to the topology of the Plane in the form of weathering from the torrential downpour. The water from the flood would also settle into the basins formed by oceanic plates, forming the oceans of the modern day. Water on the farthest [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] of the Plane would freeze, forming great [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|Ice Sheets]]. The Great Flood would last until the year 11 BT.
 # Post-War Developments
@@ -35,3 +33,6 @@ The major ice sheets which stretched for many kilometers onto the Plane past the
 # See Also
 - [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|Territories During the God-War]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Rewrite Needed|Future Rewrite Needed]]
+> This article is considered complete for the moment, but some finished sections may need to be rewritten to help improve clarity! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

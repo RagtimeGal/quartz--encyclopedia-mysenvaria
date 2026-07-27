@@ -1,10 +1,37 @@
 {
 	"nodes":[
-		{"id":"b1d034533415fe1c","type":"file","file":"Encyclopedia Mysenvaria/Culture/Languages/Starscript.md","x":-1760,"y":-2480,"width":1120,"height":840,"color":"6"},
-		{"type":"file","file":"Encyclopedia Mysenvaria/Culture/Languages/God Tongue.md","id":"c54540f3b764280d","x":-320,"y":-2480,"width":1120,"height":840,"color":"6"}
+		{"id":"55a01cc2a530ac38","type":"group","x":-680,"y":-3020,"width":380,"height":240,"label":"Untitled group"},
+		{
+			"id":"155f0ba1587be067",
+			"type":"text",
+			"text":"\n# God Tongue",
+			"styleAttributes":{},
+			"x":-240,
+			"y":-3000,
+			"width":340,
+			"height":200
+		},
+		{
+			"id":"4543881b4032ed86",
+			"type":"text",
+			"text":"\n# Star Script",
+			"styleAttributes":{},
+			"x":-660,
+			"y":-3000,
+			"width":340,
+			"height":200
+		}
 	],
 	"edges":[
-		{"id":"644652e838f471ce","toFloating":false,"fromNode":"b1d034533415fe1c","fromSide":"right","toNode":"c54540f3b764280d","toSide":"left"}
+		{
+			"id":"dd091b0c3b3eda11",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4543881b4032ed86",
+			"fromSide":"right",
+			"toNode":"155f0ba1587be067",
+			"toSide":"left"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

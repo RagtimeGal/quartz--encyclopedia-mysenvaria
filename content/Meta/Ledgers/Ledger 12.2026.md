@@ -6,7 +6,7 @@ tags:
 type: ledger
 status: complete
 ledger_data:
-  week: 11
+  week: 12
   year: 2026
 ---
 
@@ -18,7 +18,7 @@ ledger_data:
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 10.2026|Ledger 10.2026]]
 > 
-> **Next Ledger:** Upcoming
+> **Next Ledger:** [[Meta/Ledgers/Ledger 13.2026|Ledger 13.2026]]
 
 This week pretty much every article across the entire Encyclopedia has been edited in some way.
 

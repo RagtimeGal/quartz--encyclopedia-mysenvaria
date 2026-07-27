@@ -1,5 +1,7 @@
 ---
 title: "First Convening"
+aliases:
+  - "First Covenant"
 enableToc: true
 tags:
   - topic/history/god-war_era
@@ -7,20 +9,32 @@ type: article
 status: incomplete
 event:
   - start_desc: "start_desc"
-    start_date: [-176]
+    start_date: [-176,91]
     major_event: true
 ---
 %%
-"start_desc": The [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] holds the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. Of the 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] invited only 16 arrive. Each invitee had witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]]. The event sees the formation of many ideas and theories regarding the beginning war.
+"start_desc":  **[[Encyclopedia Mysenvaria/History/God-War Era/First Convening|The First Convening]]** is held by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]]. 20 [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], all of whom witnessed the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], are invited, however only 16 arrive. The convening sees the formation of many ideas and theories regarding the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]].
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
 > This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+
+The First Convening was a small but influential gathering of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] organized and led by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]]. Attendees of the event, of which there were 16, are referred to as or otherwise given the title of First Participants. Fulgurite organized the event with the intention of gathering a diverse party of individuals to discuss the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], its immediate repercussions, and hypothesize the future of the world in the midst of the growing [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]].
+
+Fulgurite chose First Participants based on a multitude of factors, like their 
+
+Members of the First Convening, known as First Participants, were chosen for  because they had witnessed first-hand the First Death
+
+
+
+
+
+
 
 The First Convening was a small gathering of Gods led by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]]. Each of the Gods summoned to the event were chosen by Fulgurite for having all seen the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|first death of a God]]. The convening would see the birth in the belief of an [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|afterlife]], a concept brought forth by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]].
 # Overview
 Fulgurite, having witnessed the first death of a God, would organize a meeting of differently opinionated but equally visionary and embodied Gods. Seventeen figures, including Fulgurite themself, would be hand-picked to attend, each of whom had witnessed the first death and were what Fulgurite would describe as dreamers. Either by complete coincidence, or Fulgurites keen ability to discern the inspired, all seventeen members of the First Covenant would go on to be pivotal figures in the war, shaping it both positively and negatively. 
 
-Following the First Convening, Chromodynamic Energy, a member of the First Covenant, would publish the Afterlife Star, concluding that an afterlife must exist. According to Chromodynamic Energy, a God's consciousness is not subject. to the whims of reality and unreality, but is instead tethered only by the greater fabric of nature outside of those concepts. Thus, they concluded, a God's mind cannot truly be lost like materials or laws. Though the claim cannot be proven nor disproven, the Afterlife Star would spark debate and division among Gods, creating believers and deniers. And so, religion was born.
+Following the First Convening, Chromodynamic Energy, a member of the First Covenant, would publish the Afterlife Star, concluding that an afterlife must exist. According to Chromodynamic Energy, a God's consciousness is not subject to the whims of reality and unreality, but is instead tethered only by the greater fabric of nature outside of those concepts. Thus, they concluded, a God's mind cannot truly be lost like materials or laws. Though the claim cannot be proven nor disproven, the Afterlife Star would spark debate and division among Gods, creating believers and deniers. And so, religion was born.
 
 Gods soon divided into two opposing beliefs: those who argued the afterlife renders life trivial—why fear death if it is no different from life?—and those who claimed the afterlife made living even more precious—why risk life for an afterlife that, even if promised, may pale in comparison? These ideological branches grew rapidly, with many members of the First Covenant becoming vocal advocates for their own beliefs. The invention of organic life would only accelerate the growing divisions. 
 

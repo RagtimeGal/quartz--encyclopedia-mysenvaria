@@ -24,8 +24,8 @@ aliases: # A list of aliases for the title.
   - "Example"
 link: "page_link" # Optional. If not included it defaults to the generic wikilink for the article. Programs use this to refer to the page in generated articles.
 enableToc: true # Whether or not to render a Table of Contents on the article.
-type: article # The type of article. Defaults to `article`. Accepts: `article`, `index`, `archive`, `overview`, `ledger`, `project`, `addenda`, or `template`.
-status: empty # The current status of the article. Defaults to `empty`. Accepts: `empty`, `stub`, `incomplete`, `touch-up`, `update`, or `complete`.
+type: article # The type of article. Defaults to `article`. Accepts: `article`, `index`, `archive`, `overview`, `ledger`, `private`, `addenda`, `canvas`, or `template`.
+status: empty # The current status of the article. Defaults to `empty`. Accepts: `empty`, `stub`, `incomplete`, or `complete`.
 future: none # How this article may fare in the future. Defaults to `none`. Accepts: `update`, `rewrite`, `review`, or `auto-generated`.
 has: # `has` and `need` are an array of items which allow writers or editors to know what articles need what media. Both are optional. Accepts: `infobox`, `image`, `video`, `graphics`, `featured_data`, `archive`, and `addenda`.
   - example
@@ -45,12 +45,16 @@ Tags are broken into two groups: **topics** and **subjects**. Topics are broad a
 ```yaml
 ---
 tags:
+###
 # These are meta tags: they are used to tag articles which cover meta topics.
+###
   - topic/meta # This article covers a general meta topic.
   - topic/meta/writing_guidelines # This article covers something relating to the Encyclopedia's writing guidelines.
   - topic/meta/ledger # This article is a Lore Ledger; a changelog for the Encyclopedia.
   - topic/meta/addenda # This article is an addenda; articles providing meta information on non-meta pages.
+###
 # These are the art tags:
+###
   - topic/art # This article covers a topic relating to the arts.
   - topic/art/game # This article covers something related to the art of games.
   - topic/art/music # This article covers something related to the art of music.
@@ -59,13 +63,17 @@ tags:
   - topic/art/literature/non-fiction # This article covers something related to the art of non-fiction literary works.
   - topic/art/literature/fiction # This article covers something related to the art of fictional literary works.
   - topic/art/performance # This article covers something related to the art of performative arts.
-  - topic/art/sport # This article covers something related to the art of sports.
+  - topic/art/visual # This article covers something related to the visual arts.
+###
 # These are the biology tags:
+###
   - topic/biology # This article covers a topic relating to biology.
-  - topic/biology/plant # This article covers a specific taxon of plant.
+  - topic/biology/organism # This article covers a specific taxon of plant.
   - topic/biology/animal # This article covers a specific taxon of animal.
   - topic/biology/disease # This page covers a specific disease or affliction.
+###
 # These are the culture tags:
+###
   - topic/culture # This article covers a topic relating to the humanities.
   - topic/culture/belief # This article covers a certain belief system.
   - topic/culture/ethnicity # This article covers a certain ethnic group.
@@ -73,13 +81,17 @@ tags:
   - topic/culture/language # This article covers a certain language or language family.
   - topic/culture/occupation # This article covers a certain occupation.
   - topic/culture/organization # This article covers a certain organization.
+###
 # These are the geography tags:
+###
   - topic/geography # This article covers a topic relating to the Plane's geography.
   - topic/geography/natural # This article covers a certain natural geographical feature or phenomenon.
   - topic/geography/abstract # This article covers a certain abstract geographical feature or phenomenon.
   - topic/geography/artificial # This article covers a certain artificial geographical feature or phenomenon.
   - topic/geography/astrography # This article covers a particular star or star system.
+###
 # These are the history tags:
+###
   - topic/history # This article covers a topic relating to history.
   - topic/history/god-war_era # This article covers events which occurred during the God-War Era.
   - topic/history/post-war_era # This article covers events which occurred during the Post-War Era.
@@ -88,7 +100,9 @@ tags:
   - topic/history/biography # This article covers the lives of a particular person or persons.
   - topic/history/decade # This article covers a specific decade of history.
   - topic/history/century # This article covers a specific century of history.
+###
 # These are the science tags:
+###
   - topic/science # This article covers a topic relating to the sciences.
   - topic/science/branch # This article covers a particular scientific branch.
   - topic/science/phenomena # This article covers a specific scientific phenomenon.
@@ -111,6 +125,10 @@ tags:
   - subject/god/phenomena_god # This article covers information regarding Gods of phenomena.
   - subject/god/silent_god # This article covers information regarding Gods who haven't published a star.
   - subject/god/outspoken_god # This article covers information regarding Gods who have published stars.
+# These tags are used for articles which cover information regarding half-Gods.
+  - subject/half-god # This article covers information regarding Half-Gods.
+  - subject/half-god/demi-god # This article covers information regarding Demi-Gods.
+  - subject/half-god/womb-god # This article covers information regarding Womb-Gods.
 # These tags are used for articles which cover information regarding stars. 
   - subject/star # This article covers information regarding stars.
   - subject/star/host # This article covers information regarding the host of a star system.

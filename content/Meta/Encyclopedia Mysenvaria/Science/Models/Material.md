@@ -1,13 +1,10 @@
 ---
-title: "Material"
-aliases:
-  - "Material (Addenda)"
+title: "Material (Addenda)"
 enableToc: true
 tags:
   - topic/meta/addenda
-type: article
+type: addenda
 status: complete
-addenda: true
 ---
 
 > [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]

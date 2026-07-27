@@ -6,9 +6,22 @@ tags:
 type: article
 status: complete
 future: update
+has:
+  - featured_data
 needs:
   - graphics
+featured_data:
+  featured_desc: "featured_desc"
+  fun_facts: ["ff1","ff2","ff3","ff4","ff5"]
 ---
+%%
+"featured_desc": "**[[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]** is the tendency of [[Encyclopedia Mysenvaria/Science/Scientific Articles#Phenomena|phenomena]] in Nature to enter Reality as new unique phenomena. Natural Personification is not a true metaphysical rule, but rather an emergent property caused by the formation of Reality. According to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], Reality is the result of an imperfect interaction between the Real and Unreal. Imperfections and inequality in the Real and Unreal may require the other to compensate during their interaction, drawing from phenomena within Nature."
+"ff1": "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]] is the tendency of phenomena in Nature to enter Reality as new unique phenomena?"
+"ff2": "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]] is broken into three distinct forms: Material Concentration, Relational Concentration, and Natural Diffusion?"
+"ff3": "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification#Material Concentration|Material Concentration]] occurs as a result of excess [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]] in an area, resolving itself through the materialization of one or more [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?"
+"ff4": "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification#Relational Concentration|Relational Concentration]] occurs as the result of Unreal entering Reality in excess—it's unclear how this presents itself, but is theorized to create [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]]?"
+"ff5": "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification#Natural Diffusion|Natural Diffusion]] occurs as a result of Nature naturally seeping into the interaction between the Real and Unreal, generating [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]]?"
+%%
 
 Natural Personification is the tendency of phenomena in Nature to enter Reality as new unique phenomena. Natural Personification is not a true metaphysical rule, but rather an emergent property caused by the formation of Reality. According to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], Reality is the result of an imperfect interaction between the Real and Unreal. Imperfections and inequality in the Real and Unreal may require the other to compensate during their interaction, drawing from phenomena within Nature.
 
@@ -22,7 +35,7 @@ Materialization of Gods, described in works like *[[Encyclopedia Mysenvaria/Arts
 
 Too little Material Concentration may cause a God to dematerialize—it is unclear where Gods go when they dematerialize, but their heart ceases existence in Reality. Excessive Material Concentration can trap a God in Reality, preventing voluntarily dematerialization. This has been demonstrated in the recent [[Encyclopedia Mysenvaria/History/Modern Era/Iridium Experiments|Iridium Experiments]], wherein researchers purposefully and successfully materialized the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium|God of Iridium]].
 
-The passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] appears to have been the catalyst for many of the strange laws surrounding Material Concentration and the materialization of Gods and is believed to have been the cause of the [[Encyclopedia Mysenvaria/History/Post-War Era/Great Disappearance|Great Disappearance]]. Some [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] have hypothesized that the laws surrounding materialization are a result of God's attempts to lessen their interference with the Plane. Material Concentration and materialization do not appear to have played as major of a role for Gods during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]] as they have following its end.
+The passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] appears to have been the catalyst for many of the strange laws surrounding Material Concentration and the materialization of Gods and is believed to have been the cause of the [[Encyclopedia Mysenvaria/History/Post-War Era/Great Silence|Great Silence]]. Some [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] have hypothesized that the laws surrounding materialization are a result of God's attempts to lessen their interference with the Plane. Material Concentration and materialization do not appear to have played as major of a role for Gods during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]] as they have following its end.
 # Relational Concentration
 Relational Concentration occurs as the result of Unreal entering Reality in excess. It is unclear how this presents itself, but it is believed to be resolved through the creation of a [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]], or through the expression of [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]—both physical [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]] which express metaphysical law. There is no recorded instance of this occurring in history, though it has been supported by various interactions with Gods. Instead, the creation of all known stars are credited to Gods. 
 
@@ -33,7 +46,6 @@ Natural Diffusion differs from both other forms of Natural Personification as it
 Flaws in the interaction between the Real and Unreal can allow Nature to seep into the interaction in higher quantities than it would otherwise. Events like this lead to an influx in the generation of limn across certain portions or the entirety of the Plane for brief periods.
 
 Natural Diffusion plays an important role in the works of [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|starforgers]]. For that reason it is closely monitored by [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] and astronomers, who track the spontaneous generation of limn via various methods.
-# See Also
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

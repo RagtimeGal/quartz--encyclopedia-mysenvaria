@@ -20,7 +20,7 @@ ledger_data:
 > 
 > **Next Ledger:** [[Meta/Ledgers/Ledger 2.2025|Ledger 2.2025]]
 
-Welcome to the fifth ledger! Work on the history of the God-War has been going smoothed and progressed nicely. The timeline of the war has been squished down from nearly 600 years to only 178. There is a brand new section of indexes in the [[Encyclopedia Mysenvaria/History/History|History]] topic, the [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|centuries]] and [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT|decades]] which can be more properly explored using the [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]] page. Though they are empty at the moment the pages related to the God-War portion of history (BT (Before Treaty)) should be filled and completed alongside the God-War History project.
+Welcome to the fifth ledger! Work on the history of the God-War has been going smoothed and progressed nicely. The timeline of the war has been squished down from nearly 600 years to only 178. There is a brand new section of indexes in the [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]] topic, the [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|centuries]] and [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT|decades]] which can be more properly explored using the [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]] page. Though they are empty at the moment the pages related to the God-War portion of history (BT (Before Treaty)) should be filled and completed alongside the God-War History project.
 # Project Updates
 Climate has been complete. A new project has begun.
 

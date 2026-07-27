@@ -50,7 +50,7 @@ Besides projects Lore Ledgers also include a changelog of pages which have been 
 ## Removed
 - Longitude and Latitude; Defunct page with the introduction of new coordinate systems.
 ## Updated
-- [[Encyclopedia Mysenvaria/Geography/Geography (topic)|Geography (topic)]]; Now references Span & Reach instead of Longitude and Latitude.
+- [[Encyclopedia Mysenvaria/Geography/Geographical Articles|Geographical Articles]]; Now references Span & Reach instead of Longitude and Latitude.
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]; Minor change to add a small factoid regarding the water:land ratio of the Plane.
 - [[Encyclopedia Mysenvaria/Geography/Stars/Birth Star|Birth Star]] & [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]]; Birth Star was incorrectly called the first star, this was fixed and now the First Epoch Star page is correct.
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]; Now lists the correct distances from the pole.

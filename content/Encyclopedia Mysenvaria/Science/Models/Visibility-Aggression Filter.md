@@ -1,0 +1,35 @@
+---
+title: "Visibility-Aggression Filter"
+enableToc: true
+tags:
+  - topic/science/model
+type: article
+status: complete
+future: update
+---
+
+️The Auditory-Aggression Filter is a proposed scientific model used by [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] and [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|historians]] to [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|taxonomically]] classify Gods and model the relationships between their behavior and chances of survival during the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The model proposes two filters which impacted the chances of a God's survival dependent on a specific aspect of their behavior during the war. A 'visibility filter', which was dependent on their publication of a [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]], and thus their visibility to other Gods. And an 'aggression filter', which was dependent on their disposition to violence when interacting with other Gods. By mapping these two variables theogenists can identify why certain Gods may have been slain during the war.
+# Visibility Filter
+The visibility filter divides Gods into two groups dependent on whether or not they published a star. By publishing a star Gods publicly announce their existence and position, which during the God-War would attract the attention of aggressive Gods and make the publisher the victim of possible targeted aggression. Each time a God published a new star they would attract a new wave of attention and aggressive Gods. Thus, for each star published, a God increased the likelihood that they would die before the end of the God-War.
+
+For sufficiently powerful Gods the visibility filter was not an issue, and thus a vast majority of published stars in the modern day belong to [[Encyclopedia Mysenvaria/Science/Models/Godly Lineage Models|low-ranking]] Gods. Gods can further be classified by degrees of audibility based on how many stars are published under their name, adding granularity to the modelling of their mortality rates.
+# Aggression Filter
+The aggression filter divides Gods into two groups dependent on their disposition to violence. Aggressive Gods are those who sought out loud Gods or otherwise confronted Gods who neighbored their [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|territories]] with the intention of contesting them in combat. Passive Gods are whose which would only assume aggressive capabilities when necessary to sustain their survival. Why Gods were aggressive or passive could be for a number of reasons and is a topic which historians deem irrelevant to the aggression filter.
+
+Much like for the visibility filter, for sufficiently powerful Gods the aggression filter was not an issue.
+# Predictions
+Together the Auditory-Aggression Filter can be used to make a multitude of predictions and assumptions about the extant and deceased Gods of the God-War. Provided is a table describing what is predicted from Gods depending on their classification across the two filters:
+
+|                | **Quiet**                                                                                                                                                                                                                                                                         | **Loud**                                                                                                                                                                                                                                                                                                                      |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Passive**    | Quiet-passive Gods made up the vast majority of Gods to ever exist. By neither publishing stars nor seeking confrontation these Gods continue to make up the vast majority of extent Gods post-war.                                                                               | Loud-passive Gods made up a small majority of all Gods to ever exist. By publishing stars but remaining unconfrontational these Gods put themselves in danger with no means of protection besides allies. They were sought nearly to extinction by aggressive Gods and make up the smallest fraction of extent Gods post-war. |
+| **Aggressive** | Quiet-aggressive Gods made up a small fraction of all Gods to ever exist. By never publishing stars these Gods almost never drew unwanted attention. Instead, they sought confrontation with neighbors and publishers. They make up a small majority of the extent Gods post-war. | Loud-aggressive Gods made up the smallest fraction of all Gods to ever exist. By publishing stars these Gods drew attention, but by remaining confrontational this attention worked in the favor of the more powerful among this group. They make up a small fraction of the extent Gods post-war.                            |
+
+The God-Wars end and the beginning of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]] is defined by the [[Encyclopedia Mysenvaria/History/Post-War Era/Great Silence|Great Silence]], which has continued even into the [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]]. [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomers]] hypothesize that the absence of star publication at the scales measured during the war is a result not just of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]]—which has greatly limited Gods' abilities to interact with the world—but out of a lasting fear that star publication may attract unwanted attention. Most stars which have been published in the Post-War [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] are attributed to that of loud-aggressive lesser-Gods.
+# See More
+- [[Encyclopedia Mysenvaria/Science/Models/Godly Lineage Models|Godly Lineage Models]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *This article could use a section on the history of its discovery and perhaps an elaboration on the predictions.*

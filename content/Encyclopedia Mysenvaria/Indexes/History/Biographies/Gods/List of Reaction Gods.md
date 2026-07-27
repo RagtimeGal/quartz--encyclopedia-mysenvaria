@@ -1,5 +1,5 @@
 ---
-title: "List of Elemental Gods"
+title: "List of Reaction Gods"
 enableToc: true
 tags:
   - topic/history/biography
@@ -25,7 +25,7 @@ This page serves as an index of reaction [[Encyclopedia Mysenvaria/Science/Pheno
 # Reaction Gods
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
-- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
+- [[Encyclopedia Mysenvaria/Indexes/Indices|Indices]]
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the Encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
+> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

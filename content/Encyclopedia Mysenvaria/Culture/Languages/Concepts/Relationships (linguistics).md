@@ -6,6 +6,7 @@ tags:
   - subject/linguistics
 type: article
 status: empty
+future: none
 ---
 
 *For scientific relationships, see [[Encyclopedia Mysenvaria/Science/Models/Relationships (model)|Relationships (model)]].*

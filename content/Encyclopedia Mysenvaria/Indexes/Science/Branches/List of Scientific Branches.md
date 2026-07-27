@@ -19,22 +19,24 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branches]], sorted alphabetically.
+The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Scientific Articles#Branches|scientific branches]], sorted alphabetically.
 # Scientific Branches
 ## A
 - [[Encyclopedia Mysenvaria/Science/Branches/Anatomy|Anatomy]]
+- [[Encyclopedia Mysenvaria/Science/Branches/Anthropology|Anthropology]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomy]]
 ## B
 - [[Encyclopedia Mysenvaria/Science/Branches/Bioastronomy|Bioastronomy]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Biogeography|Biogeography]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Biohistory|Biohistory]]
 ## C
+- [[Encyclopedia Mysenvaria/Science/Branches/Chemistry|Chemistry]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Climatology|Climatology]]
 ## E
 - [[Encyclopedia Mysenvaria/Science/Branches/Ecology|Ecology]]
 ## G
 - [[Encyclopedia Mysenvaria/Science/Branches/Genetics|Genetics]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Geography (scientific branch)|Geography (scientific branch)]]
+- [[Encyclopedia Mysenvaria/Science/Branches/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Geology|Geology]]
 ## M
 - [[Encyclopedia Mysenvaria/Science/Branches/Mathematics|Mathematics]]
@@ -53,3 +55,6 @@ The following is an index of all articles across the Encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|Theogenesis]]
 ## Z
 - [[Encyclopedia Mysenvaria/Science/Branches/Zoology|Zoology]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
+> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

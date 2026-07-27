@@ -29,6 +29,7 @@ index:
 The following article serves as an index of the Encyclopedia's Lore Ledgers. Lore Ledgers are [[Meta/Meta|meta]] overviews of recent progress and updates across the Encyclopedia, intended to help readers explore and understand how the Encyclopedia is updated.
 # Lore Ledgers
 ## 2026
+- [[Meta/Ledgers/Ledger 13.2026|Lore Ledger 13.26]]
 - [[Meta/Ledgers/Ledger 12.2026|Lore Ledger 12.26]]
 - [[Meta/Ledgers/Ledger 10.2026|Lore Ledger 10.26]]
 - [[Meta/Ledgers/Ledger 4.2026|Lore Ledger 4.26]]
@@ -46,3 +47,6 @@ The following article serves as an index of the Encyclopedia's Lore Ledgers. Lor
 - [[Meta/Ledgers/Ledger 48.2024|Lore Ledger 48.24]]
 - [[Meta/Ledgers/Ledger 47.2024|Lore Ledger 47.24]]
 - [[Meta/Ledgers/Ledger 46.2024|Lore Ledger 46.24]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
+> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

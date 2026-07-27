@@ -5,6 +5,7 @@ tags:
   - topic/culture/language
 type: article
 status: stub
+future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]

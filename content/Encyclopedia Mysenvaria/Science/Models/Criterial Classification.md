@@ -21,6 +21,7 @@ Tri-criterial classification organizes organisms into groups based off of their
 	- Avovores, organisms which consume avoric organisms;
 	- Bionivores, organisms which consume non-animate biological matter.
 - Carnivores, organisms which consume consumers.
+- Omnivotes, organisms which consume most or all biological matter.
 ## [[Encyclopedia Mysenvaria/Science/Models/Body Plan|Body Plan]]
 - Plants, organisms which do not move.
     - Rooted, organisms which attach to objects using sub-surface roots.

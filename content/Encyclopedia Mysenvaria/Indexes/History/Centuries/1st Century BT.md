@@ -5,7 +5,7 @@ tags:
   - topic/history/century
 type: index
 status: complete
-future: auto-generated
+future: none
 has:
   - infobox
 ---
@@ -62,5 +62,5 @@ has:
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/10s BT#Significant People]]
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/10s BT#Stars]]
 # See Also
-- [[Encyclopedia Mysenvaria/History/History|History]]
+- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

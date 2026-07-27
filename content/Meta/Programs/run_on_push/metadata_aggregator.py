@@ -53,6 +53,12 @@ def parse_mysenvar_date(value):
             y = int(value[0])
             d = int(value[1]) if len(value) > 1 else None
         elif isinstance(value, dict):
+            if all(
+                k in value
+                for k in ("original", "formal", "formal_without_year", "informal")
+            ):
+                return value
+
             y = int(value.get("year", 0))
             d = int(value.get("day")) if "day" in value else None
         elif isinstance(value, (int, float)):
@@ -170,13 +176,21 @@ class MetadataAggregator:
         clean_defs = {str(dk).strip("'\" "): str(dv).strip("'\" ") for dk, dv in definitions.items()}
         self.recursive_resolve(data, clean_defs)
 
+        DATE_FIELDS = {
+            "start_date",
+            "end_date",
+            "birth_date",
+            "death_date",
+            "date"
+        }
+
         # Normalise any date fields (search recursively for 'date' in keys)
         def resolve_dates_recursive(node):
             if isinstance(node, dict):
                 for k in list(node.keys()):
                     if isinstance(node[k], (dict, list)):
                         resolve_dates_recursive(node[k])
-                    if "date" in k.lower():
+                    if k.lower() in DATE_FIELDS:
                         norm = parse_mysenvar_date(node[k])
                         if norm:
                             node[k] = norm
@@ -220,9 +234,14 @@ class MetadataAggregator:
 
         # Parse the %% … %% comment block
         definitions = {}
-        comment_match = re.search(r'%%\s*(.*?)\s*%%', body_text, re.MULTILINE | re.DOTALL)
-        if comment_match:
+
+        for comment_match in re.finditer(
+            r'%%\s*(.*?)\s*%%',
+            body_text,
+            re.MULTILINE | re.DOTALL
+        ):
             block_content = comment_match.group(1).strip()
+
             for line in block_content.splitlines():
                 if ":" in line:
                     k, v = line.split(":", 1)

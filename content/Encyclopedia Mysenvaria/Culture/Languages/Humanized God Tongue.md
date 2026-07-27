@@ -5,6 +5,7 @@ tags:
   - topic/culture/language
 type: article
 status: empty
+future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]

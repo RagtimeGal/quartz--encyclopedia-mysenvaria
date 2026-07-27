@@ -11,7 +11,7 @@ event:
     major_event: true
 ---
 %%
-"start_desc": Following the [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#First Council|First God Council]] the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is shrunk drastically, to the scope known in the modern day. Millions of Gods are displaced and forced to migrate poleward, starting the [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|Great Poleward Fog Migration]].
+"start_desc": **[[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|The Great Poleward Fog Migration]]** begins following the [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#First Council|First God Council]]. The [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is shrunk drastically, to the scope known in the modern day, displacing hundreds of thousands of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] who migrate poleward.
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

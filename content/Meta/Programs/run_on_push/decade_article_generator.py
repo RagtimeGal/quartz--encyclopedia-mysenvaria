@@ -16,6 +16,17 @@ DRY_RUN = False
 
 # ----------------- Helper Functions -----------------
 
+def year_link(year: int) -> str:
+    year_text = year_suffix(year)
+
+    decade_start = (year // 10) * 10
+    decade_name = decade_title(decade_start)
+
+    return (
+        f"[[Encyclopedia Mysenvaria/Indexes/History/Decades/"
+        f"{decade_name}#{year_text}|{year_text}]]"
+    )
+
 def find_content_root() -> pathlib.Path:
     curr = pathlib.Path.cwd()
     for _ in range(5):
@@ -131,7 +142,7 @@ def build_timeline_data(raw_data: Dict[str, Any]):
                             suffix = ""
                             if isinstance(other_val, dict):
                                 oy, _ = parse_year_day(other_val.get("informal", "0"))
-                                suffix = f" ({verb_pfx} {year_suffix(oy)})"
+                                suffix = f" ({verb_pfx} {year_link(oy)})"
                             grouping[(y // 10) * 10][y].append({
                                 "day": d, "alpha": p_name, "text": f"- {p_link}{suffix}"
                             })
@@ -151,7 +162,7 @@ def build_timeline_data(raw_data: Dict[str, Any]):
                                 suffix = ""
                                 if isinstance(other_val, dict):
                                     oy, _ = parse_year_day(other_val.get("informal", "0"))
-                                    suffix = f" ({other_v_pfx} {year_suffix(oy)})"
+                                    suffix = f" ({other_v_pfx} {year_link(oy)})"
                                 relationships_by_decade[(y // 10) * 10][y].append({
                                     "day": d, "text": f"- {p_link} {verb} {s_name}{suffix}"
                                 })
@@ -165,22 +176,56 @@ def build_timeline_data(raw_data: Dict[str, Any]):
                     if sub_key in s and isinstance(s[sub_key], list):
                         for item in s[sub_key]:
                             d_obj = item.get("date")
-                            if not isinstance(d_obj, dict): continue
+                            if not isinstance(d_obj, dict):
+                                continue
+
                             y, d = parse_year_day(d_obj.get("informal", ""))
                             d_start = (y // 10) * 10
+
                             if item.get("major_event") and item.get("desc", "").strip():
                                 events_by_decade[d_start][y].append({
-                                    "day": d, "label": season_day_label(d_obj), "desc": item["desc"].strip()
+                                    "day": d,
+                                    "label": season_day_label(d_obj),
+                                    "desc": item["desc"].strip()
                                 })
-                            if sub_key == "publications":
-                                actors_str = escape_table_pipes(", ".join(item.get(actor_key, [])))
-                                stars_by_decade[d_start].append({
-                                    "year": y, "day": d, "alpha": s_name,
-                                    "row": {
-                                        "name_link": s_link, "date_year": y, "date_obj": d_obj,
-                                        "actors": actors_str, "desc": clean_star_desc
-                                    }
-                                })
+                # Add only the original publication to the star table
+                if "publications" in s and isinstance(s["publications"], list):
+
+                    publications = []
+
+                    for pub in s["publications"]:
+                        d_obj = pub.get("date")
+                        if not isinstance(d_obj, dict):
+                            continue
+
+                        y, d = parse_year_day(d_obj.get("informal", ""))
+                        publications.append((y, d, pub, d_obj))
+
+                    if publications:
+                        earliest_y, earliest_d, earliest_pub, earliest_d_obj = min(
+                            publications,
+                            key=lambda x: (
+                                x[0],
+                                x[1] if x[1] is not None else 999
+                            )
+                        )
+
+                        actors_str = escape_table_pipes(
+                            ", ".join(earliest_pub.get("publishers", []))
+                        )
+
+                        stars_by_decade[(earliest_y // 10) * 10].append({
+                            "year": earliest_y,
+                            "day": earliest_d,
+                            "alpha": s_name,
+                            "row": {
+                                "name_link": s_link,
+                                "date_year": earliest_y,
+                                "date_obj": earliest_d_obj,
+                                "actors": actors_str,
+                                "desc": clean_star_desc
+                            }
+                        })
 
     return events_by_decade, births_by_decade, deaths_by_decade, relationships_by_decade, stars_by_decade
 
@@ -264,6 +309,9 @@ future: auto-generated
 # See Also
 - [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
+> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 """
 
     all_decades = range((START_YEAR // 10) * 10, ((END_YEAR // 10) * 10) + 1, 10)

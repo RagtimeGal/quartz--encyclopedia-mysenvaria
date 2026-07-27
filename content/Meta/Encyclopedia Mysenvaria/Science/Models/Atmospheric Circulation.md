@@ -1,13 +1,10 @@
 ---
-title: "Atmospheric Circulation"
-aliases:
-  - "Atmospheric Circulation (Addenda)"
+title: "Atmospheric Circulation (Addenda)"
 enableToc: true
 tags:
   - topic/meta/addenda
-type: article
+type: addenda
 status: complete
-addenda: true
 ---
 
 > [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]

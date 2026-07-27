@@ -18,7 +18,7 @@ ff1: ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-> [!warning] [[Meta/Meta|Meta]] || Names
+> [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Names|Names]]
 > Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
 > 
 > These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.
@@ -55,3 +55,4 @@ The game is won either by eliminating all opposing units or by claiming a set nu
 # Cultural Significance
 
 # See Also
+- [[Encyclopedia Mysenvaria/Indexes/Art/Games/List of Games|List of Games]]

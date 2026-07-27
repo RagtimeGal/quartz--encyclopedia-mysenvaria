@@ -11,7 +11,7 @@ status: stub
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
-The Relatives Star is the host [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Relatives Star System|Relatives Star System]]. The star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Heat Lightning|God of Heat Lightning]], documents relations held by themself and other related [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] between a number of humans, dwarves, and even [[Encyclopedia Mysenvaria/Biology/Disease/Elf|elves]]. 
+The Relatives Star is the host [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] of the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Relatives Star System|Relatives Star System]]. The star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Heat Lightning|God of Heat Lightning]], documents relations held by themself and other related [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] between a number of humans, dwarves, and even [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Elven Fungus|elves]]. 
 # History
 
 # Famous Translations

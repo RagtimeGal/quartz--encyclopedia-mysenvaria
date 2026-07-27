@@ -5,7 +5,7 @@ enableToc: true
 tags:
   - topic/history/biography
   - subject/god/energy_god
-type: index
+type: article
 status: empty
 future: none
 needs:

@@ -32,7 +32,9 @@ This page serves as an index of higher-[[Encyclopedia Mysenvaria/Science/Phenome
 ## L
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Liquids|God of Liquids]]
 ## M
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods|Material State Gods]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]]
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]
 ## P
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future|Gods of Past, Present, and Future]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Plasma|God of Plasma]]
@@ -44,10 +46,12 @@ This page serves as an index of higher-[[Encyclopedia Mysenvaria/Science/Phenome
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Time]]
 ## W
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]
+## Other
+- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Mystery God|Mystery God]]
 
 # See also
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
-- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
+- [[Encyclopedia Mysenvaria/Indexes/Indices|Indices]]
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the Encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
+> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

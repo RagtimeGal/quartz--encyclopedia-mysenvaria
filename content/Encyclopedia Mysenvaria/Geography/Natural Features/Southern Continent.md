@@ -1,5 +1,7 @@
 ---
 title: "Southern Continent"
+aliases:
+  - "Old World"
 enableToc: true
 tags:
   - topic/geography/natural

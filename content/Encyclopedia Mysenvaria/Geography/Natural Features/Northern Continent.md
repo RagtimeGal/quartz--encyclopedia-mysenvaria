@@ -1,5 +1,7 @@
 ---
 title: "Northern Continent"
+aliases:
+  - "New World"
 enableToc: true
 tags:
   - topic/geography/natural

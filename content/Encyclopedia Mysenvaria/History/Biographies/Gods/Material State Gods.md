@@ -7,7 +7,7 @@ enableToc: true
 tags:
   - topic/history/biography
   - subject/god/higher-god
-type: index
+type: article
 status: stub
 future: none
 needs:
@@ -71,10 +71,10 @@ subpage:
         major_event: false
 ---
 %%
-god_of_solids: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Solids|God of Solids]]
-god_of_gasses: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Gasses|God of Gasses]]
-god_of_liquids: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Liquids|God of Liquids]]
-god_of_plasma: [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Plasma|God of Plasma]]
+"god_of_solids": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Solids|God of Solids]]"
+"god_of_gasses": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Gasses|God of Gasses]]"
+"god_of_liquids": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Liquids|God of Liquids]]"
+"god_of_plasma": "[[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Plasma|God of Plasma]]"
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]

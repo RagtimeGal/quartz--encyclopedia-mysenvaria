@@ -5,7 +5,7 @@ tags:
   - topic/history/century
 type: index
 status: complete
-future: auto-generated
+future: none
 has:
   - infobox
 ---
@@ -62,5 +62,5 @@ has:
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/90s AT#Significant People]]
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/90s AT#Stars|Stars]]
 # See Also
-- [[Encyclopedia Mysenvaria/History/History|History]]
+- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
 - [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

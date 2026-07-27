@@ -37,7 +37,7 @@ Welcome to the seventh Lore Ledger. This week saw a lot of progress towards the 
 - Pangaea; super-continent which existed before the breakup of its continental components.
 - [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]]; Refers to the 17 year period of time at the start of the God-War where 75% of all Gods passed away.
 - [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]], [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|Territories During the God-War]]; Names are self-explanatory.
-- [[Encyclopedia Mysenvaria/Science/Branches/Topography|Topography]]; Scientific branch.
+- Topography; Scientific branch.
 - Geologic Phenomena; This page will consume a bunch of other existing pages later.
 ## Removed
 

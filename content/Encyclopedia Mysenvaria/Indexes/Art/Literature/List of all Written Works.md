@@ -4,7 +4,8 @@ enableToc: true
 tags:
   - topic/art/literature
 type: index
-status: update
+status: complete
+future: auto-generated
 index:
   - header_name: "Fiction"
     included_data: 
@@ -28,7 +29,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Arts/Art#Literature|literary works]], organized into fiction and non-fiction categories and listed in alphabetical order.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Arts/Artistic Articles#Literature|literary works]], organized into fiction and non-fiction categories and listed in alphabetical order.
 # Fiction
 # Non-fiction
 ## C
@@ -44,9 +45,12 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/A
 ## S
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]]
 ## T
+- [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope|The Collected Works of Kaleidoscope]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]]
+- [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonlogical Directory of Gods Tongues]]
+- [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]]
 
-> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update|Update]]
-> This article is always growing! As the Encyclopedia and setting continue to grow, so too does this page! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
+> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

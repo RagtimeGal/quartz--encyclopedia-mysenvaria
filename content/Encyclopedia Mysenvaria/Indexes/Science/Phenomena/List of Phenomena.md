@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]], sorted alphabetically.
+The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Scientific Articles#Technologies|technologies]], sorted alphabetically.
 # Phenomena
 ## A
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
@@ -32,7 +32,7 @@ The following is an index of all articles across the Encyclopedia which describe
 ## E
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Earthquake|Earthquake]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem|Ecosystem]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|Entity (phenomenon)]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|Entity (phenomenon)]]
 ## F
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Fog|Fog]]
 ## G
@@ -51,9 +51,13 @@ The following is an index of all articles across the Encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Mountains|Mountains]]
 ## N
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Necromance|Necromance]]
 ## O
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Oceanic Circulation|Oceanic Circulation]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Organ|Organ]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Organ Systems|Organ Systems]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|Organisms]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms of Mass Destruction|Organisms of Mass Destruction]]
 ## R
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Rift|Rift]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Rivers|Rivers]]
@@ -69,3 +73,6 @@ The following is an index of all articles across the Encyclopedia which describe
 ## W
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Weather|Weather]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Whirlpool|Whirlpool]]
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
+> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

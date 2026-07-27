@@ -30,12 +30,12 @@ featured_data:
   fun_facts: ["ff1","ff2"]
 ---
 %%
-"start_desc1": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]** begins. (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]])
-"end_desc1": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]** ends. (beg. 26th of Spring, [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]])
-"start_desc2": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Early-War Epoch|Early-War Epoch]]** begins. (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT#116 BT|116 BT]])
-"start_desc3": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Early-War Epoch|Early-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT#116 BT|116 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]] begins. (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]])
-"start_desc4": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]] begins. (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]])
-"end_desc4": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]]** ends. (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]])
+"start_desc1": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]** begins (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]]).
+"end_desc1": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]** ends (beg. 26th of Spring, [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]]).
+"start_desc2": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Early-War Epoch|Early-War Epoch]]** begins (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT#116 BT|116 BT]]).
+"start_desc3": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Early-War Epoch|Early-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/120s BT#116 BT|116 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]] begins (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]).
+"start_desc4": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]] begins (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]]).
+"end_desc4": **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]).
 "ff1": ... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] was 177 years long?
 "ff2": ... that the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] is broken into 3 major epochs—the Early-War, Mid-War, and Late-War?
 %%
