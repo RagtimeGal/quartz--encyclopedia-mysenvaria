@@ -16,8 +16,3 @@ future: none
 # Mid-War
 
 # Late War
-
-# See Also
-- [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|Territories During the God-War]]
-- [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]]
-- [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]

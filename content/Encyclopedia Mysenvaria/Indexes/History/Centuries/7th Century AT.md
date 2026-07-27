@@ -61,6 +61,3 @@ has:
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/690s AT#Events]]
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/690s AT#Significant People]]
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/690s AT#Stars|Stars]]
-# See Also
-- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
-- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

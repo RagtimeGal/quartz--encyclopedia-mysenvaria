@@ -15,6 +15,3 @@ Two Breasts is a [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] dated 
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

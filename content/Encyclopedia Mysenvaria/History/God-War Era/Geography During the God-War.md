@@ -30,9 +30,6 @@ The Great Flood would make drastic changes to the topology of the Plane in the f
 The Plane would not see drastic change for the next decade following the Great Flood. It wouldn't be until the end of the war, following the [[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Sixth Council|Sixth Council]] and publishing of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] that the Plane would see change. The Harmonic Treaty would introduce a new dynamic to the surface of the Plane, exerting a gravitational pull which resulted in the creation of many new natural phenomena. Alongside this, the heat exerted from the new star would introduce new and much more drastic climates and weather to the Plane.
 
 The major ice sheets which stretched for many kilometers onto the Plane past the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] would begin rapidly melting, drastically altering the topology of the outer Plane. The gravitational pull of the Harmonic Treaty in combination with the evaporation it induces in the oceans and major water bodies would also lead to the modern formation of weather systems and formation of the climates which are known today.
-# See Also
-- [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]]
-- [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|Territories During the God-War]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Rewrite Needed|Future Rewrite Needed]]
-> This article is considered complete for the moment, but some finished sections may need to be rewritten to help improve clarity! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but some finished sections may need to be rewritten to help improve clarity! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

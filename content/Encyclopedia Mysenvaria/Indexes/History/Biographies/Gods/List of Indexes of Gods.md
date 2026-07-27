@@ -32,7 +32,3 @@ The following is an index of indexes which list [[Encyclopedia Mysenvaria/Scienc
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Reaction Gods]]
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-- [[Encyclopedia Mysenvaria/Indexes/Indices|Indices]]

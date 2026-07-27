@@ -17,5 +17,3 @@ status: empty
 # Influence
 
 # Notable Figures
-
-# See Also

@@ -35,10 +35,6 @@ Poleward circulation may account for the majority of atmospheric circulation, bu
 At all points of the year the Treaty exerts a gravitational pull, causing prevailing winds to most generally move starward across the Plane. However during its lowest points, when the Treaty is at its closest, this pull becomes most noticeable and causes more powerful storms, warmer temperatures, and stronger starward winds.
 
 On the contrary, at some points of the year when it is in its transitionary period between its high and low, the Treaty hits a Goldilocks zone where winds may be pulled counter-starward. This is a temporary effect, as it continues its transition winds return to their normal pattern, but during the months where the Treaty is in this zone winds may bring strong colder temperatures to normally warm areas.
-# See Also
-- [[Oceanic Circulation|Oceanic Circulation]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Tides|Tides]]
 
 > [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]
 > This article is or has an addendum. Visit addenda pages by adding `Meta/` to the start of an article's URL path. E.G. `ragno.studio/Encyclopedia-Mysenvaria` becomes `ragno.studio/Meta/Encyclopedia-Mysenvaria`.
@@ -50,4 +46,3 @@ On the contrary, at some points of the year when it is in its transitionary peri
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use a section on the history of its discovery.*
-

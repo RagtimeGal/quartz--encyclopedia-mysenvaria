@@ -32,12 +32,6 @@ Abstract features fall under the category of intangibility. They are not physica
 Astrography is focused on the study of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], which are considered to be natural features of the Plane. Despite this, stars garner their own distinct sub-topic in the Encyclopedia due to the vastness of the topic. Astrography is practiced by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]], and deals with the study of star's movement, influence, translations, and position. There are thousands of stars which dot the sky of the Plane, and as such documenting them all is a gargantuan task deserving of its own category of organization.
 
 Stars have a significant impact on the Plane, and beyond that are important markers of historical events. Stars are divided into three categories, those being legal, index, and documentary stars. For more information on the different kinds of stars, how they are translated, and their importance on historical documentation see the [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars page]].
-# See Also
-- [[Encyclopedia Mysenvaria/Arts/Artistic Articles|Artistic Articles]]
-- [[Encyclopedia Mysenvaria/Biology/Biological Articles|Biological Articles]]
-- [[Encyclopedia Mysenvaria/Culture/Cultural Articles|Cultural Articles]]
-- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
-- [[Encyclopedia Mysenvaria/Science/Scientific Articles|Scientific Articles]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

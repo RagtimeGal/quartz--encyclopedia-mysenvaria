@@ -17,9 +17,6 @@ Modern day climate would come about as a result of the [[Encyclopedia Mysenvaria
 The Great Dying would force organisms to adapt to environmental conditions which were best suited to their [[Encyclopedia Mysenvaria/Biology/Biological Articles|biology]]. Climate factors like precipitation, temperature, and seasonal shifts, alongside geographical conditions like [[Encyclopedia Mysenvaria/Science/Phenomena/Soils|soil]] composition and terrain, would define the boundaries between these new [[Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem|ecosystems]] creating [[Encyclopedia Mysenvaria/Science/Phenomena/Biomes|biomes]].
 # Classification
 Climates are divided and organized in a variety of models, each mapping climates based on several key meteorological and geographical factors. The most widely used model is that of the [[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen system]] which uses seasonal precipitation and temperature to model and classify climates. Older models, like the [[Encyclopedia Mysenvaria/Science/Models/Cline Climate|Cline system]] use distance from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]] and the availability of water.
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]]
-- [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

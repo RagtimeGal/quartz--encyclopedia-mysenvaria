@@ -15,6 +15,3 @@ The Elder's Star is a [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] c
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

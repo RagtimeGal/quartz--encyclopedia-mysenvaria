@@ -17,10 +17,6 @@ Oceanic circulation is commonly divided into two categories, surface circulation
 Surface circulation comes in the form of gyres, circular surface currents driven by a mix of atmospheric circulation and [[Encyclopedia Mysenvaria/Science/Phenomena/Gravity|gravity]] from the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]]. Gyres drive warm water from regions close to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]] towards the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] and [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]] of the Plane, and inversely drive cold water from those regions back towards the harmony line. Surface level circulation greatly impacts the Planes [[Encyclopedia Mysenvaria/Science/Phenomena/Climate|climate]] and weather, moderating costal temperatures.
 
 Deep circulation comes in the form of the thermohaline. Believed to be driven by density gradients in the ocean caused by varying temperatures and salinity. As cold, salty water sinks at the pole and edge it moves back towards the harmony line, moving across the sea floor and bringing nutrients with it. As it nears the harmony line and deposits salt on the ocean floor it begins to warm and rise. This process creates a cyclical pattern which helps distribute nutrients through the Plane's ocean.
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Glaciers|Glaciers]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|Ice Sheets]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Rivers|Rivers]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

@@ -17,7 +17,3 @@ Alex's Star System is a system created around 441bt, the host [[Encyclopedia Mys
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

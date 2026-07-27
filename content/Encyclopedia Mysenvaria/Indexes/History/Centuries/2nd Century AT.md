@@ -61,6 +61,3 @@ has:
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/190s AT#Events]]
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/190s AT#Significant People]]
 ![[Encyclopedia Mysenvaria/Indexes/History/Decades/190s AT#Stars|Stars]]
-# See Also
-- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
-- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]

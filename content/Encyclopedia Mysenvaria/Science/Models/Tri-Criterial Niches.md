@@ -26,5 +26,3 @@ status: empty
 ## Scouts
 
 ## Symbionts
-
-# See Also

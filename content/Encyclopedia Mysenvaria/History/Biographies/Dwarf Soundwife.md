@@ -43,5 +43,3 @@ child1: [[Encyclopedia Mysenvaria/History/Biographies/Josh Soundson|Josh Soundso
 ## Legacy
 
 ## Children
-
-# See Also

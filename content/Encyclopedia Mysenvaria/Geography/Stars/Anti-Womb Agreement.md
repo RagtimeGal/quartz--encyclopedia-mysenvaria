@@ -15,6 +15,3 @@ The Anti-Womb Agreement was passed by a multitude of [[Encyclopedia Mysenvaria/S
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

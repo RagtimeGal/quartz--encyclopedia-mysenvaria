@@ -29,6 +29,3 @@ The First Epoch Star is the oldest [[Encyclopedia Mysenvaria/Science/Phenomena/S
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

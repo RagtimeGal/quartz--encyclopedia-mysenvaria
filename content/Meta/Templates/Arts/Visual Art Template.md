@@ -18,5 +18,3 @@ future: none
 # History
 
 # Style & Influence
-
-# See Also

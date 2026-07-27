@@ -20,8 +20,6 @@ needs:
 # Domains
 
 # Classification
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 %%
 %%

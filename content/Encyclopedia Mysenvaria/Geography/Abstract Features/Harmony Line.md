@@ -32,5 +32,3 @@ These factors give the Treaty its unique orbital pattern amongst the [[Encyclope
 The Harmonic Treaty was created at the end of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]], marking the beginning of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]]. The Treaty's great impacts on the world would make it the focus of many developing nations interests. It would not take long following its creation for the first civilizations to begin modeling its orbit, creating the first depictions of the harmony line.
 
 These models would be used for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] time, creating the first primitive forms of [[Encyclopedia Mysenvaria/Science/Technologies/Clock|clocks]] by tracking the position or size of the Treaty in the sky relative to one's position on the Plane. These would later be refined into more complex devices and easier tools to tell the time.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]

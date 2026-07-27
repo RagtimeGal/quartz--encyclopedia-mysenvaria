@@ -21,12 +21,6 @@ Events and [[Encyclopedia Mysenvaria/Indexes/Culture/Events & Holidays/List of H
 Occupations and crafts are types of work practiced by individuals to contribute to society and earn livelihood. These trades range from [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor|doctors]] to [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper|scalpers]] and [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|cartographers]]. Occupations play critical roles in society, contributing to and sustaining economies and cultures.
 # Organizations
 Organizations are groups of people that work with organized structure and a common goal. Organizations range from religious, to political, to commercial. Some have significant influence over societies while others are minor and unknown. [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]] is the commercial organization responsible for the publishing of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]].
-# See Also
-- [[Encyclopedia Mysenvaria/Arts/Artistic Articles|Artistic Articles]]
-- [[Encyclopedia Mysenvaria/Biology/Biological Articles|Biological Articles]]
-- [[Encyclopedia Mysenvaria/Geography/Geographical Articles|Geographical Articles]]
-- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
-- [[Encyclopedia Mysenvaria/Science/Scientific Articles|Scientific Articles]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This page is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

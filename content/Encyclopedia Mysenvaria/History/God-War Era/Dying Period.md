@@ -43,11 +43,8 @@ Over the course of the Dying Period an estimated 22.5 million Gods would pass aw
 The Dying Period would see the introduction of [[Encyclopedia Mysenvaria/Culture/Cultural Articles#Beliefs|religion]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]] following the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]], though it would only be as the population of Gods stabilized into the [[Encyclopedia Mysenvaria/Indexes/History/Decades/160s BT|160s BT]] that organized religious institutions would be able to settle and develop.
 
 Though Gods had died across the entirety of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] the corpses of the Gods who died appear to have accumulated mostly around the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]]. The reasons for this are unclear, but many historians and geologists believe it was the winds which carried the corpses. Over time [[Encyclopedia Mysenvaria/Science/Models/Tectonics|tectonic]] activity caused the mountain of bodies to drift apart and form the continents of today.
-# See Also
-- [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]]
-- [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]
 
 [^graphic]: ![[Media/Images/Infographics/deaths_during_god_war.png]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Review Needed|Future Review Needed]]
-> This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

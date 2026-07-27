@@ -36,8 +36,6 @@ The USM has changed and evolved drastically with time, with some of the earliest
 One major critique of the model is the lack of evidence regarding the Natural Personification of stars. No star has been proven to have naturally personified, which has led some scholars to call into question the current understanding of Natural Personification. Perhaps, it has been argued, stars are artificial in nature and cannot personify naturally. This idea however is not supported by first-hand accounts by Gods, such as those recorded in [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]] and [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]. Those support the idea that there has simply not been a scenario in which a star has needed to form.
 
 Ontological arguments have also been raised regarding the separation of the Real and Unreal. It is thought strange that the Real and Unreal interact so easily to create Reality, for this reason it has been argued by some that they are perhaps not separate in the first place. This model of the USM brings into question the occurrence of Natural Personification.
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|Organisms]]
 
 [^graphic]: ![[Media/Images/Infographics/universal_strata_model.png]]
 

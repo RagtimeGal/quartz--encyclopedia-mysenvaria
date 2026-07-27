@@ -103,6 +103,3 @@ The creation quadrinity would appear for the first time together at the end of t
 ## Golden Age
 
 ## Modern Era
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]

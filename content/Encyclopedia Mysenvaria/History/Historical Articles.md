@@ -16,12 +16,6 @@ Biographies are documents on the lives of people from the past and present, chro
 Lineages are a sub-topic of the biographic sub-topic and are articles depicting the dynamics and lineages of historically significant families.
 # Historic Eras
 Each of the four historic eras has their own sub-topic, which includes a timeline of the major events which occurred during that era alongside all of the minor events which occurred. The [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] records all events which occurred before the year 1at. The [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]] records all events which occurred between 1at and 609at. The [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]] records all events which occurred between 910at and 1214at. And the [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]] records all events which occurred between 1215at and the present day.
-# See Also
-- [[Encyclopedia Mysenvaria/Arts/Artistic Articles|Artistic Articles]]
-- [[Encyclopedia Mysenvaria/Biology/Biological Articles|Biological Articles]]
-- [[Encyclopedia Mysenvaria/Culture/Cultural Articles|Cultural Articles]]
-- [[Encyclopedia Mysenvaria/Geography/Geographical Articles|Geographical Articles]]
-- [[Encyclopedia Mysenvaria/Science/Scientific Articles|Scientific Articles]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

@@ -43,8 +43,6 @@ While rare, limn can materialize inside [[Encyclopedia Mysenvaria/Science/Phenom
 The accumulation of limn in soil is used by microorganisms, especially species of plants and vermin, who passively absorb it. These organisms do not typically use limn for anything in particular, instead it accumulates through the [[Encyclopedia Mysenvaria/Science/Models/Food Chain|food chain]] and is used by other organisms. Limn-utilizing organisms have an organ known as the [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|limnary press]] which turns limn into artificial stars in much the same way as [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|sophonts]] do.
 
 Sophonts do not possess limnary presses—instead, they press their own artificial stars by hand in an art known as [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|starforging]]. Artificial stars have their own suite of unique purposes unrelated to limn. Besides artificial stars, limn also has its own suite of purposes, including: lamps, binding agents, grenades, paint, non-slip surfaces, and tattoos.
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

@@ -67,5 +67,3 @@ event:
 The *Encyclopedia Mysenvaria* is a series of encyclopedic works which have been produced and published since [[Encyclopedia Mysenvaria/Indexes/History/Decades/1310s AT#1313 AT|1313]]. Originally hand written, compiled, and published independently by [[Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder|Academy Publishing Founder]], today the encyclopedia is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]] and written by a diverse cast of scholarly contributors. The *Mysenvaria*, over its 183 years of publication, has released 13 editions. The latest edition spans 26 volumes including: 2 indices, 14 micro-article volumes, and 10 macro-article volumes.
 
 The *Mysenvaria* during its publication history has gained its title as one of the most accredited encyclopedic works ever written.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of Written Works]]

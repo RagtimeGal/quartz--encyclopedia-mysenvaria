@@ -1772,8 +1772,6 @@ Elemental [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are those crea
 # Domains
 # Classification
 Elemental Gods, much like the material elements are divided into two groups: the common elements, and uncommon elements.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 %%
 "god_of_actinium": "God of Actinium"

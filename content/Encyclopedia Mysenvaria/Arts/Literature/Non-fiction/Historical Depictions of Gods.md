@@ -19,6 +19,3 @@ start_desc: [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Dep
 # Book
 
 # Reception
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of Written Works]]

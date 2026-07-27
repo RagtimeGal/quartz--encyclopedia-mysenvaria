@@ -65,5 +65,3 @@ end
 ```
 ## Kaleidoscope Model
 ![[Encyclopedia Mysenvaria/Science/Models/Kaleidoscope Lineage Model.canvas]]
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Models/Visibility-Aggression Filter|Visibility-Aggression Filter]]

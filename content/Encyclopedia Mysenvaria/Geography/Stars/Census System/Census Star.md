@@ -15,6 +15,3 @@ The Census Star, created by the [[Encyclopedia Mysenvaria/History/Biographies/Go
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

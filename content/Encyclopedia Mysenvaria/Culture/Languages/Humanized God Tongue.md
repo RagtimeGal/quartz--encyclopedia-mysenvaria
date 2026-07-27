@@ -30,6 +30,3 @@ future: none
 # Writing
 
 # Dialects & Accents
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]

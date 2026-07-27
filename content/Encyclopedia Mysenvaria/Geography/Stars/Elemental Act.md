@@ -15,6 +15,3 @@ The Elemental Act is a legally binding [[Encyclopedia Mysenvaria/Science/Phenome
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

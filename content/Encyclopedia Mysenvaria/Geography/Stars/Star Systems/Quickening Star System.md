@@ -19,7 +19,3 @@ The star system has a recorded 253 stars, created by a large variety of Gods.
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

@@ -29,9 +29,6 @@ Many of the [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published 
 The Quickening, a result of domain subdivision, would see a rapid and unsustainable increase in the number of Gods. Overlapping metaphysical domains and physical territories would culminate in a confrontation between two unnamed lesser-Gods, becoming the First Death. Previously ignorant of their own mortality, the event triggered an epiphany among the Gods, beginning the God-War with the start of the [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]].
 
 The [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]] would be organized by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]] in the following year. The First Convening, while responsible for many things, is most notable for it's responsibility in the development of [[Encyclopedia Mysenvaria/Culture/Cultural Articles#Beliefs|religion]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]], which would go on to be a major factor in the war and the rest of history.
-# See Also
-- [[Encyclopedia Mysenvaria/History/God-War Era/Religion During the God-War|Religion During the God-War]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Rewrite Needed|Future Rewrite Needed]]
-> This article is considered complete for the moment, but some finished sections may need to be rewritten to help improve clarity! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but some finished sections may need to be rewritten to help improve clarity! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

@@ -16,4 +16,3 @@ ff1: ... that a [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary P
 
 > [!note] Stub
 > This article is a [[Meta/Callouts|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
-

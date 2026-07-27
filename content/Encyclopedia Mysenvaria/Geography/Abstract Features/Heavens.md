@@ -28,10 +28,8 @@ Research into the dynamics of the heavens and stars would grow intense into the 
 The dividing line between the heavens and atmosphere is believed to be very strict, forming a semi-sphere dome over the top of the habitable Plane. At the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] of the Plane the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] is said to be visible curving over the sphere. Because of the lack of atmosphere when entering the heavens it is inhabitable, and is as such considered to be the end of the Plane's habitable zone.
 
 The heavens themselves seem to be infinite in vastness, extending past the edge indefinitely. The empty space of the heavens are broken apart by occasional stars, although they do not reach very faraway from the dome. The largest of the stars is the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]], whose lowest point in orbit is believed to nearly touch the surface of the atmosphere.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Review Needed|Future Review Needed]]
 > This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 > 
-> *This page could use further elaboration on the history of the Heavens, especially its cultural impact.* 
+> *This page could use further elaboration on the history of the Heavens, especially its cultural impact.*

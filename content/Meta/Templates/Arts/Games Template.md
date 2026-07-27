@@ -22,5 +22,3 @@ future: none
 # Rules
 
 # Cultural Significance
-
-# See Also

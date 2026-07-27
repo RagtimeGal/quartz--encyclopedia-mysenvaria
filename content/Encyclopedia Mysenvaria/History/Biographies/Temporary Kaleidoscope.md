@@ -41,5 +41,3 @@ person:
 ## Legacy
 
 ## Children
-
-# See Also

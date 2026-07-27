@@ -30,5 +30,3 @@ end_desc:
 # Timeline
 
 # Prominent Figures
-
-# See Also

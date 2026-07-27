@@ -17,7 +17,3 @@ The Flood System is a major [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|st
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

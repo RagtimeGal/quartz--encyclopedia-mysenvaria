@@ -17,7 +17,3 @@ The Relatives Star System is a minor [[Encyclopedia Mysenvaria/Science/Phenomena
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

@@ -17,7 +17,3 @@ The Plant Star System was created following the creation of the first [[Encyclop
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

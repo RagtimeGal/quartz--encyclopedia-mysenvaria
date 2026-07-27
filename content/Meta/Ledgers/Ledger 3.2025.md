@@ -23,7 +23,6 @@ ledger_data:
 Welcome to the seventh Lore Ledger. This week saw a lot of progress towards the God-War history goal. Though I don't believe it will be complete 'on-time'. I am debating the removal of project deadlines in favor of less tangible but more achievable goals? As it stands the deadlines are more of a hinderance.
 # Project Updates
 
-
 > [!important] God-War History
 > > [!info] Dates
 > > 

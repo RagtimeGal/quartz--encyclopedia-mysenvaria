@@ -17,6 +17,3 @@ The Creations Act is a legal [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|s
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

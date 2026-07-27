@@ -36,5 +36,3 @@ event:
 # Timeline
 
 # Prominent Figures
-
-# See Also

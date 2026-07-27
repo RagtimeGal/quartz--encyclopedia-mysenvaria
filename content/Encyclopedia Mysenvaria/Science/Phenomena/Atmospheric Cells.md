@@ -26,11 +26,6 @@ Starting at the harmony line and moving outwards towards the edge:
 - The Inner Cell goes from the outer edge of the Harmonic Cell to 7,006km from the pole;
 - The Outer Cell goes from the outer edge of the Inner Cell to 8,319km out from the pole;
 - The Edge Cell goes from the outer edge of the Outer Cell to the edge of the pole.
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|Meteorology]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
-- [[Oceanic Circulation|Oceanic Circulation]]
 
 [^figure1]: ![[Media/Images/Infographics/atmospheric_cells.png]]
 

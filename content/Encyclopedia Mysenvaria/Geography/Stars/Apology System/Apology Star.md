@@ -15,6 +15,3 @@ The Apology Star is the host of the [[Encyclopedia Mysenvaria/Geography/Stars/St
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

@@ -19,12 +19,6 @@ Because the Treaty only illuminates a spherical area around itself different por
 In terms of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] age day has existed for longer than it has not. Following the end of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] and the beginning of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]] the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] would give rise to Day, the world previously having been enveloped in complete darkness. An event known as the [[Encyclopedia Mysenvaria/History/Post-War Era/Great Dying|Great Dying]] would occur in the years following the rise of the Treaty.
 
 [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|Organisms]] would have to adapt to rapidly changing environments, the Treaty creating new dangers. Day, [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|winds]], and [[Encyclopedia Mysenvaria/Science/Phenomena/Tides|tides]] would be suddenly and violently introduced to the world, culminating in the Great Dying. Other factors, like the loss of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God's]] interference would also play roles in the event. Today, only a fraction of the wildlife which one existed remain across the Plane.
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|Meteorology]]
-- [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Tides|Tides]]
 
 [^figure1]: ![[Media/Videos/10-day-modern-simulation.mp4]]
 

@@ -30,8 +30,6 @@ Of the stars they are mentioned in, they often appear as signatories to contract
 The time trinity are documented in a few places outside of stars too. One of the most famous appearances of the time trinity comes from the [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]], when [[Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man|Time Wizard Man]] manipulated time with a spell during an experiment. The experiment did not result as expected and the time trinity followed shortly after.
 # Appearance
 The time trinity, like other powerful Gods, appear as the viewer interprets them as looking. Some recorded sights of them call them clockwork construction, others as shrinking or growing plants. Because of their inactivity there are not many records of interpretations of these Gods.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

@@ -30,10 +30,8 @@ Early into the Post-War period the pole would become a focal point for scientifi
 The pole also serves as the central point of the Harmonic Treaty's orbit and the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|harmony line]][^figure3]. This has the side effect of making the pole's average distance from the Treaty relatively stable throughout the year. Because of this, the pole does not experience the same levels of [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|seasonal]] variation that other portions of the Plane experience.
 
 The Deadman's Sea creates a relatively uninhabitable environment around the pole, the violent whirlpools creating turbulent conditions uninhabitable for most marine [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. The corpses of some marine animals are known to be carried by the ocean's currents, ending up in the waters surrounding the pole. These corpses temporarily create conditions appealing enough for some seabirds to congregate in the waters, but their visits are often short lived as dangerous waters kill or scare them way.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 
 [^figure1]: ![[Media/Images/Infographics/world_diagram.png|world_diagram.png]]
 [^figure3]: ![[Media/Videos/10-day-modern-simulation.mp4]]
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

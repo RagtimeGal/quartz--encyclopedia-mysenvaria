@@ -17,7 +17,3 @@ The Census System is a small system of [[Encyclopedia Mysenvaria/Science/Phenome
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

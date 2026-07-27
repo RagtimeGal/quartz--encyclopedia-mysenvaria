@@ -39,5 +39,3 @@ What Is and Is Not are thought to have been primarily hands-off during the God-W
 # Appearance
 It's unclear what the 
 As per the Harmonic Treaty What Is and Is Not always exist at the edge of the plane as a thick fog. Few have traveled to the edge of the world to see the duo and those who have explain it as an enlightening journey.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]

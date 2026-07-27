@@ -53,6 +53,3 @@ The game is won either by eliminating all opposing units or by claiming a set nu
 # Variations
 
 # Cultural Significance
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Art/Games/List of Games|List of Games]]

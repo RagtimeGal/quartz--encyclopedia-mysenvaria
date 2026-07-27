@@ -27,6 +27,3 @@ The Afterlife Star is the host [[Encyclopedia Mysenvaria/Science/Phenomena/Stars
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

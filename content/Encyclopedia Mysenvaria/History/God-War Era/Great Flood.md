@@ -26,5 +26,3 @@ event:
 # Aftermath
 
 # Timeline
-
-# See Also

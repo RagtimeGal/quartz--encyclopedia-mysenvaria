@@ -30,5 +30,3 @@ end_desc: **[[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]
 # Timeline
 
 # Prominent Figures
-
-# See Also

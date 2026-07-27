@@ -17,7 +17,3 @@ The Apology System is a [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]]
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

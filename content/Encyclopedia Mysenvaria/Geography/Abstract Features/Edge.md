@@ -32,8 +32,6 @@ Because of a multitude of factors, including the edge's distance from the Harmon
 Ecosystems around the edge rely on [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|avoric expansionists]] of varying body plans. This group of organisms is primarily composed of small crustacea, like copepods, arctic shrimp, and other specie's nymphs. Together with inanimate biological products, like eggs and feces, they construct the base of the food web around the edge. The edge, having such a large area of coverage, has a diverse cast of consumers and predators which depends on the region and time if year.
 
 Large predators, like Polar Dragons, arctic whale species, Lancing Squid, and arctic Birds of Prey maintain sparse populations but large ranges. In the case of the well-known Polar Dragons their range has steadily been growing over the last hundred years, now reaching as far as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago|Eastern Archipelago]].
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Rewrite Needed|Future Rewrite Needed]]
-> This article is considered complete for the moment, but some finished sections may need to be rewritten to help improve clarity! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but some finished sections may need to be rewritten to help improve clarity! If you think it needs edits now, make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

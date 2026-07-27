@@ -20,8 +20,6 @@ featured_data:
 > [!note] Stub
 > This article is a [[Meta/Callouts|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
 
-
-
 Astronomy is a study often confused with [[Encyclopedia Mysenvaria/Science/Branches/Wizardry|wizardry]]. While many wizards may also practice astronomy it is a separate area of study. Astronomy involves the observation and interpretation of stars to create a better understanding of the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue]]. 
 
 To become an astronomer requires a keen eye and great understanding of the natural world, one that anyone can master with years of study and practice. Wizardry can sometimes play a role in easing the process of proper measurements. [[Encyclopedia Mysenvaria/Science/Branches/Wizardry#Written Magic|Enchantments]] can be used on astronomical tools to provide more accurate measurements and more recently have even been used to [[Encyclopedia Mysenvaria/Science/Technologies/Printing Press|print]] the proper measurements.
@@ -64,5 +62,3 @@ When a God dies all stars they have created fall to the Earth as ossified husks;
 
 # Famous Astronomers
 - [[Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man]] (44-0)
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]

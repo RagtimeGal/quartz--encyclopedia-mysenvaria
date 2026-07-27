@@ -22,6 +22,3 @@ The Collected Works of Kaleidoscope is a group of books published years after th
 # Books
 
 # Reception
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of Written Works]]

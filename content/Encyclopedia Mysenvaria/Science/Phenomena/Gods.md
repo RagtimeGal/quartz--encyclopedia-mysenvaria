@@ -69,9 +69,6 @@ Highly material Gods are capable of holding sensual relationships with organisms
 Gods' hearts are susceptible to disruption by foreign bodies; to kill a God requires lodging a foreign object into their heart. This process is described across various stars, many of the same which describe their hearts.
 
 The exact mechanisms by which a God's death works are debated, but it's believed that by disrupting the heart the Unreal which holds them together is disrupted, causing a collapse. It's hypothesized that a God can be brought back from the dead by their original creator(s), and this seems to be supported by recorded interactions with Gods, though there is no recorded instance of this occurring.
-# See Also
-- [[Encyclopedia Mysenvaria/Science/Models/Visibility-Aggression Filter|Visibility-Aggression Filter]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

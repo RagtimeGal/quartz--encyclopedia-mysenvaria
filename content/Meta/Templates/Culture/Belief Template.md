@@ -31,6 +31,3 @@ future: none
 ## Apologetics
 
 # Notable People
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Belief/List of Beliefs|List of Beliefs]]

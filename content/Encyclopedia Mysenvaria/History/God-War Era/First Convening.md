@@ -24,12 +24,6 @@ Fulgurite chose First Participants based on a multitude of factors, like their
 
 Members of the First Convening, known as First Participants, were chosen for  because they had witnessed first-hand the First Death
 
-
-
-
-
-
-
 The First Convening was a small gathering of Gods led by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]]. Each of the Gods summoned to the event were chosen by Fulgurite for having all seen the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|first death of a God]]. The convening would see the birth in the belief of an [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|afterlife]], a concept brought forth by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]].
 # Overview
 Fulgurite, having witnessed the first death of a God, would organize a meeting of differently opinionated but equally visionary and embodied Gods. Seventeen figures, including Fulgurite themself, would be hand-picked to attend, each of whom had witnessed the first death and were what Fulgurite would describe as dreamers. Either by complete coincidence, or Fulgurites keen ability to discern the inspired, all seventeen members of the First Covenant would go on to be pivotal figures in the war, shaping it both positively and negatively. 
@@ -60,5 +54,3 @@ Sodium Ethyl Xanthate's return marked a pivotal shift in the war. Alongside thei
 # Significance
 
 # Prominent Figures
-
-# See Also

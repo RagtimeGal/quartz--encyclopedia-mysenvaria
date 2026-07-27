@@ -20,6 +20,3 @@ start_desc: [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary C
 ### The Taxonomical Tree
 
 # Reception
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of Written Works]]

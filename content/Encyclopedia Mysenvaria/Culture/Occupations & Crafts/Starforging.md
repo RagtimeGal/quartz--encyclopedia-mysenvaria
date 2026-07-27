@@ -14,6 +14,3 @@ status: empty
 # History
 
 # Significance
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Occupation/List of Occupations|List of Occupations]]

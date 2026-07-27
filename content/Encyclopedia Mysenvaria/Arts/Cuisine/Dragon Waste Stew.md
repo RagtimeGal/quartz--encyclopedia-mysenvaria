@@ -17,6 +17,3 @@ Dragon waste stew was a soup commonly made across the [[Encyclopedia Mysenvaria/
 # Ingredients
 
 # Properties
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Art/Cuisine/List of Foods & Cuisines|List of Foods & Cuisines]]

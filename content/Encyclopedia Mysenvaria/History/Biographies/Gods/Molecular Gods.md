@@ -22,8 +22,6 @@ Molecular [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are those crea
 
 # Classification
 Molecular Gods are often divided into groups based on their chemical composition, but are sometimes also categorized by which of their parents they have historically associated with more.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 %%
 %%

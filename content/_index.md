@@ -14,12 +14,7 @@ All articles across the Encyclopedia have been neatly organized into six distinc
 
 Besides their primary topics articles may also be categorized according to their secondary subjects. Articles are listed according to their topics and subjects in various [[Encyclopedia Mysenvaria/Indexes/Indices|indices]]. 
 
-
-
-
 Academy Publishing also offers visitors access to their [[Archive Library/Archive Home|archival library]], wherein thousands of archived works are kept. 
-
-
 
 Academy Publishing also offers visitors access to their [[Archive Library/Archive Home|archival library]], wherein there are thousands of archived books available.
 

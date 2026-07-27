@@ -28,16 +28,10 @@ future: auto-generated
 ## 53 BT
 - **[[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|The Convening Star]]** is republished (pub. [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#176 BT|176 BT]]) by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|God of Sodium Ethyl Xanthate]] following the murder of the original publisher, the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]].
 
-
 # Stars
 | Name | Date | Publisher(s) | Description |
 | --- | --- | --- | --- |
 | [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Greater God Star\|Greater God Star]] | 54 BT | [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Ethionamide\|God of Ethionamide]] | Located in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Afterlife System\|Afterlife System]], child of the [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Afterlife Star\|Afterlife Star]]. Published amidst growing tension following the creation of [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Human\|humans]]. Purports that, though the reason is unclear, the actions of the higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods\|Gods]] are advancing an agenda against the lesser-Gods. |
-
-
-# See Also
-- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
-- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
 > This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

@@ -17,12 +17,6 @@ Diseases are ailments, afflictions, or otherwise abnormal conditions which arise
 Taxon are groups of populations of conceptually related organisms, classified either through [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|evolutionary]] or [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|criterial]] classification systems. Classification of organisms usually takes into account their [[Encyclopedia Mysenvaria/Science/Branches/Biohistory|biohistory]] and conceptual relevance to one another. A taxon is usually referred to as a family when it contains species.
 # Species
 Species are more specific taxon that include populations of highly related organisms. Populations of organisms may evolve genetically to create new species, but [[Encyclopedia Mysenvaria/History/Historical Articles|historically]] a majority of species were created by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] amidst the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. Species each have uniquely interesting behaviors and interactions with one another and the world that create the different [[Encyclopedia Mysenvaria/Science/Phenomena/Biomes|biomes]] of the Plane.
-# See Also
-- [[Encyclopedia Mysenvaria/Arts/Artistic Articles|Artistic Articles]]
-- [[Encyclopedia Mysenvaria/Culture/Cultural Articles|Cultural Articles]]
-- [[Encyclopedia Mysenvaria/Geography/Geographical Articles|Geographical Articles]]
-- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
-- [[Encyclopedia Mysenvaria/Science/Scientific Articles|Scientific Articles]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

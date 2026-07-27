@@ -24,8 +24,6 @@ Phenomena [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are those crea
 ## Earth Gods
 
 ## 
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 
 %%
 %%

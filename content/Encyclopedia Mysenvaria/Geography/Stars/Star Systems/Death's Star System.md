@@ -17,7 +17,3 @@ Death's Star System originated with the beginning of the [[Encyclopedia Mysenvar
 # Notable Stars
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
-

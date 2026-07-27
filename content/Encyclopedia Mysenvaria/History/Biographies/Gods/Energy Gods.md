@@ -22,8 +22,5 @@ Energy [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are those created
 
 # Classification
 
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
-
 %%
 %%

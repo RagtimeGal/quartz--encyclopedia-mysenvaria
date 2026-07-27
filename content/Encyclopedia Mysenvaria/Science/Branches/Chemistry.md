@@ -12,6 +12,3 @@ status: empty
 # History
 
 # Significance
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]

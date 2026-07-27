@@ -15,6 +15,3 @@ Hydrogen Cyanide's Plants is the host [[Encyclopedia Mysenvaria/Science/Phenomen
 # History
 
 # Famous Translations
-
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]

@@ -20,8 +20,6 @@ Starscript is often transcribed by astronomers using two dimensional projections
 Starscript is incredibly complex to learn and can take even the most talented astronomers their lives to begin to properly translate. While not considered a [[Encyclopedia Mysenvaria/Science/Technologies/Trade Secret|trade secret]] the actual mechanics behind the language are so complex and utterly esoteric that they'd be meaningless to attempt to explain in any manner beyond what has already been described above.
 
 For further knowledge on Starscript works such as *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]]*, *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]]*, and *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]]* are considered amongst the best modern works on the topic of Starscript.
-# See Also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

@@ -15,5 +15,3 @@ status: empty
 # Types
 ## In Plants
 ## In Animals
-
-# See Also

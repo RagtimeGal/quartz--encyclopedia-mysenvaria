@@ -17,5 +17,3 @@ status: empty
 # Consumer
 
 # Carnivore
-
-# See Also
