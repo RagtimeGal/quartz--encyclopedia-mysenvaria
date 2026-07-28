@@ -14,4 +14,3 @@ needs:
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Terrestrial squid is a group of squid made up of individuals who can live on land for extended periods of time. Individuals range across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Northern Continent|New]] and [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|Old World]] in highly humid and wet areas, ranging from the tropics to the arctic.
-# See Also

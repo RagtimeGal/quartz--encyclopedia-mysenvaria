@@ -49,9 +49,5 @@ This page serves as an index of higher-[[Encyclopedia Mysenvaria/Science/Phenome
 ## Other
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Mystery God|Mystery God]]
 
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
-- [[Encyclopedia Mysenvaria/Indexes/Indices|Indices]]
-
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
 > This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

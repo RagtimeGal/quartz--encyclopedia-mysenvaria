@@ -11,26 +11,24 @@ status: complete
 > *This article is part of a series of meta articles explaining what the Encyclopedia Mysenvaria is, how to use it, and how to contribute.*
 
 > [!warning] Disclaimer
-> When contributing please note that I, Ragno, retain ownership of the Encyclopedia Mysenvaria and reserve the sole right to monetize it. 
+> When contributing please note that I, Ragno, retain sole ownership of the Encyclopedia Mysenvaria and reserve the right to monetize it. 
 > 
-> ***By submitting content you promise that your contribution is your property and agree that it may become part of the project. As such it may be used, modified, or monetized without need for further permission. This does not mean you forfeit your copyright or moral rights.*** You retain ownership, but by contributing you grant the Encyclopedia Mysenvaria an irrevocable license to use your submission however it pleases.
+> ***By submitting or contributing content you grant the Encyclopedia Mysenvaria a perpetual, worldwide, non-exclusive, royalty-free, and irrevocable license to use, publish, edit, adapt, and commercialize your contribution as part of the project.*** You retain ownership of your contribution, but acknowledge that once integrated it becomes a permanent part of the project and may be redistributed under the project's open license terms (**CC BY-NC-SA 4.0**).
 > 
-> You also acknowledge that, due to the project's license terms, others may copy, modify, and redistribute your content under the same terms.
-> 
-> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria).
+> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) on [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria)
 
 > [!danger] Warning
 > Although the Encyclopedia Mysenvaria website will not be monetized, future plans for the project outside of the website may include monetization! 
 > 
-> ***By contributing you agree that any content you submit is yours, becomes property of the project, and may be monetized with no need for further permission.***
+> ***By contributing, you acknowledge that any submitted content may be integrated into commercial releases of the project without requirement for further permission or royalties.***
 
 > [!tip] Info
 > ***Contributors may request to have their name, and a link to a social page of their choosing, added to the [[Meta/Contributors|Contributors]] page. The contributors page is linked at the footer of the website, accessible from all pages.***
 > 
 > If you've contributed to the Encyclopedia Mysenvaria and wish to be listed, please open a new [GitHub Issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) with proof of your prior contribution. Being added to the Contributors page is not automatic and must be requested manually.
 
-By virtue of the way the Encyclopedia is built it is very easy to contribute to the project—but before you do, there's some things to understand! 
-- As described by the [license](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/LICENSE.md): the Encyclopedia Mysenvaria's content is **NOT** open-source—It's backend/code, [Quartz](https://quartz.jzhao.xyz/), is.
+By virtue of the way the Encyclopedia is built it is very easy to contribute to the project—but before you do, there are a few things to understand! 
+- While Quartz (code) is open-source under the MIT license, the content of the Encyclopedia Mysenvaria is protected under a non-commercial open license. For more please read the project's [license](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/LICENSE.md).
 - Failure to comply with the Code of Conduct may result in your contribution privileges being restricted or removed.
 - The Encyclopedia Mysenvaria is a **personal project** and part of a much larger vision. I am not looking for major writing contributions.
 - Moderators have final authority over all contributions and decisions.
@@ -42,9 +40,9 @@ This policy applies to all **content** (found in the 'content/' folder of the re
 
 By contributing to the Project, you agree that:
 - Your contribution is your own original work and/or you have the legal right to submit under the applicable license.
-- You retain copyright ownership but grant the Project a **perpetual, irrevocable, royalty-free license** to use, modify, adapt, or ignore your submission at its sole discretion.
+- You retain copyright ownership while granting the Project a **perpetual, irrevocable, royalty-free license** to use, modify, adapt, or omit your submission at its sole discretion.
 - Submission does not guarantee inclusion. Contributions may be edited or removed without notice.
-- Submissions classified as **content** are licensed under **CC BY-NC**.
+- Submissions classified as **content** are licensed under **CC BY-NC-SA 4.0**.
 - Submissions classified as **code** are licensed under **MIT**.
 
 ---

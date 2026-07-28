@@ -20,5 +20,3 @@ future: none
 # Influence
 
 # Notable People
-
-# See Also

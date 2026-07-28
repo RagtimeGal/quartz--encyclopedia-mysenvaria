@@ -53,13 +53,12 @@ The general structure of any article should be organized as thus:
 - **[[Meta/Callouts|Meta Callouts]]**: There's a number of callouts which articles may need at their top. Callouts let readers know meta information about the page they're reading.
 - **Infobox**: Infoboxes are standardized non-meta callouts which serve to provide readers with a very brief overview of an article's topic.
 - **Body Text**: Articles should start with a lead section which provides a brief overview of the topic and then may be divided into distinct sections via headers. Headers should follow title case.
-- **See Also**: A list of related articles which are not directly mentioned in the body of the article.
 - **Footnotes**: Footnotes provide supplementary content for the main body of the article, including images, videos, and sources.
 # Links
 Linking other articles is a very important part of making the Encyclopedia easy to navigate, but they can quickly becoming overwhelming if there's too many links in a single article. To help with that there are some basic rules to linking articles:
 - Link to the same article once per article. It doesn't make much sense to link to the article on the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water|God of Water]] three separate times in one article, so only link it once on first mention.
 - Too many links in one paragraph can make it hard to read. And so, if necessary, lower the density of links by spreading out their usage.
 - Avoid adjacent links, they can be confusing to readers. 
-- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|Dates]] should only be linked to when they add to the content of the article. For instance, the years of birth for a specific character should likely not be linked if nothing from the articles on those years adds context to the character's story.
+- [[Encyclopedia Mysenvaria/Indexes/History/Timeline|Dates]] should only be linked to when they add to the content of the article. For instance, the years of birth for a specific character should likely not be linked if nothing from the articles on those years adds context to the character's story.
 
 [^1]: [Wookieepedia](https://starwars.fandom.com/wiki/Wookieepedia:Manual_of_Style), [Memory Alpha](https://memory-alpha.fandom.com/wiki/Memory_Alpha:Manual_of_Style), [Fandom](https://help.fandom.com/wiki/Manual_of_style), and [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines) are the most notable which I took from.

@@ -26,5 +26,3 @@ Into the [[Encyclopedia Mysenvaria/Indexes/History/Decades/170s BT|170s]] the fi
 # Evolution of Ideals
 
 # End and Post-Treaty Conclusions
-
-# See Also

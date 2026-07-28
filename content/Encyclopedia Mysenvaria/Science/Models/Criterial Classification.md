@@ -41,4 +41,3 @@ Tri-criterial classification organizes organisms into groups based off of their
 - Devastator, organisms specializing in heavy artillery, originally functioned to cause mass destruction.
 # Significance
 Tri-criterial classification is the first widely accepted taxonomic classification of organisms and changed many widely held beliefs and perceptions regarding flora and fauna.
-# See Also

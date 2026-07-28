@@ -1,5 +1,5 @@
 ---
-title: "Indices"
+title: "Indexes"
 enableToc: true
 type: index
 status: complete
@@ -52,6 +52,7 @@ index:
     excluded_data:
       - tags: [topic/history/decade]
       - tags: [topic/history/century]
+      - title: "Timeline"
     sort:
       - by: title
         method: standard_forward
@@ -70,7 +71,7 @@ index:
           method: first_character
 ---
 
-This page serves as an index of index pages across the Encyclopedia, sorted by topic and alphabetical order.
+The following article serves to index all of the indexes throughout the *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]*. Indexes are sorted in headers categorically based on the Encyclopedia's six article types ([[Encyclopedia Mysenvaria/Arts/Artistic Articles|artistic]], [[Encyclopedia Mysenvaria/Biology/Biological Articles|biological]], [[Encyclopedia Mysenvaria/Culture/Cultural Articles|cultural]], [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical]], [[Encyclopedia Mysenvaria/History/Historical Articles|historical]], and [[Encyclopedia Mysenvaria/Science/Scientific Articles|scientific articles]]).
 # Arts
 - [[Encyclopedia Mysenvaria/Indexes/Art/Cuisine/List of Foods & Cuisines|List of Foods & Cuisines]]
 - [[Encyclopedia Mysenvaria/Indexes/Art/Games/List of Games|List of Games]]
@@ -106,7 +107,6 @@ This page serves as an index of index pages across the Encyclopedia, sorted by t
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Indexes of Gods|List of Indexes of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Lesser-Gods|List of Lesser-Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Reaction Gods]]
-- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
 
 # Science
 - [[Encyclopedia Mysenvaria/Indexes/Science/Phenomena/List of Phenomena|List of Phenomena]]

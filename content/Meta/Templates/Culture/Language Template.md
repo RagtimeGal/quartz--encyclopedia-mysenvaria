@@ -39,6 +39,3 @@ event:
 # Writing
 
 # Dialects & Accents
-
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Languages/List of Languages|List of Languages]]

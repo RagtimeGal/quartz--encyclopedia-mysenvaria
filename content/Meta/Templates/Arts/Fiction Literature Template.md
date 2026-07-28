@@ -32,6 +32,3 @@ event:
 # Publication
 
 # Reception
-
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of Written Works]]

@@ -24,5 +24,3 @@ future: none
 # Treatment
 
 # Cultural Significance
-
-# See Also

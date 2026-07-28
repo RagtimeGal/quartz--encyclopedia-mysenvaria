@@ -35,5 +35,3 @@ status: empty
 
 ## Reproductive System
 # History
-
-# See Also

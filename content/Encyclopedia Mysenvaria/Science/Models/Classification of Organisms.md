@@ -18,5 +18,3 @@ The idea of modifying existing organisms also gives rise to common ancestors, th
 # History
 # Criterial Classification
 # Conceptual Evolution
-
-# See Also

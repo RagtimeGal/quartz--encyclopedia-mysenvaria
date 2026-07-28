@@ -19,6 +19,3 @@ status: empty
 # Ecology & Climate
 
 # Cultural Significance
-
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Natural Features|List of Natural Features]]

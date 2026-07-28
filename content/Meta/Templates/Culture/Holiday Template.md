@@ -23,6 +23,3 @@ event:
 # History
 
 # Celebration
-
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Culture/Events & Holidays/List of Holidays|List of Holidays]]

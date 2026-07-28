@@ -59,5 +59,3 @@ featured_data:
 ## Date Formatting
 
 # Controversy
-
-# See Also

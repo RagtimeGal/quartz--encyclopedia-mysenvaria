@@ -71,6 +71,3 @@ event:
 ## Cuisine
 
 ## Sports
-
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|Lists of Abstract Features]]

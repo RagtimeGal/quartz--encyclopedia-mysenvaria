@@ -14,4 +14,3 @@ needs:
 > This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 Lightning shrooms are a species of fungus found in monsoon regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|Old World]] which target species of tree which they grow to the top of. The fungi fruit with metal-rich caps intended to attract lightning and cause fires.
-# See Also

@@ -41,6 +41,3 @@ event:
 # Arts and Culture
 
 # Notable Figures
-
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Artificial Features/List of Artificial Features|List of Artificial Features]]

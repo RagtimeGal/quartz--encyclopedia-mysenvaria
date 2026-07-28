@@ -18,4 +18,3 @@ Elven fungi are a species of sessile symbiont consumers which parasitize various
 While many species of plant already possess minor vision, some elven plants possess significantly better vision in the form of modified flowers and fruits. Branches and roots grow significantly more limber and with muscle-like fibers which allow them to move.
 
 Elves themselves are [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|sophonts]] which occur as a result of the parasitic relationship between the fungi and plants. An elf's conscious being seems inseparable from both the parasite and host, and it appears that elf individuals associate fungus and plant with their body and see neither as separate. After infection neither host nor parasite can survive without each other, requiring key nutrients provided by the other individual.
-# See Also

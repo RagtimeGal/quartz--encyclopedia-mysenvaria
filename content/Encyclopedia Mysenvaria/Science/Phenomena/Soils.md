@@ -37,5 +37,3 @@ needs:
 - **Lava Domes**: Steep-sided, dome-like; formed by highly viscous lava; potential for explosive activity. 
   - **Common Locations**: Volcanic arcs, continental volcanic regions, associated with stratovolcanoes and caldera complexes.
 # Significance
-
-# See Also

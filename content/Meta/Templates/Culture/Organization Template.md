@@ -23,4 +23,3 @@ future: none
 
 # Notable Figures
 
-# See Also

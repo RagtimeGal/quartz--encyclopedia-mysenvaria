@@ -20,5 +20,3 @@ future: none
 # Ingredients
 
 # Properties
-
-# See Also

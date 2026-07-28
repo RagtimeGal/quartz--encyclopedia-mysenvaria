@@ -24,5 +24,3 @@ ff1: ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing
 # Influence
 
 # Notable Figures
-
-# See Also

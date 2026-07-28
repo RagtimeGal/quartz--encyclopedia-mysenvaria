@@ -26,4 +26,3 @@ The [[Encyclopedia Mysenvaria/Geography/Stars/Human Minds System/Human Minds|Hum
 In the year 421bt elves would arise too, created by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Penguinone|God of Penguinone]]. Elves minds would repurpose the bodies of plants to create new sophontic minds.
 # Relationship with Animals and Plants
 Sapients have, throughout history, domesticated and simultaneously led to the extinction of numerous organisms.
-# See Also

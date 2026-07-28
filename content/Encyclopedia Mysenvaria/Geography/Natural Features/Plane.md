@@ -34,7 +34,5 @@ The surface of the Plane consists of 47% water.
 
 # Ecology & Climate
 
-# See also
-- [[Encyclopedia Mysenvaria/Indexes/Geography/Natural Features/List of Natural Features|List of Natural Features]]
 
 [^figure1]: ![[Media/Images/Infographics/world_diagram.png]]

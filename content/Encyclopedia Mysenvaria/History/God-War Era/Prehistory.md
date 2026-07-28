@@ -1,23 +1,12 @@
 ---
-title: "Stars Documenting Half-Gods"
+title: "Prehistory"
 enableToc: true
 tags:
-  - topic/geography/astrography
-  - subject/star
-type: index
+  - topic/history/god-war_era
+type: article
 status: empty
 future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
-
-# Demi-Gods
-## Sophont
-
-## Non-sophont
-
-# Womb-Gods
-## Sophont
-
-## Non-sophont

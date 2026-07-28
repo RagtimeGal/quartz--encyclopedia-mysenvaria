@@ -18,4 +18,3 @@ status: empty
 
 # Notable Figures
 
-# See Also

@@ -22,5 +22,3 @@ Dwarves, like their closely related cousins, maintain long-clawed hands and feet
 
 Dwarves struggle to move and stand bipedally because of their front-heavy bodies and stubby limbs. Instead, they often locomote by either crawling on their stomachs, walking with the aid of their tentacles, or hopping by picking themselves up by their tentacles. When idling they will often stand leaning forward on their tentacles.
 # History
-
-# See Also

@@ -24,5 +24,3 @@ One of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War's]]
 # Late-War
 
 # Post-War
-
-# See Also

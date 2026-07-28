@@ -60,5 +60,3 @@ Taxa2-->Taxa23[Amphibia]
 Taxa2-->Taxa24[Synapsids]
 ```
 # Significance
-
-# See Also

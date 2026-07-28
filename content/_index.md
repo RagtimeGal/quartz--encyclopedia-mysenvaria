@@ -10,20 +10,9 @@ status: complete
 
 The [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]] is a comprehensive collection of educational articles written by numerous scholars from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and compiled and published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]]. Academy Publishing has worked diligently for the last two hundred years to collaborate and compile the work of as many scholars from as many [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|studies]] as possible.
 
-All articles across the Encyclopedia have been neatly organized into six distinct categories based on topic: [[Encyclopedia Mysenvaria/Arts/Artistic Articles|artistic]], [[Encyclopedia Mysenvaria/Biology/Biological Articles|biological]], [[Encyclopedia Mysenvaria/Culture/Cultural Articles|cultural]], [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical]], [[Encyclopedia Mysenvaria/History/Historical Articles|historical]], and [[Encyclopedia Mysenvaria/Science/Scientific Articles|scientific articles]]. Each primary category has further been broken down into subcategories which can be further explored from their categories corresponding article. A single article may be appropriately categorized into two or more primary topics, but will only be sorted based on the topic deemed most relevant.
+All articles across the Encyclopedia have been neatly organized into six distinct categories based on topic: [[Encyclopedia Mysenvaria/Arts/Artistic Articles|artistic]], [[Encyclopedia Mysenvaria/Biology/Biological Articles|biological]], [[Encyclopedia Mysenvaria/Culture/Cultural Articles|cultural]], [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical]], [[Encyclopedia Mysenvaria/History/Historical Articles|historical]], and [[Encyclopedia Mysenvaria/Science/Scientific Articles|scientific articles]]. Together these primary categories encompass all knowledge across the Plane. Each primary category has further been broken down into subcategories which can be further explored from their categories corresponding article. A single article may be appropriately categorized into two or more primary topics, but will only be sorted based on the topic deemed most relevant.
 
-Besides their primary topics articles may also be categorized according to their secondary subjects. Articles are listed according to their topics and subjects in various [[Encyclopedia Mysenvaria/Indexes/Indices|indices]]. 
-
-Academy Publishing also offers visitors access to their [[Archive Library/Archive Home|archival library]], wherein thousands of archived works are kept. 
-
-Academy Publishing also offers visitors access to their [[Archive Library/Archive Home|archival library]], wherein there are thousands of archived books available.
-
-It can appear difficult at first to find a place to begin within the Encyclopedia, so tailored articles have been written to simplify the task:
-- [[Encyclopedia Mysenvaria/Indexes/Indices|Indices]] act as lists of articles sharing similar or related topics.
-- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]] links to decade and millennia articles which serve as concise and comprehensive timelines of the Plane.
-- [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]], [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]], [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]], and [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]] act as descriptive timelines of the Plane's history.
-
-Outside of those, you can also check out the featured page and some fun facts below!
+Besides their primary topics articles may also be categorized according to their secondary subjects. Articles are listed in a variety of formats according to their topics and subjects across various [[Encyclopedia Mysenvaria/Indexes/Indexes|indexes]]. The [[Encyclopedia Mysenvaria/Indexes/History/Timeline|timeline]] article also provides a comprehensive bullet point timeline of events across the Plane's history, including wars, important births and deaths, and significant publications.
 
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
