@@ -10,6 +10,7 @@ Expected behavior in the community includes:
 - Constructive disagreements. It's OK to have differing opinions on creative decisions and topics, so long as those disagreements remain civil.
 - Keeping interactions free of personal attacks, passive aggression, and drama.
 - Remaining on topic.
+
 Unacceptable behavior in the community includes, but is not limited to:
 - Harassment, discrimination, or hate speech of any kind.
 - Submitting plagiarized content or passing off others' work as your own.
@@ -17,9 +18,10 @@ Unacceptable behavior in the community includes, but is not limited to:
 - Attempting to override or subvert decisions made by moderators.
 
 ## Enforcement
-Violation of the Code of Conduct are taken very seriously. Violations may result in:
+Violations of the Code of Conduct are taken very seriously. Violations may result in:
 - A single warning.
 - Being blocked from contributing.
+- Having contributed content removed.
 - Being removed from community spaces altogether.
 
 ## Reporting

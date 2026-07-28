@@ -5,7 +5,7 @@ The Encyclopedia Mysenvaria (the "Project") contains both **content** (written m
 ---
 ## 1. Content
 
-The Project's content is licensed under the **Creative Commons Attribution-NonCommercial (CC BY-NC)** license.
+The Project's content is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)** license.
 
 This means you are free to:
 - **Share**: Copy and redistribute the material in any medium or format.
@@ -57,7 +57,7 @@ By contributing to the Project, you agree that:
 - Your contribution is your own original work and/or you have the legal right to submit under the applicable license.
 - You retain copyright ownership but grant the Project a **perpetual, irrevocable, royalty-free license** to use, modify, adapt, or ignore your submission at its sole discretion.
 - Submission does not guarantee inclusion. Contributions may be edited or removed without notice.
-- Submissions classified as **content** are licensed under **CC BY-NC**.
+- Submissions classified as **content** are licensed under **CC BY-NC-SA**.
 - Submissions classified as **code** are licensed under **MIT**.
 
 ---

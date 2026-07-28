@@ -134,15 +134,14 @@ tags:
   - subject/star/host # This article covers information regarding the host of a star system.
   - subject/star/child # This article covers information regarding a child star in a star system.
   - subject/star_system # This article covers information regarding a star system.
-# These tags are used for articles which cover information relating to the Plane's sophonts.
-  - subject/sophont # This article covers information regarding an aspect of sophonts.
-  - subject/sophont/human # This article covers information regarding an aspect of humans.
-  - subject/sophont/elf # This article covers information regarding an aspect of elves.
-  - subject/sophont/dwarf # This article covers information regarding an aspect of dwarves.
+# These tags are used for articles which cover information specifically relating to one or more of the Plane's sophonts.
+  - subject/humans # This article covers information regarding an aspect of humans.
+  - subject/elves # This article covers information regarding an aspect of elves.
+  - subject/dwarves # This article covers information regarding an aspect of dwarves.
 # These tags are used for articles covering literary works.
-  - subject/literature # This article covers information regarding a literary work.
-  - subject/literature/non-fiction # This article covers a literary work of the genre: fiction.
-  - subject/literature/fiction # This article covers a literary work of the genre: non-fiction.
+  - subject/literature/genre # This article covers information regarding a literary genre.
+  - subject/literature/genre/non-fiction # This article covers a literary work of the genre: fiction.
+  - subject/literature/genre/fiction # This article covers a literary work of the genre: non-fiction.
 # These tags are used for misc. subjects.
   - subject/old_world # This article covers information which occurred in the Old World.
   - subject/new_world # This article covers information which occurred in the New World.
@@ -185,9 +184,9 @@ featured_data:
   fun_facts: ["fun_fact1"]
 ---
 %%
-featured_description_example: A short and concise description of the article's contents.
-featured_image_example: ![[Media/Images/example.png|example.png]]
-fun_fact1: A short fun fact relating to the article's contents. Should be formated to be followed by "Did you know...".
+"featured_description_example": "A short and concise description of the article's contents."
+"featured_image_example": "![[Media/Images/example.png|example.png]]"
+"fun_fact1": "A short fun fact relating to the article's contents. Should be formated to be followed by "Did you know..."."
 %%
 ```
 
@@ -205,8 +204,8 @@ event: # This is an array, so it can handle multiple events per-page.
     major_event: true # Determines whether or not the event should be listed on certain pages.
 ---
 %%
-start_desc_example: This is the description for the start of the event. The program will search all hidden comments across the page to see if it can find the referenced string.
-end_desc_example: This is the description for the end of the event, if it has one.
+"start_desc_example": "This is the description for the start of the event. The program will search all hidden comments across the page to see if it can find the referenced string."
+"end_desc_example": "This is the description for the end of the event, if it has one."
 %%
 ```
 # Star Example
@@ -240,12 +239,12 @@ star: # This is an array, so it can handle multiple stars per-page.
         major_event: true # Determines whether or not the event should be listed on certain pages.
 ---
 %%
-star_desc: A short description of the star itself.
-parent_star: May be a wikilink to the parent star.
-translator_example: May be a wikilink to the translators page.
-translation_description_example: A short description of the event relating to this star's translation.
-publisher_example: May be a wikilink to the publishers page.
-publish_description_example: A short description of the event relating to this star's publication.
+"star_desc": "A short description of the star itself."
+"parent_star": "May be a wikilink to the parent star."
+"translator_example": "May be a wikilink to the translators page."
+"translation_description_example": "A short description of the event relating to this star's translation."
+"publisher_example": "May be a wikilink to the publishers page."
+"publish_description_example": "A short description of the event relating to this star's publication."
 %%
 ```
 # Person Example
@@ -268,12 +267,12 @@ person: # This is an array, so it can handle multiple people per-page.
     major_event: false # Determines whether or not their birth and death should be listed on certain pages.
 ---
 %%
-location_example: May be a wikilink to the location of the person's birth.
-birth_description_example: A short description of the person's birth.
-death_description_example: A short description of the person's death.
-parent_example: May be a wikilink to the person's parent.
-child_example: May be a wikilink to the person's child.
-spouse_example: May be a wikilink to the person's spouse.
+"location_example": "May be a wikilink to the location of the person's birth."
+"birth_description_example": "A short description of the person's birth."
+"death_description_example": "A short description of the person's death."
+"parent_example": "May be a wikilink to the person's parent."
+"child_example": "May be a wikilink to the person's child."
+"spouse_example": "May be a wikilink to the person's spouse."
 %%
 ```
 # Index Example
@@ -294,20 +293,4 @@ index: # This is an array, so it can handle multiple indexes per-page.
           method: first_character # The method by which to generate the subheader. Accepts `value` (Creates a subheader for each unique value), `first_character` (Creates a subheader for each unique first character), and `floor_x` (Works only for numbers, creates a subheader at each interval of x).
           format: "{value}'s Example" # Optional. Tells the program how to format the subheader. 
 ---
-```
-# Archive Example
-```yaml
----
-archived_work:
-  title: "Example Work"
-  authors: ["author_example"] # An array of any authors who are known to have worked on the work.
-  language: "language_example" # The original language the work was published in.
-  publication_date: [] # Date of the work's original publication.
-  medium: unknown # The medium the work was originally published in. Accepts: `unknown`, `stone`, `clay`, `papyrus`, `wax`, `wood`, `parchment`, `vellum`, or `paper`.
-  status: complete # The current status of the archived work. Accepts: `complete`, `fragmented`, `censored`, `restored`, or `lost`.
----
-%%
-author_example: May be a wikilink to the work's author.
-language_example: May be a wikilink to the work's original language.
-%%
 ```
