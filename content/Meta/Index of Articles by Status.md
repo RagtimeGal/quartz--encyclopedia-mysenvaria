@@ -10,7 +10,6 @@ index:
   - header_name: "Articles by Status"
     excluded_data:
       - future: auto-generated
-      - tags: [topic/meta]
     sort:
       - by: status
         method: standard_forward
@@ -29,54 +28,38 @@ index:
 The following is a list of all articles from across the Encyclopedia Mysenvaria, sorted by the article's status.
 
 # Articles by Status
+## auto-generated
+- [[Encyclopedia Mysenvaria/Indexes/Geography/Stars/List of Indexes of Stars|List of Indexes of Stars]]
 ## complete
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century AT|1st Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/1st Century BT|1st Century BT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century AT|2nd Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/2nd Century BT|2nd Century BT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/3rd Century AT|3rd Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/4th Century AT|4th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/5th Century AT|5th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/6th Century AT|6th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/7th Century AT|7th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/8th Century AT|8th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/9th Century AT|9th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/10th Century AT|10th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/11th Century AT|11th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/12th Century AT|12th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/13th Century AT|13th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/14th Century AT|14th Century AT]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Centuries/15th Century AT|15th Century AT]]
-- [[Encyclopedia Mysenvaria/Arts/Artistic Articles|Artistic Articles]]
+- [[Archive Library/Archive Home|Archive Home]]
+- [[Encyclopedia Mysenvaria/Arts/Art|Art]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
+- [[Meta/Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]
 - [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]
-- [[Meta/Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation (Addenda)]]
-- [[Encyclopedia Mysenvaria/Biology/Biological Articles|Biological Articles]]
+- [[Encyclopedia Mysenvaria/Biology/Biology|Biology]]
 - [[Meta/Callouts|Callouts]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Climate|Climate]]
-- [[Meta/Encyclopedia Mysenvaria/Biology/Organisms/Animals/Communion Moth|Communion Moth (Addenda)]]
-- [[Encyclopedia Mysenvaria/Culture/Cultural Articles|Cultural Articles]]
+- [[Meta/Contributing|Contributing]]
+- [[Meta/Contributors|Contributors]]
+- [[Encyclopedia Mysenvaria/Culture/Culture|Culture]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
-- [[Private/Discord Notes & Snippets|Discord Notes & Snippets]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Dying Period|Dying Period]]
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]]
+- [[_index|Encyclopedia Home]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (Phenomenon)|Entity (phenomenon)]]
-- [[Encyclopedia Mysenvaria/Geography/Geographical Articles|Geographical Articles]]
-- [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]
+- [[Encyclopedia Mysenvaria/Geography/Geography (topic)|Geography (topic)]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Past, Present, and Future|Gods of Past, Present, and Future]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]]
-- [[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]
+- [[Encyclopedia Mysenvaria/History/History|History]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]
+- [[Encyclopedia Mysenvaria/Indexes/History/List of Years|List of Years]]
 - [[Meta/Ledgers/Ledger 2.2025|Lore Ledger 2.25]]
 - [[Meta/Ledgers/Ledger 3.2025|Lore Ledger 3.25]]
 - [[Meta/Ledgers/Ledger 4.2026|Lore Ledger 4.26]]
 - [[Meta/Ledgers/Ledger 10.2026|Lore Ledger 10.26]]
 - [[Meta/Ledgers/Ledger 12.2026|Lore Ledger 12.26]]
 - [[Meta/Ledgers/Ledger 17.2025|Lore Ledger 17.25]]
-- [[Meta/Ledgers/Ledger 31.2026|Lore Ledger 31.26]]
 - [[Meta/Ledgers/Ledger 34.2025|Lore Ledger 34.25]]
 - [[Meta/Ledgers/Ledger 38.2025|Lore Ledger 38.25]]
 - [[Meta/Ledgers/Ledger 45.2025|Lore Ledger 45.25]]
@@ -86,23 +69,17 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Ledgers/Ledger 48.2024|Lore Ledger 48.24]]
 - [[Meta/Ledgers/Ledger 50.2024|Lore Ledger 50.24]]
 - [[Meta/Ledgers/Ledger 51.2024|Lore Ledger 51.24]]
-- [[Meta/Encyclopedia Mysenvaria/Science/Models/Material|Material (Addenda)]]
+- [[Meta/Encyclopedia Mysenvaria/Science/Models/Material|Material]]
+- [[Meta/Meta|Meta]]
 - [[Meta/Metadata|Metadata]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Oceanic Circulation|Oceanic Circulation]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]]
 - [[Encyclopedia Mysenvaria/Science/Models/Relationships (model)|Relationships (model)]]
-- [[Encyclopedia Mysenvaria/Science/Scientific Articles|Scientific Articles]]
+- [[Encyclopedia Mysenvaria/Science/Science|Science]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]
-- [[Meta/Encyclopedia Mysenvaria/Biology/Organisms/Animals/Stacking Birds|Stacking Birds (Addenda)]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]
-- [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]
-- [[Private/Temporary Note|Temporary Note]]
-- [[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Timeline|Timeline]]
-- [[Private/To-do|To-do]]
 - [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]]
-- [[Encyclopedia Mysenvaria/Science/Models/Visibility-Aggression Filter|Visibility-Aggression Filter]]
 - [[Meta/Writing Guidelines|Writing Guidelines]]
 ## empty
 - [[Meta/Templates/Geography/Abstract Features Template|Abstract Features Template]]
@@ -113,7 +90,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Anatomy|Anatomy]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Ancient Philosopher|Ancient Philosopher]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Anthropology|Anthropology]]
 - [[Meta/Templates/Archived Work Template|Archived Work Template]]
 - [[Meta/Templates/Geography/Artifical Features Template|Artificial Features Template]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|Atmosphere]]
@@ -130,12 +106,13 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|Cartographer]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Charles Lightningson|Charles Lightningson]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Chemistry|Chemistry]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Claim Star|Claim Star]]
+- [[Encyclopedia Mysenvaria/Science/Models/Classification of Gods|Classification of Gods]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Climatology|Climatology]]
 - [[Encyclopedia Mysenvaria/Science/Models/Cline Climate|Cline Climate]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Clock|Clock]]
 - [[Encyclopedia Mysenvaria/Science/Models/Common Ancestors|Common Ancestors]]
+- [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]]
 - [[Encyclopedia Mysenvaria/History/Modern Era/Cracked Star Incident|Cracked Star Incident]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Cracked Star Man|Cracked Star Man]]
 - [[Meta/Templates/Arts/Cuisine Template|Cuisine Template]]
@@ -143,17 +120,23 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea|Deadman's Sea]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Deaths During the God-War Era|Deaths During the God-War Era]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Debris Raining Star|Debri Raining Star]]
+- [[Encyclopedia Mysenvaria/Culture/Beliefs/Deities|Deities]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Demi-Human|Demi-Human]]
 - [[Encyclopedia Mysenvaria/Science/Models/Dietary Classification|Dietary Classification]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Discoverer of Evolution|Discoverer of Evolution]]
 - [[Meta/Templates/Biology/Disease Template|Disease Template]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Doctor|Doctor]]
+- [[Encyclopedia Mysenvaria/Arts/Cuisine/Draconic Potluck|Draconic Potluck]]
+- [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Dragon Hunt|Dragon Hunt]]
+- [[Encyclopedia Mysenvaria/Biology/Organisms/Dwarf|Dwarf]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Dwarf Soundwife|Dwarf Soundwife]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Earthquake|Earthquake]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago|Eastern Archipelago]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Ecology|Ecology]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem|Ecosystem]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods|Elemental Gods]]
+- [[Encyclopedia Mysenvaria/Biology/Disease/Elf|Elf]]
+- [[Encyclopedia Mysenvaria/Culture/Languages/Elven Languages|Elven Languages]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Ending Star System|Ending Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Energy Act|Energy Act]]
@@ -162,8 +145,8 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Entity (linguistics)|Entity (linguistics)]]
 - [[Meta/Templates/Culture/Ethnicity Template|Ethnicity Template]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Evacuation Star|Evacuation Star]]
-- [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Event Template]]
 - [[Meta/Templates/History/Event Template|Event Template]]
+- [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Event Template]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Failed Love Star|Failed Love Star]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Famous Anthropologist|Famous Anthropologist]]
@@ -178,185 +161,189 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Stars/Frontier Beyond|Frontier Beyond]]
 - [[Meta/Templates/Arts/Games Template|Games Template]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Genetics|Genetics]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Geography|Geography]]
+- [[Encyclopedia Mysenvaria/Science/Branches/Geography (scientific branch)|Geography (scientific branch)]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Geology|Geology]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Glaciers|Glaciers]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/God Councils|God Councils]]
-- God of Actinium
-- God of Aluminum
-- God of Americium
-- God of Antimony
-- God of Argon
-- God of Arsenic
+- god_of_actinium
+- god_of_aluminum
+- god_of_americium
+- god_of_antimony
+- god_of_argon
+- god_of_arsenic
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Aspartic Acid|God of Aspartic Acid]]
-- God of Astanine
-- God of Barium
-- God of Berkelium
-- God of Berylium
-- God of Beryllium
-- God of Bismuth
-- God of Bohrium
-- God of Boron
-- God of Bromine
-- God of Cadmium
-- God of Caesium
+- god_of_astanine
+- god_of_barium
+- god_of_berkelium
+- god_of_berylium
+- god_of_beryllium
+- god_of_bismuth
+- god_of_bohrium
+- god_of_boron
+- god_of_bromine
+- god_of_cadmium
+- god_of_caesium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Calcium|God of Calcium]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Calcium Acetate|God of Calcium Acetate]]
-- God of Californium
+- god_of_californium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Carbon|God of Carbon]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Dioxide|God of Carbon Dioxide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Disulfide|God of Carbon Disulfide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Carbon Monoxide|God of Carbon Monoxide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Cerium|God of Cerium]]
-- God of Chlorine
-- God of Chromium
+- god_of_chlorine
+- god_of_chromium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Chromodynamic Energy|God of Chromodynamic Energy]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cinnamic Acid|God of Cinnamic Acid]]
-- God of Cobalt
-- God of Copernicium
-- God of Copper
-- God of Curium
+- god_of_cobalt
+- god_of_copernicium
+- god_of_copper
+- god_of_curium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Cyclopentadecanolide|God of Cyclopentadecanolide]]
-- God of Darmstadtium
+- god_of_darmstadtium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Diethyl Dixanthogen Disulfide|God of Diethyl Dixanthogen Disulfide]]
-- God of Dubnium
-- God of Dysprosium
-- God of Einsteinium
-- God of Erbium
+- god_of_dubnium
+- god_of_dysprosium
+- god_of_einsteinium
+- god_of_erbium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Ethionamide|God of Ethionamide]]
-- God of Europium
-- God of Fermium
-- God of Flerovium
-- God of Fluorine
-- God of Francium
+- god_of_europium
+- god_of_fermium
+- god_of_flerovium
+- god_of_fluorine
+- god_of_francium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]]
-- God of Gadolinium
-- God of Gallium
+- god_of_gadolinium
+- god_of_gallium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Gasses|God of Gasses]]
-- God of Germanium
-- God of Gold
+- god_of_germanium
+- god_of_gold
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Greenschist|God of Greenschist]]
-- God of Hafnium
-- God of Hassium
+- god_of_hafnium
+- god_of_hassium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Heat Lightning|God of Heat Lightning]]
-- God of Helium
-- God of Holmium
+- god_of_helium
+- god_of_holmium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Hydrogen|God of Hydrogen]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Cyanide|God of Hydrogen Cyanide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Hydrogen Peroxide|God of Hydrogen Peroxide]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Igneous Rock|God of Igneous Rock]]
-- God of Indium
+- god_of_indium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iodine|God of Iodine]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iridium|God of Iridum]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Iron|God of Iron]]
-- God of Krypton
-- God of Lanthanum
-- God of Lawrencium
-- God of Lead
+- god_of_krypton
+- god_of_lanthanum
+- god_of_lawrencium
+- god_of_lead
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Weather/God of Lightning|God of Lightning]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Liquids|God of Liquids]]
-- God of Lithium
-- God of Livermorium
-- God of Lutetium
-- God of Magnesium
-- God of Manganese
-- God of Meitnerium
-- God of Mendelevium
-- God of Mercury
+- god_of_lithium
+- god_of_livermorium
+- god_of_lutetium
+- god_of_magnesium
+- god_of_manganese
+- god_of_meitnerium
+- god_of_mendelevium
+- god_of_mercury
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Metapsammite|God of Metapsammite]]
-- God of Molybdenum
+- god_of_molybdenum
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Molybdenum Bromide|God of Molybdenum Bromide]]
-- God of Moscovium
-- God of Neodymium
-- God of Neon
-- God of Neptunium
-- God of Nickel
-- God of Niobium
-- God of Nitrogen
-- God of Nobelium
-- God of Nohonium
-- God of Oganesson
-- God of Osmium
+- god_of_moscovium
+- god_of_neodymium
+- god_of_neon
+- god_of_neptunium
+- god_of_nickel
+- god_of_niobium
+- god_of_nitrogen
+- god_of_nobelium
+- god_of_nohonium
+- god_of_oganesson
+- god_of_osmium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Oxygen|God of Oxygen]]
-- God of Palladium
+- god_of_palladium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Penguinone|God of Penguinone]]
-- God of Phosphorus
+- god_of_phosphorus
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Plasma|God of Plasma]]
-- God of Platinum
+- god_of_platinum
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Plutonium|God of Plutonium]]
-- God of Polonium
+- god_of_polonium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Porous Rock|God of Porous Rock]]
-- God of Potassium
-- God of Praseodymium
-- God of Proactinium
-- God of Promethium
+- god_of_potassium
+- god_of_praseodymium
+- god_of_proactinium
+- god_of_promethium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Pyrolite|God of Pyrolite]]
-- God of Radium
-- God of Radon
-- God of Rhenium
-- God of Rhodium
-- God of Roentgenium
-- God of Rubidium
+- god_of_radium
+- god_of_radon
+- god_of_rhenium
+- god_of_rhodium
+- god_of_roentgenium
+- god_of_rubidium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Rubidium Perchlorate|God of Rubidium Perchlorate]]
-- God of Ruthenium
-- God of Rutherfordium
-- God of Samarium
-- God of Scandium
-- God of Seaborgium
-- God of Selenium
-- God of Silicon
-- God of Silver
+- god_of_ruthenium
+- god_of_rutherfordium
+- god_of_samarium
+- god_of_scandium
+- god_of_seaborgium
+- god_of_selenium
+- god_of_silicon
+- god_of_silver
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods/God of Sodium|God of Sodium]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|God of Sodium Ethyl Xanthate]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Formate|God of Sodium Formate]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods#Solids|God of Solids]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/God of Sound|God of Sound]]
-- God of Strontium
-- God of Sulfur
-- God of Tantalum
-- God of Technetium
+- god_of_strontium
+- god_of_sulfur
+- god_of_tantalum
+- god_of_technetium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Tectonics|God of Tectonics]]
-- God of Tellurium
-- God of Tennessine
-- God of Terbium
+- god_of_tellurium
+- god_of_tennessine
+- god_of_terbium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Tetrahydropyridine|God of Tetrahydropyridine]]
-- God of Thallium
-- God of Thorium
-- God of Thulium
-- God of Tin
-- God of Titanium
+- god_of_thallium
+- god_of_thorium
+- god_of_thulium
+- god_of_tin
+- god_of_titanium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Trioxidane|God of Trioxidane]]
-- God of Tungsten
-- God of Uranium
-- God of Vanadium
+- god_of_tungsten
+- god_of_uranium
+- god_of_vanadium
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Water|God of Water]]
-- God of Xenon
-- God of Ytterbium
-- God of Yttrium
-- God of Zinc
-- God of Zirconium
+- god_of_xenon
+- god_of_ytterbium
+- god_of_yttrium
+- god_of_zinc
+- god_of_zirconium
+- [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|God's Afterlife]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology|Gods and Phonology]]
 - [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Grafting|Grafting]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Gravity|Gravity]]
 - [[Encyclopedia Mysenvaria/Culture/Organizations/Great Astronomy Foundation|Great Astronomy Foundation]]
+- [[Encyclopedia Mysenvaria/History/Post-War Era/Great Disappearance|Great Disappearance]]
 - [[Encyclopedia Mysenvaria/History/Post-War Era/Great Dying|Great Dying]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Great Flood|Great Flood]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater|Great Oceanic Crater]]
-- [[Encyclopedia Mysenvaria/History/Post-War Era/Great Silence|Great Silence]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Tear|Great Tear]]
+- [[Encyclopedia Mysenvaria/Culture/Beliefs/Greater God Conspiracy|Greater God Conspiracy]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Habitable Zone|Habitable Zone]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]]
+- [[Encyclopedia Mysenvaria/Science/Models/Heavenly Lineage Model|Heavenly Lineage Model]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Historian|Historian]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]]
 - [[Meta/Templates/Culture/Holiday Template|Holiday Template]]
 - [[Encyclopedia Mysenvaria/Science/Models/Hornerian Classification|Hornerian Classification]]
+- [[Encyclopedia Mysenvaria/Biology/Organisms/Human|Human]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Human Protections Act|Human Protection Act]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Humanity Lost|Humanity Lost]]
 - [[Encyclopedia Mysenvaria/Culture/Languages/Humanized God Tongue|Humanized God Tongue]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|Ice Sheets]]
-- [[Encyclopedia Mysenvaria/Biology/Organs/Immune System|Immune System]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|Inner Circle]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Instruments|Instruments]]
 - [[Encyclopedia Mysenvaria/History/Modern Era/Iridium Experiments|Irididum Experiments]]
@@ -367,9 +354,8 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/Biographies/Josh Soundson|Josh Soundson]]
 - [[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen Climate]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Lamp|Lamp]]
-- [[Encyclopedia Mysenvaria/Science/Technologies/Language|Language]]
 - [[Meta/Templates/Culture/Language Template|Language Template]]
-- [[Encyclopedia Mysenvaria/Science/Models/Lineage|Lineage]]
+- [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]]
 - [[Encyclopedia Mysenvaria/Science/Models/Linguistic Evolution|Linguistic Evolution]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Loom|Loom]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Lost Elements Star|Lost Elements Star]]
@@ -389,7 +375,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Templates/Arts/Music Template|Music Template]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Mystery God|Mystery God]]
 - [[Meta/Templates/Geography/Natural Features Template|Natural Features Template]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Necromance|Necromance]]
 - [[Encyclopedia Mysenvaria/Culture/Organizations/New Inner Rainciv Astronomy Council|New Inner Rainciv Astronomy Council]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/New World System|New World System]]
 - [[Meta/Templates/Arts/Non-fiction Literature Template|Non-Fiction Literature Template]]
@@ -397,14 +382,12 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Technologies/Observatory|Observatory]]
 - [[Meta/Templates/Culture/Occupation Template|Occupation Template]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Ocean|Ocean]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Organ|Organ]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Organ Systems|Organ Systems]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Organic Destruction|Organic Destruction]]
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms of Mass Destruction|Organisms of Mass Destruction]]
 - [[Meta/Templates/Culture/Organization Template|Organization Template]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Orrery|Orrery]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Outer Ring|Outer Ring]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Paleontology|Paleontology]]
+- [[Encyclopedia Mysenvaria/Science/Models/Perennial Classification|Perennial Classification]]
 - [[Meta/Templates/Arts/Performative Arts Template|Performance Template]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods|Phenomena Gods]]
 - [[Meta/Templates/Science/Phenomena Template|Phenomena Template]]
@@ -412,6 +395,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Technologies/Pottery|Pottery]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Printing Press|Printing Press]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Psychology|Psychology]]
+- [[Encyclopedia Mysenvaria/Biology/Disease/Purple Lung|Purple Lung]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Relatics|Relatics]]
 - [[Encyclopedia Mysenvaria/Culture/Languages/Concepts/Relationships (linguistics)|Relationships (linguistics)]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Renouned Paleontologist|Renouned Paleontologist]]
@@ -422,9 +406,11 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Seasons|Seasons]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Snow|Snow]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Sociobiology|Sociobiology]]
+- [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Solstice|Solstice]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|Southern Continent]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape|Southern Crater Scape]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]]
+- [[Meta/Templates/Arts/Sports Template|Sports Template]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Star Map|Star Map]]
 - [[Meta/Templates/Geography/Star System Template|Star System Template]]
 - [[Meta/Templates/Geography/Star Template|Star Template]]
@@ -432,22 +418,16 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Technologies/Surgery|Surgery]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Taxonomy|Taxonomy]]
 - [[Meta/Templates/Science/Technology Template|Technology Template]]
-- [[Encyclopedia Mysenvaria/Geography/Artificial Features/Tectonic City-State|Tectonic City-State]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Telescope|Telescope]]
-- [[Encyclopedia Mysenvaria/History/Biographies/Temporary Kaleidoscope|Temporary Kaleidoscope]]
-- [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope|The Collected Works of Kaleidoscope]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/The Great Poleward Fog Migration|The Great Poleward Fog Migration]]
-- [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonlogical Directory of Gods Tongues]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|Theogenesis]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Tides|Tides]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Time Wizard Man|Time Wizard Man]]
 - [[Encyclopedia Mysenvaria/Science/Technologies/Trade Secret|Trade Secret]]
-- [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]]
 - [[Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches|Tri-Criterial Niches]]
-- [[Meta/Templates/Arts/Visual Art Template|Visual Art Template]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Volcanoes|Volcanoes]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Watchers Star|Watchers Star]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Water Wars|Water Wars]]
@@ -461,7 +441,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|Evolutionary Classification]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]
 - [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]]
-- [[Encyclopedia Mysenvaria/Science/Models/Godly Lineage Models|Godly Lineage Models]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of What Is and Is Not|Gods of What Is and Is Not]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|Organisms]]
@@ -470,7 +449,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|Sophonts]]
 - [[Encyclopedia Mysenvaria/Science/Models/Tectonics|Tectonics]]
 ## stub
-- [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|Afterlife]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Afterlife System|Afterlife System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Alex's Star System/Alex's Star|Alex's Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Alex's Star System|Alex's Star System]]
@@ -478,8 +456,6 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Stars/Anti-Womb Agreement|Anti-Womb Agreement]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Apology System/Apology Star|Apology Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Apology System|Apology System]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Arctic Squid|Arctic Squid]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Arm-wrestling Crab|Arm-wrestling Crab]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomy]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Birth Star|Birth Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Carbonprint|Carbonprint]]
@@ -488,30 +464,18 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/Geography/Stars/Cilia Star|Cilia Star]]
 - [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|Classification of Organisms]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Coalition Against Mimicry|Coalition Against Mimicry]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Communion Moth|Communion Moth]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Communion Trees|Communion Trees]]
-- [[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|Convening Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]
 - [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|Criterial Classification]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Death's Star System/Death's Star|Death's Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Death's Star System|Death's Star System]]
-- [[Encyclopedia Mysenvaria/Culture/Beliefs/Deities|Deities]]
-- [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Dragon Hunt Celebration|Dragon Hunt Celebration]]
-- [[Encyclopedia Mysenvaria/Arts/Cuisine/Dragon Waste Stew|Dragon Waste Stew]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Dragons|Dragons]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Dwarf|Dwarf]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Dwarven Star System/Dwarf Star|Dwarf Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Dwarven Star System|Dwarven Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Effigy Star|Effigy Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Elder's Star|Elder's Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Elemental Act|Elemental Act]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Elven Fungus|Elven Fungus]]
-- [[Encyclopedia Mysenvaria/Culture/Languages/Elven Languages|Elven Languages]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Elven Star System|Elven Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Elven Star System/Elves Star|Elves Star]]
 - [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Fairy Cats|Fairy Cats]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Ferment Fruit|Ferment Fruit]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/First Crater System/First Crater Star|First Crater Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/First Crater System|First Crater System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/First Epoch Star|First Epoch Star]]
@@ -524,55 +488,44 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Time]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Energy Gods/Gods of Kinetic & Potential Energy|Gods of Kinetic & Potential Energy]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Gods of Matter, Energy, Time, and Space]]
-- [[Encyclopedia Mysenvaria/Culture/Beliefs/Greater God Conspiracy|Greater God Conspiracy]]
-- [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Greater God Star|Greater God Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Half-life System/Half-life Star|Half-life Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Half-life System|Half-life System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Human|Human]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Human Minds System/Human Minds|Human Minds]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Human Minds System|Human Minds System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Humanity Created|Humanity Created]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Humanity Recycled|Humanity Recycled]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Plant Star System/Hydrogen Cyanide's Plants|Hydrogen Cyanide's Plants]]
 - [[Encyclopedia Mysenvaria/Culture/Languages/Proto-Human Language|Language Template]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Lightning Shrooms|Lightning Shrooms]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Limn Ants|Limn Ants]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Limn Rollers|Limn Rollers]]
-- [[Encyclopedia Mysenvaria/Biology/Organs/Limnary Press|Limnary Press]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Logbugs & Leafbugs|Logbugs & Leafbugs]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Lover's Stars|Lover's Stars]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Masked Hyper-Predators|Masked Hyper-Predators]]
 - [[Encyclopedia Mysenvaria/Science/Models/Material|Material]]
 - [[Encyclopedia Mysenvaria/History/Biographies/Gods/Material State Gods|Material State Gods]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Mimic Cuttlefish|Mimic Cuttlefish]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Mimic Owl|Mimic Owl]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Mirror Flowers|Mirror Flowers]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Mitosis Star System/Mitosis Star|Mitosis Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Mitosis Star System|Mitosis Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Mortality Revisited|Mortality Revisited]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Necromantic Beetles|Necromantic Beetles]]
 - [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Plant Star System|Plant Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Plea Star|Plea Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Population, Zero|Population, Zero]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Prototype Star|Prototype Star]]
-- [[Encyclopedia Mysenvaria/Biology/Disease/Purple Lung|Purple Lung]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Relations Act|Relations Act]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Relatives Star System/Relatives Star|Relatives Star]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Relatives Star System|Relatives Star System]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Screaming Butterflies|Screaming Butterflies]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Snake Bird|Snake Bird]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Soils|Soils]]
-- [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Solstice|Solstice]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Spatial Act|Spatial Act]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Stacking Birds|Stacking Birds]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Afterlife Star|Star Template]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Summoning Grass|Summoning Grass]]
-- [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Terrestrial Squid|Terrestrial Squid]]
+- [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]
 - [[Encyclopedia Mysenvaria/History/God-War Era/Territories During the God-War|Territories During the God-War]]
 - [[Encyclopedia Mysenvaria/Geography/Stars/Two Breasts|Two Breasts]]
-
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
-> This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+## touch-up
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]]
+- [[Encyclopedia Mysenvaria/History/God-War Era/Geography During the God-War|Geography During the God-War]]
+- [[Encyclopedia Mysenvaria/History/God-War Era/First Death|The First Death]]
+## update
+- [[Encyclopedia Mysenvaria/Indexes/History/Lineages/Godly Lineage|Godly Lineage]]
+- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works|List of all Written Works]]
+- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the God-War Era|List of all Written Works Published During the God-War Era]]
+- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Golden Age|List of all Written Works Published During the Golden Age]]
+- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Modern Era|List of all Written Works Published During the Modern Era]]
+- [[Encyclopedia Mysenvaria/Indexes/Art/Literature/List of all Written Works Published During the Post-War Era|List of all Written Works Published During the Post-War Era]]

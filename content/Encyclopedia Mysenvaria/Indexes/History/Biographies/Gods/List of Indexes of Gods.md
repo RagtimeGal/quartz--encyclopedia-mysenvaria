@@ -26,6 +26,7 @@ The following is an index of indexes which list [[Encyclopedia Mysenvaria/Scienc
 # Indexes of Gods
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Compound Gods|List of Compound Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|List of Elemental Gods]]
+- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Elemental Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|List of Energy Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Gods|List of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]
