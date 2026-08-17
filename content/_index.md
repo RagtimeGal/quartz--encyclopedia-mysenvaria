@@ -24,14 +24,14 @@ Outside of those, you can also check out the featured page and some fun facts be
 > [!tip] Featured Article & Fun Facts
 > > [!note] Featured Article
 > > 
-> > **[[Encyclopedia Mysenvaria/Science/Phenomena/Limn|Limn]]**, as described in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], is a product of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], specifically Natural Diffusion: a result of Realities unstable nature, allowing Nature to seep in. Limn is a strange substance, obeying neither the laws of the Real or Unreal. Because of this, limn is not a true [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entity]] as defined by the USM, as it is not constructed from a normal [[Encyclopedia Mysenvaria/Science/Models/Material|material]] structure.
+> > **[[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|The Harmony Line]]** is a simplified two-dimensional projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line is a tool used by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] and [[Encyclopedia Mysenvaria/Science/Branches/Meteorology|meteorologists]] for education and prediction regarding the impact of the Harmonic Treaty on the Plane.
 >
 > > [!info] Did you know...
-> > - ... that only true [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are written in [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]? Artificial stars can only be written in [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]].
-> > - ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
-> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Limn|limn]] can materialize inside of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]? While typically benign, it has been known on rare occasions to cause medical complications and even death.
-> > - ... that the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]] is a scientific model of the universe which attempts to explain its organization composition?
-> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]] is a projection of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaties]] orbital path onto the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+> > - ... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]] started the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] when they created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods|Elemental Gods]]?
+> > - ... that [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] can be killed by piercing their heart with a foreign object?
+> > - ... that it's unknown which [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God]] first [[Encyclopedia Mysenvaria/History/God-War Era/First Death|died]], and who killed them?
+> > - ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
+> > - ... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?
 
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
