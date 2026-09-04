@@ -21,7 +21,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical features]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]], sorted alphabetically.
 # Features
 ## A
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]]

@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geographical Articles#Artificial Features|artificial features]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography#Artificial Features|artificial features]], sorted alphabetically.
 # Artificial Features
 ## T
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Tectonic City-State|Tectonic City-State]]

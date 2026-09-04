@@ -28,9 +28,17 @@ The Encyclopedia Mysenvaria is best described as being in its infancy at the mom
 
 These callouts should be included on any pages where a placeholder name is used or mentioned. That includes the biographies of peoples with placeholder names, or events, foods, and games with placeholder names. That also includes pages which otherwise make mention or link to pages which have placeholder names.
 ## Template
+```yaml
+type: template
+```
+
 > [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Template|Template]]
 > This article is a Template. This callout, and others like it in the page, should be removed. Tags, page name, table of content, and other YAML data should be added, removed, or otherwise modified as necessary.
 ## Addenda
+```yaml
+type: addenda
+```
+
 > [!hint] [[Meta/Meta|Meta]] || [[Meta/Callouts#Addenda|Addenda]]
 > This article is or has an addendum. Visit addenda pages by adding `Meta/` to the start of an article's URL path. E.G. `ragno.studio/Encyclopedia-Mysenvaria` becomes `ragno.studio/Meta/Encyclopedia-Mysenvaria`.
 

@@ -1,5 +1,7 @@
 ---
 title: "Communion Moth (Addenda)"
+aliases:
+  - "Communion Moth (Addenda)"
 enableToc: true
 tags:
   - topic/meta/addenda

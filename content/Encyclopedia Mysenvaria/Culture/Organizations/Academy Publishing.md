@@ -11,7 +11,7 @@ featured_data:
   fun_facts: ["ff1"]
 ---
 %%
-ff1: ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]? 
+ff1: ... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]? 
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]

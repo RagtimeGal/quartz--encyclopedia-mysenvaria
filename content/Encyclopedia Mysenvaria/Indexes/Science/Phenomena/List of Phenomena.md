@@ -19,9 +19,10 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Scientific Articles#Technologies|technologies]], sorted alphabetically.
+The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]], sorted alphabetically.
 # Phenomena
 ## A
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Aesthetics|Aesthetics]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
 ## B
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Biomes|Biomes]]

@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Scientific Articles#Models|scientific models]], sorted alphabetically.
+The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Models|scientific models]], sorted alphabetically.
 # Scientific Models
 ## A
 - [[Encyclopedia Mysenvaria/Science/Models/Atmospheric Circulation|Atmospheric Circulation]]

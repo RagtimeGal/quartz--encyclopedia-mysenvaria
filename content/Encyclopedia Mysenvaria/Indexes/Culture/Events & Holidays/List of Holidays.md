@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Cultural Articles#Events & Holidays|events and holidays]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Culture#Events & Holidays|events and holidays]], sorted alphabetically.
 # Holidays
 ## D
 - [[Encyclopedia Mysenvaria/Culture/Events & Holidays/Dragon Hunt Celebration|Dragon Hunt Celebration]]

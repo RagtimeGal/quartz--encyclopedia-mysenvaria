@@ -22,7 +22,7 @@ index:
           method: first_character
 ---
 
-The following is an index of indexes which describe [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical features]], sorted alphabetically.
+The following is an index of indexes which describe [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]], sorted alphabetically.
 # Indexes of Geographical Features
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Abstract Features/List of Abstract Features|List of Abstract Features]]
 - [[Encyclopedia Mysenvaria/Indexes/Geography/Artificial Features/List of Artificial Features|List of Artificial Features]]

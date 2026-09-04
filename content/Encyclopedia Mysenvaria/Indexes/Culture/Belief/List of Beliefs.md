@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Cultural Articles#Beliefs|beliefs]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Culture#Beliefs|beliefs]], sorted alphabetically.
 # Beliefs
 ## A
 - [[Encyclopedia Mysenvaria/Culture/Beliefs/Afterlife|Afterlife]]

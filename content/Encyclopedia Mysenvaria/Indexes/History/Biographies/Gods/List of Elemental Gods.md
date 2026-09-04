@@ -13,6 +13,8 @@ index:
       - tags: [topic/history/biography]
       - tags: [subject/god/elemental_god]
       - type: article
+    excluded_data:
+      - event[0]
     sort:
       - by: aliases[0]
         method: standard_forward
@@ -71,7 +73,6 @@ This page serves as an index of [[Encyclopedia Mysenvaria/History/Biographies/Go
 - God of Gadolinium
 - God of Gallium
 - God of Germanium
-- [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods|Elemental Gods]]
 - God of Gold
 ## H
 - God of Hafnium

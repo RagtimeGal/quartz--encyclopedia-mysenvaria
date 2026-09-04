@@ -21,7 +21,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Cultural Articles#Languages|languages]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Culture#Languages|languages]], sorted alphabetically.
 # Languages
 ## E
 - [[Encyclopedia Mysenvaria/Culture/Languages/Elven Languages|Elven Languages]]

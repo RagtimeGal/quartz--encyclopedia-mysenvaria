@@ -12,7 +12,7 @@ featured_data:
   fun_facts: ["ff1"]
 ---
 %%
-ff1: ... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
+ff1: ... that [[Encyclopedia Mysenvaria/Arts/Fine Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]

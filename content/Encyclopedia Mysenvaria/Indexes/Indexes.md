@@ -71,7 +71,7 @@ index:
           method: first_character
 ---
 
-The following article serves to index all of the indexes throughout the *[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]*. Indexes are sorted in headers categorically based on the Encyclopedia's six article types ([[Encyclopedia Mysenvaria/Arts/Artistic Articles|artistic]], [[Encyclopedia Mysenvaria/Biology/Biological Articles|biological]], [[Encyclopedia Mysenvaria/Culture/Cultural Articles|cultural]], [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical]], [[Encyclopedia Mysenvaria/History/Historical Articles|historical]], and [[Encyclopedia Mysenvaria/Science/Scientific Articles|scientific articles]]).
+The following article serves to index all of the indexes throughout the *[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]*. Indexes are sorted in headers categorically based on the Encyclopedia's six primary topics ([[Encyclopedia Mysenvaria/Arts/Art|art]], [[Encyclopedia Mysenvaria/Biology/Biology|biology]], [[Encyclopedia Mysenvaria/Culture/Culture|culture]], [[Encyclopedia Mysenvaria/Geography/Geography|geography]], [[Encyclopedia Mysenvaria/History/History|history]], and [[Encyclopedia Mysenvaria/Science/Science|science]]).
 # Arts
 - [[Encyclopedia Mysenvaria/Indexes/Art/Cuisine/List of Foods & Cuisines|List of Foods & Cuisines]]
 - [[Encyclopedia Mysenvaria/Indexes/Art/Games/List of Games|List of Games]]
@@ -101,7 +101,6 @@ The following article serves to index all of the indexes throughout the *[[Encyc
 # History
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Compound Gods|List of Compound Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Elemental Gods|List of Elemental Gods]]
-- [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Elemental Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Energy Gods|List of Energy Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Gods|List of Gods]]
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Higher-Gods|List of Higher-Gods]]

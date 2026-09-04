@@ -14,7 +14,7 @@ featured_data:
   fun_facts: ["ff1"]
 ---
 %%
-"ff1": "... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Scientific Articles#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?"
+"ff1": "... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?"
 %%
 
 > [!note] Stub

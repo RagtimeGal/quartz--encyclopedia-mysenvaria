@@ -1,8 +1,8 @@
 {
     "meta": {
-        "total_markdown_files": 634,
-        "pages_extracted": 751,
-        "warnings": 303,
+        "total_markdown_files": 635,
+        "pages_extracted": 752,
+        "warnings": 304,
         "working_directory": "C:\\Users\\Terra\\Documents\\Github Folders\\quartz--encyclopedia-mysenvaria"
     },
     "pages": [
@@ -22,39 +22,24 @@
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Artistic Articles.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Art.md",
             "definitions": {},
             "metadata": {
-                "title": "Artistic Articles",
+                "title": "Art",
                 "enableToc": true,
                 "tags": [
                     "topic/art"
                 ],
                 "type": "overview",
-                "status": "complete",
+                "status": "incomplete",
                 "future": "update",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Artistic Articles|Artistic Articles]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Art|Art]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Cuisine/Dragon Waste Stew.md",
-            "definitions": {},
-            "metadata": {
-                "title": "Dragon Waste Stew",
-                "enableToc": true,
-                "tags": [
-                    "topic/art/cuisine"
-                ],
-                "type": "article",
-                "status": "stub",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Cuisine/Dragon Waste Stew|Dragon Waste Stew]]"
-            }
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Games/Nemein.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Fine Arts/Games/Nemein.md",
             "definitions": {
-                "ff1": "... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?"
+                "ff1": "... that [[Encyclopedia Mysenvaria/Arts/Fine Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?"
             },
             "metadata": {
                 "title": "Nemein",
@@ -70,16 +55,31 @@
                 ],
                 "featured_data": {
                     "fun_facts": [
-                        "... that [[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?"
+                        "... that [[Encyclopedia Mysenvaria/Arts/Fine Arts/Games/Nemein|Nemein]] is a strategy board game which can be played using [[Encyclopedia Mysenvaria/Science/Technologies/Money|coins]]?"
                     ]
                 },
-                "link": "[[Encyclopedia Mysenvaria/Arts/Games/Nemein|Nemein]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Fine Arts/Games/Nemein|Nemein]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Cuisine/Dragon Waste Stew.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Dragon Waste Stew",
+                "enableToc": true,
+                "tags": [
+                    "topic/art/cuisine"
+                ],
+                "type": "article",
+                "status": "stub",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Cuisine/Dragon Waste Stew|Dragon Waste Stew]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]] is published."
             },
             "metadata": {
                 "title": "Capturing the Natural Essence of Chair",
@@ -91,19 +91,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair|Capturing the Natural Essence of Chair]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encounters With The Quadrinity.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]] is published."
             },
             "metadata": {
                 "title": "Encounters With The Quadrinity",
@@ -115,31 +115,31 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encounters With The Quadrinity|Encounters With The Quadrinity]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria.md",
             "definitions": {
-                "\"start_desc1\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|First Edition Encyclopedia Mysenvaria]]*** is written and published independently by [[Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder|Academy Publishing Founder]].\"",
-                "\"start_desc2\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Second Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc3\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Third Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc4\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fourth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc5\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fifth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc6\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Sixth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc7\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Seventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc8\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eighth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc9\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Ninth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc10\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Tenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc11\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eleventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc12\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Twelfth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
-                "\"start_desc13\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Thirteenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\""
+                "\"start_desc1\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|First Edition Encyclopedia Mysenvaria]]*** is written and published independently by [[Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder|Academy Publishing Founder]].\"",
+                "\"start_desc2\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Second Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc3\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Third Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc4\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fourth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc5\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fifth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc6\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Sixth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc7\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Seventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc8\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eighth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc9\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Ninth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc10\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Tenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc11\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eleventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc12\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Twelfth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\"",
+                "\"start_desc13\"": "\"**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Thirteenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].\""
             },
             "metadata": {
                 "title": "Encyclopedia Mysenvaria",
@@ -151,7 +151,7 @@
                 "status": "stub",
                 "event": [
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|First Edition Encyclopedia Mysenvaria]]*** is written and published independently by [[Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder|Academy Publishing Founder]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|First Edition Encyclopedia Mysenvaria]]*** is written and published independently by [[Encyclopedia Mysenvaria/History/Biographies/Academy Publishing Founder|Academy Publishing Founder]].",
                         "start_date": {
                             "original": [
                                 1313
@@ -163,7 +163,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Second Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Second Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1327
@@ -175,7 +175,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Third Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Third Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1345
@@ -187,7 +187,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fourth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fourth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1361
@@ -199,7 +199,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fifth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Fifth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1373
@@ -211,7 +211,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Sixth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Sixth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1383
@@ -223,7 +223,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Seventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Seventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1398
@@ -235,7 +235,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eighth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eighth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1413
@@ -247,7 +247,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Ninth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Ninth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1431
@@ -259,7 +259,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Tenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Tenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1445
@@ -271,7 +271,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eleventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Eleventh Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1461
@@ -283,7 +283,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Twelfth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Twelfth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1478
@@ -295,7 +295,7 @@
                         "major_event": true
                     },
                     {
-                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Thirteenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
+                        "start_desc": "**The** ***[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Thirteenth Edition Encyclopedia Mysenvaria]]*** is published by [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]].",
                         "start_date": {
                             "original": [
                                 1490
@@ -308,13 +308,13 @@
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]] is published."
             },
             "metadata": {
                 "title": "Evolutionary Classification In The Modern World",
@@ -326,19 +326,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World|Evolutionary Classification In The Modern World]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Gods and Phonology.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology|Gods and Phonology]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Gods and Phonology|Gods and Phonology]] is published."
             },
             "metadata": {
                 "title": "Gods and Phonology",
@@ -350,19 +350,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology|Gods and Phonology]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Gods and Phonology|Gods and Phonology]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology|Gods and Phonology]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Gods and Phonology|Gods and Phonology]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Historical Depictions of Gods.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]] is published."
             },
             "metadata": {
                 "title": "Historical Depictions of Gods",
@@ -374,19 +374,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Historical Depictions of Gods|Historical Depictions of Gods]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Speech Amongst Nature.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]] is published."
             },
             "metadata": {
                 "title": "Speech Amongst Nature",
@@ -398,17 +398,17 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Speech Amongst Nature|Speech Amongst Nature]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope.md",
             "definitions": {},
             "metadata": {
                 "title": "The Collected Works of Kaleidoscope",
@@ -419,13 +419,13 @@
                 "type": "article",
                 "status": "empty",
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope|The Collected Works of Kaleidoscope]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope|The Collected Works of Kaleidoscope]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]] is published."
             },
             "metadata": {
                 "title": "The Fourth Edition Natural Lexicon",
@@ -437,19 +437,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon|The Fourth Edition Natural Lexicon]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]] is published."
             },
             "metadata": {
                 "title": "The Mechanisms & Evolution of Starscript",
@@ -461,19 +461,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript|The Mechanisms & Evolution of Starscript]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Nature of Gods.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]] is published."
             },
             "metadata": {
                 "title": "The Nature of Gods",
@@ -485,19 +485,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Nature of Gods|The Nature of Gods]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonological Directory of Gods Tongues]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonological Directory of Gods Tongues]] is published."
             },
             "metadata": {
                 "title": "The Phonlogical Directory of Gods Tongues",
@@ -509,19 +509,19 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonological Directory of Gods Tongues]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonological Directory of Gods Tongues]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonlogical Directory of Gods Tongues]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues|The Phonlogical Directory of Gods Tongues]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript.md",
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript.md",
             "definitions": {
-                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]] is published."
+                "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]] is published."
             },
             "metadata": {
                 "title": "Transcribing, Writing, & Translating in Starscript",
@@ -533,28 +533,41 @@
                 "status": "empty",
                 "event": [
                     {
-                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]] is published.",
+                        "start_desc": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]] is published.",
                         "start_date": [],
                         "major_event": false
                     }
                 ],
                 "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]]"
+                "link": "[[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript|Transcribing, Writing, & Translating in Starscript]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Biology/Biological Articles.md",
-            "definitions": {},
+            "src_rel": "Encyclopedia Mysenvaria/Biology/Biology.md",
+            "definitions": {
+                "\"ff1\"": "\"... that [[Encyclopedia Mysenvaria/Biology/Biology|Biology]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]], practiced by biologists?\""
+            },
             "metadata": {
-                "title": "Biological Articles",
+                "title": "Biology",
+                "aliases": [
+                    "Biologist"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/biology"
                 ],
                 "type": "overview",
-                "status": "complete",
+                "status": "incomplete",
                 "future": "update",
-                "link": "[[Encyclopedia Mysenvaria/Biology/Biological Articles|Biological Articles]]"
+                "has": [
+                    "featured_data"
+                ],
+                "featured_data": {
+                    "fun_facts": [
+                        "... that [[Encyclopedia Mysenvaria/Biology/Biology|Biology]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]], practiced by biologists?"
+                    ]
+                },
+                "link": "[[Encyclopedia Mysenvaria/Biology/Biology|Biology]]"
             }
         },
         {
@@ -1074,18 +1087,18 @@
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Culture/Cultural Articles.md",
+            "src_rel": "Encyclopedia Mysenvaria/Culture/Culture.md",
             "definitions": {},
             "metadata": {
-                "title": "Cultural Articles",
+                "title": "Culture",
                 "enableToc": true,
                 "tags": [
                     "topic/culture"
                 ],
                 "type": "overview",
-                "status": "complete",
+                "status": "incomplete",
                 "future": "update",
-                "link": "[[Encyclopedia Mysenvaria/Culture/Cultural Articles|Cultural Articles]]"
+                "link": "[[Encyclopedia Mysenvaria/Culture/Culture|Culture]]"
             }
         },
         {
@@ -1415,7 +1428,7 @@
         {
             "src_rel": "Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing.md",
             "definitions": {
-                "ff1": "... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?"
+                "ff1": "... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?"
             },
             "metadata": {
                 "title": "Academy Publishing",
@@ -1430,7 +1443,7 @@
                 ],
                 "featured_data": {
                     "fun_facts": [
-                        "... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?"
+                        "... that [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing Company]] are the writers and publishers of the [[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]?"
                     ]
                 },
                 "future": "none",
@@ -1468,28 +1481,33 @@
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Geography/Geographical Articles.md",
+            "src_rel": "Encyclopedia Mysenvaria/Geography/Geography.md",
             "definitions": {
-                "ff1": "... that [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?"
+                "\"ff1\"": "\"... that [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?\"",
+                "\"ff2\"": "\"... that [[Encyclopedia Mysenvaria/Science/Branches/Geography|Geography]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] physical and abstract features, practiced by geographers?\""
             },
             "metadata": {
-                "title": "Geographical Articles",
+                "title": "Geography",
+                "aliases": [
+                    "Geographer"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/geography"
                 ],
                 "type": "overview",
-                "status": "complete",
+                "status": "incomplete",
                 "future": "update",
                 "has": [
                     "featured_data"
                 ],
                 "featured_data": {
                     "fun_facts": [
-                        "... that [[Encyclopedia Mysenvaria/Geography/Geographical Articles|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?"
+                        "... that [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]] are divided into three groups: natural features, artificial features, and abstract features?",
+                        "... that [[Encyclopedia Mysenvaria/Science/Branches/Geography|Geography]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] physical and abstract features, practiced by geographers?"
                     ]
                 },
-                "link": "[[Encyclopedia Mysenvaria/Geography/Geographical Articles|Geographical Articles]]"
+                "link": "[[Encyclopedia Mysenvaria/Geography/Geography|Geography]]"
             }
         },
         {
@@ -3300,18 +3318,18 @@
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/History/Historical Articles.md",
+            "src_rel": "Encyclopedia Mysenvaria/History/History.md",
             "definitions": {},
             "metadata": {
-                "title": "Historical Articles",
+                "title": "History",
                 "enableToc": true,
                 "tags": [
                     "topic/history"
                 ],
                 "type": "overview",
-                "status": "complete",
+                "status": "incomplete",
                 "future": "update",
-                "link": "[[Encyclopedia Mysenvaria/History/Historical Articles|Historical Articles]]"
+                "link": "[[Encyclopedia Mysenvaria/History/History|History]]"
             }
         },
         {
@@ -25219,10 +25237,25 @@
             }
         },
         {
+            "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/Prehistory.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Prehistory",
+                "enableToc": true,
+                "tags": [
+                    "topic/history/god-war_era"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/History/God-War Era/Prehistory|Prehistory]]"
+            }
+        },
+        {
             "src_rel": "Encyclopedia Mysenvaria/History/God-War Era/Quickening.md",
             "definitions": {
                 "\"start_desc\"": "**[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** begins (end. 26th of Spring, [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]]) following the publication of the [[Encyclopedia Mysenvaria/Geography/Stars/Quickening Star System/First Lessers Star|First Lessers Star]] by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]].",
-                "\"featured_desc\"": "**[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is one of the most influential events in [[Encyclopedia Mysenvaria/History/Historical Articles|history]]. Having occurred over the span of 58 days—less than a single season—it saw the creation of every known and unknown God, and was the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The Quickening is documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], composed of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published by various [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] documenting their own domain subdivisions.",
+                "\"featured_desc\"": "**[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is one of the most influential events in [[Encyclopedia Mysenvaria/History/History|history]]. Having occurred over the span of 58 days—less than a single season—it saw the creation of every known and unknown God, and was the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The Quickening is documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], composed of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published by various [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] documenting their own domain subdivisions.",
                 "\"ff1\"": "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over a period of 58 days—less than a single season?",
                 "\"ff2\"": "... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]] started the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] when they created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods|Elemental Gods]]?",
                 "\"ff3\"": "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] caused the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]], marking the beginning of the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]?"
@@ -25264,7 +25297,7 @@
                     }
                 ],
                 "featured_data": {
-                    "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is one of the most influential events in [[Encyclopedia Mysenvaria/History/Historical Articles|history]]. Having occurred over the span of 58 days—less than a single season—it saw the creation of every known and unknown God, and was the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The Quickening is documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], composed of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published by various [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] documenting their own domain subdivisions.",
+                    "featured_desc": "**[[Encyclopedia Mysenvaria/History/God-War Era/Quickening|The Quickening]]** is one of the most influential events in [[Encyclopedia Mysenvaria/History/History|history]]. Having occurred over the span of 58 days—less than a single season—it saw the creation of every known and unknown God, and was the root cause of the [[Encyclopedia Mysenvaria/History/God-War Era/First Death|First Death]] and [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. The Quickening is documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Star Systems/Quickening Star System|Quickening Star System]], composed of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] published by various [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] documenting their own domain subdivisions.",
                     "fun_facts": [
                         "... that the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] occurred over a period of 58 days—less than a single season?",
                         "... that the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|God of Matter]] started the [[Encyclopedia Mysenvaria/History/God-War Era/Quickening|Quickening]] when they created the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Elemental Gods|Elemental Gods]]?",
@@ -26733,6 +26766,9 @@
                                 "type": "article"
                             }
                         ],
+                        "excluded_data": [
+                            "event[0]"
+                        ],
                         "sort": [
                             {
                                 "by": "aliases[0]",
@@ -26778,6 +26814,9 @@
                             {
                                 "type": "article"
                             }
+                        ],
+                        "excluded_data": [
+                            "event[0]"
                         ],
                         "sort": [
                             {
@@ -28273,21 +28312,6 @@
                 "status": "complete",
                 "future": "auto-generated",
                 "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1490s AT|1490s AT]]"
-            }
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/Indexes/History/Decades/1500s AT.md",
-            "definitions": {},
-            "metadata": {
-                "title": "1500s AT",
-                "enableToc": true,
-                "tags": [
-                    "topic/history/decade"
-                ],
-                "type": "index",
-                "status": "complete",
-                "future": "auto-generated",
-                "link": "[[Encyclopedia Mysenvaria/Indexes/History/Decades/1500s AT|1500s AT]]"
             }
         },
         {
@@ -30026,18 +30050,18 @@
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Science/Scientific Articles.md",
+            "src_rel": "Encyclopedia Mysenvaria/Science/Science.md",
             "definitions": {},
             "metadata": {
-                "title": "Scientific Articles",
+                "title": "Science",
                 "enableToc": true,
                 "tags": [
                     "topic/science"
                 ],
                 "type": "overview",
-                "status": "complete",
+                "status": "incomplete",
                 "future": "update",
-                "link": "[[Encyclopedia Mysenvaria/Science/Scientific Articles|Scientific Articles]]"
+                "link": "[[Encyclopedia Mysenvaria/Science/Science|Science]]"
             }
         },
         {
@@ -30076,7 +30100,7 @@
         {
             "src_rel": "Encyclopedia Mysenvaria/Science/Branches/Astronomy.md",
             "definitions": {
-                "\"ff1\"": "\"... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Scientific Articles#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?\""
+                "\"ff1\"": "\"... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?\""
             },
             "metadata": {
                 "title": "Astronomy",
@@ -30095,7 +30119,7 @@
                 ],
                 "featured_data": {
                     "fun_facts": [
-                        "... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Scientific Articles#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?"
+                        "... that [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]], practiced by astronomers?"
                     ]
                 },
                 "link": "[[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomy]]"
@@ -30377,7 +30401,7 @@
         {
             "src_rel": "Encyclopedia Mysenvaria/Science/Branches/Theogenesis.md",
             "definitions": {
-                "\"ff1\"": "\"... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis#Hemitheogenesis|hemitheogenesis]] is the [[Encyclopedia Mysenvaria/Science/Scientific Articles#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]], practiced by hemitheogenists?\""
+                "\"ff1\"": "\"... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis#Hemitheogenesis|hemitheogenesis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]], practiced by hemitheogenists?\""
             },
             "metadata": {
                 "title": "Theogenesis",
@@ -30397,7 +30421,7 @@
                 ],
                 "featured_data": {
                     "fun_facts": [
-                        "... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis#Hemitheogenesis|hemitheogenesis]] is the [[Encyclopedia Mysenvaria/Science/Scientific Articles#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]], practiced by hemitheogenists?",
+                        "... that [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis#Hemitheogenesis|hemitheogenesis]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]], practiced by hemitheogenists?",
                         "ff2"
                     ]
                 },
@@ -30790,6 +30814,21 @@
             }
         },
         {
+            "src_rel": "Encyclopedia Mysenvaria/Science/Phenomena/Aesthetics.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Aesthetics",
+                "enableToc": true,
+                "tags": [
+                    "topic/science/phenomenon"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Aesthetics|Aesthetics]]"
+            }
+        },
+        {
             "src_rel": "Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells.md",
             "definitions": {},
             "metadata": {
@@ -31105,7 +31144,7 @@
         {
             "src_rel": "Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification.md",
             "definitions": {
-                "\"featured_desc\"": "\"**[[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]** is the tendency of [[Encyclopedia Mysenvaria/Science/Scientific Articles#Phenomena|phenomena]] in Nature to enter Reality as new unique phenomena. Natural Personification is not a true metaphysical rule, but rather an emergent property caused by the formation of Reality. According to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], Reality is the result of an imperfect interaction between the Real and Unreal. Imperfections and inequality in the Real and Unreal may require the other to compensate during their interaction, drawing from phenomena within Nature.\"",
+                "\"featured_desc\"": "\"**[[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]** is the tendency of [[Encyclopedia Mysenvaria/Science/Science#Phenomena|phenomena]] in Nature to enter Reality as new unique phenomena. Natural Personification is not a true metaphysical rule, but rather an emergent property caused by the formation of Reality. According to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], Reality is the result of an imperfect interaction between the Real and Unreal. Imperfections and inequality in the Real and Unreal may require the other to compensate during their interaction, drawing from phenomena within Nature.\"",
                 "\"ff1\"": "\"... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]] is the tendency of phenomena in Nature to enter Reality as new unique phenomena?\"",
                 "\"ff2\"": "\"... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]] is broken into three distinct forms: Material Concentration, Relational Concentration, and Natural Diffusion?\"",
                 "\"ff3\"": "\"... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification#Material Concentration|Material Concentration]] occurs as a result of excess [[Encyclopedia Mysenvaria/Science/Phenomena/Entity (phenomenon)|entities]] in an area, resolving itself through the materialization of one or more [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?\"",
@@ -31128,7 +31167,7 @@
                     "graphics"
                 ],
                 "featured_data": {
-                    "featured_desc": "**[[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]** is the tendency of [[Encyclopedia Mysenvaria/Science/Scientific Articles#Phenomena|phenomena]] in Nature to enter Reality as new unique phenomena. Natural Personification is not a true metaphysical rule, but rather an emergent property caused by the formation of Reality. According to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], Reality is the result of an imperfect interaction between the Real and Unreal. Imperfections and inequality in the Real and Unreal may require the other to compensate during their interaction, drawing from phenomena within Nature.",
+                    "featured_desc": "**[[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]** is the tendency of [[Encyclopedia Mysenvaria/Science/Science#Phenomena|phenomena]] in Nature to enter Reality as new unique phenomena. Natural Personification is not a true metaphysical rule, but rather an emergent property caused by the formation of Reality. According to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], Reality is the result of an imperfect interaction between the Real and Unreal. Imperfections and inequality in the Real and Unreal may require the other to compensate during their interaction, drawing from phenomena within Nature.",
                     "fun_facts": [
                         "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]] is the tendency of phenomena in Nature to enter Reality as new unique phenomena?",
                         "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]] is broken into three distinct forms: Material Concentration, Relational Concentration, and Natural Diffusion?",
@@ -31800,11 +31839,6 @@
                         "excluded_data": [
                             {
                                 "future": "auto-generated"
-                            },
-                            {
-                                "tags": [
-                                    "topic/meta"
-                                ]
                             }
                         ],
                         "sort": [
@@ -31900,6 +31934,9 @@
             "definitions": {},
             "metadata": {
                 "title": "Communion Moth (Addenda)",
+                "aliases": [
+                    "Communion Moth (Addenda)"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/meta/addenda"
@@ -31915,6 +31952,9 @@
             "definitions": {},
             "metadata": {
                 "title": "Stacking Birds (Addenda)",
+                "aliases": [
+                    "Stacking Birds (Addenda)"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/meta/addenda"
@@ -31930,6 +31970,9 @@
             "definitions": {},
             "metadata": {
                 "title": "Atmospheric Circulation (Addenda)",
+                "aliases": [
+                    "Atmospheric Circulation (Addenda)"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/meta/addenda"
@@ -31945,6 +31988,9 @@
             "definitions": {},
             "metadata": {
                 "title": "Material (Addenda)",
+                "aliases": [
+                    "Material (Addenda)"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/meta/addenda"

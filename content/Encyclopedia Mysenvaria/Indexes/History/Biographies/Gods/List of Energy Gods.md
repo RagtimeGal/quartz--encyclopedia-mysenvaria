@@ -13,6 +13,8 @@ index:
       - tags: [topic/history/biography]
       - tags: [subject/god/energy_god]
       - type: article
+    excluded_data:
+      - event[0]
     sort:
       - by: aliases[0]
         method: standard_forward

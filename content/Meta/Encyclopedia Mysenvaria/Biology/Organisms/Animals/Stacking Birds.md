@@ -1,5 +1,7 @@
 ---
 title: "Stacking Birds (Addenda)"
+aliases:
+  - "Stacking Birds (Addenda)"
 enableToc: true
 tags:
   - topic/meta/addenda

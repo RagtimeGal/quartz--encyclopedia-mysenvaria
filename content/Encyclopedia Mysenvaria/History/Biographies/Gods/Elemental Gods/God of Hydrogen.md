@@ -11,6 +11,10 @@ type: article
 status: empty
 needs:
   - infobox
+person:
+      - name: "God of Hydrogen"
+        birth_date: [-178]
+        major_event: false
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]

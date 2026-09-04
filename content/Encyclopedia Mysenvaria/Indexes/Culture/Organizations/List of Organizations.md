@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Cultural Articles#Organizations|organizations]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Culture#Organizations|organizations]], sorted alphabetically.
 # Organizations
 ## A
 - [[Encyclopedia Mysenvaria/Culture/Organizations/Academy Publishing|Academy Publishing]]

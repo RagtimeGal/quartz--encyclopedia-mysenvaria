@@ -1,5 +1,7 @@
 ---
 title: "Material (Addenda)"
+aliases:
+  - "Material (Addenda)"
 enableToc: true
 tags:
   - topic/meta/addenda

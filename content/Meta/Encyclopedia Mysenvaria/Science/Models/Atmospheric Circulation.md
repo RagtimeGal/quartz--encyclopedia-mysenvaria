@@ -1,5 +1,7 @@
 ---
 title: "Atmospheric Circulation (Addenda)"
+aliases:
+  - "Atmospheric Circulation (Addenda)"
 enableToc: true
 tags:
   - topic/meta/addenda

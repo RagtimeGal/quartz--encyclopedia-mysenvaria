@@ -17,7 +17,7 @@ featured_data:
 ff1: ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?
 %%
 
-The Edge is an abstract geographic feature which represents the furthest habitable regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The edge serves as an important reference point for [[Encyclopedia Mysenvaria/Science/Scientific Articles|scientific]] research thanks to its role in a number of natural phenomena.
+The Edge is an abstract geographic feature which represents the furthest habitable regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The edge serves as an important reference point for [[Encyclopedia Mysenvaria/Science/Science|scientific]] research thanks to its role in a number of natural phenomena.
 # Geography
 The edge represents the furthest habitable region of the Plane, positioned equidistant in all directions from the Plane's [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]]. About 60% of the edge occupies land, the other remaining area lying over the oceans. The actual geography of the land beyond the edge is largely unknown as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]] obstructs the Plane beyond.
 

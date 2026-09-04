@@ -19,10 +19,10 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Arts/Artistic Articles#Cuisine|cuisine & food]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Arts/Art#Cuisine|cuisine & food]], sorted alphabetically.
 # Foods & Cuisines
 ## D
-- [[Encyclopedia Mysenvaria/Arts/Cuisine/Dragon Waste Stew|Dragon Waste Stew]]
+- [[Encyclopedia Mysenvaria/Arts/Useful Arts/Cuisine/Dragon Waste Stew|Dragon Waste Stew]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Auto-Generated|Auto-Generated Article]]
 > This article or a portion of it is auto-generated! If you think there's an error in the generation of this article please file an error through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

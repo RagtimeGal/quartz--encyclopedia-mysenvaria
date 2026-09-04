@@ -1,0 +1,37 @@
+---
+title: "Biology"
+aliases:
+  - "Biologist"
+enableToc: true
+tags:
+  - topic/biology
+type: overview
+status: incomplete
+future: update
+has:
+  - featured_data
+featured_data:
+  fun_facts: ["ff1"]
+---
+%%
+"ff1": "... that [[Encyclopedia Mysenvaria/Biology/Biology|Biology]] is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific study]] of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]], practiced by biologists?"
+%%
+---
+
+> [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+
+*Biology is one of the six primary article categories of the [[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]].* 
+
+Biology is one of the six primary topics of the [[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]]. Biology is a diverse [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branch]] which focuses on the research of [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. Biology is an umbrella branch, containing other studies like [[Encyclopedia Mysenvaria/Science/Branches/Biogeography|biogeography]], [[Encyclopedia Mysenvaria/Science/Branches/Bioastronomy|bioastronomy]], [[Encyclopedia Mysenvaria/Science/Branches/Genetics|genetics]], [[Encyclopedia Mysenvaria/Science/Branches/Sociobiology|sociobiology]], and more.
+
+Whilst biology is a scientific branch it is separated as its own topic in the Encyclopedia. Articles in the biology topic aim to document organisms and afflictions from across the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Broader biology articles, like those on phenomena like [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|sophonts]] or those on models like [[Encyclopedia Mysenvaria/Science/Models/Body Plan|body plans]], are classified under the [[Encyclopedia Mysenvaria/Science/Science|science]] topic.
+# Disease
+Diseases are ailments, afflictions, or otherwise abnormal conditions which arise in organisms and impact the normal function of the body or mind. Diseases can range from simple bacterial infections to complex parasitic relationships. The study of diseases is often considered part of [[Encyclopedia Mysenvaria/Science/Branches/Medicine|medical]] biology, with the objective of understanding ways to combat these ailments.
+# Taxa
+Taxon are groups of populations of conceptually related organisms, classified either through [[Encyclopedia Mysenvaria/Science/Models/Evolutionary Classification|evolutionary]] or [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|criterial]] classification systems. Classification of organisms usually takes into account their [[Encyclopedia Mysenvaria/Science/Branches/Biohistory|biohistory]] and conceptual relevance to one another. A taxon is usually referred to as a family when it contains species.
+# Species
+Species are more specific taxon that include populations of highly related organisms. Populations of organisms may evolve genetically to create new species, but [[Encyclopedia Mysenvaria/History/History|historically]] a majority of species were created by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] amidst the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War]]. Species each have uniquely interesting behaviors and interactions with one another and the world that create the different [[Encyclopedia Mysenvaria/Science/Phenomena/Biomes|biomes]] of the Plane.
+
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!

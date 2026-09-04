@@ -1,19 +1,19 @@
 # Metadata Aggregator Warnings
 
 ## Issues detected
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encounters With The Quadrinity.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Encyclopedia Mysenvaria.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Gods and Phonology.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Historical Depictions of Gods.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Speech Amongst Nature.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Nature of Gods.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues.md: missing key `future` added with default value `none`.
-- Encyclopedia Mysenvaria/Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Capturing the Natural Essence of Chair.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encounters With The Quadrinity.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Evolutionary Classification In The Modern World.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Gods and Phonology.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Historical Depictions of Gods.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Speech Amongst Nature.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Collected Works of Kaleidoscope.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Fourth Edition Natural Lexicon.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Mechanisms & Evolution of Starscript.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Nature of Gods.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/The Phonological Directory of Gods Tongues.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Transcribing, Writing, & Translating in Starscript.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Biology/Disease/Purple Lung.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Biology/Organisms/Plants/Elven Fungus.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Biology/Organs/Immune System.md: missing key `future` added with default value `none`.
@@ -230,6 +230,7 @@
 - Encyclopedia Mysenvaria/Science/Models/Linguistic Evolution.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Models/Material.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Models/Tri-Criterial Niches.md: missing key `future` added with default value `none`.
+- Encyclopedia Mysenvaria/Science/Phenomena/Aesthetics.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Biomes.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Earthquake.md: missing key `future` added with default value `none`.
 - Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem.md: missing key `future` added with default value `none`.

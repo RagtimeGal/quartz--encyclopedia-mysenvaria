@@ -19,7 +19,7 @@ index:
           method: first_character
 ---
 
-The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Cultural Articles#Occupations & Crafts|occupations]], sorted alphabetically.
+The following is an index of all articles describing [[Encyclopedia Mysenvaria/Culture/Culture#Occupations & Crafts|occupations]], sorted alphabetically.
 # Occupations
 ## A
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Adventurer|Adventurer]]
