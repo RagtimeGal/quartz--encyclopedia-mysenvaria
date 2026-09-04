@@ -73,7 +73,7 @@ The following is a list of all articles from across the Encyclopedia Mysenvaria,
 - [[Meta/Ledgers/Ledger 10.2026|Lore Ledger 10.26]]
 - [[Meta/Ledgers/Ledger 12.2026|Lore Ledger 12.26]]
 - [[Meta/Ledgers/Ledger 17.2025|Lore Ledger 17.25]]
-- [[Meta/Ledgers/Ledger 31.2026|Lore Ledger 31.26]]
+- [[Meta/Ledgers/Ledger 36.2026|Lore Ledger 31.26]]
 - [[Meta/Ledgers/Ledger 34.2025|Lore Ledger 34.25]]
 - [[Meta/Ledgers/Ledger 38.2025|Lore Ledger 38.25]]
 - [[Meta/Ledgers/Ledger 45.2025|Lore Ledger 45.25]]

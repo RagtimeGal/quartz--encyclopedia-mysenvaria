@@ -18,7 +18,7 @@ ledger_data:
 > 
 > **Previous Ledger:** [[Meta/Ledgers/Ledger 10.2026|Ledger 10.2026]]
 > 
-> **Next Ledger:** [[Meta/Ledgers/Ledger 31.2026|Ledger 13.2026]]
+> **Next Ledger:** [[Meta/Ledgers/Ledger 36.2026|Ledger 36.2026]]
 
 This week pretty much every article across the entire Encyclopedia has been edited in some way.
 
