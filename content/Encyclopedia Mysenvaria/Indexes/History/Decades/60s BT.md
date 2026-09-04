@@ -21,8 +21,8 @@ future: auto-generated
 # Events
 ## 55 BT
 - 1st of Spring — **[[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Second Council|Second God Council]]** held.
-- **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]] begins (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]]).
 - **[[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|The Iteration Period]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/140s BT#140 BT|140 BT]]) following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. An estimated 90% of all [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|species]] were created.
+- **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Mid-War Epoch|Mid-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]), [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]] begins (end. [[Encyclopedia Mysenvaria/Indexes/History/Decades/0s AT#0 AT|0 AT]]).
 ## 54 BT
 - **[[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Greater God Star|The Greater God Star]]** is published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Ethionamide|God of Ethionamide]] amid growing tension following the creation of [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Human|humans]]. The star purports that, though the reason is unclear, the actions of the higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are advancing an agenda against the lesser-Gods.
 ## 53 BT
