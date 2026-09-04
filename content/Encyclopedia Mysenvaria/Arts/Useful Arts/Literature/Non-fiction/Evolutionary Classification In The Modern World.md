@@ -17,6 +17,6 @@ start_desc: [[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Ev
 > This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
 
 # Book
-### The Taxonomical Tree
+## The Taxonomical Tree
 
 # Reception
