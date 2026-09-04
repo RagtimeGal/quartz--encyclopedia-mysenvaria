@@ -23,9 +23,9 @@ future: auto-generated
 - 1st of Spring — **[[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Fifth Council|Fifth God Council]]** held.
 ## 1 BT
 - 90th of Winter
+  - **[[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Sixth Council|Sixth God Council]]** held.
   - **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]]** ends (beg. 26th of Spring, [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#177 BT|177 BT]]).
   - **[[Encyclopedia Mysenvaria/History/God-War Era/God-War Era#Late-War Epoch|Late-War Epoch]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#55 BT|55 BT]]).
-  - **[[Encyclopedia Mysenvaria/History/God-War Era/God Councils#Sixth Council|Sixth God Council]]** held.
 - **[[Encyclopedia Mysenvaria/Geography/Stars/Convening Star|The Convening Star]]** is republished (pub. [[Encyclopedia Mysenvaria/Indexes/History/Decades/180s BT#176 BT|176 BT]]; repub. [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#53 BT|53 BT]]) by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Diethyl Dixanthogen Disulfide|God of Diethyl Dixanthogen Disulfide]] after the passing of their close relative and prior republisher of the star, the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|God of Sodium Ethyl Xanthate]].
 
 # Significant People
