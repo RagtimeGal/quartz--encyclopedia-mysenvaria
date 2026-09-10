@@ -24,13 +24,13 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 ## A
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|Azimuth, Altitude, & Distance]]
 ## C
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]
 ## E
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]]
 ## H
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|Heaven]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]]
 ## I
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|Inner Circle]]
 ## O

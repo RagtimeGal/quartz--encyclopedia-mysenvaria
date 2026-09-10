@@ -111,6 +111,7 @@ The following article serves to index all of the indexes throughout the *[[Encyc
 - [[Encyclopedia Mysenvaria/Indexes/History/Biographies/Gods/List of Reaction Gods|List of Reaction Gods]]
 
 # Science
+- [[Encyclopedia Mysenvaria/Indexes/Indexes|Indexes]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Phenomena/List of Phenomena|List of Phenomena]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|List of Scientific Branches]]
 - [[Encyclopedia Mysenvaria/Indexes/Science/Models/List of Scientific Models|List of Scientific Models]]

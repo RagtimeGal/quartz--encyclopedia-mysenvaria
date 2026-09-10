@@ -1,8 +1,8 @@
 {
     "meta": {
-        "total_markdown_files": 630,
-        "pages_extracted": 747,
-        "warnings": 300,
+        "total_markdown_files": 635,
+        "pages_extracted": 752,
+        "warnings": 294,
         "working_directory": "/home/runner/work/encyclopedia-mysenvaria/encyclopedia-mysenvaria"
     },
     "pages": [
@@ -304,6 +304,21 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Cartographer|Cartographer]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Sailor.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Sailor",
+                "enableToc": true,
+                "tags": [
+                    "topic/culture/occupation"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Sailor|Sailor]]"
             }
         },
         {
@@ -22968,6 +22983,21 @@
             }
         },
         {
+            "src_rel": "Encyclopedia Mysenvaria/Geography/Natural Features/Sky.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Sky",
+                "enableToc": true,
+                "tags": [
+                    "topic/geography/natural"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Geography/Natural Features/Sky|Sky]]"
+            }
+        },
+        {
             "src_rel": "Encyclopedia Mysenvaria/Geography/Natural Features/Eastern Archipelago.md",
             "definitions": {},
             "metadata": {
@@ -22995,6 +23025,21 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Geography/Natural Features/Great Oceanic Crater|Great Oceanic Crater]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Geography/Natural Features/Inland Sea.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Inland Sea",
+                "enableToc": true,
+                "tags": [
+                    "topic/geography/natural"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Geography/Natural Features/Inland Sea|Inland Sea]]"
             }
         },
         {
@@ -23237,6 +23282,22 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Geography/Stars/Humanity Lost|Humanity Lost]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Geography/Stars/Fog Star.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Fog Star",
+                "enableToc": true,
+                "tags": [
+                    "topic/geography/astrography",
+                    "subject/star"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Geography/Stars/Fog Star|Fog Star]]"
             }
         },
         {
@@ -24521,6 +24582,30 @@
             }
         },
         {
+            "src_rel": "Encyclopedia Mysenvaria/Geography/Artificial Features/Higher-Gods Courthouse.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Higher-Gods Courthouse",
+                "enableToc": true,
+                "tags": [
+                    "topic/geography/artificial"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "event": [
+                    {
+                        "start_desc": "",
+                        "end_desc": "",
+                        "start_date": [],
+                        "end_date": [],
+                        "major_event": false
+                    }
+                ],
+                "link": "[[Encyclopedia Mysenvaria/Geography/Artificial Features/Higher-Gods Courthouse|Higher-Gods Courthouse]]"
+            }
+        },
+        {
             "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Outer Ring.md",
             "definitions": {},
             "metadata": {
@@ -24536,8 +24621,38 @@
             }
         },
         {
+            "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven.md",
+            "definitions": {
+                "ff1": "... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|Heaven]] exists above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]], is devoid of air, and is where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside?"
+            },
+            "metadata": {
+                "title": "Heaven",
+                "enableToc": true,
+                "tags": [
+                    "topic/geography/abstract"
+                ],
+                "type": "article",
+                "status": "incomplete",
+                "future": "none",
+                "has": [
+                    "featured_data"
+                ],
+                "needs": [
+                    "image"
+                ],
+                "featured_data": {
+                    "fun_facts": [
+                        "... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|Heaven]] exists above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]], is devoid of air, and is where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside?"
+                    ]
+                },
+                "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|Heaven]]"
+            }
+        },
+        {
             "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach.md",
-            "definitions": {},
+            "definitions": {
+                "ff1": "... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|span & reach]] is the most commonly used coordinate system for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] and describing position of things on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?"
+            },
             "metadata": {
                 "title": "Span & Reach",
                 "enableToc": true,
@@ -24546,10 +24661,18 @@
                 ],
                 "type": "article",
                 "status": "complete",
-                "future": "review",
+                "future": "update",
+                "has": [
+                    "featured_data"
+                ],
                 "needs": [
                     "image"
                 ],
+                "featured_data": {
+                    "fun_facts": [
+                        "... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|span & reach]] is the most commonly used coordinate system for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] and describing position of things on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?"
+                    ]
+                },
                 "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]"
             }
         },
@@ -24583,7 +24706,7 @@
         {
             "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Edge.md",
             "definitions": {
-                "ff1": "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?"
+                "ff1": "... that the Edge is an abstract geographic feature equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] which represents the furthest part of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] [[Encyclopedia Mysenvaria/Geography/Natural Features/Habitable Zone|habitable zone]]?"
             },
             "metadata": {
                 "title": "Edge",
@@ -24593,7 +24716,7 @@
                 ],
                 "type": "article",
                 "status": "complete",
-                "future": "rewrite",
+                "future": "update",
                 "has": [
                     "featured_data"
                 ],
@@ -24602,34 +24725,50 @@
                 ],
                 "featured_data": {
                     "fun_facts": [
-                        "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] represents the furthest habitably regions of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]], equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]?"
+                        "... that the Edge is an abstract geographic feature equidistant in all directions from the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] which represents the furthest part of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] [[Encyclopedia Mysenvaria/Geography/Natural Features/Habitable Zone|habitable zone]]?"
                     ]
                 },
                 "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]]"
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation.md",
-            "definitions": {},
+            "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance.md",
+            "definitions": {
+                "ff1": "... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|azimuth, altitude, and distance]] is the most commonly used coordinate system for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] and describing the position of [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|heavenly]] objects?"
+            },
             "metadata": {
-                "title": "Altitude, Azimuth, & Elevation",
+                "title": "Azimuth, Altitude, & Distance",
                 "enableToc": true,
                 "tags": [
                     "topic/geography/abstract"
                 ],
                 "type": "article",
-                "status": "empty",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]]"
+                "status": "complete",
+                "future": "update",
+                "has": [
+                    "featured_data"
+                ],
+                "needs": [
+                    "image"
+                ],
+                "featured_data": {
+                    "fun_facts": [
+                        "... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|azimuth, altitude, and distance]] is the most commonly used coordinate system for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] and describing the position of [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|heavenly]] objects?"
+                    ]
+                },
+                "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|Azimuth, Altitude, & Distance]]"
             }
         },
         {
             "src_rel": "Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole.md",
             "definitions": {
-                "ff1": "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?"
+                "ff1": "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is an abstract geographic feature equidistant from all points of the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] which represents the absolute center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?"
             },
             "metadata": {
                 "title": "Central Pole",
+                "aliases": [
+                    "Pole"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/geography/abstract"
@@ -24639,12 +24778,11 @@
                 "future": "update",
                 "has": [
                     "image",
-                    "video",
                     "featured_data"
                 ],
                 "featured_data": {
                     "fun_facts": [
-                        "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is the center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?"
+                        "... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]] is an abstract geographic feature equidistant from all points of the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]] which represents the absolute center of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?"
                     ]
                 },
                 "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]"
@@ -24698,11 +24836,17 @@
             "definitions": {},
             "metadata": {
                 "title": "Cardinal Directions",
+                "aliases": [
+                    "North",
+                    "South",
+                    "East",
+                    "West"
+                ],
                 "enableToc": true,
                 "tags": [
                     "topic/geography/abstract"
                 ],
-                "type": "article",
+                "type": "stub",
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]"
@@ -25294,6 +25438,9 @@
             "metadata": {
                 "title": "Indexes",
                 "enableToc": true,
+                "tags": [
+                    "topic/science"
+                ],
                 "type": "index",
                 "status": "complete",
                 "future": "auto-generated",
@@ -28985,7 +29132,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29003,7 +29150,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29021,7 +29168,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29039,7 +29186,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29057,7 +29204,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29075,7 +29222,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29093,7 +29240,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29111,7 +29258,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29129,7 +29276,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29147,7 +29294,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29165,7 +29312,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29183,7 +29330,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29201,7 +29348,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29219,7 +29366,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29237,7 +29384,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29255,7 +29402,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29273,7 +29420,7 @@
                 ],
                 "type": "index",
                 "status": "complete",
-                "future": "none",
+                "future": "auto-generated",
                 "has": [
                     "infobox"
                 ],
@@ -29846,8 +29993,8 @@
                     "topic/science/phenomenon"
                 ],
                 "type": "article",
-                "status": "complete",
-                "future": "update",
+                "status": "incomplete",
+                "future": "none",
                 "needs": [
                     "image"
                 ],
@@ -29867,6 +30014,21 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Island|Island]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Science/Phenomena/Ore.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Ore",
+                "enableToc": true,
+                "tags": [
+                    "topic/science/phenomenon"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Ore|Ore]]"
             }
         },
         {
@@ -29897,21 +30059,6 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Ice Sheets|Ice Sheets]]"
-            }
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/Science/Phenomena/Aesthetics.md",
-            "definitions": {},
-            "metadata": {
-                "title": "Aesthetics",
-                "enableToc": true,
-                "tags": [
-                    "topic/science/phenomenon"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Aesthetics|Aesthetics]]"
             }
         },
         {
@@ -30025,10 +30172,10 @@
                 ],
                 "type": "article",
                 "status": "stub",
+                "future": "none",
                 "needs": [
                     "graphics"
                 ],
-                "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Soils|Soils]]"
             }
         },
@@ -30060,6 +30207,24 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem|Ecosystem]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Science/Phenomena/Day & Night.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Day & Night",
+                "enableToc": true,
+                "tags": [
+                    "topic/science/phenomenon"
+                ],
+                "type": "article",
+                "status": "incomplete",
+                "future": "none",
+                "has": [
+                    "video"
+                ],
+                "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Day & Night|Day & Night]]"
             }
         },
         {
@@ -30153,7 +30318,7 @@
                     "topic/science/phenomenon"
                 ],
                 "type": "article",
-                "status": "empty",
+                "status": "stub",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Science/Phenomena/Gravity|Gravity]]"
             }
@@ -30307,7 +30472,7 @@
         {
             "src_rel": "Encyclopedia Mysenvaria/Science/Phenomena/Stars.md",
             "definitions": {
-                "\"featured_desc\"": "\"**[[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]**, as described in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are theoretical products of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]—specifically Relational Concentration. In practice, however, all known stars are the creations of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] or [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. Stars are physical objects that express information in the languages of [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]]. Stars may be observed every [[Encyclopedia Mysenvaria/Science/Phenomena/Day|night]] across the entirety of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] by looking up to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]]. Though the number of visible stars is impacted by various factors of the surrounding environment.\"",
+                "\"featured_desc\"": "\"**[[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]**, as described in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are theoretical products of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]—specifically Relational Concentration. In practice, however, all known stars are the creations of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] or [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. Stars are physical objects that express information in the languages of [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]]. Stars may be observed every [[Encyclopedia Mysenvaria/Science/Phenomena/Day & Night|night]] across the entirety of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] by looking up to the [[Encyclopedia Mysenvaria/Geography/Natural Features/Sky|sky]]. Though the number of visible stars is impacted by various factors of the surrounding environment.\"",
                 "\"ff1\"": "\"... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are a result of the Real's inability to handle the Unreal's management? Despite this, no star is known to have come about as a result of completely natural causes.\"",
                 "\"ff2\"": "\"... that [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] hold messages and laws written by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?\"",
                 "\"ff3\"": "\"... that only true [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are written in [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]]? Artificial stars can only be written in [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]].\""
@@ -30332,7 +30497,7 @@
                     "graphics"
                 ],
                 "featured_data": {
-                    "featured_desc": "**[[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]**, as described in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are theoretical products of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]—specifically Relational Concentration. In practice, however, all known stars are the creations of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] or [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. Stars are physical objects that express information in the languages of [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]]. Stars may be observed every [[Encyclopedia Mysenvaria/Science/Phenomena/Day|night]] across the entirety of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] by looking up to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]]. Though the number of visible stars is impacted by various factors of the surrounding environment.",
+                    "featured_desc": "**[[Encyclopedia Mysenvaria/Science/Phenomena/Stars|Stars]]**, as described in the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|Universal Strata Model]], are theoretical products of [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]]—specifically Relational Concentration. In practice, however, all known stars are the creations of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] or [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organisms]]. Stars are physical objects that express information in the languages of [[Encyclopedia Mysenvaria/Culture/Languages/Starscript|Starscript]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue|God Tongue]]. Stars may be observed every [[Encyclopedia Mysenvaria/Science/Phenomena/Day & Night|night]] across the entirety of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] by looking up to the [[Encyclopedia Mysenvaria/Geography/Natural Features/Sky|sky]]. Though the number of visible stars is impacted by various factors of the surrounding environment.",
                     "fun_facts": [
                         "... that, according to the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|USM]], [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] are a result of the Real's inability to handle the Unreal's management? Despite this, no star is known to have come about as a result of completely natural causes.",
                         "... that [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] hold messages and laws written by the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]?",
@@ -30490,6 +30655,21 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Science/Branches/Ecology|Ecology]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Science/Branches/Aesthetics.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Aesthetics",
+                "enableToc": true,
+                "tags": [
+                    "topic/science/branch"
+                ],
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Science/Branches/Aesthetics|Aesthetics]]"
             }
         },
         {
@@ -30735,24 +30915,6 @@
             }
         },
         {
-            "src_rel": "Encyclopedia Mysenvaria/Science/Branches/Geography.md",
-            "definitions": {},
-            "metadata": {
-                "title": "Geography",
-                "aliases": [
-                    "Geographer"
-                ],
-                "enableToc": true,
-                "tags": [
-                    "topic/science/branch"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Science/Branches/Geography|Geography]]"
-            }
-        },
-        {
             "src_rel": "Encyclopedia Mysenvaria/Science/Models/Criterial Classification.md",
             "definitions": {},
             "metadata": {
@@ -30876,21 +31038,6 @@
                 "status": "complete",
                 "future": "update",
                 "link": "[[Encyclopedia Mysenvaria/Science/Models/Visibility-Aggression Filter|Visibility-Aggression Filter]]"
-            }
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/Science/Models/Cline Climate.md",
-            "definitions": {},
-            "metadata": {
-                "title": "Cline Climate",
-                "enableToc": true,
-                "tags": [
-                    "topic/science/model"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Science/Models/Cline Climate|Cline Climate]]"
             }
         },
         {
@@ -31056,21 +31203,6 @@
                 "status": "empty",
                 "future": "none",
                 "link": "[[Encyclopedia Mysenvaria/Science/Models/Hornerian Classification|Hornerian Classification]]"
-            }
-        },
-        {
-            "src_rel": "Encyclopedia Mysenvaria/Science/Models/Koppen Climate.md",
-            "definitions": {},
-            "metadata": {
-                "title": "Koppen Climate",
-                "enableToc": true,
-                "tags": [
-                    "topic/science/model"
-                ],
-                "type": "article",
-                "status": "empty",
-                "future": "none",
-                "link": "[[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen Climate]]"
             }
         },
         {
@@ -31469,6 +31601,22 @@
                     ]
                 },
                 "link": "[[Encyclopedia Mysenvaria/Arts/Fine Arts/Games/Nemein|Nemein]]"
+            }
+        },
+        {
+            "src_rel": "Encyclopedia Mysenvaria/Arts/Fine Arts/Visual/Water in the Deadman's Sea.md",
+            "definitions": {},
+            "metadata": {
+                "title": "Water in the Deadman's Sea",
+                "enableToc": true,
+                "tags": [
+                    "topic/art/music"
+                ],
+                "draft": true,
+                "type": "article",
+                "status": "empty",
+                "future": "none",
+                "link": "[[Encyclopedia Mysenvaria/Arts/Fine Arts/Visual/Water in the Deadman's Sea|Water in the Deadman's Sea]]"
             }
         },
         {
@@ -32522,32 +32670,6 @@
                 },
                 "future": "none",
                 "link": "[[Meta/Ledgers/Ledger 10.2026|Lore Ledger 10.26]]"
-            }
-        },
-        {
-            "src_rel": "Meta/Templates/Archived Work Template.md",
-            "definitions": {},
-            "metadata": {
-                "title": "Archived Work Template",
-                "enableToc": true,
-                "tags": [
-                    "topic/art/literature/non-fiction"
-                ],
-                "draft": true,
-                "type": "template",
-                "status": "empty",
-                "archived_work": {
-                    "title": "",
-                    "authors": [
-                        ""
-                    ],
-                    "language": "",
-                    "publication_date": [],
-                    "medium": "unknown",
-                    "status": "lost"
-                },
-                "future": "none",
-                "link": "[[Meta/Templates/Archived Work Template|Archived Work Template]]"
             }
         },
         {

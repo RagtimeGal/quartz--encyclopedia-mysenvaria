@@ -24,10 +24,9 @@ index:
 The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]], sorted alphabetically.
 # Features
 ## A
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|Azimuth, Altitude, & Distance]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|Atmosphere]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|Azimuth, Altitude, & Distance]]
 ## C
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]
 ## D
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Deadman's Sea|Deadman's Sea]]
@@ -42,8 +41,11 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 ## H
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Habitable Zone|Habitable Zone]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|Heaven]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]]
+- [[Encyclopedia Mysenvaria/Geography/Artificial Features/Higher-Gods Courthouse|Higher-Gods Courthouse]]
 ## I
+- [[Encyclopedia Mysenvaria/Geography/Natural Features/Inland Sea|Inland Sea]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|Inner Circle]]
 ## N
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Northern Continent|Northern Continent]]
@@ -53,6 +55,7 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 ## P
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]
 ## S
+- [[Encyclopedia Mysenvaria/Geography/Natural Features/Sky|Sky]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|Southern Continent]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape|Southern Crater Scape]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]

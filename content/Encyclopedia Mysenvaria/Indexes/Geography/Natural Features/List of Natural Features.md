@@ -33,6 +33,8 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Tear|Great Tear]]
 ## H
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Habitable Zone|Habitable Zone]]
+## I
+- [[Encyclopedia Mysenvaria/Geography/Natural Features/Inland Sea|Inland Sea]]
 ## N
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Northern Continent|Northern Continent]]
 ## O
@@ -40,6 +42,7 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 ## P
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]
 ## S
+- [[Encyclopedia Mysenvaria/Geography/Natural Features/Sky|Sky]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|Southern Continent]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Crater Scape|Southern Crater Scape]]
 

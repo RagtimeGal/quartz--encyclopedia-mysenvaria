@@ -21,6 +21,8 @@ index:
 
 The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography#Artificial Features|artificial features]], sorted alphabetically.
 # Artificial Features
+## H
+- [[Encyclopedia Mysenvaria/Geography/Artificial Features/Higher-Gods Courthouse|Higher-Gods Courthouse]]
 ## T
 - [[Encyclopedia Mysenvaria/Geography/Artificial Features/Tectonic City-State|Tectonic City-State]]
 

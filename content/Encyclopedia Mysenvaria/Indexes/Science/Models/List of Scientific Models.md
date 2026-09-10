@@ -27,7 +27,6 @@ The following is an index of all articles across the Encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Models/Body Plan|Body Plan]]
 ## C
 - [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|Classification of Organisms]]
-- [[Encyclopedia Mysenvaria/Science/Models/Cline Climate|Cline Climate]]
 - [[Encyclopedia Mysenvaria/Science/Models/Common Ancestors|Common Ancestors]]
 - [[Encyclopedia Mysenvaria/Science/Models/Criterial Classification|Criterial Classification]]
 ## D
@@ -42,8 +41,6 @@ The following is an index of all articles across the Encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Models/Godly Lineage Models|Godly Lineage Models]]
 ## H
 - [[Encyclopedia Mysenvaria/Science/Models/Hornerian Classification|Hornerian Classification]]
-## K
-- [[Encyclopedia Mysenvaria/Science/Models/Koppen Climate|Koppen Climate]]
 ## L
 - [[Encyclopedia Mysenvaria/Science/Models/Lineage|Lineage]]
 - [[Encyclopedia Mysenvaria/Science/Models/Linguistic Evolution|Linguistic Evolution]]

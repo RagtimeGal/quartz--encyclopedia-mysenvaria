@@ -34,6 +34,7 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/C
 ## M
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Mage|Mage]]
 ## S
+- [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Sailor|Sailor]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Scalper|Scalper]]
 - [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|Starforging]]
 ## W

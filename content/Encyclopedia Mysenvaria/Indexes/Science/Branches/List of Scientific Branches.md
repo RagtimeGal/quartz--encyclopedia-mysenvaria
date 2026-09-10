@@ -22,6 +22,7 @@ index:
 The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branches]], sorted alphabetically.
 # Scientific Branches
 ## A
+- [[Encyclopedia Mysenvaria/Science/Branches/Aesthetics|Aesthetics]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Anatomy|Anatomy]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Anthropology|Anthropology]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|Astronomy]]
@@ -36,7 +37,6 @@ The following is an index of all articles across the Encyclopedia which describe
 - [[Encyclopedia Mysenvaria/Science/Branches/Ecology|Ecology]]
 ## G
 - [[Encyclopedia Mysenvaria/Science/Branches/Genetics|Genetics]]
-- [[Encyclopedia Mysenvaria/Science/Branches/Geography|Geography]]
 - [[Encyclopedia Mysenvaria/Science/Branches/Geology|Geology]]
 ## M
 - [[Encyclopedia Mysenvaria/Science/Branches/Mathematics|Mathematics]]
