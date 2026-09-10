@@ -170,7 +170,9 @@ def update(frame, force_render=False):
     current_time = current_f % minutes_in_day
     current_year = start_year + int((start_day + total_days_elapsed) // total_days_in_year)
     
-    rotational_angle = 2 * np.pi * (total_days_elapsed / (total_days_in_year * years_per_rotation)) if state["rotation_enabled"] else 0
+    base_rotation = np.pi / 2  # Shifts the entire orbital alignment to North
+    precession = 2 * np.pi * (total_days_elapsed / (total_days_in_year * years_per_rotation)) if state["rotation_enabled"] else 0
+    rotational_angle = precession + base_rotation
     
     a, b = treaty_radius, treaty_radius * np.sqrt(1 - treaty_eccentricity)
     
@@ -228,7 +230,7 @@ def update(frame, force_render=False):
     orbit_line_side_view.set_data(orbit_side_proj, treaty_height + t_z_t)
     
     # Seasons (Divide logic)
-    node_angle = rotational_angle + np.pi/2
+    node_angle = rotational_angle - np.pi/2
     for f in fills: f.remove()
     fills = []
     if state["seasonal_semicircle"]:

@@ -1,8 +1,9 @@
 ---
-title: "Seasons"
+title: "Water in the Deadman's Sea"
 enableToc: true
 tags:
-  - topic/science/phenomenon
+  - topic/art/music
+draft: true
 type: article
 status: empty
 future: none
@@ -13,4 +14,4 @@ future: none
 
 # History
 
-# Significance
+# Style & Influence

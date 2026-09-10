@@ -22,14 +22,14 @@ index:
 The following is an index of all articles across the Encyclopedia which describe [[Encyclopedia Mysenvaria/Science/Science#Technologies|technologies]], sorted alphabetically.
 # Phenomena
 ## A
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Aesthetics|Aesthetics]]
+- [[Encyclopedia Mysenvaria/Science/Branches/Aesthetics|Aesthetics]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Atmospheric Cells|Atmospheric Cells]]
 ## B
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Biomes|Biomes]]
 ## C
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Climate|Climate]]
 ## D
-- [[Encyclopedia Mysenvaria/Science/Phenomena/Day|Day]]
+- [[Encyclopedia Mysenvaria/Science/Phenomena/Day & Night|Day & Night]]
 ## E
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Earthquake|Earthquake]]
 - [[Encyclopedia Mysenvaria/Science/Phenomena/Ecosystem|Ecosystem]]

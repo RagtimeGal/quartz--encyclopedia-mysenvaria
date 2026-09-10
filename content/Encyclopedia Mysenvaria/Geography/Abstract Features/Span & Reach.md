@@ -5,18 +5,26 @@ tags:
   - topic/geography/abstract
 type: article
 status: complete
-future: review
+future: update
+has:
+  - featured_data
 needs:
   - image
+featured_data:
+  fun_facts: ["ff1"]
 ---
+%%
+ff1: ... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|span & reach]] is the most commonly used coordinate system for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] and describing position of things on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]?
+%%
 
-Span and Reach are coordinate directions used in a multitude of [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branches]] and [[Encyclopedia Mysenvaria/Culture/Culture#Occupations & Crafts|occupations]]. Unlike the three-dimensional spherical system, [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|AAE]], used by [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]], span and reach are two-dimensional, tailored to the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane's]] flat landscape centered around the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|central pole]] and using the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|cardinal directions]].
+Span and reach (SR) is the most commonly used coordinate system for [[Encyclopedia Mysenvaria/Science/Technologies/Measurement|measuring]] and describing position of things on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. Span and reach is a two dimensional coordinate system, differentiated from [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|altitude, azimuth, and distance]] which are used to tell something's position in three dimensional space in the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|heavens]]. Span and reach is used for a multitude of purposes across a plethora of different occupations and crafts.
 
-Span is a measure of a points [[Encyclopedia Mysenvaria/Science/Technologies/Measurement#Angles|angular direction]] relative to the central pole, expressed in degrees. A 0° span is traditionally pointing directly north, increasing starward[^starward]. Span around the Plane is fully continuous, making a 360° cycle. Reach is a measure of a points [[Encyclopedia Mysenvaria/Science/Technologies/Measurement#Distance|distance]] outward from the central pole, expressed in units, which may vary in scale dependent on the context. Reach begins at 0 units at the central pole and increases with distance outward. A point in the coordinate system is denoted by combining the Span and Reach in the format (Span°, Reach).
+The origin of SR coordinates is typically the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]], but it may be used to measure anything's relative position from any other thing. 
+- Span is a measure of the position's angular direction along the Plane's horizon relative to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|north]], it's expressed in degrees increasing starward.
+- Reach is a measure of the position's distance from the point or origin. It is expressed in some unit which may vary depending on the context.
+A position in the coordinate system is represented in the format (Span°, Reach).
 
-Most often on world [[Encyclopedia Mysenvaria/Science/Technologies/Maps|maps]] span is divided into eight equal slices of 45° intervals and reach is divided into ten equal rings approximately 1/10th the radius of the Plane.
-
-[^starward]: Counterclockwise
-
-> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Review Needed|Future Review Needed]]
-> This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> 
+> *Could really use a section on the history of its invention and the impact it's had on science and the Plane.*

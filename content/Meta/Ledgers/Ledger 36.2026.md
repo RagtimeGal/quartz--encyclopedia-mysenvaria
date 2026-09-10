@@ -30,7 +30,7 @@ Tons of pages have been moved from being `empty` to being `stubs`! I want to mak
 
 I also complete one of my personal projects on the Encyclopedia! Getting all of the metaphysics pages into `complete` status! This was a big move forward for me! There's some new infographics scattered around the encyclopedia now too alongside this!
 
-I've began rewriting the primary topic pages, those being: [[Encyclopedia Mysenvaria/Arts/Art|Art]], [[Encyclopedia Mysenvaria/Biology/Biology|Biology]], [[Encyclopedia Mysenvaria/Culture/Culture|Culture]], [[Encyclopedia Mysenvaria/Science/Branches/Geography|Geography]], [[Encyclopedia Mysenvaria/History/History|History]], and [[Encyclopedia Mysenvaria/Science/Science|Science]]. I was never really a fan of how they read, and the objective is to make them more dynamic and able to grow in the future as the setting grows.
+I've began rewriting the primary topic pages, those being: [[Encyclopedia Mysenvaria/Arts/Art|Art]], [[Encyclopedia Mysenvaria/Biology/Biology|Biology]], [[Encyclopedia Mysenvaria/Culture/Culture|Culture]], [[Encyclopedia Mysenvaria/Geography/Geography|Geography]], [[Encyclopedia Mysenvaria/History/History|History]], and [[Encyclopedia Mysenvaria/Science/Science|Science]]. I was never really a fan of how they read, and the objective is to make them more dynamic and able to grow in the future as the setting grows.
 
 The license and [[Meta/Contributing|contributing]] warnings have been minorly updated to be more concrete. I'm not a lawyer. Don't sue me please...
 # Changes

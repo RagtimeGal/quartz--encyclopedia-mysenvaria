@@ -37,7 +37,7 @@ Projects are a way to keep track of the aforementioned goals! Projects are inten
 # Changelog
 Besides projects Lore Ledgers also include a changelog of pages which have been removed, added, and edited in the past week.
 ## Added
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]]; Stub page; A new coordinate system, primarily for organizing stars in the skies.
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|Azimuth, Altitude, & Distance]]; Stub page; A new coordinate system, primarily for organizing stars in the skies.
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]; Stub page; North, south, east, and west.
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Span & Reach|Span & Reach]]; Touch-up page; New coordinate system for measuring points on the Plane. 
 - [[Encyclopedia Mysenvaria/Science/Branches/Geology|Geology]]; Stub page.

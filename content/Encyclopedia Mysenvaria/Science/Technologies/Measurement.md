@@ -19,3 +19,5 @@ status: empty
 # Volume
 
 # Temperature
+
+# Position

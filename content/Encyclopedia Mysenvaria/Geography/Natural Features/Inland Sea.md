@@ -1,8 +1,8 @@
 ---
-title: "Aesthetics"
+title: "Inland Sea"
 enableToc: true
 tags:
-  - topic/science/phenomenon
+  - topic/geography/natural
 type: article
 status: empty
 ---
@@ -12,4 +12,11 @@ status: empty
 
 # History
 
-# Significance
+# Geography
+
+# Geology
+
+# Ecology & Climate
+
+# Cultural Significance
+

@@ -1,6 +1,8 @@
 ---
 title: "Indexes"
 enableToc: true
+tags:
+  - topic/science
 type: index
 status: complete
 future: auto-generated

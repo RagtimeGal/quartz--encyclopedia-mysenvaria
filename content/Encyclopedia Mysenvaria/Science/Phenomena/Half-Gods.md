@@ -55,7 +55,7 @@ Womb-God's material manipulation abilities seem significantly more powerful than
 
 Unlike Demi-Gods, Womb-Gods do not just possess an innate understanding of God Tongue's mechanics, they are also capable of innately speaking and writing in the language—though not as proficiently as well-educated scholars. Womb-Gods also possess a minor understanding of the mechanics behind Starscript, and well-trained and educated individuals are capable of forging stars written in it.
 
-Womb-Gods, like true Gods, are capable of publishing stars to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|heavens]]. Womb-Gods appear incapable of publishing legal or index stars, but they are capable of readily publishing documentary stars.
+Womb-Gods, like true Gods, are capable of publishing stars to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|heavens]]. Womb-Gods appear incapable of publishing legal or index stars, but they are capable of readily publishing documentary stars.
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
 > This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 

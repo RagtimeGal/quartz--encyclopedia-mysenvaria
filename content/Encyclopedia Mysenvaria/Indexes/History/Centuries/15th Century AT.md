@@ -5,7 +5,7 @@ tags:
   - topic/history/century
 type: index
 status: complete
-future: none
+future: auto-generated
 has:
   - infobox
 ---

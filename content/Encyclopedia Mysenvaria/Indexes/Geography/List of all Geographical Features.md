@@ -24,7 +24,7 @@ index:
 The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography|geographical features]], sorted alphabetically.
 # Features
 ## A
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|Azimuth, Altitude, & Distance]]
 - [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|Atmosphere]]
 ## C
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]

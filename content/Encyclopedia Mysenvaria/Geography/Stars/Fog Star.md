@@ -1,11 +1,11 @@
 ---
-title: "Seasons"
+title: "Fog Star"
 enableToc: true
 tags:
-  - topic/science/phenomenon
+  - topic/geography/astrography
+  - subject/star
 type: article
 status: empty
-future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
@@ -13,4 +13,4 @@ future: none
 
 # History
 
-# Significance
+# Famous Translations

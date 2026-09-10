@@ -22,7 +22,7 @@ index:
 The following is an index of all articles describing [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract features]], sorted alphabetically.
 # Abstract Features
 ## A
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Altitude, Azimuth, & Elevation|Altitude, Azimuth, & Elevation]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Azimuth, Altitude, & Distance|Azimuth, Altitude, & Distance]]
 ## C
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Cardinal Directions|Cardinal Directions]]
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|Central Pole]]
@@ -30,7 +30,7 @@ The following is an index of all articles describing [[Encyclopedia Mysenvaria/G
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|Edge]]
 ## H
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony Line|Harmony Line]]
-- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heavens|Heavens]]
+- [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|Heaven]]
 ## I
 - [[Encyclopedia Mysenvaria/Geography/Abstract Features/Inner Circle|Inner Circle]]
 ## O

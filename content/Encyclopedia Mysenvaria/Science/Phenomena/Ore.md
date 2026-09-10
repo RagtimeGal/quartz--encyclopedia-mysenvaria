@@ -1,5 +1,5 @@
 ---
-title: "Seasons"
+title: "Ore"
 enableToc: true
 tags:
   - topic/science/phenomenon
@@ -14,3 +14,4 @@ future: none
 # History
 
 # Significance
+
