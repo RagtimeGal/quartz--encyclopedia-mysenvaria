@@ -18,6 +18,6 @@ Entities are persistent—that is to say, they do not change unless acted upon t
 
 An excess of similar entities, especially those made up of similar material, can result in a phenomenon known as [[Encyclopedia Mysenvaria/Science/Phenomena/Natural Personification|Natural Personification]], and more specifically Material Concentration. As Real, the entities, enters Reality it may do so in such an excess that the Unreal becomes unable to govern it properly, borrowing and substituting logic from Nature. The result is the materialization of [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]].
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use a section on the history of its discovery.*

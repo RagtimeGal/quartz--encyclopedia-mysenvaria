@@ -30,6 +30,6 @@ Throughout the rest of the Early-War Epoch the Edge would become a somewhat favo
 [^figure1]: ![[Media/Images/Infographics/world_diagram.png|world_diagram.png]]
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *The History header could be expanded upon as to how the Edge became important to sophont history. A section on the ecology surrounding the Edge could also be added.*

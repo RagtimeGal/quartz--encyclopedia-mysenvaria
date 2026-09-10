@@ -33,7 +33,7 @@ star:
 star_desc: "Published following the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]]. It details the organizing of the event, its attendees, the discussions held, and the conclusions drawn therein."
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
-> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 The Convening Star, originally published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Phenomena Gods/Gods of Earth/God of Fulgurite|God of Fulgurite]], is a [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|star]] documenting the [[Encyclopedia Mysenvaria/History/God-War Era/First Convening|First Convening]], the organization of the event, its attendees, the discussions held, and the conclusions drawn therein. The star would be republished twice, once following Fulgurite's murder by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Sodium Ethyl Xanthate|God of Sodium Ethyl Xanthate]], and again by [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Diethyl Dixanthogen Disulfide|Diethyl Dixanthogen Disulfide]] following Sodium Ethyl Xanthate's passing.
 # History

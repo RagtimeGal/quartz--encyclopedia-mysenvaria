@@ -12,7 +12,7 @@ needs:
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
-> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 Dwarves are a species of artificially created [[Encyclopedia Mysenvaria/Science/Phenomena/Sophonts|sophont]], they're omnivorous scuttlers. Documented in the [[Encyclopedia Mysenvaria/Geography/Stars/Dwarven Star System/Dwarf Star|Dwarf Star]] they were created by [[Encyclopedia Mysenvaria/Biology/Organisms/Animals/Human|humans]] in the year [[Encyclopedia Mysenvaria/Indexes/History/Decades/60s BT#54 BT|54 BT]] with the intention of serving as unpaid domestic producers. Dwarves would see widespread implementation throughout the [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|Late-War Epoch]] alongside the rise of early city-states like [[Encyclopedia Mysenvaria/Geography/Artificial Features/Tectonic City-State|Tectonic City-State]]. Following the end of the God-War and the start of the [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]] many more independent dwarven settlements would arise, especially in the east of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Southern Continent|Old World]].
 

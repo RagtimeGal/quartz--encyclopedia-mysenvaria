@@ -11,14 +11,14 @@ future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
-> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 > [!warning] [[Meta/Meta|Meta]] || [[Meta/Callouts#Names|Names]]
 > Some names in this article are placeholders! Until the setting's history is developed further—allowing for languages and the likes to be constructed accurately—temporary names are used for places, people, and things.
 > 
 > These placeholder names may resemble real people, be simple descriptions, or even appear as random jumbles of letters or numbers.
 > 
-> The intent is to keep track of these placeholders so that they may be replaced in the future. If you find a name which looks out of place, report it through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> The intent is to keep track of these placeholders so that they may be replaced in the future. If you find a name which looks out of place, report it through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 Godly Lineage Models, or GLMs, are models of the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|God's]] lineage created and used by [[Encyclopedia Mysenvaria/Science/Branches/Theogenesis|theogenists]] and [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomers]] to classify Gods and help understand various aspects of their relationships and domains. GLMs are similar to traditional [[Encyclopedia Mysenvaria/Science/Models/Lineage|lineage]] models, like those commonly used in [[Encyclopedia Mysenvaria/Science/Branches/Anthropology|anthropology]] and [[Encyclopedia Mysenvaria/Biology/Biology|biology]].
 

@@ -28,7 +28,7 @@ Amongst the changes to all files includes:
 - Rewritten [[Meta/Meta|Meta]] pages, including better documentation on [[Meta/Contributing|Contributing]].
 - And the new Naming Conventions for places and people.
 
-There's also been changes to the GitHub, including the addition of a [Code of Conduct](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=coc-ov-file), [Contributing Document](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file), an update to the [License](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=License-1-ov-file), and a rework for all the issue templates.
+There's also been changes to the GitHub, including the addition of a [Code of Conduct](https://github.com/RagtimeGal/encyclopedia-mysenvaria?tab=coc-ov-file), [Contributing Document](https://github.com/RagtimeGal/encyclopedia-mysenvaria?tab=contributing-ov-file), an update to the [License](https://github.com/RagtimeGal/encyclopedia-mysenvaria?tab=License-1-ov-file), and a rework for all the issue templates.
 
 | **Type of Edit**                                                                                           | List of Pages |
 | ---------------------------------------------------------------------------------------------------------- | ------------- |

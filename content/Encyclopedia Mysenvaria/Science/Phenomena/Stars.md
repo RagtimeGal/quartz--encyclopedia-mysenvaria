@@ -75,6 +75,6 @@ The most notable star of all history is the [[Encyclopedia Mysenvaria/Geography/
 Sophont use of stars throughout the God-War is defined by knowledge passed down from Gods to sophonts—most often humans. Most of the knowledge for starforging was lost following the end of the war and the disappearance of the Gods. Throughout most of the Post-War Era the only stars forged by humans were those whose linguistic patterns were passed down or otherwise copied from preexisting stars. Current findings suggest that it was only into the [[Encyclopedia Mysenvaria/Indexes/History/Decades/360s AT|360s]] that humans rediscovered the use of God Tongue to forge unique stars, and the method by which this was rediscovered is unknown.
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use expansion on the history of stars and their cultural impact, especially in regards to elves and dwarves.*

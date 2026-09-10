@@ -18,7 +18,7 @@ featured_data:
 %%
 
 > [!note] Stub
-> This article is a [[Meta/Callouts|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose) on the git!
+> This article is a [[Meta/Callouts|stub]], meaning it is incomplete. Help expand it by commenting or create a new [issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose) on the git!
 
 Astronomy is a study often confused with [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Wizard|wizardry]]. While many wizards may also practice astronomy it is a separate area of study. Astronomy involves the observation and interpretation of stars to create a better understanding of the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] and [[Encyclopedia Mysenvaria/Culture/Languages/God Tongue]]. 
 

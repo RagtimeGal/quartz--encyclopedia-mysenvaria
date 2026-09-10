@@ -37,7 +37,7 @@ document.addEventListener("themechange", (e) => {
     // Create a new script element with the updated data-theme attribute
     const newScript = document.createElement('script');
     newScript.src = 'https://giscus.app/client.js';
-    newScript.setAttribute('data-repo', 'RagtimeGal/quartz--encyclopedia-mysenvaria');
+    newScript.setAttribute('data-repo', 'RagtimeGal/encyclopedia-mysenvaria');
     newScript.setAttribute('data-repo-id', 'R_kgDOK-G2Zw');
     newScript.setAttribute('data-category', 'General');
     newScript.setAttribute('data-category-id', 'DIC_kwDOK-G2Z84Cf5SM');

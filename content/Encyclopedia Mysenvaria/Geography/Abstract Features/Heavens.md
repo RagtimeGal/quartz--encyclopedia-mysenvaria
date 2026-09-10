@@ -30,6 +30,6 @@ The dividing line between the heavens and atmosphere is believed to be very stri
 The heavens themselves seem to be infinite in vastness, extending past the edge indefinitely. The empty space of the heavens are broken apart by occasional stars, although they do not reach very faraway from the dome. The largest of the stars is the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]], whose lowest point in orbit is believed to nearly touch the surface of the atmosphere.
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Review Needed|Future Review Needed]]
-> This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is considered complete for the moment, and it's unclear if it will need to be revisited in the future! If you think it's time for a review make a suggestion through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 > 
 > *This page could use further elaboration on the history of the Heavens, especially its cultural impact.*

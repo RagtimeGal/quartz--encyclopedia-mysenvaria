@@ -73,6 +73,6 @@ Gods' hearts are susceptible to disruption by foreign bodies; to kill a God requ
 The exact mechanisms by which a God's death works are debated, but it's believed that by disrupting the heart the Unreal which holds them together is disrupted, causing a collapse. It's hypothesized that a God can be brought back from the dead by their original creator(s), and this seems to be supported by recorded interactions with Gods, though there is no recorded instance of this occurring.
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use expansion on the history and cultural impact of Gods.*

@@ -17,7 +17,7 @@ event:
 "end_desc": **[[Encyclopedia Mysenvaria/History/God-War Era/Iteration Period|The Iteration Period]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/140s BT#140 BT|140 BT]]) following the passing of the [[Encyclopedia Mysenvaria/Geography/Stars/Creations Act|Creations Act]]. An estimated 90% of all [[Encyclopedia Mysenvaria/Science/Models/Classification of Organisms|species]] were created.
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
-> This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 # Prelude
 

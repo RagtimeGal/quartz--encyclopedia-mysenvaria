@@ -28,5 +28,5 @@ body:
     attributes:
       label: Submission Agreement
       options:
-      - label: "By checking this box you confirm that you have read and agree to the Encyclopedia Mysenvaria's [Contribution Policy](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria?tab=contributing-ov-file#readme), and grant the Project a perpetual, irrevocable, royalty-free license to use, edit, and integrate your submission into the project."
+      - label: "By checking this box you confirm that you have read and agree to the Encyclopedia Mysenvaria's [Contribution Policy](https://github.com/RagtimeGal/encyclopedia-mysenvaria?tab=contributing-ov-file#readme), and grant the Project a perpetual, irrevocable, royalty-free license to use, edit, and integrate your submission into the project."
         required: true

@@ -25,7 +25,7 @@ As part of my initiative to get readers interested in running TTRPG's in Mysenva
 > [!warning] Disclaimer
 > The Encyclopedia Mysenvaria and all of its contents are a work of fiction. The world, its people, and events therein, are a product of imagination intended to immerse readers in a world unlike the one we live in. Any resemblance to real people or events is purely coincidental.
 > 
-> The Encyclopedia Mysenvaria covers complex topics and themes. Descriptions found across the site are part of a fantasy setting designed for creative use in stories, games, and other projects. If you believe anything on the site is written or depicted in bad faith please contact me (Ragno) by email (contact@ragnois.gay),  [Discord](https://discord.gg/2yUDZ5j), or [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria). 
+> The Encyclopedia Mysenvaria covers complex topics and themes. Descriptions found across the site are part of a fantasy setting designed for creative use in stories, games, and other projects. If you believe anything on the site is written or depicted in bad faith please contact me (Ragno) by email (contact@ragnois.gay),  [Discord](https://discord.gg/2yUDZ5j), or [GitHub](https://github.com/RagtimeGal/encyclopedia-mysenvaria). 
 # Contribution
 *Main article: [[Meta/Contributing|Contributing]]*
 > [!warning] Disclaimer
@@ -33,7 +33,7 @@ As part of my initiative to get readers interested in running TTRPG's in Mysenva
 > 
 > ***By submitting or contributing content you grant the Encyclopedia Mysenvaria a perpetual, worldwide, non-exclusive, royalty-free, and irrevocable license to use, publish, edit, adapt, and commercialize your contribution as part of the project.*** You retain ownership of your contribution, but acknowledge that once integrated it becomes a permanent part of the project and may be redistributed under the project's open license terms (**CC BY-NC-SA 4.0**).
 > 
-> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) on [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria)
+> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) on [GitHub](https://github.com/RagtimeGal/encyclopedia-mysenvaria)
 
 The Encyclopedia Mysenvaria is a personal project by myself—I have a very clear creative vision for the project, with specific set goals in mind. I have set up the Encyclopedia in such a way that anyone can contribute very easily, which is both a product of my creative vision and the limitations I have with the tools I work with. I am not seeking contributions, but for anyone who feels inclined the tools are in place.
 
@@ -49,4 +49,4 @@ The 'code'-facing end of the Encyclopedia Mysenvaria cannot be completely safegu
 
 I will continue to do my best moving forward to maintain the artistic integrity of the project.
 # Licensing
-For inquiry into the Encyclopedia Mysenvaria's license please see the [license](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/LICENSE.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria). For further questions or information please contact me by email (at contact@ragnois.gay) or by [Discord](https://discord.gg/2yUDZ5j).
+For inquiry into the Encyclopedia Mysenvaria's license please see the [license](https://github.com/RagtimeGal/encyclopedia-mysenvaria/blob/v4/LICENSE.md) on the [GitHub](https://github.com/RagtimeGal/encyclopedia-mysenvaria). For further questions or information please contact me by email (at contact@ragnois.gay) or by [Discord](https://discord.gg/2yUDZ5j).

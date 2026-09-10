@@ -26,6 +26,6 @@ The origin of AAD coordinates is typically the [[Encyclopedia Mysenvaria/Geograp
 A position in the coordinate system is represented in the format (Azimuth°, Altitude°, Distance).
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *Could really use a section on the history of its invention and the impact it's had on science and the Plane.*

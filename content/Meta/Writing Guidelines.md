@@ -17,7 +17,7 @@ status: complete
 > 
 > You also acknowledge that, due to the project's license terms, others may copy, modify, and redistribute your content under the same terms.
 > 
-> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) and [CLA](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/blob/v4/CLA.md) on the [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria).
+> For more information see the [Contribution Guidelines](https://github.com/RagtimeGal/encyclopedia-mysenvaria/blob/v4/CONTRIBUTING.md) and [CLA](https://github.com/RagtimeGal/encyclopedia-mysenvaria/blob/v4/CLA.md) on the [GitHub](https://github.com/RagtimeGal/encyclopedia-mysenvaria).
 
 > [!danger] Warning
 > Although the Encyclopedia Mysenvaria website will not be monetized, future plans for the project outside of the website may include monetization! 
@@ -27,7 +27,7 @@ status: complete
 > [!tip] Info
 > ***Contributors may request to have their name, and a link to a social page of their choosing, added to the [[Meta/Contributors|Contributors]] page. The contributors page is linked at the footer of the website, accessible from all pages.***
 > 
-> If you've contributed to the Encyclopedia Mysenvaria and wish to be listed, please open a new [GitHub Issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) with proof of your prior contribution. Being added to the Contributors page is not automatic and must be requested manually.
+> If you've contributed to the Encyclopedia Mysenvaria and wish to be listed, please open a new [GitHub Issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues) with proof of your prior contribution. Being added to the Contributors page is not automatic and must be requested manually.
 
 It's not hard to notice: the Encyclopedia Mysenvaria takes heavy inspiration from the style of internet wikis, popularized by the likes of [Wikipedia](https://www.wikipedia.org/). I'm not a Wikipedia editor—in fact, I don't know the first thing about writing a proper Wikipedia article. I'm winging this. Prior to this article most of the guidelines I followed existed only in my head, and that led to inconsistencies. This article is intended to fix that problem. Many of the guidelines here are taken from or motivated by guidelines from other wikis[^1].
 
@@ -45,7 +45,7 @@ If non-meta articles are canon though, why are they in English? Well, you can th
 - **Spelling should remain consistent.** The encyclopedia uses standard *American English*, not *British English*. In the case where there are two acceptable variants of a word the more common variant should be used.
 - **Academia is impersonal and neutral.** Page's should be written from a neutral point of view. They should state facts, but not exclude significant opinions where justified. They should also remain nonjudgmental.
 # Article Structure
-The encyclopedia employs no strict header structure, though [templates](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/tree/v4/content/Meta/Templates) are provided for every given topic of the Encyclopedia. These templates serve as loose suggestions, and may be edited as required for a given article.
+The encyclopedia employs no strict header structure, though [templates](https://github.com/RagtimeGal/encyclopedia-mysenvaria/tree/v4/content/Meta/Templates) are provided for every given topic of the Encyclopedia. These templates serve as loose suggestions, and may be edited as required for a given article.
 
 The general structure of any article should be organized as thus:
 - **[[Meta/Metadata|Metadata]]**: This comes in the form of YAML at the start of each and every page. This data includes stuff like the page's title, inclusion of the table of contents, and tags. Metadata cannot be left out of a page.

@@ -20,7 +20,7 @@ featured_data:
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
-> This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 Theogenesis is the [[Encyclopedia Mysenvaria/Science/Science#Branches|scientific branch]] concerned with the existence, creation, and abilities of the [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]]. Practitioners of theogenesis are known as theogenists. It is closely related to the study of [[Encyclopedia Mysenvaria/Science/Branches/Astronomy|astronomy]].
 # Sub-disciplines

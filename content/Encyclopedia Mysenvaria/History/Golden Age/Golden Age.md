@@ -17,7 +17,7 @@ start_desc: **[[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age
 end_desc: **[[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]]** ends (beg. [[Encyclopedia Mysenvaria/Indexes/History/Decades/600s AT#609 AT|609 AT]]).
 %%
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Empty|Empty Article]]
-> This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is empty! It currently provides no information on its topic, but you can help by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 # Overview
 

@@ -45,7 +45,7 @@ The accumulation of limn in soil is used by microorganisms, especially species o
 Sophonts do not possess limnary presses—instead, they press their own artificial stars by hand in an art known as [[Encyclopedia Mysenvaria/Culture/Occupations & Crafts/Starforging|starforging]]. Artificial stars have their own suite of unique purposes unrelated to limn. Besides artificial stars, limn also has its own suite of purposes, including: lamps, binding agents, grenades, paint, non-slip surfaces, and tattoos.
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use elaboration on its history and impact on cultures.*
 

@@ -17,7 +17,7 @@ ff1: ... that the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Harmony 
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
-> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 The harmony line is a representation of the orbital pattern of the [[Encyclopedia Mysenvaria/Geography/Stars/Harmonic Treaty|Harmonic Treaty]] above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]]. The harmony line model is a useful tool for predicting the effects of the Harmonic Treaty at any given time. Despite often being depicted as directly between the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Central Pole|pole]] and [[Encyclopedia Mysenvaria/Geography/Abstract Features/Edge|edge]] the Treaty has a slightly eccentric orbit which rotates over time, making the common depiction inaccurate.
 

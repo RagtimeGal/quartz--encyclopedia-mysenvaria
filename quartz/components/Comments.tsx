@@ -7,7 +7,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 function Footer(props: QuartzComponentProps) {
   return (
   <script src="https://giscus.app/client.js"
-    data-repo="RagtimeGal/quartz--encyclopedia-mysenvaria"
+    data-repo="RagtimeGal/encyclopedia-mysenvaria"
     data-repo-id="R_kgDOK-Xwsw"
     data-category="General"
     data-category-id="DIC_kwDOK-Xws84Cf5TK"

@@ -34,9 +34,9 @@ I've began rewriting the primary topic pages, those being: [[Encyclopedia Mysenv
 
 The license and [[Meta/Contributing|contributing]] warnings have been minorly updated to be more concrete. I'm not a lawyer. Don't sue me please...
 # Changes
-- [Commit f11d9ab: "lots o' edits"](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/commit/f11d9abe7a337bf8e0b08f2b650f10030f24a1b1)
-- [Commit f340706: "Program Renames + LLM Transparency"](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/commit/f34070680a5f3a4c7ece9c15fd680afb87af68ce)
-- [Commit 0a2a2f2: "Removed 'See Also' sections"](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/commit/0a2a2f2457262100f45dce2105503ebdeca014df)
-- [Commit 5721e6b: "Removed remaining `See Also` sections"](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/commit/5721e6b8c44a4f3fb15cec8ed230659977aef4c6)
-- [Commit 13e034f: "License changes"](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/commit/13e034fa4e5edfd217c76439b0d7733045c4175d)
-- [Commit 73f908b: "pogress"](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/commit/73f908be8d993dda09af71c37f992062801a6abe)
+- [Commit f11d9ab: "lots o' edits"](https://github.com/RagtimeGal/encyclopedia-mysenvaria/commit/f11d9abe7a337bf8e0b08f2b650f10030f24a1b1)
+- [Commit f340706: "Program Renames + LLM Transparency"](https://github.com/RagtimeGal/encyclopedia-mysenvaria/commit/f34070680a5f3a4c7ece9c15fd680afb87af68ce)
+- [Commit 0a2a2f2: "Removed 'See Also' sections"](https://github.com/RagtimeGal/encyclopedia-mysenvaria/commit/0a2a2f2457262100f45dce2105503ebdeca014df)
+- [Commit 5721e6b: "Removed remaining `See Also` sections"](https://github.com/RagtimeGal/encyclopedia-mysenvaria/commit/5721e6b8c44a4f3fb15cec8ed230659977aef4c6)
+- [Commit 13e034f: "License changes"](https://github.com/RagtimeGal/encyclopedia-mysenvaria/commit/13e034fa4e5edfd217c76439b0d7733045c4175d)
+- [Commit 73f908b: "pogress"](https://github.com/RagtimeGal/encyclopedia-mysenvaria/commit/73f908be8d993dda09af71c37f992062801a6abe)

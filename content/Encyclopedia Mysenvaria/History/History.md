@@ -9,7 +9,7 @@ future: update
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
-> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 *History is one of the six primary article categories of the [[Encyclopedia Mysenvaria/Arts/Useful Arts/Literature/Non-fiction/Encyclopedia Mysenvaria|Encyclopedia Mysenvaria]].* 
 
@@ -23,4 +23,4 @@ Lineages are a sub-topic of the biographic sub-topic and are articles depicting 
 Each of the four historic eras has their own sub-topic, which includes a timeline of the major events which occurred during that era alongside all of the minor events which occurred. The [[Encyclopedia Mysenvaria/History/God-War Era/God-War Era|God-War Era]] records all events which occurred before the year 1at. The [[Encyclopedia Mysenvaria/History/Post-War Era/Post-War Era|Post-War Era]] records all events which occurred between 1at and 609at. The [[Encyclopedia Mysenvaria/History/Golden Age/Golden Age|Golden Age]] records all events which occurred between 910at and 1214at. And the [[Encyclopedia Mysenvaria/History/Modern Era/Modern Era|Modern Era]] records all events which occurred between 1215at and the present day.
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!

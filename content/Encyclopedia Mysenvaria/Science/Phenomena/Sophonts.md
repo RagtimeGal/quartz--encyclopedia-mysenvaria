@@ -9,7 +9,7 @@ future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
-> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 Sophonts are seemingly living [[Encyclopedia Mysenvaria/Science/Phenomena/Organisms|organism]]-like objects capable of self-reflection which are aware of their own existence. Known sophonts are humans, [[Encyclopedia Mysenvaria/Biology/Organisms/Plants/Elven Fungus|elves]], dwarves, [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]], and [[Encyclopedia Mysenvaria/Science/Phenomena/Half-Gods|Half-Gods]]. The first sophonts outside of Gods were humans. The exact mechanics of sophonce are unknown and widely debated across many [[Encyclopedia Mysenvaria/Indexes/Science/Branches/List of Scientific Branches|branches]] of [[Encyclopedia Mysenvaria/Science/Science|science]].
 # Definition

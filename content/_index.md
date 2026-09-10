@@ -29,4 +29,4 @@ Besides their primary topics articles may also be categorized according to their
 > [!abstract] [[Meta/Meta|Meta]]
 > This is a meta callout. These are non-canon fourth wall-breaking blocks of text which mention ideas or notes. For more information on meta callouts see the [[Meta/Meta|meta article]].
 > 
-> If you see errors such as incorrect information, inconsistencies, or misspellings please help! The back-end of the Encyclopedia is ran off of [Github](https://github.com). Visit the [issue page](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues) of the Encyclopedia and create an issue if you see any errors to help us keep our facts true!
+> If you see errors such as incorrect information, inconsistencies, or misspellings please help! The back-end of the Encyclopedia is ran off of [Github](https://github.com). Visit the [issue page](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues) of the Encyclopedia and create an issue if you see any errors to help us keep our facts true!

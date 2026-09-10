@@ -25,7 +25,7 @@ ff3: ... that the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
-> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 The [[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] of What Is and Is Not, also sometimes referred to as the [[Encyclopedia Mysenvaria/Geography/Natural Features/Great Fog|Great Fog]], are the two oldest and most powerful Gods. What Is and Is Not preside over the primordial domain of everything and nothing. They are the first Gods, responsible for the creation of the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] and the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Gods of Matter, Energy, Time, and Space|Creation Quadrinity]].
 

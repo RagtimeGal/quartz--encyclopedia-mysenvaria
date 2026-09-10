@@ -18,7 +18,7 @@ ff1: ... that [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|Heave
 %%
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Incomplete|Incomplete Article]]
-> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is incomplete! It's currently in the process of being written but contains significant missing information! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 The Heavens is an [[Encyclopedia Mysenvaria/Geography/Geography#Abstract Features|abstract]] geographical feature used to refer to the space above the [[Encyclopedia Mysenvaria/Geography/Natural Features/Atmosphere|atmosphere]]. The heavens are devoid of air and are where [[Encyclopedia Mysenvaria/Science/Phenomena/Stars|stars]] reside in orbit. While the heavens itself does not have a major impact on the [[Encyclopedia Mysenvaria/Geography/Natural Features/Plane|Plane]] the stars greatly impact the [[Encyclopedia Mysenvaria/Science/Models/Universal Strata Model|natural laws]] of the world.
 # History

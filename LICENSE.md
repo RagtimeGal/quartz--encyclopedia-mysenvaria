@@ -51,7 +51,7 @@ For more information on the code's license see the [MIT License page](https://op
 
 ---
 # Contribution and Submission Policy
-This policy applies to all **content** (found in the 'content/' folder of the repository) and **code** (everything else) submitted to the Project through [GitHub](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria) or other platforms.
+This policy applies to all **content** (found in the 'content/' folder of the repository) and **code** (everything else) submitted to the Project through [GitHub](https://github.com/RagtimeGal/encyclopedia-mysenvaria) or other platforms.
 
 By contributing to the Project, you agree that:
 - Your contribution is your own original work and/or you have the legal right to submit under the applicable license.

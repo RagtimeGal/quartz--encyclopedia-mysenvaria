@@ -58,6 +58,6 @@ Unlike Demi-Gods, Womb-Gods do not just possess an innate understanding of God T
 Womb-Gods, like true Gods, are capable of publishing stars to the [[Encyclopedia Mysenvaria/Geography/Abstract Features/Heaven|heavens]]. Womb-Gods appear incapable of publishing legal or index stars, but they are capable of readily publishing documentary stars.
 
 > [!abstract] [[Meta/Meta|Meta]] || [[Meta/Callouts#Update Needed|Future Update Needed]]
-> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)! 
+> This article is considered complete for the moment, but is missing sections which can be elaborated on as the setting develops! If you think it needs expansion now, suggest an edit through a [GitHub issue](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)! 
 > 
 > *This article could use expansion on the history and cultural impact of Half-Gods.*

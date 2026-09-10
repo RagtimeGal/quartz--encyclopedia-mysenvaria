@@ -10,7 +10,7 @@ future: none
 ---
 
 > [!note] [[Meta/Meta|Meta]] || [[Meta/Callouts#Stub|Stub Article]]
-> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/quartz--encyclopedia-mysenvaria/issues/new/choose)!
+> This article is a stub! It currently provides a short overview of its topic, but it could be more comprehensive! You can help expand it by commenting or suggesting an edit through [GitHub issues](https://github.com/RagtimeGal/encyclopedia-mysenvaria/issues/new/choose)!
 
 The Greater God Conspiracy was a conspiracy theory first mentioned in the [[Encyclopedia Mysenvaria/Geography/Stars/Afterlife System/Greater God Star|Greater God Star]]. The conspiracy was originally published by the [[Encyclopedia Mysenvaria/History/Biographies/Gods/Compound Gods/God of Ethionamide|God of Ethionamide]] purporting that, though the reason is unclear, the actions of the higher-[[Encyclopedia Mysenvaria/Science/Phenomena/Gods|Gods]] are advancing an agenda against the lesser-Gods. It's unclear if any Gods still believe in the conspiracy into the modern day, as the [[Encyclopedia Mysenvaria/History/Post-War Era/Great Silence|Great Silence]] makes direct contact difficult. 
 
